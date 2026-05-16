@@ -1,0 +1,2122 @@
+{
+    "metadata": {
+        "total_questions": 150,
+        "levels": {
+            "1": {
+                "name": "Easy",
+                "count": 50,
+                "description": "Factual questions directly from the text"
+            },
+            "2": {
+                "name": "Medium",
+                "count": 50,
+                "description": "Interpretive questions about meaning and themes"
+            },
+            "3": {
+                "name": "Hard",
+                "count": 50,
+                "description": "Analytical questions requiring deeper understanding"
+            }
+        },
+        "book": "Judges",
+        "chapters": "1-21"
+    },
+    "questions": [
+        {
+            "id": 1,
+            "level": 1,
+            "verse_reference": "Judges 1:1",
+            "question": "Who did the Israelites ask the LORD about attacking first?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Who shall go up for us against the Canaanites first?",
+                "B": "Who shall be king over us?",
+                "C": "What land shall we inherit?",
+                "D": "Where should we build an altar?"
+            },
+            "explanation": "Judges 1:1 records Israel asking the LORD who should go up first against the Canaanites."
+        },
+        {
+            "id": 2,
+            "level": 1,
+            "verse_reference": "Judges 1:2",
+            "question": "Which tribe did the LORD say should attack first?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Judah",
+                "B": "Benjamin",
+                "C": "Dan",
+                "D": "Ephraim"
+            },
+            "explanation": "Judges 1:2 says the LORD appointed Judah to go up first."
+        },
+        {
+            "id": 3,
+            "level": 1,
+            "verse_reference": "Judges 1:3",
+            "question": "Who went with Judah to fight in their lot?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Reuben",
+                "B": "Simeon",
+                "C": "Levi",
+                "D": "Zebulun"
+            },
+            "explanation": "Judges 1:3 tells how Judah asked Simeon to go with them."
+        },
+        {
+            "id": 4,
+            "level": 1,
+            "verse_reference": "Judges 1:6",
+            "question": "What was done to Adoni-bezek after he was captured?",
+            "correct_answer": "C",
+            "options": {
+                "A": "He was crowned king",
+                "B": "He was released",
+                "C": "His thumbs and great toes were cut off",
+                "D": "He was given land"
+            },
+            "explanation": "His thumbs and toes were cut off in Judges 1:6."
+        },
+        {
+            "id": 5,
+            "level": 1,
+            "verse_reference": "Judges 1:10",
+            "question": "Which city did Judah fight against and take, also slaying Sheshai, Ahiman, and Talmai?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Hebron",
+                "B": "Jerusalem",
+                "C": "Bezek",
+                "D": "Debir"
+            },
+            "explanation": "Judges 1:10 names Hebron as the city taken by Judah."
+        },
+        {
+            "id": 6,
+            "level": 1,
+            "verse_reference": "Judges 1:12",
+            "question": "Who promised his daughter Achsah to the man who captured Kirjath-sepher?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Caleb",
+                "B": "Joshua",
+                "C": "Moses",
+                "D": "Othniel"
+            },
+            "explanation": "Caleb made the promise in Judges 1:12."
+        },
+        {
+            "id": 7,
+            "level": 1,
+            "verse_reference": "Judges 1:13",
+            "question": "Who took Kirjath-sepher and received Achsah as his wife?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Caleb",
+                "B": "Joshua",
+                "C": "Othniel",
+                "D": "Simeon"
+            },
+            "explanation": "Othniel captured the city and married Achsah in Judges 1:13."
+        },
+        {
+            "id": 8,
+            "level": 1,
+            "verse_reference": "Judges 1:14",
+            "question": "What did Achsah ask her father Caleb for after marriage?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Gold and silver",
+                "B": "Springs of water",
+                "C": "A palace",
+                "D": "A chariot"
+            },
+            "explanation": "She requested springs of water in Judges 1:14."
+        },
+        {
+            "id": 9,
+            "level": 1,
+            "verse_reference": "Judges 1:19",
+            "question": "Why could Judah not drive out the inhabitants of the valley?",
+            "correct_answer": "A",
+            "options": {
+                "A": "They had chariots of iron",
+                "B": "They made a treaty",
+                "C": "They were hidden in caves",
+                "D": "They fled to Egypt"
+            },
+            "explanation": "Judges 1:19 explains the valley people had iron chariots."
+        },
+        {
+            "id": 10,
+            "level": 1,
+            "verse_reference": "Judges 1:21",
+            "question": "Which tribe failed to drive out the Jebusites from Jerusalem?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Judah",
+                "B": "Benjamin",
+                "C": "Dan",
+                "D": "Naphtali"
+            },
+            "explanation": "Judges 1:21 states Benjamin did not drive out the Jebusites."
+        },
+        {
+            "id": 11,
+            "level": 1,
+            "verse_reference": "Judges 1:24",
+            "question": "What did the man show the house of Joseph when they asked him?",
+            "correct_answer": "A",
+            "options": {
+                "A": "The entrance into the city",
+                "B": "The secret treasure",
+                "C": "The altar of Baal",
+                "D": "The king's palace"
+            },
+            "explanation": "He showed them the entrance into the city in Judges 1:24."
+        },
+        {
+            "id": 12,
+            "level": 1,
+            "verse_reference": "Judges 1:25",
+            "question": "What happened to the man and his family after he showed the entrance into the city?",
+            "correct_answer": "B",
+            "options": {
+                "A": "They were killed",
+                "B": "They were let go",
+                "C": "They were enslaved",
+                "D": "They were exiled"
+            },
+            "explanation": "Judges 1:25 says they let him and his family go."
+        },
+        {
+            "id": 13,
+            "level": 1,
+            "verse_reference": "Judges 1:28",
+            "question": "What did some tribes do when they were strong but did not drive out all the Canaanites?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Destroyed them later",
+                "B": "Married them all",
+                "C": "Put them to tribute",
+                "D": "Built altars for them"
+            },
+            "explanation": "Judges 1:28 notes they put Canaanites to tribute."
+        },
+        {
+            "id": 14,
+            "level": 1,
+            "verse_reference": "Judges 2:1",
+            "question": "Who came up from Gilgal to Bochim speaking to Israel?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Moses",
+                "B": "Joshua",
+                "C": "Elders",
+                "D": "An angel of the LORD"
+            },
+            "explanation": "An angel of the LORD appeared in Judges 2:1."
+        },
+        {
+            "id": 15,
+            "level": 1,
+            "verse_reference": "Judges 2:2",
+            "question": "What did the LORD say Israel had failed to do?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Make no league with the inhabitants of the land and throw down their altars",
+                "B": "Build a temple in Gilgal",
+                "C": "Keep the Passover",
+                "D": "Offer sacrifices daily"
+            },
+            "explanation": "Judges 2:2 rebukes them for making leagues and leaving altars standing."
+        },
+        {
+            "id": 16,
+            "level": 1,
+            "verse_reference": "Judges 2:3",
+            "question": "What would the nations left in the land become to Israel?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Brothers",
+                "B": "Thorns in their sides",
+                "C": "Allies",
+                "D": "Levites"
+            },
+            "explanation": "The nations would become thorns and snares according to Judges 2:3."
+        },
+        {
+            "id": 17,
+            "level": 1,
+            "verse_reference": "Judges 2:4",
+            "question": "What name did people give the place where they wept after hearing the angel?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Sunam",
+                "B": "Mizpah",
+                "C": "Bochim",
+                "D": "Shiloh"
+            },
+            "explanation": "They named it Bochim in Judges 2:4."
+        },
+        {
+            "id": 18,
+            "level": 1,
+            "verse_reference": "Judges 2:6",
+            "question": "What did the Israelites do after Joshua died?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Built the temple",
+                "B": "Went every man unto his inheritance",
+                "C": "Destroyed the tabernacle",
+                "D": "Fled Egypt"
+            },
+            "explanation": "Judges 2:6 says they went to possess their inheritances."
+        },
+        {
+            "id": 19,
+            "level": 1,
+            "verse_reference": "Judges 2:7",
+            "question": "How long did the people serve the LORD after Joshua and the elders died?",
+            "correct_answer": "A",
+            "options": {
+                "A": "All the days of Joshua and the elders that outlived him",
+                "B": "One year",
+                "C": "Ten years",
+                "D": "Until Jericho fell"
+            },
+            "explanation": "They served the LORD while Joshua and the elders lived, per Judges 2:7."
+        },
+        {
+            "id": 20,
+            "level": 1,
+            "verse_reference": "Judges 2:10",
+            "question": "What was the condition of the new generation after the old one died?",
+            "correct_answer": "B",
+            "options": {
+                "A": "They were faithful",
+                "B": "They knew not the LORD, nor his works",
+                "C": "They were rich",
+                "D": "They built an altar"
+            },
+            "explanation": "Judges 2:10 says the new generation did not know the LORD."
+        },
+        {
+            "id": 21,
+            "level": 1,
+            "verse_reference": "Judges 2:11",
+            "question": "What did Israel do in the sight of the LORD?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Did evil",
+                "B": "Built cities",
+                "C": "Served Moses",
+                "D": "Cried out for help"
+            },
+            "explanation": "Judges 2:11 records Israel doing evil in God's sight."
+        },
+        {
+            "id": 22,
+            "level": 1,
+            "verse_reference": "Judges 2:12",
+            "question": "Which gods did Israel begin to serve?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Jehovah and Molech",
+                "B": "Dagon only",
+                "C": "Baalim and Ashtaroth",
+                "D": "Zeus"
+            },
+            "explanation": "They served Baalim and Ashtaroth in Judges 2:12."
+        },
+        {
+            "id": 23,
+            "level": 1,
+            "verse_reference": "Judges 2:14",
+            "question": "What did the LORD do because of Israel's evil?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Bless them",
+                "B": "Gave them more land",
+                "C": "Sent rain",
+                "D": "Delivered them into the hands of spoilers and enemies"
+            },
+            "explanation": "God delivered them into the hands of their enemies in Judges 2:14."
+        },
+        {
+            "id": 24,
+            "level": 1,
+            "verse_reference": "Judges 2:16",
+            "question": "Who did the LORD raise up to deliver Israel?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Judges",
+                "B": "Kings",
+                "C": "Prophets",
+                "D": "Priests"
+            },
+            "explanation": "The LORD raised up judges to deliver them in Judges 2:16."
+        },
+        {
+            "id": 25,
+            "level": 1,
+            "verse_reference": "Judges 3:9",
+            "question": "Who was raised up to deliver Israel from Chushan-rishathaim?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Ehud",
+                "B": "Othniel",
+                "C": "Barak",
+                "D": "Gideon"
+            },
+            "explanation": "Othniel delivered Israel from Mesopotamia in Judges 3:9."
+        },
+        {
+            "id": 26,
+            "level": 1,
+            "verse_reference": "Judges 3:10",
+            "question": "What came upon Othniel when he judged Israel?",
+            "correct_answer": "A",
+            "options": {
+                "A": "The Spirit of the LORD",
+                "B": "A flood",
+                "C": "A dream",
+                "D": "A plague"
+            },
+            "explanation": "The Spirit of the LORD was upon him as described in Judges 3:10."
+        },
+        {
+            "id": 27,
+            "level": 1,
+            "verse_reference": "Judges 3:11",
+            "question": "How many years of rest did the land have after Othniel judged Israel?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Seven",
+                "B": "Twenty",
+                "C": "Forty",
+                "D": "Ninety"
+            },
+            "explanation": "The land had rest forty years in Judges 3:11."
+        },
+        {
+            "id": 28,
+            "level": 1,
+            "verse_reference": "Judges 3:15",
+            "question": "Who became Israel’s deliverer from Eglon king of Moab?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Gideon",
+                "B": "Samson",
+                "C": "Deborah",
+                "D": "Ehud"
+            },
+            "explanation": "Ehud was the deliverer raised up in Judges 3:15."
+        },
+        {
+            "id": 29,
+            "level": 1,
+            "verse_reference": "Judges 3:17",
+            "question": "Which hand did Ehud use to draw his dagger?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Left hand",
+                "B": "Right hand",
+                "C": "Neither hand",
+                "D": "Both hands"
+            },
+            "explanation": "Ehud was left-handed and used his left hand in Judges 3:17."
+        },
+        {
+            "id": 30,
+            "level": 1,
+            "verse_reference": "Judges 3:20",
+            "question": "Where was Eglon sitting when Ehud approached him?",
+            "correct_answer": "C",
+            "options": {
+                "A": "At the altar",
+                "B": "In the throne room",
+                "C": "In a summer parlour",
+                "D": "In a tent"
+            },
+            "explanation": "Eglon was in a summer parlour in Judges 3:20."
+        },
+        {
+            "id": 31,
+            "level": 1,
+            "verse_reference": "Judges 3:23",
+            "question": "What did Ehud do after killing Eglon?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Surrendered to the army",
+                "B": "Made a treaty",
+                "C": "Shut the doors and escaped",
+                "D": "Buried him"
+            },
+            "explanation": "He shut the doors and escaped in Judges 3:23."
+        },
+        {
+            "id": 32,
+            "level": 1,
+            "verse_reference": "Judges 3:30",
+            "question": "How many men of valour did Shamgar kill with an ox goad?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Six hundred",
+                "B": "Seventy",
+                "C": "Forty",
+                "D": "One thousand"
+            },
+            "explanation": "Shamgar struck down six hundred Philistines with an ox goad in Judges 3:31."
+        },
+        {
+            "id": 33,
+            "level": 1,
+            "verse_reference": "Judges 4:4",
+            "question": "Who judged Israel at the time of Deborah?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Deborah",
+                "B": "Gideon",
+                "C": "Samson",
+                "D": "Othniel"
+            },
+            "explanation": "Deborah served as judge and prophetess in Judges 4:4."
+        },
+        {
+            "id": 34,
+            "level": 1,
+            "verse_reference": "Judges 4:6",
+            "question": "Which general did Deborah call to fight Sisera?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Gideon",
+                "B": "Barak",
+                "C": "Ehud",
+                "D": "Samson"
+            },
+            "explanation": "Deborah sent for Barak in Judges 4:6."
+        },
+        {
+            "id": 35,
+            "level": 1,
+            "verse_reference": "Judges 4:7",
+            "question": "How many chariots of iron did Sisera have?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Four hundred",
+                "B": "Nine hundred",
+                "C": "Five hundred",
+                "D": "Seven hundred"
+            },
+            "explanation": "Sisera commanded nine hundred iron chariots in Judges 4:7."
+        },
+        {
+            "id": 36,
+            "level": 1,
+            "verse_reference": "Judges 4:9",
+            "question": "Who did Deborah say would get the honor of victory over Sisera?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Deborah herself",
+                "B": "Barak only",
+                "C": "The men of Naphtali",
+                "D": "A woman"
+            },
+            "explanation": "She said the honor would go to a woman in Judges 4:9."
+        },
+        {
+            "id": 37,
+            "level": 1,
+            "verse_reference": "Judges 4:14",
+            "question": "What did Deborah tell Barak was the day God would deliver Sisera?",
+            "correct_answer": "A",
+            "options": {
+                "A": "The LORD hath delivered Sisera into thine hand",
+                "B": "Stay here and wait",
+                "C": "Hide in the hills",
+                "D": "Build a fortress"
+            },
+            "explanation": "She affirmed God would deliver Sisera into his hand in Judges 4:14."
+        },
+        {
+            "id": 38,
+            "level": 1,
+            "verse_reference": "Judges 4:15",
+            "question": "What happened to Sisera when the LORD discomfited him?",
+            "correct_answer": "B",
+            "options": {
+                "A": "He escaped safely",
+                "B": "He fled on foot",
+                "C": "He surrendered his chariots",
+                "D": "He drowned"
+            },
+            "explanation": "Sisera fled on foot after his army was defeated in Judges 4:15."
+        },
+        {
+            "id": 39,
+            "level": 1,
+            "verse_reference": "Judges 4:17",
+            "question": "Where did Jael drive a nail through Sisera's temple?",
+            "correct_answer": "A",
+            "options": {
+                "A": "In her tent",
+                "B": "At the gate",
+                "C": "On the battlefield",
+                "D": "In the palace"
+            },
+            "explanation": "Jael killed Sisera in her tent in Judges 4:17."
+        },
+        {
+            "id": 40,
+            "level": 1,
+            "verse_reference": "Judges 4:24",
+            "question": "What happened to Jabin king of Canaan?",
+            "correct_answer": "C",
+            "options": {
+                "A": "He made peace",
+                "B": "He fled"
+            },
+            "explanation": "Judges 4:24 says Jabin was destroyed as Israel had prevailed over him."
+        },
+        {
+            "id": 41,
+            "level": 1,
+            "verse_reference": "Judges 5:1",
+            "question": "Who sang a song of victory after Sisera's defeat?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Moses",
+                "B": "Samuel",
+                "C": "Deborah",
+                "D": "Deborah and Barak"
+            },
+            "explanation": "Deborah and Barak sang the victory song in Judges 5:1."
+        },
+        {
+            "id": 42,
+            "level": 1,
+            "verse_reference": "Judges 5:7",
+            "question": "What happened in Israel since the days of Ehud?",
+            "correct_answer": "B",
+            "options": {
+                "A": "They prospered greatly",
+                "B": "The highways were unoccupied and travelers walked through byways",
+                "C": "They built many cities",
+                "D": "They became merchants"
+            },
+            "explanation": "Judges 5:7 describes roads being deserted until the time of Deborah."
+        },
+        {
+            "id": 43,
+            "level": 1,
+            "verse_reference": "Judges 5:31",
+            "question": "What did the survivors of Sisera do afterwards?",
+            "correct_answer": "A",
+            "options": {
+                "A": "They came no more again",
+                "B": "They besieged Israel",
+                "C": "They became friends with Israel",
+                "D": "They built new chariots"
+            },
+            "explanation": "Judges 5:31 says survivors came no more again into Israel."
+        },
+        {
+            "id": 44,
+            "level": 1,
+            "verse_reference": "Judges 6:1",
+            "question": "Who oppressed Israel for seven years because they did evil in the sight of the LORD?",
+            "correct_answer": "B",
+            "options": {
+                "A": "The Philistines",
+                "B": "The Midianites",
+                "C": "The Moabites",
+                "D": "The Egyptians"
+            },
+            "explanation": "The Midianites oppressed Israel for seven years in Judges 6:1."
+        },
+        {
+            "id": 45,
+            "level": 1,
+            "verse_reference": "Judges 6:11",
+            "question": "Which judge was threshing wheat in a winepress to hide from the Midianites?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Samson",
+                "B": "Gideon",
+                "C": "Tola",
+                "D": "Jephthah"
+            },
+            "explanation": "Gideon was threshing wheat in a winepress in Judges 6:11."
+        },
+        {
+            "id": 46,
+            "level": 1,
+            "verse_reference": "Judges 6:12",
+            "question": "What did the angel call Gideon in Judges 6:12?",
+            "correct_answer": "D",
+            "options": {
+                "A": "A mighty warrior",
+                "B": "A prince of Israel",
+                "C": "A shepherd",
+                "D": "A mighty man of valour"
+            },
+            "explanation": "The angel called him a mighty man of valour."
+        },
+        {
+            "id": 47,
+            "level": 1,
+            "verse_reference": "Judges 6:14",
+            "question": "What did the LORD tell Gideon He would be with him to do?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Build a city",
+                "B": "Save Israel by thy hand",
+                "C": "Make him king",
+                "D": "Send a prophet"
+            },
+            "explanation": "God promised to save Israel by Gideon's hand in Judges 6:14."
+        },
+        {
+            "id": 48,
+            "level": 1,
+            "verse_reference": "Judges 6:16",
+            "question": "How did Gideon respond to God's call?",
+            "correct_answer": "A",
+            "options": {
+                "A": "If the LORD be with me, why then is all this",
+                "B": "I will not go",
+                "C": "I will ask my father",
+                "D": "I will build an altar"
+            },
+            "explanation": "He expressed doubt to God in Judges 6:16."
+        },
+        {
+            "id": 49,
+            "level": 1,
+            "verse_reference": "Judges 6:25",
+            "question": "What did Gideon do to his father's altar of Baal?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Refined the gold",
+                "B": "Painted it",
+                "C": "Pulled it down and cut down the grove",
+                "D": "Blessed it"
+            },
+            "explanation": "Gideon tore down the altar and cut down the grove in Judges 6:25."
+        },
+        {
+            "id": 50,
+            "level": 1,
+            "verse_reference": "Judges 6:27",
+            "question": "What did Gideon do with the second bullock?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Took it, second bullock, and offered it upon the rock",
+                "B": "Sold it",
+                "C": "Gave it away",
+                "D": "Hid it"
+            },
+            "explanation": "Gideon offered the second bullock on the rock according to Judges 6:27."
+        },
+        {
+            "id": 51,
+            "level": 2,
+            "verse_reference": "Judges 2:10",
+            "question": "What effect did the death of Joshua and the elders have on Israel's faith?",
+            "correct_answer": "B",
+            "options": {
+                "A": "They grew more faithful",
+                "B": "A new generation arose that did not know the LORD",
+                "C": "They increased sacrifices",
+                "D": "They built the temple"
+            },
+            "explanation": "The new generation did not know the LORD after the old leaders died."
+        },
+        {
+            "id": 52,
+            "level": 2,
+            "verse_reference": "Judges 2:13",
+            "question": "Why did the LORD strengthen Israel's enemies against them?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Because Israel forsook the LORD and served Baal and Ashtaroth",
+                "B": "Because they were weak in battle",
+                "C": "Because they had no land",
+                "D": "Because they refused to fight"
+            },
+            "explanation": "Their idolatry caused God to strengthen their foes."
+        },
+        {
+            "id": 53,
+            "level": 2,
+            "verse_reference": "Judges 2:16",
+            "question": "What pattern is shown by God raising judges?",
+            "correct_answer": "C",
+            "options": {
+                "A": "He abandoned Israel after their sin",
+                "B": "He cursed them forever",
+                "C": "He delivered them when they cried out, showing mercy despite their disobedience",
+                "D": "He made them pay tribute"
+            },
+            "explanation": "God repeatedly delivered Israel in response to repentance."
+        },
+        {
+            "id": 54,
+            "level": 2,
+            "verse_reference": "Judges 3:10",
+            "question": "What does the Spirit coming upon a judge indicate?",
+            "correct_answer": "D",
+            "options": {
+                "A": "He was chosen by the people",
+                "B": "He was anointed by priests",
+                "C": "He was rich",
+                "D": "He had God’s empowerment for deliverance"
+            },
+            "explanation": "The Spirit enabled the judge to lead and deliver Israel."
+        },
+        {
+            "id": 55,
+            "level": 2,
+            "verse_reference": "Judges 3:12",
+            "question": "How long did the Israelites serve Eglon king of Moab?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Eighteen years",
+                "B": "Seven years",
+                "C": "Forty years",
+                "D": "Twenty years"
+            },
+            "explanation": "Judges 3:14 indicates Israel served Eglon eighteen years."
+        },
+        {
+            "id": 56,
+            "level": 2,
+            "verse_reference": "Judges 3:20",
+            "question": "What characteristic of Eglon made Ehud's assassination possible?",
+            "correct_answer": "B",
+            "options": {
+                "A": "He was timid",
+                "B": "He was fat and unguarded",
+                "C": "He was blind",
+                "D": "He was sick"
+            },
+            "explanation": "Eglon's corpulence and seclusion permitted Ehud's plan."
+        },
+        {
+            "id": 57,
+            "level": 2,
+            "verse_reference": "Judges 4:4",
+            "question": "Why is Deborah significant among Israel's judges?",
+            "correct_answer": "A",
+            "options": {
+                "A": "She was a prophetess and judge",
+                "B": "She was the first king",
+                "C": "She wrote the law",
+                "D": "She built the tabernacle"
+            },
+            "explanation": "Deborah combined judicial and prophetic leadership."
+        },
+        {
+            "id": 58,
+            "level": 2,
+            "verse_reference": "Judges 4:9",
+            "question": "What does the promise about a woman winning the victory teach?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Women were forbidden in battle",
+                "B": "Only men could lead Israel",
+                "C": "God often works through unexpected instruments",
+                "D": "Sisera was invincible"
+            },
+            "explanation": "The prophecy shows God can honor unexpected agents of victory."
+        },
+        {
+            "id": 59,
+            "level": 2,
+            "verse_reference": "Judges 4:15",
+            "question": "What role did the LORD play in the battle against Sisera?",
+            "correct_answer": "A",
+            "options": {
+                "A": "He discomfited Sisera and his host",
+                "B": "He remained silent",
+                "C": "He sent hail only after the battle",
+                "D": "He gave the victory to Jabin"
+            },
+            "explanation": "God intervened directly in the battle against Sisera."
+        },
+        {
+            "id": 60,
+            "level": 2,
+            "verse_reference": "Judges 4:17",
+            "question": "How did Jael fulfil Deborah’s prophecy?",
+            "correct_answer": "B",
+            "options": {
+                "A": "By leading the army",
+                "B": "By killing Sisera herself",
+                "C": "By hiding Sisera forever",
+                "D": "By running away"
+            },
+            "explanation": "Jael killed Sisera, fulfilling the prophecy that a woman would prevail."
+        },
+        {
+            "id": 61,
+            "level": 2,
+            "verse_reference": "Judges 5:1",
+            "question": "What is the significance of the song of Deborah and Barak?",
+            "correct_answer": "A",
+            "options": {
+                "A": "It celebrates God's deliverance and commemorates victory",
+                "B": "It announces a new king",
+                "C": "It curses their enemies only",
+                "D": "It sets laws for judges"
+            },
+            "explanation": "The song commemorates divine rescue and Israel’s deliverance."
+        },
+        {
+            "id": 62,
+            "level": 2,
+            "verse_reference": "Judges 5:31",
+            "question": "What does the final verse of Deborah’s song convey?",
+            "correct_answer": "A",
+            "options": {
+                "A": "No survivors of Sisera’s host came against Israel anymore",
+                "B": "Israel now served Jericho",
+                "C": "The land was lost again",
+                "D": "They began worshipping Baal"
+            },
+            "explanation": "It states the defeat ended Sisera’s threat permanently."
+        },
+        {
+            "id": 63,
+            "level": 2,
+            "verse_reference": "Judges 6:1",
+            "question": "Why did the LORD allow the Midianites to oppress Israel?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Because Israel was righteous",
+                "B": "Because the Midianites were stronger by birth",
+                "C": "Because Israel did evil and turned from God",
+                "D": "Because they needed training in war"
+            },
+            "explanation": "Their disobedience resulted in the oppression by Midian."
+        },
+        {
+            "id": 64,
+            "level": 2,
+            "verse_reference": "Judges 6:12",
+            "question": "What does the angel’s greeting to Gideon suggest about God’s perspective on him?",
+            "correct_answer": "D",
+            "options": {
+                "A": "God saw him as unimportant",
+                "B": "God was angry with him",
+                "C": "God wanted him punished",
+                "D": "God saw him as a future deliverer despite his fear"
+            },
+            "explanation": "The greeting recognizes Gideon’s potential despite his doubt."
+        },
+        {
+            "id": 65,
+            "level": 2,
+            "verse_reference": "Judges 6:27",
+            "question": "What does Gideon offering the second bullock reveal about his faith?",
+            "correct_answer": "B",
+            "options": {
+                "A": "He was afraid of the people",
+                "B": "He obeyed the LORD despite danger",
+                "C": "He sought revenge",
+                "D": "He wanted honor"
+            },
+            "explanation": "Gideon obeyed God even when it endangered him publicly."
+        },
+        {
+            "id": 66,
+            "level": 2,
+            "verse_reference": "Judges 6:34",
+            "question": "What did the Spirit of the LORD coming upon Gideon enable him to do?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Lead and deliver Israel against Midian",
+                "B": "Become king",
+                "C": "Build a temple",
+                "D": "Write the law"
+            },
+            "explanation": "The Spirit empowered him for his role as judge and warrior."
+        },
+        {
+            "id": 67,
+            "level": 2,
+            "verse_reference": "Judges 7:2",
+            "question": "Why did God reduce Gideon’s army from thirty-two thousand to three hundred?",
+            "correct_answer": "A",
+            "options": {
+                "A": "So Israel would know the victory came from God and not numbers",
+                "B": "Because the others were unfaithful",
+                "C": "Because they lacked weapons",
+                "D": "Because they were too tired"
+            },
+            "explanation": "The reduction demonstrated God's power rather than human might."
+        },
+        {
+            "id": 68,
+            "level": 2,
+            "verse_reference": "Judges 7:19",
+            "question": "What strategy did Gideon use against the Midianite camp?",
+            "correct_answer": "C",
+            "options": {
+                "A": "A head-on assault",
+                "B": "A chariot charge",
+                "C": "A surprise attack with torches and trumpets",
+                "D": "A siege"
+            },
+            "explanation": "He used surprise and noise to cause panic in the enemy camp."
+        },
+        {
+            "id": 69,
+            "level": 2,
+            "verse_reference": "Judges 7:20",
+            "question": "What happened when the three hundred blew trumpets and broke the pitchers?",
+            "correct_answer": "D",
+            "options": {
+                "A": "The Midianites joined them",
+                "B": "The ground opened",
+                "C": "They retreated quietly",
+                "D": "The enemy fled in confusion"
+            },
+            "explanation": "The enemy panicked and fled at the noise and light."
+        },
+        {
+            "id": 70,
+            "level": 2,
+            "verse_reference": "Judges 7:22",
+            "question": "How did the Midianite armies react to hearing about the Israelite attack?",
+            "correct_answer": "B",
+            "options": {
+                "A": "They formed a line",
+                "B": "They turned every man and fled",
+                "C": "They surrendered",
+                "D": "They attacked at once"
+            },
+            "explanation": "They fled when they heard the camp was alarmed."
+        },
+        {
+            "id": 71,
+            "level": 2,
+            "verse_reference": "Judges 8:4",
+            "question": "Why did the men of Ephraim confront Gideon?",
+            "correct_answer": "C",
+            "options": {
+                "A": "For refusing to fight",
+                "B": "For breaking the covenant",
+                "C": "For not calling them to battle earlier",
+                "D": "For stealing their cattle"
+            },
+            "explanation": "They were upset he didn't call them to battle earlier after the victory."
+        },
+        {
+            "id": 72,
+            "level": 2,
+            "verse_reference": "Judges 8:24",
+            "question": "What did the people offer Gideon after victory?",
+            "correct_answer": "A",
+            "options": {
+                "A": "To make him king over them",
+                "B": "To exile him",
+                "C": "To kill him",
+                "D": "To sell him into slavery"
+            },
+            "explanation": "They offered him kingship, but he refused."
+        },
+        {
+            "id": 73,
+            "level": 2,
+            "verse_reference": "Judges 8:22",
+            "question": "Why did Gideon refuse to rule as king?",
+            "correct_answer": "B",
+            "options": {
+                "A": "He felt unworthy",
+                "B": "He said the LORD shall rule over Israel",
+                "C": "He wanted to return to farming",
+                "D": "He preferred being a prophet"
+            },
+            "explanation": "He acknowledged the LORD as Israel’s ruler."
+        },
+        {
+            "id": 74,
+            "level": 2,
+            "verse_reference": "Judges 8:27",
+            "question": "What did Gideon make from the spoils, causing Israel to worship it?",
+            "correct_answer": "D",
+            "options": {
+                "A": "An altar of sacrifice",
+                "B": "A brass statue of Moses",
+                "C": "A gold crown",
+                "D": "An ephod"
+            },
+            "explanation": "He made an ephod that became a snare to Israel."
+        },
+        {
+            "id": 75,
+            "level": 2,
+            "verse_reference": "Judges 13:5",
+            "question": "What was special about Samson's birth according to the angel?",
+            "correct_answer": "A",
+            "options": {
+                "A": "He would be a Nazarite from the womb",
+                "B": "He would be born in Egypt",
+                "C": "He would be a king",
+                "D": "He would die young"
+            },
+            "explanation": "The angel prophesied Samson would be Nazarite from birth."
+        },
+        {
+            "id": 76,
+            "level": 2,
+            "verse_reference": "Judges 13:7",
+            "question": "What were Samson’s parents told not to eat?",
+            "correct_answer": "B",
+            "options": {
+                "A": "No meat at all",
+                "B": "Nothing unclean and no wine or strong drink",
+                "C": "Fish only",
+                "D": "Only bread"
+            },
+            "explanation": "The Nazirite requirements were given to them in Judges 13:7."
+        },
+        {
+            "id": 77,
+            "level": 2,
+            "verse_reference": "Judges 14:3",
+            "question": "Why did Samson insist on marrying a Philistine woman?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Because she was wealthy",
+                "B": "Because of his vows",
+                "C": "Because she pleased his eyes",
+                "D": "Because she was from his tribe"
+            },
+            "explanation": "Samson desired her because she pleased his eyes."
+        },
+        {
+            "id": 78,
+            "level": 2,
+            "verse_reference": "Judges 14:6",
+            "question": "What enabled Samson to kill a lion with his bare hands?",
+            "correct_answer": "D",
+            "options": {
+                "A": "His army",
+                "B": "A sword",
+                "C": "A catapult",
+                "D": "The Spirit of the LORD"
+            },
+            "explanation": "The Spirit of the LORD empowered Samson’s strength."
+        },
+        {
+            "id": 79,
+            "level": 2,
+            "verse_reference": "Judges 14:12",
+            "question": "What challenge did Samson give at his wedding feast?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Build a tower",
+                "B": "Solve his riddle",
+                "C": "Dance for him",
+                "D": "Bring him gifts"
+            },
+            "explanation": "He challenged them to solve his riddle for thirty garments."
+        },
+        {
+            "id": 80,
+            "level": 2,
+            "verse_reference": "Judges 14:20",
+            "question": "What was the consequence when Samson’s wife was given to another man?",
+            "correct_answer": "A",
+            "options": {
+                "A": "He burned the Philistine fields",
+                "B": "He left Israel",
+                "C": "He surrendered to the Philistines",
+                "D": "He built a house"
+            },
+            "explanation": "Samson burned their standing grain in revenge."
+        },
+        {
+            "id": 81,
+            "level": 2,
+            "verse_reference": "Judges 15:14",
+            "question": "How many Philistines did Samson kill with the jawbone of an ass?",
+            "correct_answer": "D",
+            "options": {
+                "A": "A hundred",
+                "B": "Two hundred",
+                "C": "Five hundred",
+                "D": "A thousand"
+            },
+            "explanation": "He killed a thousand men with the jawbone in Judges 15:14."
+        },
+        {
+            "id": 82,
+            "level": 2,
+            "verse_reference": "Judges 16:4",
+            "question": "Who was the woman that Samson loved in Gaza?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Delilah",
+                "B": "The Gazite woman",
+                "C": "Jael",
+                "D": "Miriam"
+            },
+            "explanation": "Samson loved a woman in Gaza according to Judges 16:4."
+        },
+        {
+            "id": 83,
+            "level": 2,
+            "verse_reference": "Judges 16:15",
+            "question": "What did Delilah ask Samson to do to prove his weakness?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Lose a fight",
+                "B": "Leave the land",
+                "C": "Tell her the secret of his strength",
+                "D": "Build a house"
+            },
+            "explanation": "She wanted him to tell her the secret of his strength."
+        },
+        {
+            "id": 84,
+            "level": 2,
+            "verse_reference": "Judges 16:17",
+            "question": "What was the secret of Samson’s strength?",
+            "correct_answer": "A",
+            "options": {
+                "A": "His hair had never been shorn",
+                "B": "He wore a magic ring",
+                "C": "He carried a stone",
+                "D": "He had a spear"
+            },
+            "explanation": "His unshorn hair was the source of his Nazarite strength."
+        },
+        {
+            "id": 85,
+            "level": 2,
+            "verse_reference": "Judges 16:19",
+            "question": "What did Delilah do after cutting Samson's hair?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Ran away with him",
+                "B": "Called the Philistines to bind him",
+                "C": "Anointed him with oil",
+                "D": "Burned his house"
+            },
+            "explanation": "She called the Philistines to capture him after his strength left."
+        },
+        {
+            "id": 86,
+            "level": 2,
+            "verse_reference": "Judges 16:21",
+            "question": "What happened to Samson after the Philistines captured him?",
+            "correct_answer": "C",
+            "options": {
+                "A": "He became king",
+                "B": "He escaped immediately",
+                "C": "They put out his eyes and made him grind in prison",
+                "D": "He married Delilah"
+            },
+            "explanation": "He was blinded and made to grind in prison."
+        },
+        {
+            "id": 87,
+            "level": 2,
+            "verse_reference": "Judges 16:23",
+            "question": "Why did the Philistines gather to offer a great sacrifice to Dagon?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Because they thought their god had delivered Samson into their hand",
+                "B": "Because Samson asked them to",
+                "C": "Because they worshipped the sun",
+                "D": "Because of a harvest festival"
+            },
+            "explanation": "They celebrated Dagon after capturing Samson."
+        },
+        {
+            "id": 88,
+            "level": 2,
+            "verse_reference": "Judges 16:28",
+            "question": "What did Samson pray for as he stood between the pillars?",
+            "correct_answer": "C",
+            "options": {
+                "A": "To be freed",
+                "B": "For more strength to marry",
+                "C": "For strength to avenge himself on the Philistines",
+                "D": "For food"
+            },
+            "explanation": "He asked God for strength to defeat the Philistines one more time."
+        },
+        {
+            "id": 89,
+            "level": 2,
+            "verse_reference": "Judges 16:30",
+            "question": "What was the outcome of Samson pushing the pillars?",
+            "correct_answer": "B",
+            "options": {
+                "A": "He escaped safely",
+                "B": "The house fell and many Philistines died",
+                "C": "The roof opened",
+                "D": "He was crowned king"
+            },
+            "explanation": "The temple collapsed, killing many Philistines and Samson."
+        },
+        {
+            "id": 90,
+            "level": 2,
+            "verse_reference": "Judges 16:31",
+            "question": "How did Samson die?",
+            "correct_answer": "A",
+            "options": {
+                "A": "He died when he brought down the house upon himself",
+                "B": "He was killed by Dagon",
+                "C": "He drowned",
+                "D": "He died in his sleep"
+            },
+            "explanation": "His final act killed him along with his enemies."
+        },
+        {
+            "id": 91,
+            "level": 2,
+            "verse_reference": "Judges 17:6",
+            "question": "What phrase describes Israel during the time of Micah?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Every man did that which was right in his own eyes",
+                "B": "They worshipped the LORD faithfully",
+                "C": "They followed one king",
+                "D": "They obeyed the judges"
+            },
+            "explanation": "This phrase summarizes Israel’s moral chaos in Judges 17:6."
+        },
+        {
+            "id": 92,
+            "level": 2,
+            "verse_reference": "Judges 18:30",
+            "question": "What happened to the house of God that the Danites took?",
+            "correct_answer": "B",
+            "options": {
+                "A": "They destroyed it",
+                "B": "They set it up and made it their idol",
+                "C": "They returned it to Jerusalem",
+                "D": "They used it as a hospital"
+            },
+            "explanation": "They established it as an idolatrous sanctuary."
+        },
+        {
+            "id": 93,
+            "level": 2,
+            "verse_reference": "Judges 19:1",
+            "question": "What city did a Levite and his concubine travel to?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Zion",
+                "B": "Gilgal",
+                "C": "Gibeah",
+                "D": "Shiloh"
+            },
+            "explanation": "They went to Gibeah in Judges 19:1."
+        },
+        {
+            "id": 94,
+            "level": 2,
+            "verse_reference": "Judges 19:22",
+            "question": "What crime was committed against the Levite's concubine in Gibeah?",
+            "correct_answer": "A",
+            "options": {
+                "A": "She was abused by men of the city",
+                "B": "She was sold into slavery",
+                "C": "She was made a judge",
+                "D": "She was set free"
+            },
+            "explanation": "The men of Gibeah abused her and she died."
+        },
+        {
+            "id": 95,
+            "level": 2,
+            "verse_reference": "Judges 20:1",
+            "question": "What did Israel do after hearing the crime against the concubine?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Gathered together to ask what should be done",
+                "B": "Ignored it",
+                "C": "Celebrated",
+                "D": "Made a treaty with Gibeah"
+            },
+            "explanation": "They convened to decide on punishment."
+        },
+        {
+            "id": 96,
+            "level": 2,
+            "verse_reference": "Judges 20:13",
+            "question": "What did Israel demand from Benjamin after Gibeah’s crime?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Money",
+                "B": "The guilty men to be handed over",
+                "C": "Land",
+                "D": "Priests"
+            },
+            "explanation": "They demanded justice for the atrocity."
+        },
+        {
+            "id": 97,
+            "level": 2,
+            "verse_reference": "Judges 20:25",
+            "question": "What was the outcome of the second battle with Benjamin?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Israel was defeated again",
+                "B": "Benjamin made peace",
+                "C": "Benjamin still prevailed in the second fight",
+                "D": "They formed an alliance"
+            },
+            "explanation": "Benjamin won again in the second battle."
+        },
+        {
+            "id": 98,
+            "level": 2,
+            "verse_reference": "Judges 20:35",
+            "question": "How did Israel eventually defeat Benjamin?",
+            "correct_answer": "B",
+            "options": {
+                "A": "By sending spies in first",
+                "B": "By hiding ambushers in the vineyards",
+                "C": "By waiting for reinforcements",
+                "D": "By negotiating peace"
+            },
+            "explanation": "They used an ambush hidden in vineyards."
+        },
+        {
+            "id": 99,
+            "level": 2,
+            "verse_reference": "Judges 21:1",
+            "question": "Why did Israel grieve after the war with Benjamin?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Because they lost their king",
+                "B": "Because they were defeated",
+                "C": "Because they sacrificed their altars",
+                "D": "Because one tribe had almost been destroyed"
+            },
+            "explanation": "They mourned the near destruction of Benjamin."
+        },
+        {
+            "id": 100,
+            "level": 2,
+            "verse_reference": "Judges 21:25",
+            "question": "What does Judges 21:25 say about Israel in that time?",
+            "correct_answer": "A",
+            "options": {
+                "A": "There was no king in Israel; every man did that which was right in his own eyes",
+                "B": "They had a strong king",
+                "C": "They followed one judge faithfully",
+                "D": "They worshipped at the temple"
+            },
+            "explanation": "This verse summarizes the spiritual state of Israel in Judges."
+        },
+        {
+            "id": 101,
+            "level": 3,
+            "verse_reference": "Judges 1:19",
+            "question": "What can Judah's failure to drive out valley inhabitants tell us about the conquest?",
+            "correct_answer": "B",
+            "options": {
+                "A": "God abandoned Judah",
+                "B": "Conquest was incomplete and depended on obedience",
+                "C": "Iron chariots were irrelevant",
+                "D": "Judah wanted peace"
+            },
+            "explanation": "Their inability shows that remaining enemies was often due to disobedience, not lack of promise."
+        },
+        {
+            "id": 102,
+            "level": 3,
+            "verse_reference": "Judges 2:11-12",
+            "question": "What is the recurring cycle presented in Judges 2?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Sin, oppression, repentance, deliverance",
+                "B": "Peace, prosperity, conquest, exile",
+                "C": "Faith, doubt, leadership, collapse",
+                "D": "War, treaty, marriage, festival"
+            },
+            "explanation": "Judges depicts a repeated cycle of Israel's faithfulness and failure."
+        },
+        {
+            "id": 103,
+            "level": 3,
+            "verse_reference": "Judges 3:15",
+            "question": "Why is Othniel’s deliverance significant in the pattern of judges?",
+            "correct_answer": "B",
+            "options": {
+                "A": "He was the only judge not chosen by God",
+                "B": "He illustrates God’s mercy in raising deliverers after repentance",
+                "C": "He was also a king",
+                "D": "He wrote the law"
+            },
+            "explanation": "His role fits the pattern of divine rescue when Israel cried out."
+        },
+        {
+            "id": 104,
+            "level": 3,
+            "verse_reference": "Judges 3:31",
+            "question": "What does the brief note about Shamgar suggest about leadership in Israel?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Only nobles could be leaders",
+                "B": "He was a legendary giant",
+                "C": "The people preferred kings",
+                "D": "God could use unlikely individuals in crises"
+            },
+            "explanation": "Shamgar’s brief mention highlights God's use of unexpected deliverers."
+        },
+        {
+            "id": 105,
+            "level": 3,
+            "verse_reference": "Judges 4:4-9",
+            "question": "How does Deborah’s role challenge common ancient assumptions about women?",
+            "correct_answer": "A",
+            "options": {
+                "A": "She demonstrates that God can appoint women as leaders and prophets",
+                "B": "She was only a figurehead",
+                "C": "She was a queen in name only",
+                "D": "She did not actually lead"
+            },
+            "explanation": "Deborah’s leadership defies patriarchal expectations of her time."
+        },
+        {
+            "id": 106,
+            "level": 3,
+            "verse_reference": "Judges 4:9",
+            "question": "Why was Barak told that a woman would receive the honor of victory?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Because Barak refused to fight",
+                "B": "Because women fought in the battle",
+                "C": "Because Sisera was afraid of women",
+                "D": "To show God’s control over outcome and honor"
+            },
+            "explanation": "It underscored God’s sovereignty and fulfilled prophecy by Jael’s action."
+        },
+        {
+            "id": 107,
+            "level": 3,
+            "verse_reference": "Judges 5:1",
+            "question": "What is the theological importance of the song of Deborah and Barak?",
+            "correct_answer": "C",
+            "options": {
+                "A": "It introduces a new law code",
+                "B": "It replaces the earlier Exodus song",
+                "C": "It celebrates divine deliverance and warns against forgetting God",
+                "D": "It is a song for harvest"
+            },
+            "explanation": "The song preserves theology and historical memory of God’s act."
+        },
+        {
+            "id": 108,
+            "level": 3,
+            "verse_reference": "Judges 6:11-16",
+            "question": "What does Gideon’s initial reluctance teach about faith and calling?",
+            "correct_answer": "A",
+            "options": {
+                "A": "God often calls imperfect people and gives grace for their assignment",
+                "B": "Only the confident are chosen",
+                "C": "Leaders must be sinless first",
+                "D": "The call depends on wealth"
+            },
+            "explanation": "Gideon’s doubt shows God uses weak vessels for His purposes."
+        },
+        {
+            "id": 109,
+            "level": 3,
+            "verse_reference": "Judges 7:1-8",
+            "question": "Why did God diminish Gideon’s army before battle?",
+            "correct_answer": "A",
+            "options": {
+                "A": "To prove victory is from God and not from Israel’s strength",
+                "B": "Because the army was unfaithful",
+                "C": "Because they lacked arms",
+                "D": "Because Gideon asked for fewer men"
+            },
+            "explanation": "The reduction prevented Israel from taking glory for the win."
+        },
+        {
+            "id": 110,
+            "level": 3,
+            "verse_reference": "Judges 8:22-23",
+            "question": "What theological lesson is found in Gideon’s refusal to be king?",
+            "correct_answer": "B",
+            "options": {
+                "A": "He rejected authority entirely",
+                "B": "True leadership in Israel belonged to the LORD, not a human monarch",
+                "C": "He was too humble to accept reward",
+                "D": "Kingship was illegal"
+            },
+            "explanation": "Gideon affirmed God as Israel’s sovereign ruler."
+        },
+        {
+            "id": 111,
+            "level": 3,
+            "verse_reference": "Judges 8:27",
+            "question": "How did Gideon’s ephod become a problem?",
+            "correct_answer": "D",
+            "options": {
+                "A": "It was stolen",
+                "B": "It was made of iron",
+                "C": "It was worshipped as a god by Gideon",
+                "D": "Israel made it an object of idolatry"
+            },
+            "explanation": "The ephod led Israel astray into idolatry despite Gideon’s earlier faithfulness."
+        },
+        {
+            "id": 112,
+            "level": 3,
+            "verse_reference": "Judges 13:5",
+            "question": "What does Samson’s Nazirite vow from birth signify?",
+            "correct_answer": "A",
+            "options": {
+                "A": "His life was set apart for a special divine purpose",
+                "B": "He was forbidden to marry",
+                "C": "He was to live only in the temple",
+                "D": "He could not speak"
+            },
+            "explanation": "The vow marked him as dedicated for deliverance from the womb."
+        },
+        {
+            "id": 113,
+            "level": 3,
+            "verse_reference": "Judges 16:4-17",
+            "question": "What spiritual error led to Samson’s downfall?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Ignoring prayer",
+                "B": "Revealing his consecration secret to Delilah and trusting in his own strength",
+                "C": "Refusing to fight the Philistines",
+                "D": "Not building an altar"
+            },
+            "explanation": "Samson’s weakness for Delilah caused him to betray his Nazirite vows."
+        },
+        {
+            "id": 114,
+            "level": 3,
+            "verse_reference": "Judges 16:30",
+            "question": "What does Samson’s final act teach about redemption?",
+            "correct_answer": "A",
+            "options": {
+                "A": "God can use a flawed servant to accomplish His purposes even at the end of life",
+                "B": "Destruction is always the final outcome",
+                "C": "Strength comes from physical power alone",
+                "D": "God never forgives failure"
+            },
+            "explanation": "Even in failure, God used Samson once more for judgment against Israel’s enemies."
+        },
+        {
+            "id": 115,
+            "level": 3,
+            "verse_reference": "Judges 17:6",
+            "question": "What is the larger message of the phrase 'every man did that which was right in his own eyes'?",
+            "correct_answer": "C",
+            "options": {
+                "A": "Individualism is good",
+                "B": "There was strong national unity",
+                "C": "Moral relativism and chaos reigned due to the lack of righteous leadership",
+                "D": "The people followed God perfectly"
+            },
+            "explanation": "The phrase captures the disorder and spiritual decline of the era."
+        },
+        {
+            "id": 116,
+            "level": 3,
+            "verse_reference": "Judges 18:30",
+            "question": "How does the story of the Danites stealing Micah's idols reflect Israel’s condition?",
+            "correct_answer": "D",
+            "options": {
+                "A": "They were faithful to the LORD",
+                "B": "They respected property rights",
+                "C": "They were unified under the judges",
+                "D": "They showed religious confusion and self-serving faith"
+            },
+            "explanation": "The theft of idols demonstrates how misguided Israel’s worship had become."
+        },
+        {
+            "id": 117,
+            "level": 3,
+            "verse_reference": "Judges 19:30",
+            "question": "What was the purpose of the Levite cutting his concubine's body into twelve pieces?",
+            "correct_answer": "B",
+            "options": {
+                "A": "To bury her properly",
+                "B": "To call all Israel to witness the outrage and seek justice",
+                "C": "To insult the Benjamites",
+                "D": "To make a sacrifice"
+            },
+            "explanation": "It was a shocking act intended to mobilize Israel against sin and injustice."
+        },
+        {
+            "id": 118,
+            "level": 3,
+            "verse_reference": "Judges 20:18",
+            "question": "Why did Israel consult the LORD before battling Benjamin?",
+            "correct_answer": "A",
+            "options": {
+                "A": "To seek God's favor and plan",
+                "B": "Because they lacked weapons",
+                "C": "To choose a new king",
+                "D": "To trade land"
+            },
+            "explanation": "They sought divine guidance before war in Judges 20:18."
+        },
+        {
+            "id": 119,
+            "level": 3,
+            "verse_reference": "Judges 20:35-48",
+            "question": "What does Israel’s strategy against Benjamin reveal about warfare in Judges?",
+            "correct_answer": "C",
+            "options": {
+                "A": "They relied on heavy cavalry",
+                "B": "They used only prayer",
+                "C": "They combined divine guidance with tactical ambush and surprise",
+                "D": "They fought openly in pitched battle only"
+            },
+            "explanation": "They used a tactical ambush along with seeking God’s direction."
+        },
+        {
+            "id": 120,
+            "level": 3,
+            "verse_reference": "Judges 21:1-14",
+            "question": "How did Israel attempt to preserve the tribe of Benjamin after near annihilation?",
+            "correct_answer": "A",
+            "options": {
+                "A": "They arranged marriages and allowed the Benjamites to take wives from Shiloh",
+                "B": "They adopted foreigners",
+                "C": "They rebuilt Benjamin’s cities",
+                "D": "They forced Benjamin to leave the land"
+            },
+            "explanation": "They found wives for Benjamin to keep the tribe alive."
+        },
+        {
+            "id": 121,
+            "level": 3,
+            "verse_reference": "Judges 21:25",
+            "question": "What warning does the final verse of Judges offer believers today?",
+            "correct_answer": "B",
+            "options": {
+                "A": "To reject all judges",
+                "B": ""
+            },
+            "explanation": "The final verse warns against moral relativism when there is no righteous leadership."
+        },
+        {
+            "id": 122,
+            "level": 3,
+            "verse_reference": "Judges 2:13",
+            "question": "What role did foreign gods play in Israel's cycles of judgment?",
+            "correct_answer": "A",
+            "options": {
+                "A": "They were the cause of Israel's oppression because Israel abandoned the LORD",
+                "B": "They were alliances to protect Israel",
+                "C": "They were ignored completely",
+                "D": "They were worshipped alongside the LORD without consequence"
+            },
+            "explanation": "Idolatry led directly to Israel's suffering and judgment."
+        },
+        {
+            "id": 123,
+            "level": 3,
+            "verse_reference": "Judges 3:12-14",
+            "question": "How does the oppression by Eglon compare with the deliverance by Ehud?",
+            "correct_answer": "D",
+            "options": {
+                "A": "It shows the power of lip service",
+                "B": "It proves Israel always won easily",
+                "C": "It reveals God punished Israel by defeat",
+                "D": "It demonstrates that deliverance comes after repentance and God raises unlikely saviors"
+            },
+            "explanation": "The pattern is that God mercifully raises deliverers after Israel repents."
+        },
+        {
+            "id": 124,
+            "level": 3,
+            "verse_reference": "Judges 4:14",
+            "question": "What does Barak’s hesitation to go without Deborah suggest about human dependence on divine leadership?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Leaders are always sufficient alone",
+                "B": "People often need visible divine confirmation before acting",
+                "C": "Women cannot lead",
+                "D": "God does not want anyone to act"
+            },
+            "explanation": "Barak sought Deborah’s presence as assurance of God's provision."
+        },
+        {
+            "id": 125,
+            "level": 3,
+            "verse_reference": "Judges 7:15-22",
+            "question": "Why is Gideon’s reduced army still successful?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Because God caused confusion among the enemy, proving the victory was divine",
+                "B": "Because the enemy had no weapons",
+                "C": "Because Gideon bribed them",
+                "D": "Because they fought at night"
+            },
+            "explanation": "The victory highlights God's power over military advantage."
+        },
+        {
+            "id": 126,
+            "level": 3,
+            "verse_reference": "Judges 8:22-23",
+            "question": "What tension is present in Gideon’s refusal of kingship and the later idolatry he introduced?",
+            "correct_answer": "B",
+            "options": {
+                "A": "He was both humble and faithful throughout",
+                "B": "He recognized God’s rule but still struggled with personal compromise",
+                "C": "He was forced into idolatry",
+                "D": "He was the perfect leader"
+            },
+            "explanation": "Gideon’s story shows that even godly leaders can make mistakes."
+        },
+        {
+            "id": 127,
+            "level": 3,
+            "verse_reference": "Judges 13:5",
+            "question": "What does the promise of Samson’s birth teach about God’s use of miraculous beginnings?",
+            "correct_answer": "C",
+            "options": {
+                "A": "God only works through kings",
+                "B": "Miracles are for the wealthy",
+                "C": "God often prepares deliverers through miraculous births",
+                "D": "God avoids working through individuals"
+            },
+            "explanation": "Samson’s birth points to God’s sovereign preparation of leaders."
+        },
+        {
+            "id": 128,
+            "level": 3,
+            "verse_reference": "Judges 16:17",
+            "question": "How does Samson’s secret being tied to his hair symbolize his spiritual condition?",
+            "correct_answer": "B",
+            "options": {
+                "A": "His strength was physical only",
+                "B": "His devotion and commitment were external, not internalized",
+                "C": "He could not grow hair",
+                "D": "He trusted himself more than God"
+            },
+            "explanation": "His secret shows how outward vows can mask inner failure."
+        },
+        {
+            "id": 129,
+            "level": 3,
+            "verse_reference": "Judges 17:6",
+            "question": "Why is the repeated refrain in Judges significant for the book’s theme?",
+            "correct_answer": "A",
+            "options": {
+                "A": "It emphasizes the moral decline and need for faithful leadership",
+                "B": "It introduces new laws",
+                "C": "It celebrates tribal unity",
+                "D": "It predicts the temple"
+            },
+            "explanation": "The refrain highlights the spiritual chaos of the period."
+        },
+        {
+            "id": 130,
+            "level": 3,
+            "verse_reference": "Judges 18:30",
+            "question": "How might the Danite story serve as a warning about religious innovation?",
+            "correct_answer": "A",
+            "options": {
+                "A": "It warns that seeking convenient worship leads to idolatry",
+                "B": "It praises religious creativity",
+                "C": "It says all innovations are good",
+                "D": "It avoids moral judgment"
+            },
+            "explanation": "The Danites’ idolatry shows the danger of departing from God’s commands."
+        },
+        {
+            "id": 131,
+            "level": 3,
+            "verse_reference": "Judges 19:1-30",
+            "question": "What broader social problem does the Levite’s concubine story highlight?",
+            "correct_answer": "D",
+            "options": {
+                "A": "A foreign invasion",
+                "B": "A natural disaster",
+                "C": "A royal succession crisis",
+                "D": "Lawlessness and disregard for human dignity"
+            },
+            "explanation": "The story reveals how moral breakdown leads to atrocity and national crisis."
+        },
+        {
+            "id": 132,
+            "level": 3,
+            "verse_reference": "Judges 20:18",
+            "question": "What does consulting the LORD before war demonstrate about Israel’s values?",
+            "correct_answer": "A",
+            "options": {
+                "A": "They still sought God’s guidance even in national crisis",
+                "B": "They trusted only their own strength",
+                "C": "They rejected God entirely",
+                "D": "They used false prophets"
+            },
+            "explanation": "They recognized the need for divine direction in judgment and war."
+        },
+        {
+            "id": 133,
+            "level": 3,
+            "verse_reference": "Judges 21:2",
+            "question": "Why did Israel make vows at Bethel and Mizpah after the war with Benjamin?",
+            "correct_answer": "B",
+            "options": {
+                "A": "To conquer more territory",
+                "B": "To preserve the remaining tribes and restore the nation",
+                "C": "To worship Baal",
+                "D": "To crown a new king"
+            },
+            "explanation": "They vowed to save Israel from extinction and right the wrongs."
+        },
+        {
+            "id": 134,
+            "level": 3,
+            "verse_reference": "Judges 21:25",
+            "question": "What is the danger of not having a central godly authority, according to Judges 21:25?",
+            "correct_answer": "A",
+            "options": {
+                "A": "People decide right and wrong for themselves",
+                "B": "The land thrives in peace",
+                "C": "Everyone obeys the LORD perfectly",
+                "D": "Judges rule with mercy"
+            },
+            "explanation": "The verse warns that subjective morality leads to chaos."
+        },
+        {
+            "id": 135,
+            "level": 3,
+            "verse_reference": "Judges 3:31",
+            "question": "What does the brief account of Shamgar with an ox goad tell us about victory in Judges?",
+            "correct_answer": "D",
+            "options": {
+                "A": "Only experienced soldiers succeed",
+                "B": "Large armies always win",
+                "C": "Strategy is irrelevant",
+                "D": "God can use simple tools through chosen servants"
+            },
+            "explanation": "Unexpected deliverers and methods appear repeatedly in Judges."
+        },
+        {
+            "id": 136,
+            "level": 3,
+            "verse_reference": "Judges 4:14",
+            "question": "What does Deborah's statement 'Is not the LORD gone out before thee?' teach about courage?",
+            "correct_answer": "A",
+            "options": {
+                "A": "Courage is rooted in God’s prior action, not self-confidence",
+                "B": "Courage is a human trait only",
+                "C": "Boldness is always reckless",
+                "D": "Fear is prohibited"
+            },
+            "explanation": "She reminds Barak that God has already gone before them."
+        },
+        {
+            "id": 137,
+            "level": 3,
+            "verse_reference": "Judges 6:12",
+            "question": "How does the greeting 'The LORD is with thee, thou mighty man of valour' affect Gideon’s identity?",
+            "correct_answer": "C",
+            "options": {
+                "A": "It makes him famous among enemies",
+                "B": "It burdens him with sin",
+                "C": "It reshapes him from fearful to chosen deliverer",
+                "D": "It condemns him"
+            },
+            "explanation": "God’s declaration reframes Gideon’s self-understanding toward purpose."
+        },
+        {
+            "id": 138,
+            "level": 3,
+            "verse_reference": "Judges 8:22-23",
+            "question": "What inconsistency appears in Gideon’s story after his military triumph?",
+            "correct_answer": "A",
+            "options": {
+                "A": "He refuses kingship but later causes idolatry",
+                "B": "He becomes a priest",
+                "C": "He returns to Egypt",
+                "D": "He becomes wealthier without compromise"
+            },
+            "explanation": "His later actions show lingering spiritual weakness despite divine deliverance."
+        },
+        {
+            "id": 139,
+            "level": 3,
+            "verse_reference": "Judges 16:17",
+            "question": "What theological warning does Samson’s exposure of his strength secret convey?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Secrets are always safe with loved ones",
+                "B": "Trusting in outward vows or personal secrets rather than God can lead to downfall",
+                "C": "Strength is always physical",
+                "D": "God never answers prayer"
+            },
+            "explanation": "The story warns against misplaced trust in personal strength."
+        },
+        {
+            "id": 140,
+            "level": 3,
+            "verse_reference": "Judges 16:30",
+            "question": "What is the meaning of Samson's final prayer and action?",
+            "correct_answer": "A",
+            "options": {
+                "A": "It is an act of repentance and surrender to God's purpose",
+                "B": "It is a request for more wealth",
+                "C": "It is a cry for revenge only",
+                "D": "It is a curse upon Israel"
+            },
+            "explanation": "His last act was both judgement on the enemy and submission to God’s will."
+        },
+        {
+            "id": 141,
+            "level": 3,
+            "verse_reference": "Judges 18:30",
+            "question": "How does the house of God becoming an idol in Dan illustrate the danger of religious syncretism?",
+            "correct_answer": "C",
+            "options": {
+                "A": "It was a good innovation",
+                "B": "It proved God liked new shrines",
+                "C": "It demonstrates that mixing true worship with pagan practices leads to outright idolatry",
+                "D": "It has no significance"
+            },
+            "explanation": "It shows how the boundary between devotion and idolatry can be blurred when people justify unbiblical worship."
+        },
+        {
+            "id": 142,
+            "level": 3,
+            "verse_reference": "Judges 19:30",
+            "question": "Why was the Levite's action of dismembering his concubine especially shocking?",
+            "correct_answer": "B",
+            "options": {
+                "A": "It was a normal custom",
+                "B": "It underscored the depth of Israel’s moral collapse and the urgency for justice",
+                "C": "It showed his mercy",
+                "D": "It pleased the tribes"
+            },
+            "explanation": "The act was a desperate call to awaken Israel to sin and violence."
+        },
+        {
+            "id": 143,
+            "level": 3,
+            "verse_reference": "Judges 20:18",
+            "question": "What does Israel’s question 'Shall we again go to battle?' reveal about their attitude?",
+            "correct_answer": "A",
+            "options": {
+                "A": "They desired to follow God's direction before action",
+                "B": "They trusted only themselves",
+                "C": "They wanted to avoid conflict",
+                "D": "They were resigned to defeat"
+            },
+            "explanation": "They sought confirmation from the LORD before continuing the war."
+        },
+        {
+            "id": 144,
+            "level": 3,
+            "verse_reference": "Judges 21:1",
+            "question": "What does Israel's mourning at Mizpah teach about collective responsibility?",
+            "correct_answer": "D",
+            "options": {
+                "A": "It was a private matter",
+                "B": "It showed they were indifferent",
+                "C": "It was a sign of weakness",
+                "D": "It expressed national grief for a brother tribe’s near extinction"
+            },
+            "explanation": "The nation grieved for the loss of Benjamin because of the consequences of sin."
+        },
+        {
+            "id": 145,
+            "level": 3,
+            "verse_reference": "Judges 21:12",
+            "question": "Why did Israel spare the remaining Benjamites after making war on Gibeah?",
+            "correct_answer": "B",
+            "options": {
+                "A": "They had no more weapons",
+                "B": "They did not want to destroy one of Israel’s tribes completely",
+                "C": "They were afraid of foreign nations",
+                "D": "They wanted a treaty"
+            },
+            "explanation": "They preserved Benjamin to keep the tribal structure intact."
+        },
+        {
+            "id": 146,
+            "level": 3,
+            "verse_reference": "Judges 21:25",
+            "question": "How can Judges 21:25 be read as a critique of Israel’s leadership model?",
+            "correct_answer": "A",
+            "options": {
+                "A": "It criticizes the lack of a central godly authority and the resulting moral relativism",
+                "B": "It praises decentralized power",
+                "C": "It promotes tribal independence",
+                "D": "It endorses every man's judgment"
+            },
+            "explanation": "The verse highlights the problem of subjective morality without righteous leadership."
+        },
+        {
+            "id": 147,
+            "level": 3,
+            "verse_reference": "Judges 18:30",
+            "question": "What does the transfer of Micah’s priest to Dan reveal about religious authority in Judges?",
+            "correct_answer": "B",
+            "options": {
+                "A": "Priests were always appointed by God",
+                "B": "Religious authority was often illegitimate and based on convenience",
+                "C": "All priests were from Levi",
+                "D": "Authority came only from Jerusalem"
+            },
+            "explanation": "The Danites used whatever priest they could obtain, showing disorder in worship."
+        },
+        {
+            "id": 148,
+            "level": 3,
+            "verse_reference": "Judges 2:16",
+            "question": "Why is the role of judges important in the book of Judges?",
+            "correct_answer": "C",
+            "options": {
+                "A": "They were kings ruling Israel permanently",
+                "B": "They were only military generals",
+                "C": "They were temporary deliverers raised by God during cycles of apostasy and repentance",
+                "D": "They were prophets who wrote scripture"
+            },
+            "explanation": "Judges delivered Israel from specific oppressors at critical moments."
+        },
+        {
+            "id": 149,
+            "level": 3,
+            "verse_reference": "Judges 6:12",
+            "question": "How does God calling Gideon a 'mighty man of valour' despite his fear relate to Christian discipleship?",
+            "correct_answer": "A",
+            "options": {
+                "A": "It shows God calls and strengthens those He chooses, not based on their present confidence",
+                "B": "It means only strong people can serve God",
+                "C": "It implies fear disqualifies a leader",
+                "D": "It requires wealth to be used by God"
+            },
+            "explanation": "God often calls people by their future identity rather than present condition."
+        },
+        {
+            "id": 150,
+            "level": 3,
+            "verse_reference": "Judges 4:14",
+            "question": "What is the deeper meaning of the LORD being 'gone out before thee' in Deborah's message?",
+            "correct_answer": "D",
+            "options": {
+                "A": "God left before battle",
+                "B": "God was distant from them",
+                "C": "God wanted them to rely on themselves",
+                "D": "God had already determined to deliver them, so they should trust His initiative"
+            },
+            "explanation": "It reassures that the battle was already won in principle because God was acting first."
+        }
+    ]
+}

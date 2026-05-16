@@ -1,0 +1,2114 @@
+{
+  "metadata": {
+    "total_questions": 150,
+    "levels": {
+      "1": {"name": "Easy", "count": 50, "description": "Factual questions directly from the text"},
+      "2": {"name": "Medium", "count": 50, "description": "Interpretive questions about meaning and themes"},
+      "3": {"name": "Hard", "count": 50, "description": "Analytical questions requiring deeper understanding"}
+    },
+    "book": "Genesis",
+    "chapters": "1-50"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "verse_reference": "Genesis 1:1",
+      "question": "What did God create in the beginning?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The heaven and the earth",
+        "B": "The sun and the moon",
+        "C": "The animals and plants",
+        "D": "The angels"
+      },
+      "explanation": "Genesis 1:1 states 'In the beginning God created the heaven and the earth.'"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "verse_reference": "Genesis 1:3",
+      "question": "What did God say 'Let there be' on the first day?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Light",
+        "B": "The firmament",
+        "C": "The dry land",
+        "D": "The sun"
+      },
+      "explanation": "Genesis 1:3 says 'And God said, Let there be light: and there was light.'"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "verse_reference": "Genesis 1:5",
+      "question": "What did God call the light and the darkness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Day and Night",
+        "B": "Morning and Evening",
+        "C": "Sun and Moon",
+        "D": "Light and Shadow"
+      },
+      "explanation": "Genesis 1:5 says 'God called the light Day, and the darkness he called Night.'"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "verse_reference": "Genesis 1:10",
+      "question": "What did God call the dry land?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Earth",
+        "B": "Ground",
+        "C": "Land",
+        "D": "Soil"
+      },
+      "explanation": "Genesis 1:10 states 'And God called the dry land Earth.'"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "verse_reference": "Genesis 1:16",
+      "question": "What two great lights did God make?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The greater light to rule the day and the lesser light to rule the night",
+        "B": "The sun and the planets",
+        "C": "The stars and the moon",
+        "D": "The morning star and evening star"
+      },
+      "explanation": "Genesis 1:16 says 'God made two great lights; the greater light to rule the day, and the lesser light to rule the night.'"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "verse_reference": "Genesis 1:26",
+      "question": "In whose image did God say 'Let us make man'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "In our image, after our likeness",
+        "B": "In the image of angels",
+        "C": "In the image of the animals",
+        "D": "In the image of light"
+      },
+      "explanation": "Genesis 1:26 says 'Let us make man in our image, after our likeness.'"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "verse_reference": "Genesis 1:27",
+      "question": "How did God create man?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Male and female created He them",
+        "B": "Only male was created",
+        "C": "Only female was created",
+        "D": "Angels were created first"
+      },
+      "explanation": "Genesis 1:27 says 'male and female created he them.'"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "verse_reference": "Genesis 2:2",
+      "question": "On which day did God rest from His work?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The seventh day",
+        "B": "The sixth day",
+        "C": "The first day",
+        "D": "The eighth day"
+      },
+      "explanation": "Genesis 2:2 says 'on the seventh day God ended his work which he had made; and he rested.'"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "verse_reference": "Genesis 2:7",
+      "question": "What did God breathe into man's nostrils?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The breath of life",
+        "B": "The spirit of wisdom",
+        "C": "The power of speech",
+        "D": "The knowledge of good"
+      },
+      "explanation": "Genesis 2:7 says 'and breathed into his nostrils the breath of life; and man became a living soul.'"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "verse_reference": "Genesis 2:8",
+      "question": "Where did the LORD God plant a garden?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Eastward in Eden",
+        "B": "Westward in Eden",
+        "C": "North of Eden",
+        "D": "South of Eden"
+      },
+      "explanation": "Genesis 2:8 says 'the LORD God planted a garden eastward in Eden.'"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "verse_reference": "Genesis 2:9",
+      "question": "What two special trees were in the garden?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The tree of life and the tree of knowledge of good and evil",
+        "B": "The tree of wisdom and the tree of understanding",
+        "C": "The tree of peace and the tree of joy",
+        "D": "The tree of faith and the tree of hope"
+      },
+      "explanation": "Genesis 2:9 mentions 'the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.'"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "verse_reference": "Genesis 2:15",
+      "question": "What was man to do in the garden?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dress it and keep it",
+        "B": "Eat from every tree",
+        "C": "Name the animals",
+        "D": "Build an altar"
+      },
+      "explanation": "Genesis 2:15 says 'to dress it and to keep it.'"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "verse_reference": "Genesis 2:17",
+      "question": "What did God say would happen if Adam ate from the tree of knowledge?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Thou shalt surely die",
+        "B": "Your eyes will be opened",
+        "C": "You will become like gods",
+        "D": "You will be cursed"
+      },
+      "explanation": "Genesis 2:17 says 'for in the day that thou eatest thereof thou shalt surely die.'"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "verse_reference": "Genesis 2:18",
+      "question": "What did God say was not good?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That the man should be alone",
+        "B": "That the serpent was subtle",
+        "C": "That the tree was forbidden",
+        "D": "That there was no rain"
+      },
+      "explanation": "Genesis 2:18 says 'It is not good that the man should be alone.'"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "verse_reference": "Genesis 2:22",
+      "question": "What did God make from Adam's rib?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A woman",
+        "B": "Another man",
+        "C": "An angel",
+        "D": "A helper from the ground"
+      },
+      "explanation": "Genesis 2:22 says 'made he a woman, and brought her unto the man.'"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "verse_reference": "Genesis 3:1",
+      "question": "Which animal was more subtle than any other?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The serpent",
+        "B": "The fox",
+        "C": "The lion",
+        "D": "The eagle"
+      },
+      "explanation": "Genesis 3:1 says 'the serpent was more subtle than any beast of the field.'"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "verse_reference": "Genesis 3:6",
+      "question": "What did Eve see about the tree?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That it was good for food and pleasant to the eyes",
+        "B": "That it was tall and strong",
+        "C": "That it was the only tree in the garden",
+        "D": "That it had no fruit"
+      },
+      "explanation": "Genesis 3:6 says 'the tree was good for food... pleasant to the eyes.'"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "verse_reference": "Genesis 3:7",
+      "question": "What did Adam and Eve realize after eating the fruit?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That they were naked",
+        "B": "That they were hungry",
+        "C": "That they were strong",
+        "D": "That they were wise"
+      },
+      "explanation": "Genesis 3:7 says 'the eyes of them both were opened, and they knew that they were naked.'"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "verse_reference": "Genesis 3:8",
+      "question": "Where did Adam and Eve hide from the LORD God?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Among the trees of the garden",
+        "B": "In a cave",
+        "C": "Behind the mountains",
+        "D": "Under the water"
+      },
+      "explanation": "Genesis 3:8 says 'hid themselves from the presence of the LORD God amongst the trees of the garden.'"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "verse_reference": "Genesis 3:13",
+      "question": "Who did Eve say beguiled her?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The serpent",
+        "B": "Adam",
+        "C": "The tree",
+        "D": "Her own thoughts"
+      },
+      "explanation": "Genesis 3:13 says 'The serpent beguiled me, and I did eat.'"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "verse_reference": "Genesis 3:19",
+      "question": "What did God say man would return to?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dust",
+        "B": "Earth",
+        "C": "The ground",
+        "D": "Nothingness"
+      },
+      "explanation": "Genesis 3:19 says 'for dust thou art, and unto dust shalt thou return.'"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "verse_reference": "Genesis 4:1",
+      "question": "What was the name of Adam and Eve's first son?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Cain",
+        "B": "Abel",
+        "C": "Seth",
+        "D": "Enoch"
+      },
+      "explanation": "Genesis 4:1 says 'she conceived, and bare Cain.'"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "verse_reference": "Genesis 4:2",
+      "question": "What was Abel's occupation?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A keeper of sheep",
+        "B": "A tiller of the ground",
+        "C": "A hunter",
+        "D": "A builder"
+      },
+      "explanation": "Genesis 4:2 says 'Abel was a keeper of sheep.'"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "verse_reference": "Genesis 4:8",
+      "question": "What did Cain do to Abel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Slew him",
+        "B": "Sent him away",
+        "C": "Forgave him",
+        "D": "Cursed him"
+      },
+      "explanation": "Genesis 4:8 says 'Cain rose up against Abel his brother, and slew him.'"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "verse_reference": "Genesis 5:5",
+      "question": "How many years did Adam live?",
+      "correct_answer": "A",
+      "options": {
+        "A": "930 years",
+        "B": "800 years",
+        "C": "1000 years",
+        "D": "700 years"
+      },
+      "explanation": "Genesis 5:5 says 'all the days that Adam lived were nine hundred and thirty years.'"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "verse_reference": "Genesis 5:24",
+      "question": "What happened to Enoch?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God took him",
+        "B": "He died",
+        "C": "He became king",
+        "D": "He built a city"
+      },
+      "explanation": "Genesis 5:24 says 'Enoch walked with God: and he was not; for God took him.'"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "verse_reference": "Genesis 6:8",
+      "question": "Who found grace in the eyes of the LORD?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Noah",
+        "B": "Abraham",
+        "C": "Moses",
+        "D": "David"
+      },
+      "explanation": "Genesis 6:8 says 'But Noah found grace in the eyes of the LORD.'"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "verse_reference": "Genesis 6:14",
+      "question": "What was Noah instructed to build?",
+      "correct_answer": "A",
+      "options": {
+        "A": "An ark",
+        "B": "A temple",
+        "C": "A city",
+        "D": "A tower"
+      },
+      "explanation": "Genesis 6:14 says 'Make thee an ark of gopher wood.'"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "verse_reference": "Genesis 7:11",
+      "question": "When did the flood begin?",
+      "correct_answer": "A",
+      "options": {
+        "A": "In the six hundredth year of Noah's life",
+        "B": "In the five hundredth year",
+        "C": "In the seven hundredth year",
+        "D": "In the eight hundredth year"
+      },
+      "explanation": "Genesis 7:11 says 'In the six hundredth year of Noah's life... the same day were all the fountains... broken up.'"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "verse_reference": "Genesis 8:4",
+      "question": "Where did the ark rest?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Upon the mountains of Ararat",
+        "B": "Upon Mount Sinai",
+        "C": "Upon Mount Zion",
+        "D": "Upon Mount Carmel"
+      },
+      "explanation": "Genesis 8:4 says 'the ark rested... upon the mountains of Ararat.'"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "verse_reference": "Genesis 8:11",
+      "question": "What did the dove bring back to Noah?",
+      "correct_answer": "A",
+      "options": {
+        "A": "An olive leaf",
+        "B": "A branch",
+        "C": "A seed",
+        "D": "A stone"
+      },
+      "explanation": "Genesis 8:11 says 'in her mouth was an olive leaf pluckt off.'"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "verse_reference": "Genesis 9:13",
+      "question": "What did God set in the cloud as a sign of His covenant?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A bow (rainbow)",
+        "B": "A pillar of fire",
+        "C": "A cloud by day",
+        "D": "A star"
+      },
+      "explanation": "Genesis 9:13 says 'I do set my bow in the cloud.'"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "verse_reference": "Genesis 11:1",
+      "question": "What was the language of the whole earth at first?",
+      "correct_answer": "A",
+      "options": {
+        "A": "One language",
+        "B": "Multiple languages",
+        "C": "Hebrew only",
+        "D": "Greek only"
+      },
+      "explanation": "Genesis 11:1 says 'the whole earth was of one language, and of one speech.'"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "verse_reference": "Genesis 11:9",
+      "question": "What was the name of the tower where languages were confused?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Babel",
+        "B": "Bethel",
+        "C": "Jericho",
+        "D": "Damascus"
+      },
+      "explanation": "Genesis 11:9 says 'Therefore is the name of it called Babel.'"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "verse_reference": "Genesis 12:1",
+      "question": "What did the LORD tell Abram to leave?",
+      "correct_answer": "A",
+      "options": {
+        "A": "His country, kindred, and father's house",
+        "B": "His wealth and possessions",
+        "C": "His children and servants",
+        "D": "His livestock"
+      },
+      "explanation": "Genesis 12:1 says 'Get thee out of thy country, and from thy kindred, and from thy father's house.'"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "verse_reference": "Genesis 12:4",
+      "question": "How old was Abram when he departed from Haran?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Seventy and five years old",
+        "B": "Fifty years old",
+        "C": "One hundred years old",
+        "D": "Thirty years old"
+      },
+      "explanation": "Genesis 12:4 says 'Abram was seventy and five years old when he departed out of Haran.'"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "verse_reference": "Genesis 13:6",
+      "question": "Why could Abram and Lot not dwell together?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The land could not bear them because their substance was great",
+        "B": "They had a disagreement",
+        "C": "There was a famine",
+        "D": "Their families fought"
+      },
+      "explanation": "Genesis 13:6 says 'the land was not able to bear them, that they might dwell together: for their substance was great.'"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "verse_reference": "Genesis 14:18",
+      "question": "Who brought forth bread and wine to Abram?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Melchizedek king of Salem",
+        "B": "The king of Sodom",
+        "C": "The king of Gomorrah",
+        "D": "An angel"
+      },
+      "explanation": "Genesis 14:18 says 'Melchizedek king of Salem brought forth bread and wine.'"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "verse_reference": "Genesis 15:6",
+      "question": "What was counted to Abram for righteousness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He believed in the LORD",
+        "B": "He offered sacrifices",
+        "C": "He built an altar",
+        "D": "He circumcised his household"
+      },
+      "explanation": "Genesis 15:6 says 'he believed in the LORD; and he counted it to him for righteousness.'"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "verse_reference": "Genesis 16:11",
+      "question": "What name was Hagar to call her son?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ishmael",
+        "B": "Isaac",
+        "C": "Jacob",
+        "D": "Esau"
+      },
+      "explanation": "Genesis 16:11 says 'shalt call his name Ishmael.'"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "verse_reference": "Genesis 17:1",
+      "question": "How old was Abram when the LORD appeared to him as the Almighty God?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ninety years old and nine",
+        "B": "Seventy-five years old",
+        "C": "One hundred years old",
+        "D": "Eighty years old"
+      },
+      "explanation": "Genesis 17:1 says 'when Abram was ninety years old and nine.'"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "verse_reference": "Genesis 17:5",
+      "question": "What did God change Abram's name to?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Abraham",
+        "B": "Abram",
+        "C": "Abram",
+        "D": "Abraham"
+      },
+      "explanation": "Genesis 17:5 says 'thy name shall be Abraham.'"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "verse_reference": "Genesis 18:2",
+      "question": "How many men appeared to Abraham at Mamre?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Three",
+        "B": "Two",
+        "C": "Four",
+        "D": "One"
+      },
+      "explanation": "Genesis 18:2 says 'three men stood by him.'"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "verse_reference": "Genesis 19:24",
+      "question": "What did the LORD rain upon Sodom and Gomorrah?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Brimstone and fire",
+        "B": "Water and flood",
+        "C": "Ash and dust",
+        "D": "Darkness and hail"
+      },
+      "explanation": "Genesis 19:24 says 'the LORD rained upon Sodom and upon Gomorrah brimstone and fire.'"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "verse_reference": "Genesis 21:3",
+      "question": "What name did Abraham give his son born through Sarah?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Isaac",
+        "B": "Ishmael",
+        "C": "Jacob",
+        "D": "Joseph"
+      },
+      "explanation": "Genesis 21:3 says 'Abraham called the name of his son... Isaac.'"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "verse_reference": "Genesis 22:2",
+      "question": "Where was Abraham to offer Isaac as a burnt offering?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The land of Moriah",
+        "B": "The land of Egypt",
+        "C": "The land of Canaan",
+        "D": "The land of Ur"
+      },
+      "explanation": "Genesis 22:2 says 'get thee into the land of Moriah.'"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "verse_reference": "Genesis 24:15",
+      "question": "What was the name of the woman who came to the well and became Isaac's wife?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Rebekah",
+        "B": "Rachel",
+        "C": "Leah",
+        "D": "Sarah"
+      },
+      "explanation": "Genesis 24:15 says 'Rebekah came out.'"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "verse_reference": "Genesis 25:25",
+      "question": "What did Esau look like when he was born?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Red, all over like a hairy garment",
+        "B": "Fair and smooth",
+        "C": "Strong and tall",
+        "D": "Weak and small"
+      },
+      "explanation": "Genesis 25:25 says 'the first came out red, all over like an hairy garment.'"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "verse_reference": "Genesis 28:12",
+      "question": "What did Jacob see in his dream at Bethel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A ladder set up on the earth reaching to heaven with angels ascending and descending",
+        "B": "A great city",
+        "C": "A burning bush",
+        "D": "A throne of fire"
+      },
+      "explanation": "Genesis 28:12 says 'a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.'"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "verse_reference": "Genesis 32:28",
+      "question": "What new name did God give to Jacob?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Israel",
+        "B": "Abraham",
+        "C": "Isaac",
+        "D": "Joseph"
+      },
+      "explanation": "Genesis 32:28 says 'Thy name shall be called no more Jacob, but Israel.'"
+    },
+    {
+      "id": 51,
+      "level": 2,
+      "verse_reference": "Genesis 1:1",
+      "question": "What does the opening verse of Genesis teach us about the nature of God?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That God is the Creator of all things",
+        "B": "That God is only a spirit",
+        "C": "That God is distant from creation",
+        "D": "That God did not create the world"
+      },
+      "explanation": "Genesis 1:1 reveals God as the sovereign Creator who existed before all things and brought the universe into existence."
+    },
+    {
+      "id": 52,
+      "level": 2,
+      "verse_reference": "Genesis 1:3",
+      "question": "What is significant about God speaking light into existence?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It shows God's power to create by His word alone",
+        "B": "It shows God needed materials to create",
+        "C": "It shows God was limited in His power",
+        "D": "It shows light already existed"
+      },
+      "explanation": "God's spoken word demonstrates His absolute authority and creative power without needing any pre-existing materials."
+    },
+    {
+      "id": 53,
+      "level": 2,
+      "verse_reference": "Genesis 1:26",
+      "question": "What does 'Let us make man in our image' imply about God?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It implies the plurality and unity within the Godhead",
+        "B": "It implies God was speaking to angels",
+        "C": "It implies God was uncertain",
+        "D": "It implies God needed help"
+      },
+      "explanation": "The plural 'us' and 'our' suggests a plurality of persons within the one God - consistent with the Trinity."
+    },
+    {
+      "id": 54,
+      "level": 2,
+      "verse_reference": "Genesis 2:2-3",
+      "question": "Why did God rest on the seventh day?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To set an example of rest and sanctify the Sabbath",
+        "B": "Because He was tired from creating",
+        "C": "To show He was finished with creation permanently",
+        "D": "Because He needed to rest like humans"
+      },
+      "explanation": "God's rest was not due to fatigue but to establish a pattern of rest and bless the Sabbath day for His creation."
+    },
+    {
+      "id": 55,
+      "level": 2,
+      "verse_reference": "Genesis 3:6",
+      "question": "What motivated Eve to eat the forbidden fruit?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It was good for food, pleasant to the eyes, and desirable to make one wise",
+        "B": "She was hungry and had no other food",
+        "C": "Adam forced her to eat",
+        "D": "She did not know it was forbidden"
+      },
+      "explanation": "Eve was tempted by physical desire, visual appeal, and the pride of becoming wise - three classic forms of temptation."
+    },
+    {
+      "id": 56,
+      "level": 2,
+      "verse_reference": "Genesis 3:15",
+      "question": "What is the significance of the promise that the woman's seed would bruise the serpent's head?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It is the first prophecy of the coming Savior (Messiah)",
+        "B": "It refers to all mankind defeating evil",
+        "C": "It was fulfilled immediately by Adam",
+        "D": "It has no spiritual meaning"
+      },
+      "explanation": "This is known as the 'Protoevangelium' - the first gospel promise that a future descendant of Eve would ultimately defeat Satan."
+    },
+    {
+      "id": 57,
+      "level": 2,
+      "verse_reference": "Genesis 4:9",
+      "question": "What does Cain's question 'Am I my brother's keeper?' reveal about his character?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It reveals his selfishness, defensiveness, and lack of responsibility for others",
+        "B": "It shows he was genuinely confused",
+        "C": "It proves he was innocent",
+        "D": "It shows he cared deeply for Abel"
+      },
+      "explanation": "Cain's response shows a hardened heart, refusing to acknowledge responsibility for his brother's welfare after murdering him."
+    },
+    {
+      "id": 58,
+      "level": 2,
+      "verse_reference": "Genesis 6:5",
+      "question": "What does 'every imagination of the thoughts of his heart was only evil continually' tell us about the condition of humanity before the flood?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Humanity had become completely corrupt and wicked",
+        "B": "Only some people were evil",
+        "C": "People were basically good",
+        "D": "Only their thoughts were evil, not their actions"
+      },
+      "explanation": "This describes total depravity - that sin had corrupted every aspect of human nature before the flood."
+    },
+    {
+      "id": 59,
+      "level": 2,
+      "verse_reference": "Genesis 8:21",
+      "question": "What does God's promise never to destroy the earth again with a flood teach us about His character?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God is merciful and keeps His promises despite human sin",
+        "B": "God was unable to flood the earth again",
+        "C": "God changed His mind about judging sin",
+        "D": "God no longer cares about sin"
+      },
+      "explanation": "Despite knowing that 'the imagination of man's heart is evil from his youth,' God shows mercy by promising never to destroy all life with a flood again."
+    },
+    {
+      "id": 60,
+      "level": 2,
+      "verse_reference": "Genesis 9:6",
+      "question": "Why does God require the death penalty for murder according to this verse?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because man was made in the image of God",
+        "B": "Because murder is a crime",
+        "C": "Because it was a cultural practice",
+        "D": "Because God enjoys punishment"
+      },
+      "explanation": "The sanctity of human life is based on the fact that humans are created in God's image, making murder an attack on God Himself."
+    },
+    {
+      "id": 61,
+      "level": 2,
+      "verse_reference": "Genesis 11:4",
+      "question": "What was the underlying sin of those building the Tower of Babel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Pride and the desire to make a name for themselves instead of glorifying God",
+        "B": "They wanted better housing",
+        "C": "They feared another flood",
+        "D": "They wanted to reach heaven physically"
+      },
+      "explanation": "Their goal was to 'make us a name' - seeking their own glory rather than obeying God's command to fill the earth."
+    },
+    {
+      "id": 62,
+      "level": 2,
+      "verse_reference": "Genesis 12:2-3",
+      "question": "What was the purpose of God's blessing on Abram?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To make him a blessing to all families of the earth",
+        "B": "Only for Abram's personal benefit",
+        "C": "To make him rich",
+        "D": "To separate him from everyone else"
+      },
+      "explanation": "God blessed Abram not just for his own sake but so that 'all families of the earth be blessed' through him."
+    },
+    {
+      "id": 63,
+      "level": 2,
+      "verse_reference": "Genesis 15:6",
+      "question": "What does Abram's faith being 'counted... for righteousness' teach about salvation?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Righteousness comes through faith, not works",
+        "B": "Righteousness comes through circumcision",
+        "C": "Righteousness comes through sacrifices",
+        "D": "Righteousness comes through perfect living"
+      },
+      "explanation": "This verse is foundational for understanding justification by faith - Abram was declared righteous because he believed God, not because of his works."
+    },
+    {
+      "id": 64,
+      "level": 2,
+      "verse_reference": "Genesis 18:14",
+      "question": "What does 'Is any thing too hard for the LORD?' teach us about God's power?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Nothing is impossible for God",
+        "B": "God can do some things but not everything",
+        "C": "God's power is limited by natural laws",
+        "D": "God only does easy things"
+      },
+      "explanation": "This rhetorical question affirms God's omnipotence - that He has unlimited power and nothing is impossible for Him."
+    },
+    {
+      "id": 65,
+      "level": 2,
+      "verse_reference": "Genesis 22:12",
+      "question": "What was God testing when He asked Abraham to sacrifice Isaac?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Abraham's fear of God and willingness to obey",
+        "B": "Abraham's physical strength",
+        "C": "Isaac's loyalty",
+        "D": "Sarah's faith"
+      },
+      "explanation": "God tested Abraham's devotion and obedience - showing that he feared God more than he loved even his promised son."
+    },
+    {
+      "id": 66,
+      "level": 2,
+      "verse_reference": "Genesis 25:34",
+      "question": "What does Esau's willingness to sell his birthright for a meal reveal about his values?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He despised spiritual blessings for immediate physical gratification",
+        "B": "He was very hungry and made a reasonable choice",
+        "C": "He planned to get his birthright back later",
+        "D": "He did not understand what he was doing"
+      },
+      "explanation": "Esau's choice showed he valued temporary, physical satisfaction more than the lasting spiritual significance of his birthright."
+    },
+    {
+      "id": 67,
+      "level": 2,
+      "verse_reference": "Genesis 28:16-17",
+      "question": "Why was Jacob afraid after his dream at Bethel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He realized he had encountered the presence of God",
+        "B": "He was afraid of the ladder",
+        "C": "He thought the dream was a bad omen",
+        "D": "He was afraid of the angels"
+      },
+      "explanation": "Jacob was filled with awe and fear because he recognized that he had unexpectedly come into the presence of the holy God."
+    },
+    {
+      "id": 68,
+      "level": 2,
+      "verse_reference": "Genesis 32:24-28",
+      "question": "What does Jacob's wrestling with God represent spiritually?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Perseverance in prayer and dependence on God",
+        "B": "Fighting against God's will",
+        "C": "Physical exercise",
+        "D": "Anger towards God"
+      },
+      "explanation": "Jacob's wrestling symbolizes persistent prayer and the struggle of faith - refusing to let go until God blesses."
+    },
+    {
+      "id": 69,
+      "level": 2,
+      "verse_reference": "Genesis 37:3-4",
+      "question": "Why did Joseph's brothers hate him?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Their father loved Joseph more and gave him a special coat",
+        "B": "Joseph was mean to them",
+        "C": "Joseph stole from them",
+        "D": "Joseph was lazy"
+      },
+      "explanation": "Jacob's favoritism toward Joseph, symbolized by the coat of many colors, fueled jealousy and hatred among the brothers."
+    },
+    {
+      "id": 70,
+      "level": 2,
+      "verse_reference": "Genesis 45:5",
+      "question": "How did Joseph view his brothers selling him into slavery?",
+      "correct_answer": "A",
+      "options": {
+        "A": "As God's plan to preserve life, not their evil intent",
+        "B": "As unforgivable betrayal",
+        "C": "As a random accident",
+        "D": "As something he would never forgive"
+      },
+      "explanation": "Joseph recognized God's sovereignty - the brothers meant evil, but God used it for good to save many lives."
+    },
+    {
+      "id": 71,
+      "level": 2,
+      "verse_reference": "Genesis 50:20",
+      "question": "How does Joseph's statement 'ye thought evil against me; but God meant it unto good' teach about suffering?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God can redeem evil circumstances for good purposes",
+        "B": "Suffering has no meaning",
+        "C": "God causes all evil directly",
+        "D": "We should seek revenge"
+      },
+      "explanation": "Joseph models faith that God sovereignly works through human evil to accomplish His good purposes."
+    },
+    {
+      "id": 72,
+      "level": 2,
+      "verse_reference": "Genesis 3:22-24",
+      "question": "Why did God expel Adam and Eve from the garden?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To prevent them from eating the tree of life and living forever in sin",
+        "B": "Because God was angry",
+        "C": "Because the garden was destroyed",
+        "D": "Because they wanted to leave"
+      },
+      "explanation": "God showed mercy by preventing eternal life in a fallen, sinful condition."
+    },
+    {
+      "id": 73,
+      "level": 2,
+      "verse_reference": "Genesis 4:3-5",
+      "question": "Why did God accept Abel's offering but not Cain's?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The heart attitude and faith behind the offering mattered more than the offering itself",
+        "B": "God prefers meat over vegetables",
+        "C": "Cain's offering was smaller",
+        "D": "God was playing favorites"
+      },
+      "explanation": "Hebrews 11:4 explains Abel offered by faith; the issue was not the offering but the heart."
+    },
+    {
+      "id": 74,
+      "level": 2,
+      "verse_reference": "Genesis 12:1-3",
+      "question": "What are the three promises God made to Abram?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Land, descendants, and blessing to all nations",
+        "B": "Wealth, power, and fame",
+        "C": "Health, longevity, and wisdom",
+        "D": "Victory, prosperity, and peace"
+      },
+      "explanation": "God promised Abram land (Canaan), countless descendants, and that through him all nations would be blessed."
+    },
+    {
+      "id": 75,
+      "level": 2,
+      "verse_reference": "Genesis 15:1",
+      "question": "Why did God tell Abram 'Fear not'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "I am thy shield and thy exceeding great reward",
+        "B": "I will make you rich",
+        "C": "I will defeat your enemies",
+        "D": "I will make you king"
+      },
+      "explanation": "God reassured Abram of His protection (shield) and provision (reward)."
+    },
+    {
+      "id": 76,
+      "level": 2,
+      "verse_reference": "Genesis 17:10-11",
+      "question": "What was the purpose of circumcision as a sign of the covenant?",
+      "correct_answer": "A",
+      "options": {
+        "A": "An outward physical sign of the spiritual covenant between God and Abraham's descendants",
+        "B": "A medical procedure",
+        "C": "A cultural tradition",
+        "D": "A punishment"
+      },
+      "explanation": "Circumcision was a visible sign marking those who belonged to God's covenant people."
+    },
+    {
+      "id": 77,
+      "level": 2,
+      "verse_reference": "Genesis 18:23-33",
+      "question": "What does Abraham's intercession for Sodom demonstrate about God's justice?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God is willing to spare the righteous even among the wicked",
+        "B": "God does not listen to prayer",
+        "C": "God's mind can be changed by bargaining",
+        "D": "God does not judge sin"
+      },
+      "explanation": "Abraham's dialogue shows God's justice separates judgment on the wicked from the righteous."
+    },
+    {
+      "id": 78,
+      "level": 2,
+      "verse_reference": "Genesis 19:26",
+      "question": "Why did Lot's wife become a pillar of salt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "She looked back disobediently, showing attachment to Sodom",
+        "B": "She was struck by lightning",
+        "C": "She tripped and fell",
+        "D": "She was turned into salt as a punishment for her sins"
+      },
+      "explanation": "Her backward glance revealed her heart was still attached to the wicked city she was commanded to leave."
+    },
+    {
+      "id": 79,
+      "level": 2,
+      "verse_reference": "Genesis 22:8",
+      "question": "What did Abraham mean when he said 'God will provide himself a lamb'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A prophetic statement pointing to God's ultimate provision of Jesus as the Lamb",
+        "B": "He was lying to Isaac",
+        "C": "He hoped a lamb would appear",
+        "D": "He was confused"
+      },
+      "explanation": "Abraham prophetically spoke of God's provision, ultimately fulfilled in Christ, the Lamb of God."
+    },
+    {
+      "id": 80,
+      "level": 2,
+      "verse_reference": "Genesis 24:67",
+      "question": "What comfort did Rebekah bring to Isaac?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He was comforted after his mother's death",
+        "B": "She brought him wealth",
+        "C": "She brought him servants",
+        "D": "She brought him a new home"
+      },
+      "explanation": "Rebekah's love comforted Isaac after the loss of his mother Sarah."
+    },
+    {
+      "id": 81,
+      "level": 2,
+      "verse_reference": "Genesis 27:36",
+      "question": "Why did Esau say Jacob was rightly named?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because Jacob (supplanter) had taken his birthright and blessing",
+        "B": "Because Jacob was honest",
+        "C": "Because Jacob was strong",
+        "D": "Because Jacob was wise"
+      },
+      "explanation": "Esau connected Jacob's name (meaning 'supplanter') with his actions of taking both birthright and blessing."
+    },
+    {
+      "id": 82,
+      "level": 2,
+      "verse_reference": "Genesis 29:20",
+      "question": "Why did seven years seem like a few days to Jacob?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because of his great love for Rachel",
+        "B": "Because he was wealthy",
+        "C": "Because he enjoyed the work",
+        "D": "Because time passed quickly"
+      },
+      "explanation": "Jacob's deep love for Rachel made the long wait feel short."
+    },
+    {
+      "id": 83,
+      "level": 2,
+      "verse_reference": "Genesis 31:49",
+      "question": "What did the name Mizpah ('The LORD watch between me and thee') signify?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A witness that God would oversee their covenant when apart",
+        "B": "A curse on Jacob",
+        "C": "A promise of wealth",
+        "D": "A threat of punishment"
+      },
+      "explanation": "Mizpah invoked God as the witness and guardian of their agreement when they were separated."
+    },
+    {
+      "id": 84,
+      "level": 2,
+      "verse_reference": "Genesis 35:10",
+      "question": "Why did God change Jacob's name to Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because he had power with God and men and prevailed",
+        "B": "Because he was wealthy",
+        "C": "Because he built an altar",
+        "D": "Because he had many children"
+      },
+      "explanation": "The name Israel ('prince with God') commemorated Jacob's wrestling with God and his new identity."
+    },
+    {
+      "id": 85,
+      "level": 2,
+      "verse_reference": "Genesis 37:28",
+      "question": "For how much silver was Joseph sold by his brothers?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Twenty pieces of silver",
+        "B": "Ten pieces of silver",
+        "C": "Thirty pieces of silver",
+        "D": "Fifty pieces of silver"
+      },
+      "explanation": "Genesis 37:28 says 'sold Joseph to the Ishmeelites for twenty pieces of silver.'"
+    },
+    {
+      "id": 86,
+      "level": 2,
+      "verse_reference": "Genesis 39:2",
+      "question": "Why did everything prosper in Joseph's hands?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The LORD was with Joseph",
+        "B": "He was naturally talented",
+        "C": "He was lucky",
+        "D": "He had good connections"
+      },
+      "explanation": "Joseph's success was because 'the LORD was with Joseph' and blessed everything he did."
+    },
+    {
+      "id": 87,
+      "level": 2,
+      "verse_reference": "Genesis 41:16",
+      "question": "To whom did Joseph give credit for interpreting dreams?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God",
+        "B": "His own wisdom",
+        "C": "The magicians",
+        "D": "Pharaoh"
+      },
+      "explanation": "Joseph humbly said 'It is not in me: God shall give Pharaoh an answer of peace.'"
+    },
+    {
+      "id": 88,
+      "level": 2,
+      "verse_reference": "Genesis 44:33",
+      "question": "What did Judah offer to do for Benjamin?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Become a slave in his place",
+        "B": "Give him money",
+        "C": "Fight for him",
+        "D": "Run away with him"
+      },
+      "explanation": "Judah offered himself as a substitute slave to spare Benjamin, showing character transformation."
+    },
+    {
+      "id": 89,
+      "level": 2,
+      "verse_reference": "Genesis 47:9",
+      "question": "How did Jacob describe his years of life to Pharaoh?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Few and evil",
+        "B": "Long and prosperous",
+        "C": "Happy and joyful",
+        "D": "Difficult but rewarding"
+      },
+      "explanation": "Jacob humbly said his 130 years were 'few and evil' compared to his fathers."
+    },
+    {
+      "id": 90,
+      "level": 2,
+      "verse_reference": "Genesis 49:22-26",
+      "question": "What was special about Joseph's blessing from Jacob?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He received a greater portion and rich blessings from heaven and earth",
+        "B": "He received nothing",
+        "C": "He was cursed",
+        "D": "He was ignored"
+      },
+      "explanation": "Jacob gave Joseph extensive blessings, including a double portion through his sons Ephraim and Manasseh."
+    },
+    {
+      "id": 91,
+      "level": 3,
+      "verse_reference": "Genesis 1:1-2",
+      "question": "How does the description of the earth as 'without form, and void' contribute to the theological message of creation?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It emphasizes God's creation of order, light, and life from chaos and emptiness",
+        "B": "It suggests God created the world in an imperfect state",
+        "C": "It indicates a battle between God and chaos",
+        "D": "It denies God's direct creation"
+      },
+      "explanation": "The initial chaos and darkness highlight God's power to bring order, light, and goodness into existence by His Word."
+    },
+    {
+      "id": 92,
+      "level": 3,
+      "verse_reference": "Genesis 2:24",
+      "question": "What foundational principle for marriage is established in Genesis 2:24?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Leaving parents, cleaving to spouse, becoming one flesh",
+        "B": "Polygamy is acceptable",
+        "C": "Divorce is encouraged",
+        "D": "Marriage is optional"
+      },
+      "explanation": "Jesus quotes this verse to establish God's original design for marriage as a permanent, exclusive union."
+    },
+    {
+      "id": 93,
+      "level": 3,
+      "verse_reference": "Genesis 3:1-6",
+      "question": "What pattern of temptation is shown in Eve's encounter with the serpent?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Doubt God's word, denial of consequences, desire for what's forbidden",
+        "B": "Physical attack, fear, confusion",
+        "C": "Ignorance, innocence, accident",
+        "D": "Hunger, thirst, fatigue"
+      },
+      "explanation": "The serpent first created doubt about God's command, then denied judgment, then appealed to pride."
+    },
+    {
+      "id": 94,
+      "level": 3,
+      "verse_reference": "Genesis 6:9",
+      "question": "What does it mean that Noah 'walked with God'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He lived in constant fellowship and obedience to God",
+        "B": "He literally walked beside God",
+        "C": "He was perfect and sinless",
+        "D": "He never made mistakes"
+      },
+      "explanation": "Walking with God describes a life of close relationship, trust, and obedience."
+    },
+    {
+      "id": 95,
+      "level": 3,
+      "verse_reference": "Genesis 9:25-27",
+      "question": "What is the significance of Noah's curse on Canaan and blessing on Shem and Japheth?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It prophetically describes the future relationship of these peoples",
+        "B": "It was just an angry father's words",
+        "C": "It had no lasting effect",
+        "D": "It was immediately fulfilled"
+      },
+      "explanation": "This prophecy foreshadows Israel's conquest of Canaan (descendants of Ham) and God's blessing through Shem."
+    },
+    {
+      "id": 96,
+      "level": 3,
+      "verse_reference": "Genesis 12:10-20",
+      "question": "What does Abram's deception in Egypt reveal about his faith at this point?",
+      "correct_answer": "A",
+      "options": {
+        "A": "His faith was still developing; he feared man more than trusting God",
+        "B": "He had perfect faith",
+        "C": "He was a liar by nature",
+        "D": "He did not believe in God"
+      },
+      "explanation": "Abram's fear of Pharaoh shows his faith was not yet fully mature, despite earlier obedience."
+    },
+    {
+      "id": 97,
+      "level": 3,
+      "verse_reference": "Genesis 14:18-20",
+      "question": "Why is Melchizedek significant in biblical theology?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He is a type of Christ as both king and priest",
+        "B": "He was an angel",
+        "C": "He was Abraham's brother",
+        "D": "He was the first Jew"
+      },
+      "explanation": "Melchizedek, king of Salem and priest of God, prefigures Jesus who is a priest forever after his order (Hebrews 7)."
+    },
+    {
+      "id": 98,
+      "level": 3,
+      "verse_reference": "Genesis 16:1-4",
+      "question": "What was the spiritual problem with Abram and Sarai's plan to have a child through Hagar?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They took matters into their own hands instead of waiting for God's timing",
+        "B": "They should have adopted instead",
+        "C": "They should have used a different servant",
+        "D": "They should have prayed more"
+      },
+      "explanation": "Their lack of faith led them to use cultural practices instead of trusting God's promise in His timing."
+    },
+    {
+      "id": 99,
+      "level": 3,
+      "verse_reference": "Genesis 19:1-11",
+      "question": "What does the sin of Sodom reveal about the extent of their wickedness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Their sexual immorality and violent rejection of hospitality showed total depravity",
+        "B": "They were just inhospitable",
+        "C": "They were only slightly bad",
+        "D": "They were misunderstood"
+      },
+      "explanation": "The men of Sodom demanded to sexually assault the visitors, showing profound wickedness deserving judgment."
+    },
+    {
+      "id": 100,
+      "level": 3,
+      "verse_reference": "Genesis 22:1-19",
+      "question": "What is the theological significance of Abraham's near-sacrifice of Isaac?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It foreshadows God's sacrifice of His own Son",
+        "B": "It proves Abraham was willing to kill",
+        "C": "It shows God changed His mind",
+        "D": "It was a test of physical strength"
+      },
+      "explanation": "This story prefigures God the Father offering His Son Jesus as the ultimate sacrifice."
+    },
+    {
+      "id": 101,
+      "level": 3,
+      "verse_reference": "Genesis 27:1-40",
+      "question": "What does Jacob's deception to receive Isaac's blessing teach about God's sovereignty?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's purposes prevail despite human sin and schemes",
+        "B": "God approves of deception",
+        "C": "God's plan can be thwarted",
+        "D": "Blessings have no power"
+      },
+      "explanation": "Despite Jacob's deception, God's chosen line continued through Jacob as He had ordained before their birth (Romans 9)."
+    },
+    {
+      "id": 102,
+      "level": 3,
+      "verse_reference": "Genesis 29:18-30",
+      "question": "What does Laban's deception of Jacob teach about reaping what we sow?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Jacob, who deceived his father, was now deceived by his uncle",
+        "B": "Deception is always punished immediately",
+        "C": "Laban was innocent",
+        "D": "Jacob deserved worse"
+      },
+      "explanation": "There is poetic justice - Jacob the deceiver experienced deception himself, refining his character."
+    },
+    {
+      "id": 103,
+      "level": 3,
+      "verse_reference": "Genesis 32:24-30",
+      "question": "Why did Jacob demand a blessing from the man he wrestled?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He recognized this was a divine encounter and refused to let go without assurance",
+        "B": "He wanted physical strength",
+        "C": "He wanted to win the fight",
+        "D": "He was stubborn"
+      },
+      "explanation": "Jacob's persistence shows the principle of persevering prayer - clinging to God until He blesses."
+    },
+    {
+      "id": 104,
+      "level": 3,
+      "verse_reference": "Genesis 34:1-31",
+      "question": "What was the problem with Simeon and Levi's revenge on Shechem?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They used deceit and excessive violence, bringing shame on Jacob's family",
+        "B": "They were right to kill everyone",
+        "C": "They should have killed more people",
+        "D": "They were too merciful"
+      },
+      "explanation": "Their disproportionate revenge broke the covenant they had made under false pretenses, violating trust."
+    },
+    {
+      "id": 105,
+      "level": 3,
+      "verse_reference": "Genesis 37:9-11",
+      "question": "Why did Jacob rebuke Joseph for his dream but also 'observed the saying'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He was offended but recognized it might be prophetic",
+        "B": "He completely rejected the dream",
+        "C": "He was angry at Joseph",
+        "D": "He didn't understand"
+      },
+      "explanation": "Jacob's response shows the tension between natural offense at the dream's implications and openness to God's revelation."
+    },
+    {
+      "id": 106,
+      "level": 3,
+      "verse_reference": "Genesis 38:8-10",
+      "question": "Why was Onan's action considered wicked by the LORD?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He refused to raise up offspring for his brother, disobeying the duty of a levirate marriage",
+        "B": "He used birth control",
+        "C": "He hated his brother's wife",
+        "D": "He was too young"
+      },
+      "explanation": "Onan's refusal to fulfill his family duty was an act of disobedience and selfishness against God's commands."
+    },
+    {
+      "id": 107,
+      "level": 3,
+      "verse_reference": "Genesis 40:1-23",
+      "question": "What does Joseph's interpretation of the cupbearer and baker's dreams teach about God's timing?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's plans unfold in His perfect timing, not Joseph's",
+        "B": "Interpretation is easy",
+        "C": "Dreams are always literal",
+        "D": "Joseph was lucky"
+      },
+      "explanation": "Joseph had to wait two more years after successfully interpreting the dreams before his own deliverance came."
+    },
+    {
+      "id": 108,
+      "level": 3,
+      "verse_reference": "Genesis 41:25-32",
+      "question": "Why did Pharaoh dream the same message twice?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To show the matter was firmly established by God and would happen soon",
+        "B": "Pharaoh had bad memory",
+        "C": "The dreams were different",
+        "D": "Joseph misinterpreted"
+      },
+      "explanation": "Joseph explained that the double dream confirmed God's decree and its imminence."
+    },
+    {
+      "id": 109,
+      "level": 3,
+      "verse_reference": "Genesis 42:21-22",
+      "question": "What did Joseph's brothers recognize as the cause of their current distress?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Their guilt over how they treated Joseph",
+        "B": "A random misfortune",
+        "C": "A famine",
+        "D": "Joseph's revenge"
+      },
+      "explanation": "Conscience awakened; they connected their suffering to their sin against Joseph years earlier."
+    },
+    {
+      "id": 110,
+      "level": 3,
+      "verse_reference": "Genesis 43:34",
+      "question": "Why did Joseph give Benjamin five times more food than the others?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To test his brothers' reaction for jealousy toward Benjamin as they had shown toward him",
+        "B": "He simply liked Benjamin more",
+        "C": "It was a cultural custom",
+        "D": "Benjamin was hungry"
+      },
+      "explanation": "Joseph was testing whether his brothers had changed - would they envy Benjamin as they had envied him?"
+    },
+    {
+      "id": 111,
+      "level": 3,
+      "verse_reference": "Genesis 44:18-34",
+      "question": "How does Judah's speech show character transformation?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He offered himself as a substitute slave for Benjamin, unlike his earlier selfishness",
+        "B": "He blamed Benjamin",
+        "C": "He ran away",
+        "D": "He denied knowing Benjamin"
+      },
+      "explanation": "The same Judah who suggested selling Joseph now offered himself to protect his brother, showing genuine change."
+    },
+    {
+      "id": 112,
+      "level": 3,
+      "verse_reference": "Genesis 45:24",
+      "question": "What did Joseph mean by 'See that ye fall not out by the way'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Don't argue or blame each other about the past on the journey home",
+        "B": "Don't fall off your donkeys",
+        "C": "Don't lose the supplies",
+        "D": "Don't get lost"
+      },
+      "explanation": "Joseph was warning against quarreling over who was responsible for selling him - he had forgiven them."
+    },
+    {
+      "id": 113,
+      "level": 3,
+      "verse_reference": "Genesis 46:3-4",
+      "question": "Why did God tell Jacob not to fear going down to Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because He would go with him and bring him back",
+        "B": "Because Egypt was safe",
+        "C": "Because there was no danger",
+        "D": "Because Joseph would protect him"
+      },
+      "explanation": "God's presence and promise of return addressed Jacob's fear of leaving the Promised Land."
+    },
+    {
+      "id": 114,
+      "level": 3,
+      "verse_reference": "Genesis 48:14-19",
+      "question": "Why did Jacob cross his hands to bless Ephraim before Manasseh?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Guided by the Spirit to give the greater blessing to the younger",
+        "B": "He was confused due to blindness",
+        "C": "He made a mistake",
+        "D": "Joseph forced him"
+      },
+      "explanation": "Jacob intentionally blessed the younger son, continuing the pattern of God choosing the unexpected."
+    },
+    {
+      "id": 115,
+      "level": 3,
+      "verse_reference": "Genesis 49:3-4",
+      "question": "Why did Reuben lose his birthright and blessing as firstborn?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He defiled his father's bed by sleeping with Bilhah",
+        "B": "He was lazy",
+        "C": "He didn't want the birthright",
+        "D": "He was too young"
+      },
+      "explanation": "Reuben's sin with Bilhah disqualified him from the privileges and responsibilities of the firstborn."
+    },
+    {
+      "id": 116,
+      "level": 3,
+      "verse_reference": "Genesis 49:8-12",
+      "question": "What is significant about Judah's blessing compared to his brothers'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It includes the promise of kingship and the coming Messiah (Shiloh)",
+        "B": "It was shorter",
+        "C": "It was a curse",
+        "D": "It was forgotten"
+      },
+      "explanation": "Judah received the ruling scepter and the promise of the Messiah, the line of David and Jesus."
+    },
+    {
+      "id": 117,
+      "level": 3,
+      "verse_reference": "Genesis 50:1-3",
+      "question": "What does the Egyptian embalming of Jacob (Israel) signify about the family's integration into Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They had become influential and respected in Egyptian society",
+        "B": "They rejected their Hebrew identity",
+        "C": "They were forced to adopt Egyptian customs",
+        "D": "The Egyptians took over their burial"
+      },
+      "explanation": "The Egyptian-style embalming, typically reserved for royalty, shows Jacob's high status in Egypt."
+    },
+    {
+      "id": 118,
+      "level": 3,
+      "verse_reference": "Genesis 50:15-21",
+      "question": "What does Joseph's response to his brothers' fear reveal about genuine forgiveness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "True forgiveness releases others' guilt and trusts God's sovereignty",
+        "B": "Forgiveness requires forgetting everything",
+        "C": "Forgiveness is always easy",
+        "D": "He should have punished them"
+      },
+      "explanation": "Joseph wept at their fear, assured them of his forgiveness, and reframed their evil in light of God's good plan."
+    },
+    {
+      "id": 119,
+      "level": 3,
+      "verse_reference": "Genesis 50:25",
+      "question": "Why did Joseph make the Israelites swear to carry his bones to Canaan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "As an act of faith that God would bring them back to the Promised Land",
+        "B": "Because he didn't like Egypt",
+        "C": "Because his brothers asked him to",
+        "D": "Because Pharaoh allowed it"
+      },
+      "explanation": "Joseph's request demonstrated faith in God's promise to return Abraham's descendants to Canaan."
+    },
+    {
+      "id": 120,
+      "level": 3,
+      "verse_reference": "Genesis 50:26",
+      "question": "What is the literary and theological significance of Genesis ending with Joseph in a coffin in Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It leaves the story unfinished, pointing to Exodus and God's future deliverance",
+        "B": "It's a sad ending with no hope",
+        "C": "It shows Joseph was forgotten",
+        "D": "It has no significance"
+      },
+      "explanation": "The open-ended conclusion sets up the need for Exodus - God's people are in Egypt awaiting redemption."
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "verse_reference": "Genesis 30:22-24",
+      "question": "What did Joseph's name mean according to Rachel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The LORD shall add another son",
+        "B": "He will increase",
+        "C": "God has taken away reproach",
+        "D": "Beloved son"
+      },
+      "explanation": "Rachel said 'The LORD shall add to me another son,' connecting Joseph's name to addition and hope."
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "verse_reference": "Genesis 33:4",
+      "question": "How did Esau greet Jacob when they finally met?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He ran to meet him, embraced him, kissed him, and they wept",
+        "B": "He attacked him",
+        "C": "He ignored him",
+        "D": "He cursed him"
+      },
+      "explanation": "Esau's surprising embrace shows God had softened his heart, granting reconciliation."
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "verse_reference": "Genesis 36:1-43",
+      "question": "Why does Genesis include the detailed genealogy of Esau (Edom)?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To show God's faithfulness to Esau's descendants and Israel's connection to neighboring nations",
+        "B": "It's an unnecessary addition",
+        "C": "To show Esau was more important",
+        "D": "To prove a historical point"
+      },
+      "explanation": "The genealogy honors Esau as Abraham's son and explains Israel's relationship with Edom."
+    },
+    {
+      "id": 124,
+      "level": 1,
+      "verse_reference": "Genesis 31:47-49",
+      "question": "What did Jacob and Laban name the heap of stones marking their covenant?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Galeed and Mizpah",
+        "B": "Bethel and Eden",
+        "C": "Hebron and Shechem",
+        "D": "Peniel and Succoth"
+      },
+      "explanation": "Jacob called it Galeed, Laban called it Jegarsahadutha, and Mizpah was the watchtower name."
+    },
+    {
+      "id": 125,
+      "level": 1,
+      "verse_reference": "Genesis 31:55",
+      "question": "What did Laban do before parting from Jacob?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Kissed his sons and daughters and blessed them",
+        "B": "Cursed them",
+        "C": "Attacked them",
+        "D": "Stole from them"
+      },
+      "explanation": "Laban departed after kissing his daughters and grandchildren and blessing them goodbye."
+    },
+    {
+      "id": 126,
+      "level": 1,
+      "verse_reference": "Genesis 33:17",
+      "question": "What did Jacob build for his cattle at Succoth?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Booths",
+        "B": "A wall",
+        "C": "A barn",
+        "D": "A tower"
+      },
+      "explanation": "Jacob made booths (succoth) for his cattle, giving the place its name."
+    },
+    {
+      "id": 127,
+      "level": 1,
+      "verse_reference": "Genesis 35:8",
+      "question": "Who was Deborah in relation to Jacob's family?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Rebekah's nurse",
+        "B": "Jacob's wife",
+        "C": "Leah's mother",
+        "D": "Rachel's sister"
+      },
+      "explanation": "Deborah was Rebekah's nurse who died and was buried under an oak called Allonbachuth."
+    },
+    {
+      "id": 128,
+      "level": 1,
+      "verse_reference": "Genesis 35:18",
+      "question": "What name did Rachel give her son before dying, and what did Jacob rename him?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Benoni, but Jacob called him Benjamin",
+        "B": "Joseph, but Jacob called him Ephraim",
+        "C": "Manasseh, but Jacob called him Naphtali",
+        "D": "Levi, but Jacob called him Simeon"
+      },
+      "explanation": "Rachel named him Benoni ('son of my sorrow'), Jacob renamed him Benjamin ('son of the right hand')."
+    },
+    {
+      "id": 129,
+      "level": 1,
+      "verse_reference": "Genesis 36:8",
+      "question": "Where did Esau settle with his descendants?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Mount Seir",
+        "B": "Mount Sinai",
+        "C": "Mount Moriah",
+        "D": "Mount Carmel"
+      },
+      "explanation": "Esau dwelt in mount Seir; Esau is Edom, and his descendants were the Edomites."
+    },
+    {
+      "id": 130,
+      "level": 1,
+      "verse_reference": "Genesis 41:45",
+      "question": "What Egyptian name did Pharaoh give to Joseph?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Zaphnathpaaneah",
+        "B": "Potipherah",
+        "C": "Abimelech",
+        "D": "Melchizedek"
+      },
+      "explanation": "Pharaoh named Joseph Zaphnathpaaneah, meaning 'savior of the world' or 'revealer of secrets.'"
+    },
+    {
+      "id": 131,
+      "level": 1,
+      "verse_reference": "Genesis 41:51-52",
+      "question": "What were the names of Joseph's two sons and what did they mean?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Manasseh ('forget') and Ephraim ('fruitful')",
+        "B": "Reuben and Simeon",
+        "C": "Levi and Judah",
+        "D": "Dan and Naphtali"
+      },
+      "explanation": "Manasseh means 'God has made me forget my toil' and Ephraim means 'God has made me fruitful.'"
+    },
+    {
+      "id": 132,
+      "level": 1,
+      "verse_reference": "Genesis 42:6",
+      "question": "What did Joseph's brothers do when they came before him in Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Bowed down to him with their faces to the earth",
+        "B": "Ran away",
+        "C": "Fought him",
+        "D": "Ignored him"
+      },
+      "explanation": "They bowed before Joseph, unknowingly fulfilling his childhood dreams of their submission."
+    },
+    {
+      "id": 133,
+      "level": 1,
+      "verse_reference": "Genesis 43:34",
+      "question": "How much more food was Benjamin given than the other brothers?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Five times as much",
+        "B": "Twice as much",
+        "C": "Ten times as much",
+        "D": "The same amount"
+      },
+      "explanation": "Benjamin's portion was five times larger than the others, testing their jealousy."
+    },
+    {
+      "id": 134,
+      "level": 1,
+      "verse_reference": "Genesis 44:2",
+      "question": "What did Joseph have placed in Benjamin's sack as a test?",
+      "correct_answer": "A",
+      "options": {
+        "A": "His silver cup",
+        "B": "Gold coins",
+        "C": "A royal seal",
+        "D": "A message"
+      },
+      "explanation": "Joseph's silver cup was hidden in Benjamin's sack to create a test of the brothers' loyalty."
+    },
+    {
+      "id": 135,
+      "level": 1,
+      "verse_reference": "Genesis 45:9-11",
+      "question": "Where did Joseph want his father and brothers to live in Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The land of Goshen",
+        "B": "The city of Memphis",
+        "C": "The Nile Delta",
+        "D": "The city of Thebes"
+      },
+      "explanation": "Joseph specifically requested the land of Goshen for his family's settlement."
+    },
+    {
+      "id": 136,
+      "level": 1,
+      "verse_reference": "Genesis 46:27",
+      "question": "How many people from Jacob's house came to Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Seventy",
+        "B": "Fifty",
+        "C": "One hundred",
+        "D": "Thirty"
+      },
+      "explanation": "Genesis 46:27 records that seventy persons from Jacob's family came to Egypt."
+    },
+    {
+      "id": 137,
+      "level": 1,
+      "verse_reference": "Genesis 47:28",
+      "question": "How long did Jacob live in Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Seventeen years",
+        "B": "Ten years",
+        "C": "Twenty years",
+        "D": "Thirty years"
+      },
+      "explanation": "Jacob lived in Egypt for seventeen years, from age 130 to 147."
+    },
+    {
+      "id": 138,
+      "level": 1,
+      "verse_reference": "Genesis 48:5",
+      "question": "Whom did Jacob adopt as his own sons, equal to Reuben and Simeon?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ephraim and Manasseh",
+        "B": "Levi and Judah",
+        "C": "Dan and Naphtali",
+        "D": "Gad and Asher"
+      },
+      "explanation": "Jacob adopted Joseph's two sons, giving them inheritance rights as his own."
+    },
+    {
+      "id": 139,
+      "level": 1,
+      "verse_reference": "Genesis 49:33",
+      "question": "What did Jacob do after blessing his sons?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He died and was gathered to his people",
+        "B": "He went back to Canaan",
+        "C": "He became king",
+        "D": "He wrote a will"
+      },
+      "explanation": "After commanding his sons, Jacob gathered up his feet into the bed and died."
+    },
+    {
+      "id": 140,
+      "level": 1,
+      "verse_reference": "Genesis 50:13",
+      "question": "Where was Jacob buried?",
+      "correct_answer": "A",
+      "options": {
+        "A": "In the cave of Machpelah near Mamre",
+        "B": "In Egypt",
+        "C": "In Haran",
+        "D": "In Ur of the Chaldees"
+      },
+      "explanation": "Jacob was buried in the cave of Machpelah, purchased by Abraham as a family burial place."
+    },
+    {
+      "id": 141,
+      "level": 1,
+      "verse_reference": "Genesis 3:24",
+      "question": "What did God place at the east of the garden of Eden?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Cherubims and a flaming sword",
+        "B": "A wall of fire",
+        "C": "An angel with a trumpet",
+        "D": "A river of fire"
+      },
+      "explanation": "God placed cherubim and a flaming sword to guard the way to the tree of life."
+    },
+    {
+      "id": 142,
+      "level": 1,
+      "verse_reference": "Genesis 4:25",
+      "question": "What name did Eve give her third son?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Seth",
+        "B": "Enoch",
+        "C": "Noah",
+        "D": "Abel"
+      },
+      "explanation": "Eve named her son Seth, meaning 'appointed,' as a replacement for Abel."
+    },
+    {
+      "id": 143,
+      "level": 1,
+      "verse_reference": "Genesis 5:3",
+      "question": "At what age did Adam have a son in his own likeness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "130 years",
+        "B": "100 years",
+        "C": "200 years",
+        "D": "50 years"
+      },
+      "explanation": "Adam was 130 years old when he had Seth, who was in his own likeness."
+    },
+    {
+      "id": 144,
+      "level": 1,
+      "verse_reference": "Genesis 6:15",
+      "question": "What were the dimensions of Noah's ark?",
+      "correct_answer": "A",
+      "options": {
+        "A": "300 cubits long, 50 cubits wide, 30 cubits high",
+        "B": "500 cubits long, 100 cubits wide, 50 cubits high",
+        "C": "200 cubits long, 30 cubits wide, 20 cubits high",
+        "D": "400 cubits long, 60 cubits wide, 40 cubits high"
+      },
+      "explanation": "The ark was huge: 300 cubits (450 feet) long, 50 cubits (75 feet) wide, 30 cubits (45 feet) high."
+    },
+    {
+      "id": 145,
+      "level": 1,
+      "verse_reference": "Genesis 9:2-3",
+      "question": "What did God give as food for Noah after the flood?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Every moving thing that liveth (meat)",
+        "B": "Only plants",
+        "C": "Only fish",
+        "D": "Only bread"
+      },
+      "explanation": "God expanded human diet from plants only to include animal meat after the flood."
+    },
+    {
+      "id": 146,
+      "level": 1,
+      "verse_reference": "Genesis 10:8-9",
+      "question": "Who was described as a mighty hunter before the LORD?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Nimrod",
+        "B": "Cain",
+        "C": "Abel",
+        "D": "Noah"
+      },
+      "explanation": "Nimrod, son of Cush, was a mighty hunter whose kingdom began at Babel."
+    },
+    {
+      "id": 147,
+      "level": 1,
+      "verse_reference": "Genesis 23:16",
+      "question": "How much silver did Abraham pay for the cave of Machpelah?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Four hundred shekels of silver",
+        "B": "One hundred shekels",
+        "C": "Seven hundred shekels",
+        "D": "Two hundred shekels"
+      },
+      "explanation": "Abraham weighed out four hundred shekels of silver for the field and cave."
+    },
+    {
+      "id": 148,
+      "level": 1,
+      "verse_reference": "Genesis 24:22",
+      "question": "What gifts did Abraham's servant give to Rebekah at the well?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A golden earring and two bracelets",
+        "B": "A necklace and ring",
+        "C": "Silver coins and cloth",
+        "D": "A camel and gold"
+      },
+      "explanation": "The servant gave Rebekah a golden earring and two bracelets as betrothal gifts."
+    },
+    {
+      "id": 149,
+      "level": 1,
+      "verse_reference": "Genesis 26:18",
+      "question": "What did Isaac do with the wells his father Abraham had dug?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He re-dug them and restored them",
+        "B": "He filled them with dirt",
+        "C": "He ignored them",
+        "D": "He built new ones"
+      },
+      "explanation": "Isaac re-dug his father's wells, which the Philistines had stopped up."
+    },
+    {
+      "id": 150,
+      "level": 1,
+      "verse_reference": "Genesis 27:28-29",
+      "question": "What blessings did Isaac unknowingly give to Jacob?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dew of heaven, fatness of earth, plenty of corn and wine, and rule over his brethren",
+        "B": "Only wealth",
+        "C": "Only land",
+        "D": "Only long life"
+      },
+      "explanation": "Isaac blessed Jacob with agricultural abundance, political rule, and the promise of blessing and cursing."
+    }
+  ]
+}

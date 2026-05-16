@@ -1,0 +1,51 @@
+OLD TESTAMENT - GUJI OROMO BIBLE
+============================================================
+
+Translation: King James (Authorized) Version
+English Name: King James Version
+Language: English
+
+BOOKS IN OLD TESTAMENT:
+----------------------------------------
+ 1. GEN: Genesis -> Genesis.txt
+ 2. EXO: Exodus -> Exodus.txt
+ 3. LEV: Leviticus -> Leviticus.txt
+ 4. NUM: Numbers -> Numbers.txt
+ 5. DEU: Deuteronomy -> Deuteronomy.txt
+ 6. JOS: Joshua -> Joshua.txt
+ 7. JDG: Judges -> Judges.txt
+ 8. RUT: Ruth -> Ruth.txt
+ 9. 1SA: 1 Samuel -> 1_Samuel.txt
+10. 2SA: 2 Samuel -> 2_Samuel.txt
+11. 1KI: 1 Kings -> 1_Kings.txt
+12. 2KI: 2 Kings -> 2_Kings.txt
+13. 1CH: 1 Chronicles -> 1_Chronicles.txt
+14. 2CH: 2 Chronicles -> 2_Chronicles.txt
+15. EZR: Ezra -> Ezra.txt
+16. NEH: Nehemiah -> Nehemiah.txt
+17. EST: Esther -> Esther.txt
+18. JOB: Job -> Job.txt
+19. PSA: Psalms -> Psalms.txt
+20. PRO: Proverbs -> Proverbs.txt
+21. ECC: Ecclesiastes -> Ecclesiastes.txt
+22. SNG: Song of Solomon -> Song_of_Solomon.txt
+23. ISA: Isaiah -> Isaiah.txt
+24. JER: Jeremiah -> Jeremiah.txt
+25. LAM: Lamentations -> Lamentations.txt
+26. EZK: Ezekiel -> Ezekiel.txt
+27. DAN: Daniel -> Daniel.txt
+28. HOS: Hosea -> Hosea.txt
+29. JOL: Joel -> Joel.txt
+30. AMO: Amos -> Amos.txt
+31. OBA: Obadiah -> Obadiah.txt
+32. JON: Jonah -> Jonah.txt
+33. MIC: Micah -> Micah.txt
+34. NAM: Nahum -> Nahum.txt
+35. HAB: Habakkuk -> Habakkuk.txt
+36. ZEP: Zephaniah -> Zephaniah.txt
+37. HAG: Haggai -> Haggai.txt
+38. ZEC: Zechariah -> Zechariah.txt
+39. MAL: Malachi -> Malachi.txt
+
+============================================================
+Total Old Testament books: 39

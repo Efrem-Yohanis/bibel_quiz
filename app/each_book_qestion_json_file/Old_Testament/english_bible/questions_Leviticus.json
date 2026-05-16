@@ -1,0 +1,1274 @@
+{
+  "metadata": {
+    "total_questions": 150,
+    "levels": {
+      "1": {"name": "Easy", "count": 50, "description": "Factual questions directly from the text"},
+      "2": {"name": "Medium", "count": 50, "description": "Interpretive questions about meaning and themes"},
+      "3": {"name": "Hard", "count": 50, "description": "Analytical questions requiring deeper understanding"}
+    },
+    "book": "Leviticus",
+    "chapters": "1-27"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "verse_reference": "Leviticus 1:3",
+      "question": "What kind of animal offering does the LORD accept?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A male without blemish from the cattle or flock",
+        "B": "Any animal, with or without blemish",
+        "C": "Only birds",
+        "D": "Only wild animals"
+      },
+      "explanation": "Leviticus 1:3 states that if the burnt offering be of the herd, the animal must be a male without blemish."
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "verse_reference": "Leviticus 2:1",
+      "question": "What is a meat offering made of?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fine flour, oil, and frankincense",
+        "B": "Animals and birds",
+        "C": "Bread and wine",
+        "D": "Only oil"
+      },
+      "explanation": "Leviticus 2:1 says 'his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon.'"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "verse_reference": "Leviticus 3:1",
+      "question": "What is a sacrifice of peace offering?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A male or female animal without blemish from the herd",
+        "B": "Only male animals",
+        "C": "Only grain offerings",
+        "D": "Only birds"
+      },
+      "explanation": "Leviticus 3:1 says 'if his oblation be a sacrifice of peace offering... whether it be a male or female, he shall offer it without blemish.'"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "verse_reference": "Leviticus 4:3",
+      "question": "What should the anointed priest bring for a sin offering?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A young bullock without blemish",
+        "B": "A lamb",
+        "C": "A bird",
+        "D": "Flour"
+      },
+      "explanation": "Leviticus 4:3 says 'let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD.'"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "verse_reference": "Leviticus 5:5-6",
+      "question": "What should a person do when they become guilty of a sin?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Confess the sin and bring a trespass offering",
+        "B": "Hide the sin",
+        "C": "Pretend nothing happened",
+        "D": "Wait for punishment"
+      },
+      "explanation": "Leviticus 5:5-6 says 'he shall confess that he hath sinned... and he shall bring his trespass offering unto the LORD.'"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "verse_reference": "Leviticus 8:6-7",
+      "question": "How was Aaron prepared for the priesthood?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He was washed with water and clothed with priestly garments",
+        "B": "He was anointed with oil only",
+        "C": "He was crowned with a helmet",
+        "D": "He was given a sword"
+      },
+      "explanation": "Leviticus 8:6-7 says 'Moses brought Aaron and his sons, and washed them with water... he put upon him the coat and girdle.'"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "verse_reference": "Leviticus 9:23-24",
+      "question": "What sign did God give to show His approval of Aaron's sacrifices?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fire came out from before the LORD and consumed the altar",
+        "B": "A rainbow appeared",
+        "C": "An angel appeared",
+        "D": "The ground shook"
+      },
+      "explanation": "Leviticus 9:24 says 'there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat.'"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "verse_reference": "Leviticus 10:1-2",
+      "question": "What happened to Nadab and Abihu?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fire came out from the LORD and devoured them",
+        "B": "They were blessed",
+        "C": "They were promoted",
+        "D": "They received more responsibility"
+      },
+      "explanation": "Leviticus 10:1-2 says they 'offered strange fire before the LORD... and there went out fire from the LORD, and devoured them.'"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "verse_reference": "Leviticus 10:9",
+      "question": "What were the priests not to drink when entering the tabernacle?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Wine nor strong drink",
+        "B": "Water",
+        "C": "Milk",
+        "D": "Oil"
+      },
+      "explanation": "Leviticus 10:9 says 'Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle.'"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "verse_reference": "Leviticus 11:3",
+      "question": "What are the characteristics of clean animals according to Leviticus?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Those that part the hoof and chew the cud",
+        "B": "Those that have scales",
+        "C": "Those that swim",
+        "D": "Those that fly"
+      },
+      "explanation": "Leviticus 11:3 says 'Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat.'"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "verse_reference": "Leviticus 11:7",
+      "question": "Why is the swine considered unclean?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Though it divides the hoof, it does not chew the cud",
+        "B": "Because it swims",
+        "C": "Because it flies",
+        "D": "Because it lives in water"
+      },
+      "explanation": "Leviticus 11:7 says 'the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean.'"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "verse_reference": "Leviticus 11:9",
+      "question": "What fish are considered clean to eat?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Those that have fins and scales",
+        "B": "Those with only fins",
+        "C": "Those with only scales",
+        "D": "All fish"
+      },
+      "explanation": "Leviticus 11:9 says 'whatsoever hath fins and scales in the waters... them shall ye eat.'"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "verse_reference": "Leviticus 12:3",
+      "question": "On what day was circumcision to be performed?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The eighth day",
+        "B": "The first day",
+        "C": "The seventh day",
+        "D": "The tenth day"
+      },
+      "explanation": "Leviticus 12:3 says 'in the eighth day the flesh of his foreskin shall be circumcised.'"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "verse_reference": "Leviticus 13:3",
+      "question": "What did a priest look for to determine if someone had leprosy?",
+      "correct_answer": "A",
+      "options": {
+        "A": "If the hair in the plague was turned white and the plague was deeper than the skin",
+        "B": "If the skin was red",
+        "C": "If the person had a fever",
+        "D": "If the person was coughing"
+      },
+      "explanation": "Leviticus 13:3 says 'when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy.'"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "verse_reference": "Leviticus 13:46",
+      "question": "Where were lepers required to dwell?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Without the camp",
+        "B": "In their homes",
+        "C": "In the temple",
+        "D": "In the city"
+      },
+      "explanation": "Leviticus 13:46 says 'he shall dwell alone; without the camp shall his habitation be.'"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "verse_reference": "Leviticus 14:2-3",
+      "question": "What happened when a leper was healed?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The priest would go out to examine him and perform a cleansing ritual",
+        "B": "The leper automatically returned to the camp",
+        "C": "No examination was needed",
+        "D": "The leper performed self-examination"
+      },
+      "explanation": "Leviticus 14:2-3 says 'This shall be the law of the leper... He shall be brought unto the priest... the priest shall look, and if the plague be healed.'"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "verse_reference": "Leviticus 14:4",
+      "question": "What items were used in the cleansing of a leper?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Two birds alive and clean, cedar wood, scarlet, and hyssop",
+        "B": "Only oil",
+        "C": "Only water",
+        "D": "Only flour"
+      },
+      "explanation": "Leviticus 14:4 says 'the priest command to take for him... two birds alive and clean, and cedar wood, and scarlet, and hyssop.'"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "verse_reference": "Leviticus 15:2",
+      "question": "What made a person unclean according to Leviticus 15?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A running issue out of his flesh",
+        "B": "Eating unclean food",
+        "C": "Working on the Sabbath",
+        "D": "Speaking falsely"
+      },
+      "explanation": "Leviticus 15:2 says 'When any man hath a running issue out of his flesh, because of his issue he is unclean.'"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "verse_reference": "Leviticus 16:8",
+      "question": "What was done with the two goats on the Day of Atonement?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Aaron cast lots, one for the LORD and one for the scapegoat",
+        "B": "Both were offered as sacrifices",
+        "C": "Both were released into the wilderness",
+        "D": "One was killed and one escaped"
+      },
+      "explanation": "Leviticus 16:8 says 'Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat.'"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "verse_reference": "Leviticus 16:21-22",
+      "question": "What did the scapegoat symbolize?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It bore all the iniquities of Israel away into the wilderness",
+        "B": "It was a peace offering",
+        "C": "It was used for healing",
+        "D": "It was food for priests"
+      },
+      "explanation": "Leviticus 16:21-22 says Aaron would 'confess over him all the iniquities... putting them upon the head of the goat... the goat shall bear upon him all their iniquities.'"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "verse_reference": "Leviticus 16:29",
+      "question": "On what day was the Day of Atonement celebrated?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The tenth day of the seventh month",
+        "B": "The first day of the month",
+        "C": "The fifteenth day",
+        "D": "The twenty-fifth day"
+      },
+      "explanation": "Leviticus 16:29 says 'on the tenth day of the month, ye shall afflict your souls, and do no work.'"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "verse_reference": "Leviticus 17:11",
+      "question": "Why was blood precious in God's sight?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The life of the flesh is in the blood and it makes atonement for souls",
+        "B": "It was needed for cooking",
+        "C": "It was used as paint",
+        "D": "It was a symbol of power"
+      },
+      "explanation": "Leviticus 17:11 says 'For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls.'"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "verse_reference": "Leviticus 18:2-4",
+      "question": "What did God command Israel not to do?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Not to do after the doings of Egypt or Canaan, but keep God's judgments",
+        "B": "Not to build temples",
+        "C": "Not to plant crops",
+        "D": "Not to have children"
+      },
+      "explanation": "Leviticus 18:3-4 says 'After the doings of... Egypt... and Canaan... shall ye not do... Ye shall do my judgments.'"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "verse_reference": "Leviticus 19:3",
+      "question": "What two things did God command Israel to do?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fear father and mother, and keep the Sabbaths",
+        "B": "Build altars and make sacrifices",
+        "C": "Travel to Jerusalem yearly",
+        "D": "Learn to read and write"
+      },
+      "explanation": "Leviticus 19:3 says 'Ye shall fear every man his mother, and his father, and keep my sabbaths.'"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "verse_reference": "Leviticus 19:18",
+      "question": "What is the greatest commandment regarding neighbors?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Thou shalt love thy neighbour as thyself",
+        "B": "Thou shalt fear thy neighbour",
+        "C": "Thou shalt avoid thy neighbour",
+        "D": "Thou shalt judge thy neighbour"
+      },
+      "explanation": "Leviticus 19:18 says 'thou shalt love thy neighbour as thyself.'"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "verse_reference": "Leviticus 19:30",
+      "question": "What did God command regarding the Sabbaths and sanctuary?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Keep the Sabbaths and reverence the sanctuary",
+        "B": "Work on the Sabbath",
+        "C": "Ignore the sanctuary",
+        "D": "Destroy the sanctuary"
+      },
+      "explanation": "Leviticus 19:30 says 'Ye shall keep my sabbaths, and reverence my sanctuary.'"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "verse_reference": "Leviticus 20:8",
+      "question": "What did God say He would do to Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Sanctify them",
+        "B": "Curse them",
+        "C": "Abandon them",
+        "D": "Enslave them"
+      },
+      "explanation": "Leviticus 20:8 says 'I am the LORD which sanctify you.'"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "verse_reference": "Leviticus 21:1-3",
+      "question": "For whom could priests become defiled by the dead?",
+      "correct_answer": "A",
+      "options": {
+        "A": "For their near kin: mother, father, son, daughter, or sister",
+        "B": "For anyone who died",
+        "C": "For no one",
+        "D": "For strangers only"
+      },
+      "explanation": "Leviticus 21:2-3 lists the relations for whom priests could be defiled."
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "verse_reference": "Leviticus 21:6",
+      "question": "What were priests required to be?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Holy unto their God",
+        "B": "Wealthy",
+        "C": "Warriors",
+        "D": "Scholars"
+      },
+      "explanation": "Leviticus 21:6 says 'They shall be holy unto their God.'"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "verse_reference": "Leviticus 22:2",
+      "question": "What did God command priests to do?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Separate themselves from holy things and not profane God's name",
+        "B": "Keep all holy things for themselves",
+        "C": "Share everything equally",
+        "D": "Sell the holy things"
+      },
+      "explanation": "Leviticus 22:2 says priests shall 'separate themselves from the holy things... and profane not my holy name.'"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "verse_reference": "Leviticus 23:3",
+      "question": "What is the Sabbath day?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A day of rest, an holy convocation, no work to be done",
+        "B": "A day of work",
+        "C": "A day of battle",
+        "D": "A day of celebration"
+      },
+      "explanation": "Leviticus 23:3 says 'the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein.'"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "verse_reference": "Leviticus 23:5",
+      "question": "When is the LORD's Passover?",
+      "correct_answer": "A",
+      "options": {
+        "A": "In the fourteenth day of the first month at even",
+        "B": "In the fifteenth day of the first month",
+        "C": "In the seventh month",
+        "D": "Every day"
+      },
+      "explanation": "Leviticus 23:5 says 'In the fourteenth day of the first month at even is the LORD's passover.'"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "verse_reference": "Leviticus 23:6",
+      "question": "How long is the feast of unleavened bread?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Seven days",
+        "B": "Three days",
+        "C": "Ten days",
+        "D": "Two days"
+      },
+      "explanation": "Leviticus 23:6 says 'on the fifteenth day of the same month is the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread.'"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "verse_reference": "Leviticus 23:15-16",
+      "question": "How many days are counted for Pentecost?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fifty days from the wave offering",
+        "B": "Thirty days",
+        "C": "Forty days",
+        "D": "One hundred days"
+      },
+      "explanation": "Leviticus 23:15-16 says to count 'seven sabbaths... Even unto the morrow after the seventh sabbath shall ye number fifty days.'"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "verse_reference": "Leviticus 23:24",
+      "question": "What festival occurs on the first day of the seventh month?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A memorial of blowing of trumpets",
+        "B": "The Feast of Tabernacles",
+        "C": "The Passover",
+        "D": "The Feast of Harvest"
+      },
+      "explanation": "Leviticus 23:24 says 'In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets.'"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "verse_reference": "Leviticus 23:34",
+      "question": "What is the Feast of Tabernacles for?",
+      "correct_answer": "A",
+      "options": {
+        "A": "For seven days unto the LORD in the seventh month",
+        "B": "A feast of war",
+        "C": "A feast of fasting",
+        "D": "A feast of mourning"
+      },
+      "explanation": "Leviticus 23:34 says 'The fifteenth day of this seventh month shall be the feast of tabernacles for seven days unto the LORD.'"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "verse_reference": "Leviticus 23:42",
+      "question": "What were Israelites to do during the Feast of Tabernacles?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dwell in booths for seven days",
+        "B": "Stay in their homes",
+        "C": "Work in the fields",
+        "D": "Travel to other lands"
+      },
+      "explanation": "Leviticus 23:42 says 'Ye shall dwell in booths seven days.'"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "verse_reference": "Leviticus 24:2",
+      "question": "What were the children of Israel to bring for the tabernacle lamps?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Pure oil olive beaten for the light",
+        "B": "Candles",
+        "C": "Firewood",
+        "D": "Wax"
+      },
+      "explanation": "Leviticus 24:2 says 'bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.'"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "verse_reference": "Leviticus 24:5-6",
+      "question": "How many cakes of showbread were to be set on the table?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Twelve cakes, six on each row",
+        "B": "Six cakes",
+        "C": "Ten cakes",
+        "D": "Four cakes"
+      },
+      "explanation": "Leviticus 24:6 says 'set them in two rows, six on a row, upon the pure table.'"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "verse_reference": "Leviticus 24:15-16",
+      "question": "What was the punishment for blaspheming the name of the LORD?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Death by stoning",
+        "B": "Banishment",
+        "C": "Fine",
+        "D": "Warning"
+      },
+      "explanation": "Leviticus 24:16 says 'he that blasphemeth the name of the LORD, he shall surely be put to death... all the congregation shall certainly stone him.'"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "verse_reference": "Leviticus 24:19-20",
+      "question": "What is the law of retaliation in Leviticus?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Eye for eye, tooth for tooth, as he hath caused, so shall it be done to him",
+        "B": "Double the harm",
+        "C": "Forgive all injuries",
+        "D": "Execute all offenders"
+      },
+      "explanation": "Leviticus 24:20 says 'eye for eye, tooth for tooth: as he hath caused a blemish... so shall it be done to him again.'"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "verse_reference": "Leviticus 25:2-3",
+      "question": "What is the Sabbath year?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Every seventh year, a rest for the land",
+        "B": "Every tenth year",
+        "C": "Every year",
+        "D": "Never"
+      },
+      "explanation": "Leviticus 25:2-3 describes a year of rest for the land in the seventh year when nothing is sown."
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "verse_reference": "Leviticus 25:10",
+      "question": "What is the jubilee year?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Every fiftieth year, a holy year of rest and release",
+        "B": "Every tenth year",
+        "C": "Every seven years",
+        "D": "Every year"
+      },
+      "explanation": "Leviticus 25:10 describes the jubilee as occurring after seven sabbaths of years, making it every fiftieth year."
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "verse_reference": "Leviticus 26:3",
+      "question": "What are the blessings for keeping God's statutes?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Rain in season, increase of the land, peace and safety",
+        "B": "Only spiritual blessings",
+        "C": "Only material wealth",
+        "D": "War and victory"
+      },
+      "explanation": "Leviticus 26:3-10 describes multiple blessings for obedience including rainfall and agricultural abundance."
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "verse_reference": "Leviticus 19:19",
+      "question": "What mixtures were forbidden in Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Cattle with diverse kind, mingled seed in fields, and garments of linen and woolen mixed",
+        "B": "Only food mixtures",
+        "C": "Only animal breeding",
+        "D": "Only clothing"
+      },
+      "explanation": "Leviticus 19:19 forbids various mixtures as part of maintaining separation and purity."
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "verse_reference": "Leviticus 11:26-27",
+      "question": "What makes an unclean animal according to the law?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Those that do not meet the criteria of clean animals (partition hoof, chew cud, etc.)",
+        "B": "All animals",
+        "C": "Only large animals",
+        "D": "Animals that are sick"
+      },
+      "explanation": "Leviticus 11 sets forth specific criteria for cleanliness and uncleanness of animals."
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "verse_reference": "Leviticus 3:17",
+      "question": "What perpetual statute did God give regarding fat and blood?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Israel shall eat neither fat nor blood",
+        "B": "Israel shall eat only fat",
+        "C": "Israel shall eat only blood",
+        "D": "There were no restrictions"
+      },
+      "explanation": "Leviticus 3:17 states this as a perpetual statute for their generations throughout all their dwellings."
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "verse_reference": "Leviticus 1:9",
+      "question": "What does a burnt offering produce?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A sweet savour unto the LORD",
+        "B": "Darkness",
+        "C": "Judgment",
+        "D": "Curse"
+      },
+      "explanation": "Leviticus 1:9 says the priest 'shall burn all on the altar... of a sweet savour unto the LORD.'"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "verse_reference": "Leviticus 6:13",
+      "question": "What should the priests do regarding the fire on the altar?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The fire shall ever be burning; it shall never go out",
+        "B": "The fire should be extinguished daily",
+        "C": "The fire can be allowed to go out",
+        "D": "Fire should be added only on the Sabbath"
+      },
+      "explanation": "Leviticus 6:13 states 'The fire shall ever be burning upon the altar; it shall never go out.'"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "verse_reference": "Leviticus 19:2",
+      "question": "What core command did God give to all Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ye shall be holy: for I the LORD your God am holy",
+        "B": "Ye shall be rich",
+        "C": "Ye shall be strong",
+        "D": "Ye shall be wise"
+      },
+      "explanation": "Leviticus 19:2 contains the fundamental call to holiness that underlies all Levitical law."
+    },
+    {
+      "id": 51,
+      "level": 2,
+      "verse_reference": "Leviticus 1:1-4",
+      "question": "What is the purpose of the various offerings outlined in Leviticus?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They create a comprehensive system for maintaining relationship between God and Israel through prescribed sacrifices",
+        "B": "They are merely food for the priests",
+        "C": "They are meaningless rituals",
+        "D": "They are for animal welfare"
+      },
+      "explanation": "The offering system represents God's provision for Israel to approach Him, maintain covenant relationship, and deal with sin through divinely prescribed means."
+    },
+    {
+      "id": 52,
+      "level": 2,
+      "verse_reference": "Leviticus 4:1-3",
+      "question": "What does the distinction between offerings for intentional and unintentional sins teach?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God recognizes degrees of culpability and provides different remedies for different types of transgression",
+        "B": "Unintentional sins are not important",
+        "C": "God ignores all sin",
+        "D": "Only intentional sins require atonement"
+      },
+      "explanation": "The careful distinctions in Leviticus 4-7 show God's justice - He holds people accountable but also provides forgiveness graduated by the nature of the offense."
+    },
+    {
+      "id": 53,
+      "level": 2,
+      "verse_reference": "Leviticus 6:13",
+      "question": "What does the eternal burning fire on the altar symbolize?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's perpetual presence and His constant willingness to receive offerings of atonement",
+        "B": "A literal fire that provides warmth",
+        "C": "The destruction of all offerings",
+        "D": "The anger of God"
+      },
+      "explanation": "The perpetual fire represents God's ongoing availability for relationship and reconciliation - His covenant commitment to Israel doesn't diminish or depend on human performance."
+    },
+    {
+      "id": 54,
+      "level": 2,
+      "verse_reference": "Leviticus 8-9",
+      "question": "What is significant about the ordination of Aaron and the glory that appears?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's approval of the priesthood comes through both the establishment of the priests and the visible sign of divine presence",
+        "B": "The ordination was purely human-directed",
+        "C": "God was displeased with the priests",
+        "D": "The fire was a natural occurrence"
+      },
+      "explanation": "The pattern of proper ordination followed by visible divine manifestation shows that God sanctions this priesthood and accepts their mediation between Him and Israel."
+    },
+    {
+      "id": 55,
+      "level": 2,
+      "verse_reference": "Leviticus 10:1-3",
+      "question": "Why would God execute Nadab and Abihu for offering 'strange fire'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It demonstrates that approaching God demands strict obedience to His revealed will; casual worship or unauthorized innovation is rebellion",
+        "B": "God is arbitrary and cruel",
+        "C": "The punishment was disproportionate",
+        "D": "Any innovation is permitted in worship"
+      },
+      "explanation": "The death of Nadab and Abihu establishes that holiness has standards - God cannot be approached by private invention or assumption. This teaches that true worship requires submission to God's design."
+    },
+    {
+      "id": 56,
+      "level": 2,
+      "verse_reference": "Leviticus 11",
+      "question": "Why would dietary laws be given to Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They remind Israel daily of their covenant commitment to be separate and holy; constant distinctions between clean/unclean maintain consciousness of identity",
+        "B": "They are purely for health reasons",
+        "C": "They have no spiritual significance",
+        "D": "They are arbitrary restrictions"
+      },
+      "explanation": "The dietary laws (kashrut) function as ongoing reminders that Israel is a holy people set apart. Every meal becomes an opportunity for covenant consciousness."
+    },
+    {
+      "id": 57,
+      "level": 2,
+      "verse_reference": "Leviticus 13-14",
+      "question": "What does the elaborate leprosy protocol reveal about God's concern?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God cares about both physical restoration and community reintegration; healing isn't complete until the healed person is restored to the congregation",
+        "B": "God only cares about priests",
+        "C": "Healing is only physical",
+        "D": "Community reintegration is irrelevant"
+      },
+      "explanation": "The fact that cleansing involves not just ritual but also examination, waiting, and ceremonial restoration shows God's holistic concern for the whole person and their place in community."
+    },
+    {
+      "id": 58,
+      "level": 2,
+      "verse_reference": "Leviticus 15:31",
+      "question": "What is the purpose of the detailed laws regarding uncleanness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To keep Israel separate from uncleanness so they don't defile God's tabernacle; cleanness reflects covenant relationship",
+        "B": "To make life burdensome",
+        "C": "To give priests power over people",
+        "D": "To have no particular purpose"
+      },
+      "explanation": "The concern about defilement of the tabernacle shows these laws are about maintaining sacred space and covenant relationship, not mere hygiene."
+    },
+    {
+      "id": 59,
+      "level": 2,
+      "verse_reference": "Leviticus 16",
+      "question": "What does the Day of Atonement accomplish for Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It provides annual corporate cleansing from all sin, restoring Israel's relationship with God and the tabernacle's sanctity",
+        "B": "It punishes Israel",
+        "C": "It makes individual confession unnecessary",
+        "D": "It occurs multiple times per year"
+      },
+      "explanation": "Yom Kippur represents God's gracious provision for systematic restoration of covenant relationship - no sin accumulates beyond what this day addresses."
+    },
+    {
+      "id": 60,
+      "level": 2,
+      "verse_reference": "Leviticus 16:21-22",
+      "question": "What theological concept does the scapegoat represent?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Vicarious bearing of sin - one bears the consequences on behalf of all, removing guilt from the community",
+        "B": "Escape from responsibility",
+        "C": "Arbitrary punishment",
+        "D": "Animal sacrifice as punishment"
+      },
+      "explanation": "The scapegoat introduces the idea that sin can be transferred and removed, with one bearing what the many deserve - a proto-type of vicarious atonement."
+    },
+    {
+      "id": 61,
+      "level": 2,
+      "verse_reference": "Leviticus 17:11",
+      "question": "Why is the blood given authority for atonement?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because the life is in the blood; blood represents the life given in place of the penalty deserved by the sinner",
+        "B": "Because blood is mysterious",
+        "C": "Because God is vengeful",
+        "D": "Because death has no meaning"
+      },
+      "explanation": "This verse establishes that atonement works through life-for-life substitution - the animal's blood (life) satisfies the demand for the sinner's life."
+    },
+    {
+      "id": 62,
+      "level": 2,
+      "verse_reference": "Leviticus 18-20",
+      "question": "Why would God give strict sexual and relational laws to Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To establish family stability and community cohesion, preventing the social chaos that characterized pagan societies",
+        "B": "God is against human relationships",
+        "C": "These laws are arbitrary",
+        "D": "Society functions better without standards"
+      },
+      "explanation": "The laws protect family structure, ensure clear lineage, prevent exploitation, and distinguish Israel from the pagan societies whose sexual chaos led to their judgment."
+    },
+    {
+      "id": 63,
+      "level": 2,
+      "verse_reference": "Leviticus 19:9-10",
+      "question": "What does the requirement to leave gleanings for the poor teach?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Provision for the poor is a religious obligation, not charity; God builds care for vulnerable into the economic system",
+        "B": "The poor should be ignored",
+        "C": "Wealth has no obligations",
+        "D": "Laws should not address economic issues"
+      },
+      "explanation": "This law makes care for the poor structural rather than optional - it's built into how harvests work, reflecting God's priority for justice within economic life."
+    },
+    {
+      "id": 64,
+      "level": 2,
+      "verse_reference": "Leviticus 19:18",
+      "question": "How radical is the command to 'love thy neighbour as thyself'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It requires the same commitment to others' welfare that one has to one's own, an absolute standard of equal concern",
+        "B": "It is a mild suggestion",
+        "C": "It only applies to friends",
+        "D": "It is impossible to achieve"
+      },
+      "explanation": "This is an extraordinary command - it requires viewing others' good with the same urgency and care one naturally has for oneself, making love the fundamental ethical principle."
+    },
+    {
+      "id": 65,
+      "level": 2,
+      "verse_reference": "Leviticus 20:26",
+      "question": "What does God's statement 'I have severed you from other people' mean for Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Israel has been chosen and separated for distinctive covenant relationship and purpose distinct from other nations",
+        "B": "Israel is superior to all people",
+        "C": "Israel should isolate completely",
+        "D": "Separation has no religious meaning"
+      },
+      "explanation": "Separation is for covenant purpose and holiness, not for racial superiority or physical isolation - it means distinctive identity and calling."
+    },
+    {
+      "id": 66,
+      "level": 2,
+      "verse_reference": "Leviticus 21:6-8",
+      "question": "What makes priests holy in Leviticus?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Their consecration through God's action and their commitment to holy standards; they are sanctified through God's work, not earned by merit",
+        "B": "Their natural superiority",
+        "C": "Their wealth",
+        "D": "Their education"
+      },
+      "explanation": "Holiness is not achieved but conferred - priests are sanctified by God, which then requires them to maintain standards appropriate to their status."
+    },
+    {
+      "id": 67,
+      "level": 2,
+      "verse_reference": "Leviticus 23",
+      "question": "Why would God institute multiple festivals throughout the year?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To create rhythm in Israel's life that constantly reminds them of God's acts, provisions, and their covenant relationship",
+        "B": "For entertainment",
+        "C": "To keep people busy",
+        "D": "Festivals have no religious purpose"
+      },
+      "explanation": "The festival calendar structures time itself around God's redemptive history - every season points to the Exodus or God's provision, making theology embodied in calendar."
+    },
+    {
+      "id": 68,
+      "level": 2,
+      "verse_reference": "Leviticus 25:8-10",
+      "question": "What is revolutionary about the Jubilee year?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It resets economic relationships every fifty years, preventing permanent class divisions and ensuring no family remains eternally enslaved or impoverished",
+        "B": "It punishes the poor",
+        "C": "It has no economic significance",
+        "D": "It maintains inequality"
+      },
+      "explanation": "Jubilee is radical economic justice - it prevents inherited debt servitude and ensures resources return to original families, embodying God's concern for sustainable justice."
+    },
+    {
+      "id": 69,
+      "level": 2,
+      "verse_reference": "Leviticus 26:3-13",
+      "question": "What would Israel's obedience produce according to Leviticus 26?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Abundant provision, security, and the continuation of God's covenant presence manifest in tangible blessing",
+        "B": "Only spiritual benefits with no material change",
+        "C": "Hardship and punishment",
+        "D": "No particular consequence"
+      },
+      "explanation": "The blessings are comprehensive - agricultural abundance, military security, and most importantly, God's continued presence and faithfulness to the covenant."
+    },
+    {
+      "id": 70,
+      "level": 2,
+      "verse_reference": "Leviticus 26:14-39",
+      "question": "What do the curses of Leviticus 26 reveal about God?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God is not indifferent to covenant violation; His justice means that rebellion has real consequences, but even these serve to call Israel back to covenant",
+        "B": "God is weak",
+        "C": "God does not care about covenant",
+        "D": "Consequences are random"
+      },
+      "explanation": "The escalating curses show God takes His covenant seriously - consequences follow violation, but the very curses function as warnings to prompt repentance."
+    },
+    {
+      "id": 71,
+      "level": 2,
+      "verse_reference": "Leviticus 1-7",
+      "question": "Why are so many types of offerings required?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They provide comprehensive means for different situations: expressing devotion (burnt), acknowledging God's provision (thanksgiving), restoring relationship after sin (sin/trespass)",
+        "B": "Priests need multiple income sources",
+        "C": "More offerings mean more blessing",
+        "D": "Different offerings have identical purpose"
+      },
+      "explanation": "The offering system is sophisticated - it addresses different spiritual situations and emotional states, showing that relationship with God is multifaceted."
+    },
+    {
+      "id": 72,
+      "level": 2,
+      "verse_reference": "Leviticus 10:8-11",
+      "question": "What is the primary role of the priest in Leviticus?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To teach Israel the distinction between holy and unholy, clean and unclean, maintaining their covenant consciousness",
+        "B": "To accumulate wealth",
+        "C": "To rule Israel",
+        "D": "To conduct warfare"
+      },
+      "explanation": "Moses emphasizes teaching as central to priesthood - not just performing ritual, but helping Israel understand God's holiness standards."
+    },
+    {
+      "id": 73,
+      "level": 2,
+      "verse_reference": "Leviticus 14:1-7",
+      "question": "Why would the cleansing of a leper involve live and dead birds?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The dead bird represents judgment/death of the sickness; the living bird represents restoration/release, showing removal of condition",
+        "B": "It serves no symbolic purpose",
+        "C": "Both represent the same thing",
+        "D": "The ritual is arbitrary"
+      },
+      "explanation": "The symbolism is powerful - what has held the person captive (represented by the dead bird's blood) is transferred; the live bird's release represents their freedom."
+    },
+    {
+      "id": 74,
+      "level": 2,
+      "verse_reference": "Leviticus 24:19-20",
+      "question": "What does 'eye for eye' justice accomplish?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It establishes proportional justice - punishment matches injury, preventing endless cycles of revenge escalation",
+        "B": "It encourages unlimited revenge",
+        "C": "It punishes only the poor",
+        "D": "It has no limiting principle"
+      },
+      "explanation": "Lex talionis (eye for eye) is actually a limit on justice - it prevents revenge from becoming disproportionate, requiring measured response to injury."
+    },
+    {
+      "id": 75,
+      "level": 2,
+      "verse_reference": "Leviticus 25:42",
+      "question": "Why does Leviticus prohibit permanent slavery?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because Israel themselves are God's servants, not ownable by other humans; permanent servitude would violate their covenant status",
+        "B": "Because slavery is impossible",
+        "C": "Because God wants economic chaos",
+        "D": "No theological reason exists"
+      },
+      "explanation": "Israel's fundamental identity is as God's servants - this status cannot be transferred to another human master. This protects human dignity rooted in covenant relationship."
+    },
+    {
+      "id": 76,
+      "level": 3,
+      "verse_reference": "Leviticus 1-7",
+      "question": "How does the offering system establish God's holiness and Israel's ability to approach?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The system demonstrates that approach to holiness requires substitution and mediation; sin cannot be casually dealt with but demands prescribed remedy",
+        "B": "God is unapproachable",
+        "C": "Offerings are unnecessary",
+        "D": "Holiness is irrelevant"
+      },
+      "explanation": "The elaborate offering system teaches profound truths: God is holy (requiring proper approach), sin has consequences (requiring remedy), and restoration comes through divinely prescribed means, not human innovation."
+    },
+    {
+      "id": 77,
+      "level": 3,
+      "verse_reference": "Leviticus 8-10",
+      "question": "What theological trajectory do the events of Aaron's ordination to Nadab and Abihu's death establish?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That God's approval of ministry is conditional on submission to His will; the same God who validates also judges",
+        "B": "That God only validates and never judges",
+        "C": "That human institutions need no divine approval",
+        "D": "That proximity to God guarantees blessing"
+      },
+      "explanation": "The progression (approval of proper ordination followed by judgment of presumption) establishes that being near God's presence without proper obedience is actually more dangerous, not safer."
+    },
+    {
+      "id": 78,
+      "level": 3,
+      "verse_reference": "Leviticus 11-15",
+      "question": "What unified principle underlies all the laws about clean and unclean, sickness and health?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That sacred distinction (holy/unholy, clean/unclean) is fundamental to existence; maintaining these distinctions honors God's creative order and maintains covenant consciousness",
+        "B": "That all things are equally holy or unholy",
+        "C": "That distinctions have no meaning",
+        "D": "That physical hygiene is the only concern"
+      },
+      "explanation": "These laws aren't primarily about health but about maintaining consciousness of holiness - they train the people to recognize and respect sacred boundaries in all of life."
+    },
+    {
+      "id": 79,
+      "level": 3,
+      "verse_reference": "Leviticus 16",
+      "question": "How does the Day of Atonement function in the covenant relationship?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It provides annual restoration after inevitable failure, preventing guilt from permanently severing covenant relationship; it embodies God's commitment to maintain relationship despite human sin",
+        "B": "It eliminates the need for moral obedience",
+        "C": "It makes sin inconsequential",
+        "D": "It is solely focused on ceremonial purification"
+      },
+      "explanation": "Yom Kippur reveals a central truth: God knows His people will sin, and He provides an annual mechanism for restoration. This is grace structuralized within law."
+    },
+    {
+      "id": 80,
+      "level": 3,
+      "verse_reference": "Leviticus 17:11",
+      "question": "What is the theological foundation for all of Levitical sacrifice?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That life-for-life substitution is the mechanism of atonement; because the life is in the blood, an innocent life can satisfy the justice-demand incurred by sin",
+        "B": "That God is vindictive and requires suffering",
+        "C": "That blood has magical properties",
+        "D": "That death is irrelevant"
+      },
+      "explanation": "This verse provides the theological rationale for the entire sacrificial system - it explains how the death of an animal can accomplish anything. This concept will find its fulfillment in Christ."
+    },
+    {
+      "id": 81,
+      "level": 3,
+      "verse_reference": "Leviticus 18-20",
+      "question": "What does Leviticus' sexual ethics teach about God's purpose for human relationships?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Sexual relationships are sacred boundaries within the covenant; their violation damages both individuals and community; distinctions protect the vulnerable and establish stable social structures",
+        "B": "Sexual ethics are arbitrary restrictions",
+        "C": "Relationships have no moral component",
+        "D": "All sexual relationships are equally acceptable"
+      },
+      "explanation": "These laws aren't prudish but protective - they prevent exploitation, establish clear lines of authority and responsibility, and create conditions where vulnerable people (particularly women and children) are protected."
+    },
+    {
+      "id": 82,
+      "level": 3,
+      "verse_reference": "Leviticus 19",
+      "question": "How does Leviticus 19 connect ritual holiness and moral holiness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They are inseparable - being holy includes both proper worship (Sabbath, sanctuary reverence) and right conduct (honesty, justice, love), showing holiness pervades all of life",
+        "B": "Ritual and morality are separate concerns",
+        "C": "Only ritual matters",
+        "D": "Only morality matters"
+      },
+      "explanation": "Chapter 19 is revolutionary in placing commands about honest weights alongside commands about sacred days - holiness isn't compartmentalized into religious and secular spheres."
+    },
+    {
+      "id": 83,
+      "level": 3,
+      "verse_reference": "Leviticus 19:33-34",
+      "question": "What does the command about strangers reveal about God's covenant with Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Israel's own experience of being strangers in Egypt establishes empathy as a covenant obligation; their past vulnerability becomes grounds for current compassion",
+        "B": "Strangers should be exploited",
+        "C": "History has no moral relevance",
+        "D": "Compassion should not be extended"
+      },
+      "explanation": "Israel is told: 'Remember you were slaves - therefore love the stranger.' This makes empathy covenantally rooted rather than optional; memory of deliverance demands compassion."
+    },
+    {
+      "id": 84,
+      "level": 3,
+      "verse_reference": "Leviticus 21",
+      "question": "Why would the priesthood be subject to stricter standards than the rest of Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Proximity to holiness requires greater purity; priests mediate between holy God and people, so their fitness for this role demands higher standards",
+        "B": "God is arbitrary",
+        "C": "Holiness levels don't exist",
+        "D": "All roles are identical"
+      },
+      "explanation": "The priest's role as mediator means they bear special responsibility - they cannot bring what is defiled into God's presence. Their standards reflect their unique calling."
+    },
+    {
+      "id": 85,
+      "level": 3,
+      "verse_reference": "Leviticus 23",
+      "question": "How does Israel's festival calendar function as theological education?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Each festival embodies and rehearses key covenant truths - Passover (liberation), Pentecost (God's giving of covenant), Tabernacles (God's protective presence), making history and theology lived experience",
+        "B": "Festivals are merely social occasions",
+        "C": "They serve no theological purpose",
+        "D": "Each festival is independent of others"
+      },
+      "explanation": "The festival system is a sophisticated theological curriculum - the calendar itself teaches Israel's story repeatedly. Believers don't just remember history; they embody it annually."
+    },
+    {
+      "id": 86,
+      "level": 3,
+      "verse_reference": "Leviticus 25",
+      "question": "What economic theology does the Jubilee system embody?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That ultimate ownership belongs to God (the land cannot be permanently sold), and that human systems must periodically reset to prevent permanent inequality",
+        "B": "That wealth should accumulate without limit",
+        "C": "That economic systems need no justice principles",
+        "D": "That God is unconcerned with economics"
+      },
+      "explanation": "Jubilee embodies radical economic theology: God owns the land, humans are stewards; permanent debt servitude violates God's ownership; justice requires periodic restoration of economic opportunity."
+    },
+    {
+      "id": 87,
+      "level": 3,
+      "verse_reference": "Leviticus 26",
+      "question": "How does Leviticus present the relationship between obedience and blessing?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Obedience is not transactional bargaining but reflects covenant reality - those who align with God's will experience the natural consequence of His blessing",
+        "B": "Obedience and blessing are unrelated",
+        "C": "Only punishment follows disobedience",
+        "D": "Blessing is arbitrary"
+      },
+      "explanation": "Leviticus presents a coherent world where covenant obedience aligns with God's purposes and naturally produces blessing, while violation produces fracture and curse - not because God is vindictive but because reality is structured this way."
+    },
+    {
+      "id": 88,
+      "level": 3,
+      "verse_reference": "Leviticus 1-27",
+      "question": "What is the overarching theme connecting all Levitical law?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That holiness is both God's nature and Israel's calling; maintaining the distinction between holy/unholy, clean/unclean throughout all of life makes Israel a holy people and preserves their covenant relationship",
+        "B": "That laws are arbitrary restrictions",
+        "C": "That ritual performance is the only concern",
+        "D": "That morality is irrelevant"
+      },
+      "explanation": "Leviticus constantly returns to: 'I am the LORD your God... you shall be holy, for I am holy.' This verse frames all the specific laws - they are not burdensome restrictions but the shape of covenant relationship."
+    },
+    {
+      "id": 89,
+      "level": 3,
+      "verse_reference": "Leviticus 2:11-13",
+      "question": "What do the restrictions on leaven and requirement for salt in offerings reveal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Leaven (which ferments/corrupts) represents corruption that must be excluded from offerings; salt (which preserves) represents covenant permanence; details matter in approach to holy God",
+        "B": "The restrictions have no meaning",
+        "C": "Symbolic details are unimportant",
+        "D": "God is unconcerned with symbolism"
+      },
+      "explanation": "These specific details are not arbitrary - they teach that purity is required, covenant is permanent. Every element of an offering communicates theological truth."
+    },
+    {
+      "id": 90,
+      "level": 3,
+      "verse_reference": "Leviticus 5:1-5",
+      "question": "What does the inclusion of sins of omission alongside sins of commission teach?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Holiness encompasses both what we do and what we fail to do; not speaking up when witnessing wrong-doing is itself sin requiring atonement",
+        "B": "Only action-sins matter",
+        "C": "Silence is always neutral",
+        "D": "Passive participation in wrong is acceptable"
+      },
+      "explanation": "By including witness-bearing failures and various unintentional violations, Leviticus shows that sin involves responsibility for the community, not just personal transgression - a revolutionary concept."
+    }
+  ]
+}

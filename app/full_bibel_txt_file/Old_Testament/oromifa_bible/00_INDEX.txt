@@ -1,0 +1,51 @@
+OLD TESTAMENT - GUJI OROMO BIBLE
+============================================================
+
+Translation: Kitaaba Woyyuu
+English Name: Guji Oromo Bible
+Language: Borana-Arsi-Guji Oromo
+
+BOOKS IN OLD TESTAMENT:
+----------------------------------------
+ 1. GEN: Kitaaba Seera Dadaa -> Genesis.txt
+ 2. EXO: Kitaaba Seera Bayiisaa -> Exodus.txt
+ 3. LEV: Kitaaba Seera Lewwootaa -> Leviticus.txt
+ 4. NUM: Kitaaba Seera Laakkossaa -> Numbers.txt
+ 5. DEU: Kitaaba Seera Keessa Deebii -> Deuteronomy.txt
+ 6. JOS: Kitaaba Iyaasu'uu -> Joshua.txt
+ 7. JDG: Kitaaba Abbootii Mura'aa -> Judges.txt
+ 8. RUT: Kitaaba Ruutii -> Ruth.txt
+ 9. 1SA: 1 Saamu'elii -> 1_Samuel.txt
+10. 2SA: 2 Saamu'elii -> 2_Samuel.txt
+11. 1KI: 1 Moototaa -> 1_Kings.txt
+12. 2KI: 2 Moototaa -> 2_Kings.txt
+13. 1CH: 1 Dabarsi'ii -> 1_Chronicles.txt
+14. 2CH: 2 Dabarsi'i -> 2_Chronicles.txt
+15. EZR: Kitaaba Izra'aa -> Ezra.txt
+16. NEH: Kitaaba Nahimiya'aa -> Nehemiah.txt
+17. EST: Kitaaba Asteerii -> Esther.txt
+18. JOB: Kitaaba Iyoobii -> Job.txt
+19. PSA: Kitaaba Faaru'uu -> Psalms.txt
+20. PRO: Kitaaba Fakkeennaa -> Proverbs.txt
+21. ECC: Kitaaba Lallabaa -> Ecclesiastes.txt
+22. SNG: Kitaaba Faaruu Solomoonii -> Song_of_Solomon.txt
+23. ISA: Isaayaasii Raagichaa -> Isaiah.txt
+24. JER: Kitaaba Ermiyaasii Raagichaa -> Jeremiah.txt
+25. LAM: Gadda Ermiyaasii -> Lamentations.txt
+26. EZK: Hizqi'elii Raagichaa -> Ezekiel.txt
+27. DAN: Daani'elii Raagichaa -> Daniel.txt
+28. HOS: Hose'aa Raagichaa -> Hosea.txt
+29. JOL: Yo'elii Raagichaa -> Joel.txt
+30. AMO: Amosii Raagichaa -> Amos.txt
+31. OBA: Obaadiyaa Raagichaa -> Obadiah.txt
+32. JON: Yoonaasii Raagichaa -> Jonah.txt
+33. MIC: Miikiyaasii Raagichaa -> Micah.txt
+34. NAM: Naahomii Raagichaa -> Nahum.txt
+35. HAB: Anbaaqoomii Raagichaa -> Habakkuk.txt
+36. ZEP: Sefaaniyaa Raagichaa -> Zephaniah.txt
+37. HAG: Haagee Raagichaa -> Haggai.txt
+38. ZEC: Zakaariyaasii Raagichaa -> Zechariah.txt
+39. MAL: Milkiyaasii Raagichaa -> Malachi.txt
+
+============================================================
+Total Old Testament books: 39

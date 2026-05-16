@@ -1,0 +1,1414 @@
+{
+  "metadata": {
+    "total_questions": 150,
+    "levels": {
+      "1": {"name": "Easy", "count": 50, "description": "Factual questions directly from the text"},
+      "2": {"name": "Medium", "count": 50, "description": "Interpretive questions about meaning and themes"},
+      "3": {"name": "Hard", "count": 50, "description": "Analytical questions requiring deeper understanding"}
+    },
+    "book": "Exodus",
+    "chapters": "1-40"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "verse_reference": "Exodus 1:1",
+      "question": "Which sons of Israel came into Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Reuben, Simeon, Levi, Judah, Issachar, Zebulun, Benjamin, Dan, Naphtali, Gad, and Asher",
+        "B": "Only the sons of Joseph",
+        "C": "Only the sons of Judah",
+        "D": "Only the sons of Benjamin"
+      },
+      "explanation": "Exodus 1:1-4 lists all the sons of Jacob who came into Egypt."
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "verse_reference": "Exodus 1:5",
+      "question": "How many souls came out of the loins of Jacob?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Seventy souls",
+        "B": "Twelve souls",
+        "C": "One hundred souls",
+        "D": "Forty souls"
+      },
+      "explanation": "Exodus 1:5 states 'all the souls that came out of the loins of Jacob were seventy souls.'"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "verse_reference": "Exodus 1:8",
+      "question": "What kind of king arose over Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A new king which knew not Joseph",
+        "B": "A king who was Joseph's friend",
+        "C": "A king who honored Israel",
+        "D": "A king from another land"
+      },
+      "explanation": "Exodus 1:8 says 'there arose up a new king over Egypt, which knew not Joseph.'"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "verse_reference": "Exodus 1:11",
+      "question": "What cities did the Egyptians build for Pharaoh?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Pithom and Raamses",
+        "B": "Memphis and Cairo",
+        "C": "Alexandria and Thebes",
+        "D": "Giza and Luxor"
+      },
+      "explanation": "Exodus 1:11 mentions 'treasure cities, Pithom and Raamses.'"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "verse_reference": "Exodus 1:15-16",
+      "question": "What were the names of the Hebrew midwives?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Shiphrah and Puah",
+        "B": "Mary and Martha",
+        "C": "Leah and Rachel",
+        "D": "Hannah and Peninnah"
+      },
+      "explanation": "Exodus 1:15 names 'Shiphrah, and the name of the other Puah.'"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "verse_reference": "Exodus 2:2-3",
+      "question": "What did Moses' mother use to hide him?",
+      "correct_answer": "A",
+      "options": {
+        "A": "An ark of bulrushes",
+        "B": "A basket of papyrus",
+        "C": "A clay vessel",
+        "D": "A wooden box"
+      },
+      "explanation": "Exodus 2:3 says 'she took for him an ark of bulrushes, and daubed it with slime and with pitch.'"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "verse_reference": "Exodus 2:5-6",
+      "question": "Who found baby Moses in the river?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Pharaoh's daughter",
+        "B": "Pharaoh's wife",
+        "C": "A servant woman",
+        "D": "Pharaoh's sister"
+      },
+      "explanation": "Exodus 2:5-6 says 'the daughter of Pharaoh came down to wash herself at the river... and she saw the child... and said, This is one of the Hebrews' children.'"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "verse_reference": "Exodus 2:10",
+      "question": "What name did Pharaoh's daughter give to the child?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Moses",
+        "B": "Joseph",
+        "C": "Aaron",
+        "D": "Joshua"
+      },
+      "explanation": "Exodus 2:10 says 'she called his name Moses: and she said, Because I drew him out of the water.'"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "verse_reference": "Exodus 2:11-12",
+      "question": "What did Moses do when he saw an Egyptian smiting a Hebrew?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He slew the Egyptian",
+        "B": "He called for help",
+        "C": "He reported it to Pharaoh",
+        "D": "He ran away"
+      },
+      "explanation": "Exodus 2:12 says 'he slew the Egyptian, and hid him in the sand.'"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "verse_reference": "Exodus 2:15",
+      "question": "Where did Moses flee after Pharaoh sought to slay him?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To the land of Midian",
+        "B": "To the land of Canaan",
+        "C": "To the land of Sinai",
+        "D": "To Mount Horeb"
+      },
+      "explanation": "Exodus 2:15 says 'Moses fled from the face of Pharaoh, and dwelt in the land of Midian.'"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "verse_reference": "Exodus 2:16-17",
+      "question": "What was the occupation of the priest of Midian?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He was a shepherd with seven daughters",
+        "B": "He was a merchant",
+        "C": "He was a king",
+        "D": "He was a warrior"
+      },
+      "explanation": "Exodus 2:16 says 'the priest of Midian had seven daughters: and they came and drew water... to water their father's flock.'"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "verse_reference": "Exodus 2:21",
+      "question": "What was the name of the Midianite woman Moses married?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Zipporah",
+        "B": "Jochebed",
+        "C": "Elisheba",
+        "D": "Putiel"
+      },
+      "explanation": "Exodus 2:21 says 'he gave Moses Zipporah his daughter.'"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "verse_reference": "Exodus 3:1-2",
+      "question": "What unusual sight did Moses see on Mount Horeb?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A bush that burned with fire but was not consumed",
+        "B": "A pillar of fire",
+        "C": "An angel standing in the air",
+        "D": "A great storm"
+      },
+      "explanation": "Exodus 3:2-3 says 'the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush... the bush burned with fire, and the bush was not consumed.'"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "verse_reference": "Exodus 3:5",
+      "question": "What did God tell Moses about the ground where he stood?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It was holy ground",
+        "B": "It was cursed ground",
+        "C": "It was enemy territory",
+        "D": "It was forbidden ground"
+      },
+      "explanation": "Exodus 3:5 says 'the place whereon thou standest is holy ground.'"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "verse_reference": "Exodus 3:14",
+      "question": "What name did God reveal to Moses?",
+      "correct_answer": "A",
+      "options": {
+        "A": "I AM THAT I AM",
+        "B": "God Almighty",
+        "C": "Jehovah",
+        "D": "Lord of hosts"
+      },
+      "explanation": "Exodus 3:14 says 'God said unto Moses, I AM THAT I AM.'"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "verse_reference": "Exodus 4:2-3",
+      "question": "What was in Moses' hand that God turned into a serpent?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A rod",
+        "B": "A staff",
+        "C": "A stone",
+        "D": "A cloth"
+      },
+      "explanation": "Exodus 4:2-3 says 'he said, A rod... Cast it on the ground... it became a serpent.'"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "verse_reference": "Exodus 4:6-7",
+      "question": "What happened to Moses' hand when he put it in his bosom?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It became leprous as snow",
+        "B": "It was burned",
+        "C": "It was cut off",
+        "D": "It became weak"
+      },
+      "explanation": "Exodus 4:6-7 says 'his hand was leprous as snow... he plucked it out... it was turned again as his other flesh.'"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "verse_reference": "Exodus 4:14",
+      "question": "Who was Moses' brother who God said could speak well?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Aaron",
+        "B": "Caleb",
+        "C": "Joshua",
+        "D": "Gershom"
+      },
+      "explanation": "Exodus 4:14 says 'Is not Aaron the Levite thy brother? I know that he can speak well.'"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "verse_reference": "Exodus 5:1",
+      "question": "What request did Moses and Aaron make to Pharaoh?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Let my people go, that they may hold a feast unto the LORD in the wilderness",
+        "B": "Give us more food and water",
+        "C": "Allow us to build a temple",
+        "D": "Reduce our taxes"
+      },
+      "explanation": "Exodus 5:1 says 'Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.'"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "verse_reference": "Exodus 7:7",
+      "question": "How old was Moses and Aaron when they spoke to Pharaoh?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Moses was fourscore years old, and Aaron fourscore and three",
+        "B": "Moses was fifty and Aaron was sixty",
+        "C": "Moses was thirty and Aaron was forty",
+        "D": "Moses was twenty and Aaron was thirty"
+      },
+      "explanation": "Exodus 7:7 says 'Moses was fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh.'"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "verse_reference": "Exodus 7:10",
+      "question": "What was the first sign Moses and Aaron showed to Pharaoh?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Aaron's rod became a serpent",
+        "B": "Water turned to blood",
+        "C": "Frogs covered the land",
+        "D": "Darkness fell upon Egypt"
+      },
+      "explanation": "Exodus 7:10 says 'Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent.'"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "verse_reference": "Exodus 7:17",
+      "question": "What happened to the waters in the first plague?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They were turned to blood",
+        "B": "They became bitter",
+        "C": "They were turned to ice",
+        "D": "They disappeared"
+      },
+      "explanation": "Exodus 7:17 says 'I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to blood.'"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "verse_reference": "Exodus 8:2",
+      "question": "What plague did God threaten if Pharaoh would not let the people go?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Frogs",
+        "B": "Locusts",
+        "C": "Darkness",
+        "D": "Hail"
+      },
+      "explanation": "Exodus 8:2 says 'I will smite all thy borders with frogs.'"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "verse_reference": "Exodus 8:16-17",
+      "question": "What was the third plague that came upon Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Lice",
+        "B": "Flies",
+        "C": "Boils",
+        "D": "Hail"
+      },
+      "explanation": "Exodus 8:16-17 says 'Stretch out thy rod, and smite the dust of the land, that it may become lice... it became lice in man, and in beast.'"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "verse_reference": "Exodus 8:21-24",
+      "question": "What was the fourth plague of Egypt?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Swarms of flies",
+        "B": "Locusts",
+        "C": "Darkness",
+        "D": "Thunder and hail"
+      },
+      "explanation": "Exodus 8:24 says 'there came a grievous swarm of flies into the house of Pharaoh, and into his servants' houses.'"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "verse_reference": "Exodus 9:3",
+      "question": "What animals were affected by the fifth plague?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Cattle, horses, asses, camels, oxen, and sheep",
+        "B": "Only cattle",
+        "C": "Only horses",
+        "D": "Only camels"
+      },
+      "explanation": "Exodus 9:3 says 'the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep.'"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "verse_reference": "Exodus 9:9-10",
+      "question": "What was the sixth plague?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Boils breaking forth with blains upon man and beast",
+        "B": "Water turning to blood",
+        "C": "Frogs covering the land",
+        "D": "Complete darkness"
+      },
+      "explanation": "Exodus 9:9-10 says 'it shall become small dust... and shall be a boil breaking forth with blains upon man, and upon beast.'"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "verse_reference": "Exodus 9:18",
+      "question": "What kind of hail fell as the seventh plague?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Very grievous hail such as had not been in Egypt since the foundation thereof",
+        "B": "Light hail",
+        "C": "Hail mixed with water",
+        "D": "Cold hail"
+      },
+      "explanation": "Exodus 9:18 says 'I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.'"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "verse_reference": "Exodus 10:4-5",
+      "question": "What was the eighth plague?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Locusts",
+        "B": "Frogs",
+        "C": "Flies",
+        "D": "Boils"
+      },
+      "explanation": "Exodus 10:4-5 says 'I will bring the locusts into thy coast: And they shall cover the face of the earth.'"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "verse_reference": "Exodus 10:21-22",
+      "question": "What was the ninth plague?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Darkness",
+        "B": "Thunder and hail",
+        "C": "Locusts",
+        "D": "Boils"
+      },
+      "explanation": "Exodus 10:21-22 says 'Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt... there was a thick darkness in all the land of Egypt three days.'"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "verse_reference": "Exodus 11:5",
+      "question": "Who would be killed in the tenth plague?",
+      "correct_answer": "A",
+      "options": {
+        "A": "All the firstborn in the land of Egypt",
+        "B": "Only adults",
+        "C": "Only children",
+        "D": "Only the poor"
+      },
+      "explanation": "Exodus 11:5 says 'all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne.'"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "verse_reference": "Exodus 12:3",
+      "question": "What animal were they to take for the Passover?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A lamb",
+        "B": "A goat",
+        "C": "A bull",
+        "D": "A kid"
+      },
+      "explanation": "Exodus 12:3 says 'they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house.'"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "verse_reference": "Exodus 12:5",
+      "question": "What kind of lamb were they to use for the Passover?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Without blemish, a male of the first year",
+        "B": "Any lamb",
+        "C": "A female lamb",
+        "D": "An old lamb"
+      },
+      "explanation": "Exodus 12:5 says 'Your lamb shall be without blemish, a male of the first year.'"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "verse_reference": "Exodus 12:7",
+      "question": "Where were they to strike the blood of the lamb?",
+      "correct_answer": "A",
+      "options": {
+        "A": "On the two side posts and on the upper door post of the houses",
+        "B": "On the roof",
+        "C": "On the ground",
+        "D": "On the window"
+      },
+      "explanation": "Exodus 12:7 says 'they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses.'"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "verse_reference": "Exodus 12:8",
+      "question": "How were they to eat the flesh of the lamb?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Roast with fire, with unleavened bread and bitter herbs",
+        "B": "Boiled",
+        "C": "Raw",
+        "D": "Baked"
+      },
+      "explanation": "Exodus 12:8 says 'they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it.'"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "verse_reference": "Exodus 12:11",
+      "question": "What was the sign of the Passover?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Eating it with loins girded, shoes on feet, and staff in hand",
+        "B": "Wearing special clothes",
+        "C": "Washing their hands",
+        "D": "Fasting for three days"
+      },
+      "explanation": "Exodus 12:11 says 'thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the LORD's passover.'"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "verse_reference": "Exodus 12:13",
+      "question": "How would God identify the houses He would pass over?",
+      "correct_answer": "A",
+      "options": {
+        "A": "By the blood on the lintel and side posts",
+        "B": "By the sound of the lamb",
+        "C": "By the smell of the food",
+        "D": "By a mark on the door"
+      },
+      "explanation": "Exodus 12:13 says 'when I see the blood upon the lintel, and on the two side posts, the LORD will pass over the door.'"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "verse_reference": "Exodus 12:37",
+      "question": "How many men did Israel have when they journeyed from Rameses?",
+      "correct_answer": "A",
+      "options": {
+        "A": "About six hundred thousand on foot",
+        "B": "One hundred thousand",
+        "C": "Three hundred thousand",
+        "D": "One million"
+      },
+      "explanation": "Exodus 12:37 says 'the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children.'"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "verse_reference": "Exodus 13:21-22",
+      "question": "How did God lead the children of Israel in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "By a pillar of cloud by day and a pillar of fire by night",
+        "B": "By an angel",
+        "C": "By Moses' staff",
+        "D": "By the stars"
+      },
+      "explanation": "Exodus 13:21-22 says 'the LORD went before them by day in a pillar of a cloud... and by night in a pillar of fire.'"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "verse_reference": "Exodus 14:6-7",
+      "question": "How many chariots did Pharaoh take with him to pursue Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Six hundred chosen chariots and all the chariots of Egypt",
+        "B": "One hundred chariots",
+        "C": "Three hundred chariots",
+        "D": "Fifty chariots"
+      },
+      "explanation": "Exodus 14:7 says 'he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them.'"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "verse_reference": "Exodus 14:13-14",
+      "question": "What did Moses tell the people when they were afraid of the Egyptians?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fear ye not, stand still, and see the salvation of the LORD; the LORD shall fight for you",
+        "B": "Run quickly",
+        "C": "Fight the Egyptians",
+        "D": "Surrender to Pharaoh"
+      },
+      "explanation": "Exodus 14:13-14 says 'Fear ye not, stand still, and see the salvation of the LORD... The LORD shall fight for you.'"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "verse_reference": "Exodus 14:16",
+      "question": "What was Moses to do to divide the sea?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Lift up his rod and stretch out his hand over the sea",
+        "B": "Clap his hands",
+        "C": "Sing a song",
+        "D": "Strike the water"
+      },
+      "explanation": "Exodus 14:16 says 'lift thou up thy rod, and stretch out thine hand over the sea, and divide it.'"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "verse_reference": "Exodus 14:21-22",
+      "question": "How did the children of Israel cross the Red Sea?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Upon the dry ground with waters as a wall on their right and left",
+        "B": "In boats",
+        "C": "By swimming",
+        "D": "They built a bridge"
+      },
+      "explanation": "Exodus 14:22 says 'the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.'"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "verse_reference": "Exodus 14:28",
+      "question": "What happened to Pharaoh and his army in the Red Sea?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The waters covered them and not one of them remained",
+        "B": "They escaped",
+        "C": "They were captured",
+        "D": "They surrendered"
+      },
+      "explanation": "Exodus 14:28 says 'the waters returned, and covered the chariots, and the horsemen, and all the host of Pharaoh... there remained not so much as one of them.'"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "verse_reference": "Exodus 15:1",
+      "question": "What did Moses and the children of Israel do after crossing the Red Sea?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They sang a song unto the LORD",
+        "B": "They built a temple",
+        "C": "They made sacrifices",
+        "D": "They danced"
+      },
+      "explanation": "Exodus 15:1 says 'Then sang Moses and the children of Israel this song unto the LORD.'"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "verse_reference": "Exodus 15:20",
+      "question": "Who was Miriam?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The prophetess, sister of Aaron",
+        "B": "Moses' wife",
+        "C": "Pharaoh's daughter",
+        "D": "A priestess"
+      },
+      "explanation": "Exodus 15:20 says 'Miriam the prophetess, the sister of Aaron, took a timbrel in her hand.'"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "verse_reference": "Exodus 16:2-3",
+      "question": "What did the people murmur against Moses for in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They said they would die of hunger",
+        "B": "They said they had no water",
+        "C": "They wanted to return to Egypt",
+        "D": "They wanted to build a city"
+      },
+      "explanation": "Exodus 16:3 says 'Would to God we had died... when we sat by the flesh pots... for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.'"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "verse_reference": "Exodus 16:4",
+      "question": "What did God promise to rain from heaven for the people?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Bread",
+        "B": "Water",
+        "C": "Fruits",
+        "D": "Meat"
+      },
+      "explanation": "Exodus 16:4 says 'Behold, I will rain bread from heaven for you.'"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "verse_reference": "Exodus 16:15",
+      "question": "What was the bread from heaven called?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Manna",
+        "B": "Matzoh",
+        "C": "Barley",
+        "D": "Wheat"
+      },
+      "explanation": "Exodus 16:15 says 'the children of Israel saw it, they said one to another, It is manna: for they wist not what it was.'"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "verse_reference": "Exodus 16:35",
+      "question": "How long did the children of Israel eat manna?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Forty years",
+        "B": "Ten years",
+        "C": "Twenty years",
+        "D": "Fifty years"
+      },
+      "explanation": "Exodus 16:35 says 'the children of Israel did eat manna forty years, until they came to a land inhabited.'"
+    },
+    {
+      "id": 51,
+      "level": 2,
+      "verse_reference": "Exodus 1:7",
+      "question": "What does the statement that Israel 'multiplied, and waxed exceeding mighty' reveal about God's plan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's promise to multiply Abraham's descendants was being fulfilled despite oppression",
+        "B": "Israel had become more powerful than Egypt",
+        "C": "Israel no longer needed God's protection",
+        "D": "Israel was preparing to conquer Egypt"
+      },
+      "explanation": "Despite being enslaved, Israel's population grew miraculously, showing God's faithfulness to His covenant with Abraham regardless of external circumstances."
+    },
+    {
+      "id": 52,
+      "level": 2,
+      "verse_reference": "Exodus 2:11-12",
+      "question": "What does Moses' action of killing the Egyptian reveal about his character at this point in his life?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He was moved by compassion for his people but acted in his own strength and without God's direction",
+        "B": "He was divinely appointed to be Israel's military leader",
+        "C": "He was evil and should never have been chosen by God",
+        "D": "He was the strongest man in Egypt"
+      },
+      "explanation": "Moses' action was motivated by concern for his fellow Hebrew, but he acted impulsively and in his own power rather than waiting for God's guidance, which led to his having to flee Egypt."
+    },
+    {
+      "id": 53,
+      "level": 2,
+      "verse_reference": "Exodus 3:5",
+      "question": "What is the significance of God calling the ground where Moses stood 'holy ground'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It demonstrates that God's presence sanctifies a place and demands reverence",
+        "B": "It means the location could never be defiled",
+        "C": "It was a permanent temple site",
+        "D": "It had been holy before Moses arrived"
+      },
+      "explanation": "The holiness comes from God's presence, not from any inherent quality of the place. This teaches that encountering God requires reverence and that where God is present, that space becomes sacred."
+    },
+    {
+      "id": 54,
+      "level": 2,
+      "verse_reference": "Exodus 3:14",
+      "question": "What does the name 'I AM THAT I AM' reveal about God's nature?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God is self-existent, eternal, and independent of creation",
+        "B": "God's name is unpronounceable",
+        "C": "God does not have a personal name",
+        "D": "God is mysterious and cannot be understood"
+      },
+      "explanation": "'I AM THAT I AM' reveals God's eternal self-existence - He needs no beginning, no cause, and no definition from outside Himself. This distinguishes the God of Israel from all other supposed deities."
+    },
+    {
+      "id": 55,
+      "level": 2,
+      "verse_reference": "Exodus 5:2",
+      "question": "What is significant about Pharaoh's response: 'Who is the LORD, that I should obey his voice?'",
+      "correct_answer": "A",
+      "options": {
+        "A": "It shows Pharaoh's rebellion against God and rejection of God's authority",
+        "B": "It shows Pharaoh simply did not know the language",
+        "C": "It shows Pharaoh was a logical reasoner",
+        "D": "It shows Pharaoh respected other gods more"
+      },
+      "explanation": "Pharaoh's question represents arrogant defiance - a refusal to acknowledge God's authority or even to consider His claims. This sets up the purpose of the plagues: to demonstrate God's supreme power."
+    },
+    {
+      "id": 56,
+      "level": 2,
+      "verse_reference": "Exodus 7:3-4",
+      "question": "What does God's statement about hardening Pharaoh's heart reveal about God's sovereignty?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God will accomplish His purposes even through human resistance and stubbornness",
+        "B": "God is cruel and unfair to Pharaoh",
+        "C": "Pharaoh had no choice in his actions",
+        "D": "God's plan depends on human cooperation"
+      },
+      "explanation": "God's 'hardening' of Pharaoh's heart shows God's ultimate sovereignty - even human rebellion cannot thwart God's plans. The plagues reveal both God's power and justice, as Pharaoh's own refusal to submit becomes the means of his and Egypt's judgment."
+    },
+    {
+      "id": 57,
+      "level": 2,
+      "verse_reference": "Exodus 8:18-19",
+      "question": "What is the significance of the magicians being unable to replicate the plague of lice?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It marks a turning point where human power cannot compete with God's power",
+        "B": "It shows the magicians were lazy",
+        "C": "It demonstrates Egyptian magic was stronger",
+        "D": "It was a minor plague not worth replicating"
+      },
+      "explanation": "When the magicians declare 'This is the finger of God,' it shows they recognize they have reached the limit of their power. God is demonstrating that His power is absolute and without comparison."
+    },
+    {
+      "id": 58,
+      "level": 2,
+      "verse_reference": "Exodus 9:15-16",
+      "question": "What was God's stated purpose for raising up Pharaoh and allowing him to resist?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To show God's power and have God's name declared throughout all the earth",
+        "B": "To destroy Egypt completely",
+        "C": "To test whether Israel would remain faithful",
+        "D": "To make Moses famous"
+      },
+      "explanation": "God's purpose extended beyond just freeing Israel; it was to demonstrate His power to the entire world so that His name would be known and feared everywhere. Pharaoh's resistance provided the occasion for these demonstrations."
+    },
+    {
+      "id": 59,
+      "level": 2,
+      "verse_reference": "Exodus 12:1-2",
+      "question": "Why was the month of the Passover to be 'the beginning of months' for Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because it marked Israel's deliverance and a new beginning as a free nation under God",
+        "B": "Because it was the first month of the Egyptian calendar",
+        "C": "Because it was when harvests began",
+        "D": "Because it was the coldest month"
+      },
+      "explanation": "The Passover month marks Israel's birth as a nation - they transition from slaves in bondage to a free people redeemed by God. This marks a complete transformation of their identity and relationship with God."
+    },
+    {
+      "id": 60,
+      "level": 2,
+      "verse_reference": "Exodus 12:7",
+      "question": "What is the symbolic meaning of the blood on the doorposts during Passover?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The blood serves as a sign of faith and obedience, marking those under God's protection",
+        "B": "The blood was decorative",
+        "C": "The blood had medicinal properties",
+        "D": "The blood prevented disease"
+      },
+      "explanation": "The blood is a visible sign of covenant faith and obedience to God's command. It marks those who trust God for deliverance and separates them from those who reject His plan."
+    },
+    {
+      "id": 61,
+      "level": 2,
+      "verse_reference": "Exodus 12:12-13",
+      "question": "What does God's statement 'against all the gods of Egypt I will execute judgment' reveal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The plagues were also divine judgment against Egypt's false gods and their claims to power",
+        "B": "God disliked Egyptian art and culture",
+        "C": "God was cruel toward all Egyptian religion",
+        "D": "The Egyptian gods were actually demons"
+      },
+      "explanation": "By bringing judgment on Egypt and sparing Israel, God demonstrates that the Egyptian gods are powerless. The Passover itself becomes a confrontation between God and the pagan religious system of Egypt."
+    },
+    {
+      "id": 62,
+      "level": 2,
+      "verse_reference": "Exodus 13:12-15",
+      "question": "What does God's requirement to dedicate the firstborn reveal about His relationship to Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The firstborn belonged to God because He redeemed Israel from slavery and deserved their gratitude",
+        "B": "God needed the firstborn for power",
+        "C": "It was just a cultural practice",
+        "D": "It was punishment for Israel"
+      },
+      "explanation": "By claiming the firstborn, God is asserting His ownership and reminding Israel that everything they have is His gift. This response to redemption establishes a pattern: deliverance demands dedication and gratitude."
+    },
+    {
+      "id": 63,
+      "level": 2,
+      "verse_reference": "Exodus 14:13-14",
+      "question": "What does Moses' instruction 'Fear ye not, stand still' teach about faith?",
+      "correct_answer": "A",
+      "options": {
+        "A": "True faith means trusting God's deliverance rather than relying on human effort or panic",
+        "B": "It means doing nothing and waiting passively",
+        "C": "It means Israel should have fought the Egyptians",
+        "D": "It means Israel should have negotiated with Pharaoh"
+      },
+      "explanation": "Standing still doesn't mean inactivity or fatalism; it means ceasing from self-directed effort and trusting God. This teaches that faith involves surrendering our need to control outcomes and trusting God's plans."
+    },
+    {
+      "id": 64,
+      "level": 2,
+      "verse_reference": "Exodus 14:21-22",
+      "question": "What is the spiritual significance of God dividing the sea to create dry land?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It demonstrates God's power over creation and confirms His ability to accomplish the impossible",
+        "B": "It was merely a natural phenomenon",
+        "C": "It shows that God can only help sometimes",
+        "D": "It was a coincidence"
+      },
+      "explanation": "The parting of the Red Sea is a creative act that transcends nature itself - it shows God's ultimate authority over all creation. What seems impossible to humans is routine for God, validating the faith Moses asked of the people."
+    },
+    {
+      "id": 65,
+      "level": 2,
+      "verse_reference": "Exodus 15:1-2",
+      "question": "Why would Moses sing 'The LORD is my strength and song'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because God had proven to be Israel's source of strength and reason for celebration through miraculous deliverance",
+        "B": "Because Moses was a musician",
+        "C": "Because it was customary to sing after battles",
+        "D": "Because Moses wanted to forget his troubles"
+      },
+      "explanation": "The song celebrates God's proven reliability and power. What seemed impossible (escaping the mighty Egyptians, crossing an impassable sea) became possible because of God's intervention, making God both their strength and their joy."
+    },
+    {
+      "id": 66,
+      "level": 2,
+      "verse_reference": "Exodus 16:4",
+      "question": "What does God's statement about testing Israel with manna reveal about His purpose?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God uses provision as an opportunity to test whether Israel will obey His law and trust His guidance",
+        "B": "God wanted to test whether Israel would be grateful",
+        "C": "God was unsure whether His plan would work",
+        "D": "Testing was meant to be punishment"
+      },
+      "explanation": "The manna was both provision and test - it revealed whether the people would follow God's law regarding the Sabbath and other commands. Provision becomes an opportunity for obedience and covenant relationship."
+    },
+    {
+      "id": 67,
+      "level": 2,
+      "verse_reference": "Exodus 16:28-30",
+      "question": "What does Israel's violation of God's Sabbath law while gathering manna teach about human nature?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Humans are prone to disobey God even after experiencing His miraculous provision and salvation",
+        "B": "The Sabbath law was unimportant to God",
+        "C": "Israel was being punished unjustly",
+        "D": "God's commands are always optional"
+      },
+      "explanation": "Despite witnessing the plagues, the Passover, the parting of the Red Sea, and the provision of manna, some Israelites still disobeyed God's clear command about the Sabbath. This shows that even miraculous deliverance doesn't automatically produce obedience."
+    },
+    {
+      "id": 68,
+      "level": 2,
+      "verse_reference": "Exodus 1:8-11",
+      "question": "What does the rise of a new Egyptian king who 'knew not Joseph' teach about the nature of political power?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Political power changes and forgets past kindness; those without power must rely on God, not human memory",
+        "B": "Egyptian kings were all forgetful",
+        "C": "Joseph's service was worthless",
+        "D": "God does not control political changes"
+      },
+      "explanation": "The shifting of political circumstances shows that human favor is temporary and unreliable. Israel's security had to be grounded not in Pharaoh's goodwill but in God's covenant promises and protection."
+    },
+    {
+      "id": 69,
+      "level": 2,
+      "verse_reference": "Exodus 4:10-12",
+      "question": "Why does God respond to Moses' complaint about being slow of speech by reminding him who made his mouth?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To show that God can equip and enable those He calls, regardless of their perceived inadequacies",
+        "B": "To mock Moses' weakness",
+        "C": "To show that speaking well is unimportant",
+        "D": "To change the subject"
+      },
+      "explanation": "God's question doesn't shame Moses but reframes the situation: if God made his mouth, then God can enable his speech. This teaches that God calls people despite their limitations and equips them for their calling."
+    },
+    {
+      "id": 70,
+      "level": 2,
+      "verse_reference": "Exodus 12:29-30",
+      "question": "What is the contrast between the tenth plague and all the preceding plagues?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The tenth plague affects every household regardless of status, making it universal and unavoidable - the judgment becomes personal and inescapable",
+        "B": "The tenth plague was the least destructive",
+        "C": "The tenth plague only affected animals",
+        "D": "The tenth plague was a natural disaster"
+      },
+      "explanation": "Unlike earlier plagues that could be partially escaped or mitigated, the tenth plague (death of the firstborn) strikes every home. Only those under the blood covenant are spared, making this the most personal and decisive judgment."
+    },
+    {
+      "id": 71,
+      "level": 2,
+      "verse_reference": "Exodus 5:1-2",
+      "question": "What is ironic about Pharaoh's claim 'I know not the LORD'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "By the end of the plagues, Pharaoh and all Egypt will know the LORD through His judgments",
+        "B": "Pharaoh's claim was actually true",
+        "C": "It proves that God does not exist",
+        "D": "It means God did not care about Egypt"
+      },
+      "explanation": "Pharaoh's declaration of ignorance sets up the entire plague narrative - God will spend ten chapters making sure that Pharaoh and all Egypt know who the LORD is through increasingly undeniable demonstrations of His power."
+    },
+    {
+      "id": 72,
+      "level": 2,
+      "verse_reference": "Exodus 3:6",
+      "question": "What does Moses' reaction of hiding his face when God reveals Himself teach about encountering the holy?",
+      "correct_answer": "A",
+      "options": {
+        "A": "True encounter with God's holiness produces awe, fear, and a sense of being unworthy to gaze upon Him",
+        "B": "God is dangerous and should be feared",
+        "C": "Moses was cowardly",
+        "D": "God wanted to hide Himself"
+      },
+      "explanation": "Moses' fear and covering of his face represents the proper response to divine holiness - a recognition that God is infinitely greater and 'other' than ourselves. This isn't cowardice but appropriate reverence."
+    },
+    {
+      "id": 73,
+      "level": 2,
+      "verse_reference": "Exodus 9:27-28",
+      "question": "What does Pharaoh's confession 'I have sinned' during the hail plague reveal about his character?",
+      "correct_answer": "A",
+      "options": {
+        "A": "His repentance is superficial and prompted only by immediate suffering, not genuine change of heart",
+        "B": "Pharaoh had truly repented",
+        "C": "Pharaoh was becoming righteous",
+        "D": "God had forgiven Pharaoh completely"
+      },
+      "explanation": "The text shows that once the plague stops, Pharaoh's heart hardens again. His confession is crisis-driven rather than genuinely transformative, showing that suffering alone does not produce lasting repentance."
+    },
+    {
+      "id": 74,
+      "level": 2,
+      "verse_reference": "Exodus 11:7",
+      "question": "What is the meaning of 'the LORD doth put a difference between the Egyptians and Israel'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Through the Passover, God establishes a clear distinction between His covenant people (protected) and those outside His covenant (judged)",
+        "B": "God likes some people more than others",
+        "C": "Egyptians and Israelites were different races",
+        "D": "God treats all nations the same way"
+      },
+      "explanation": "This statement highlights that redemption is not universal but particular - God's protection is for those in covenant with Him, marked by faith and obedience. The Passover becomes the sign of this distinction."
+    },
+    {
+      "id": 75,
+      "level": 2,
+      "verse_reference": "Exodus 16:15",
+      "question": "Why might the provision of manna have been confusing to the Israelites ('they wist not what it was')?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's provision was new and unexpected, requiring the people to trust rather than understand",
+        "B": "The Israelites were stupid",
+        "C": "Manna had existed before in Egypt",
+        "D": "The Israelites had not asked for food"
+      },
+      "explanation": "The mystery of the manna was part of its purpose - it couldn't be explained by human logic or preparation (you can't store it or multiply it yourself). This forced dependence on trusting God day by day."
+    },
+    {
+      "id": 76,
+      "level": 3,
+      "verse_reference": "Exodus 1:7-14",
+      "question": "How does the pattern of Israel's multiplication despite oppression demonstrate God's covenantal faithfulness in Exodus?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Despite Pharaoh's attempts to suppress Israel through oppression, God's covenant to Abraham regarding descendants proves unshakeable, setting the stage for redemption",
+        "B": "It shows Israel did not need God's help",
+        "C": "It proves oppression makes people stronger",
+        "D": "It demonstrates that Egypt was weak"
+      },
+      "explanation": "The oppression itself becomes the backdrop for God's faithfulness - what Pharaoh intended as suppression becomes the very condition under which God's ancient promise to Abraham is most dramatically fulfilled, preparing the people for their miraculous deliverance."
+    },
+    {
+      "id": 77,
+      "level": 3,
+      "verse_reference": "Exodus 2:14",
+      "question": "What does Moses' flight from Egypt after killing the Egyptian reveal about the limitations of self-directed righteousness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Attempting to solve injustice through personal strength rather than God's guidance leads to failure and exile, requiring transformation before effectiveness",
+        "B": "Moses was a murderer and should have been executed",
+        "C": "Self-defense is always wrong",
+        "D": "God does not care about injustice"
+      },
+      "explanation": "Moses' 40-year exile in Midian is necessary - he must be transformed from a man of Egyptian power and passion into a man of dependence on God. His personal reform precedes his calling, showing that effective service requires prior brokenness and surrender."
+    },
+    {
+      "id": 78,
+      "level": 3,
+      "verse_reference": "Exodus 3:1-14",
+      "question": "How does the revelation of God's name 'I AM THAT I AM' address the entire problem of Israel's oppression and God's apparent absence?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's self-existence and eternal nature guarantee His reliability - He cannot fail or be defeated because His being is independent and unchanging",
+        "B": "It is just a name with no meaning",
+        "C": "It proves God is weak",
+        "D": "It shows God will forget Israel"
+      },
+      "explanation": "During centuries of slavery and silence, the people might question whether God exists or cares. The revelation of 'I AM' asserts God's eternal, independent, unchangeable reality. Unlike human helpers who may fail or forget, God's very existence guarantees His faithfulness."
+    },
+    {
+      "id": 79,
+      "level": 3,
+      "verse_reference": "Exodus 4:1-17",
+      "question": "What is the literary and theological significance of God providing Moses with three signs (staff, hand, water)?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God provides multiple demonstrations of power to overcome Moses' objections and ensure Israel's faith, showing God meets both internal doubt and external skepticism",
+        "B": "Three is a mystical number with hidden power",
+        "C": "Moses required three signs to be convinced",
+        "D": "The signs were unnecessary"
+      },
+      "explanation": "Each sign addresses a different audience: the staff for proving God's reality, the hand for demonstrating divine authority, and water turning to blood for showing power over Egypt specifically. This layering shows how God systematically addresses all possible objections to His plan."
+    },
+    {
+      "id": 80,
+      "level": 3,
+      "verse_reference": "Exodus 7-11",
+      "question": "What does the escalation pattern of the ten plagues reveal about God's justice and patience with Pharaoh?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God gives repeated opportunities for repentance while inexorably moving toward judgment, showing both mercy and justice, but judgment ultimately cannot be avoided",
+        "B": "God wanted to destroy Egypt from the start",
+        "C": "The plagues were random with no pattern",
+        "D": "God was unsure how to punish Pharaoh"
+      },
+      "explanation": "The ten plagues follow a pattern of increasing severity, with each plague followed by opportunity to repent. This shows God's patience - He could have destroyed Egypt immediately but instead provides multiple chances. When these are rejected, the escalation becomes inevitable, teaching that divine justice may be long-suffering but ultimately irresistible."
+    },
+    {
+      "id": 81,
+      "level": 3,
+      "verse_reference": "Exodus 8:19",
+      "question": "What does the magicians' declaration 'This is the finger of God' communicate about the limits of human power and knowledge?",
+      "correct_answer": "A",
+      "options": {
+        "A": "When confronted with transcendent power that defies explanation or replication, human experts must acknowledge reality that surpasses their comprehension and authority",
+        "B": "The magicians became believers in God",
+        "C": "Magic is real and equal to God's power",
+        "D": "God's power only works sometimes"
+      },
+      "explanation": "Even Egypt's most elite and learned representatives recognize they've exceeded the boundaries of their knowledge and power. This moment teaches that there exists a realm of reality (the divine) that fundamentally transcends human mastery or explanation."
+    },
+    {
+      "id": 82,
+      "level": 3,
+      "verse_reference": "Exodus 9:15-16",
+      "question": "How does God's statement about raising up Pharaoh reveal that God's purposes extend beyond immediate liberation?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's aim includes demonstrating His power globally and establishing His reputation so that His name and authority will be recognized throughout all human civilization",
+        "B": "God did not care about Israel",
+        "C": "God's purpose was only local",
+        "D": "Pharaoh's will was more important than God's will"
+      },
+      "explanation": "The Exodus is not merely a local event of one nation's release but a cosmic declaration of God's supreme power intended to have worldwide implications. This explains why the plagues escalate and why Pharaoh's resistance continues - God's purposes are larger than just freeing Israel."
+    },
+    {
+      "id": 83,
+      "level": 3,
+      "verse_reference": "Exodus 12:1-14",
+      "question": "How does the Passover institution create a continuous link between Israel's past deliverance and all future generations' faith?",
+      "correct_answer": "A",
+      "options": {
+        "A": "By making the Passover a perpetual ordinance, every subsequent generation participates in the remembered reality of God's deliverance, making past salvation present and personal for each generation",
+        "B": "The Passover was only for one generation",
+        "C": "Past salvation is not relevant to current faith",
+        "D": "God wants Israel to forget the Exodus"
+      },
+      "explanation": "The command to celebrate Passover 'throughout your generations' means each generation experiences this as their deliverance story - not just a historical event but a continuing proof of God's faithfulness. The narrative structure embeds salvation history into ongoing religious practice."
+    },
+    {
+      "id": 84,
+      "level": 3,
+      "verse_reference": "Exodus 12:37-40",
+      "question": "What is the theological significance of specifying that Israel had dwelt in Egypt '430 years' before the Exodus?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It establishes that the Exodus fulfills God's ancient promise made to Abraham regarding the duration and resolution of Israel's Egyptian sojourn, connecting the Abrahamic covenant to current redemption",
+        "B": "It is just a number with no importance",
+        "C": "Israel was meant to stay forever in Egypt",
+        "D": "The number was made up"
+      },
+      "explanation": "Genesis 15:13 prophesied that Abraham's descendants would be enslaved for 400 years. The 430-year number confirms this prophecy's fulfillment, showing that even this long captivity occurred within God's predetermined plan and timeline."
+    },
+    {
+      "id": 85,
+      "level": 3,
+      "verse_reference": "Exodus 13:17-22",
+      "question": "What does God's choice to lead Israel 'through the way of the wilderness' rather than 'through the way of the land of the Philistines' reveal about God's knowledge and care?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's omniscience and protective care include directing people away from trials they cannot yet endure; redemption includes leading His people through the path that develops faith before testing resolve",
+        "B": "God was afraid of the Philistines",
+        "C": "The wilderness was shorter",
+        "D": "God did not care about the route"
+      },
+      "explanation": "God's explicit reasoning (lest they 'repent when they see war') shows He structures Israel's journey according to their spiritual readiness. This demonstrates that God's guidance isn't random but considers our capacity for trials and stages our growth appropriately."
+    },
+    {
+      "id": 86,
+      "level": 3,
+      "verse_reference": "Exodus 14:1-4",
+      "question": "How does God's instruction to encamp 'before Pi-hahiroth' with the sea hemming them in demonstrate the purpose behind apparent impossibility?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God deliberately positions Israel in an impossible situation (trapped between mountains and sea with pursuers) to create conditions where only divine intervention can save them, maximizing their faith-building experience",
+        "B": "God wanted Israel to die",
+        "C": "It was a strategic military position",
+        "D": "God made a mistake"
+      },
+      "explanation": "The geography becomes part of God's pedagogical purpose - by eliminating all human escape routes, God ensures that the subsequent deliverance cannot be attributed to military genius or natural factors but only to God's direct intervention. This kind of impossibility-made-possible is the core of faith development."
+    },
+    {
+      "id": 87,
+      "level": 3,
+      "verse_reference": "Exodus 14:13-14",
+      "question": "What does the distinction between 'fear' and 'stand still' teach about the nature of biblical faith?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Biblical faith is not passivity but active trust that involves ceasing from anxious self-effort and consciously choosing to depend on God's stated intention to fight for them",
+        "B": "Fear is always wrong",
+        "C": "Standing still means never acting",
+        "D": "God never requires courage"
+      },
+      "explanation": "The command pairs negative (stop being afraid) with positive (stand firm in trust). This shows faith is not mere inactivity but a deliberate posture of trust - acknowledging the crisis while consciously refusing panic and instead placing confidence in God's character and promise."
+    },
+    {
+      "id": 88,
+      "level": 3,
+      "verse_reference": "Exodus 14:21-31",
+      "question": "How does the narrative of crossing the Red Sea function as both historical redemption and theological statement about God's nature and purpose?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The crossing demonstrates God's victory over the greatest threat Israel faces, proving God's sovereignty, power, and personal commitment to Israel's welfare while simultaneously judging Egypt",
+        "B": "It is only historical with no theological meaning",
+        "C": "It proves God is weak",
+        "D": "Egypt was destroyed accidentally"
+      },
+      "explanation": "The Red Sea narrative is simultaneously a historical account AND a theological treatise: historically it accomplishes Israel's liberation; theologically it proves God's supreme power over all creation, judges the enemies of God's people, and establishes the covenant basis for Israel's faith."
+    },
+    {
+      "id": 89,
+      "level": 3,
+      "verse_reference": "Exodus 15:20-21",
+      "question": "What does Miriam's prophetic leadership and song represent in the context of Israel's recent deliverance?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It shows that God's Spirit empowers witness and worship beyond just male leadership, and that corporate celebration of God's works builds community faith and memory",
+        "B": "Women are not important in Israel",
+        "C": "Miriam was more important than Moses",
+        "D": "Singing was unnecessary"
+      },
+      "explanation": "Miriam's role as prophetess leading the people's response demonstrates the communal and gender-inclusive nature of God's work. Her song ensures the deliverance story becomes embedded in the people's collective memory through worship, which transmits faith to future generations."
+    },
+    {
+      "id": 90,
+      "level": 3,
+      "verse_reference": "Exodus 16:1-36",
+      "question": "How does the manna narrative function as a test of Israel's faith and obedience, and what does their failure reveal about redemption?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Miraculous redemption from bondage does not automatically produce obedience to all of God's laws; experiencing God's power must lead to conscious choice to follow His commands, showing that freedom requires ongoing faith",
+        "B": "Israel was punished for everything",
+        "C": "God's power does not matter",
+        "D": "Redemption is permanent and automatic"
+      },
+      "explanation": "Even after experiencing the plagues and crossing the Red Sea, some Israelites disobey the Sabbath law during the manna provision. This shows that salvation history is not automatically self-perpetuating - each generation and each day requires renewed faith and obedience to what God has commanded."
+    },
+    {
+      "id": 91,
+      "level": 3,
+      "verse_reference": "Exodus 3:6-7",
+      "question": "What does God's statement 'I have seen the affliction of my people' communicate about divine knowledge and compassion at a moment when Israel might feel abandoned?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's awareness of Israel's suffering is comprehensive and personal; though no divine intervention was visible for generations, God has observed every detail and this awareness will now produce redemptive action",
+        "B": "God was not paying attention",
+        "C": "God does not care about suffering",
+        "D": "The suffering was not real"
+      },
+      "explanation": "This statement addresses what seems like a paradox: why would God allow generations of slavery? By emphasizing His complete awareness ('I have seen'), God establishes that the suffering has not escaped His notice, which becomes the foundation for trust in the upcoming deliverance."
+    },
+    {
+      "id": 92,
+      "level": 3,
+      "verse_reference": "Exodus 5:1-9",
+      "question": "How does Pharaoh's response to increase Israel's workload after God's demand demonstrate the nature of spiritual resistance?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Spiritual resistance to God's will often intensifies opposition and hardship before liberation; the plagues will escalate in response to this hardening of hearts, showing God's ultimate authority",
+        "B": "Israel should have given up",
+        "C": "God's power does not work against opposition",
+        "D": "Pharaoh should have obeyed immediately"
+      },
+      "explanation": "Rather than yielding to God's demand, Pharaoh responds by intensifying oppression - a classic pattern of spiritual rebellion. This sets up the necessity of the escalating plagues, showing that God does not allow resistance to frustrate His purposes indefinitely."
+    },
+    {
+      "id": 93,
+      "level": 3,
+      "verse_reference": "Exodus 7:11-12",
+      "question": "What does the fact that Egyptian magicians could initially replicate the serpent sign communicate about the nature of spiritual conflict?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Spiritual opposition can initially mimic God's power, creating apparent parity; but true divine power is demonstrated through superior authority when 'Aaron's rod swallowed up their rods'",
+        "B": "Egyptian magic was equal to God's power",
+        "C": "God was concerned about the competition",
+        "D": "The miracles were staged tricks"
+      },
+      "explanation": "The magicians' temporary success might suggest a conflict between equal powers, but Aaron's rod's superiority (swallowing the others) establishes God's absolute authority. This pattern teaches that apparent spiritual parity is illusion - God's power is qualitatively different and ultimately supreme."
+    },
+    {
+      "id": 94,
+      "level": 3,
+      "verse_reference": "Exodus 10:21-23",
+      "question": "What is significant about the ninth plague being darkness 'that may be felt' while Israel has light?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The plague divides Egypt from Israel not by distance but by qualitatively opposite experiences under the same sky; light and darkness become symbols of God's judgment on the wicked and protection of the righteous",
+        "B": "Darkness was not real",
+        "C": "Israel would also experience darkness later",
+        "D": "God did not care about Israel"
+      },
+      "explanation": "This plague's unique feature - Israel experiences light while Egyptians endure palpable darkness - creates a stark visual and experiential boundary. The simultaneous opposition of conditions symbolizes the ultimate division that comes through judgment: eternal separation between those who obey God and those who resist."
+    },
+    {
+      "id": 95,
+      "level": 3,
+      "verse_reference": "Exodus 12:21-28",
+      "question": "How does the requirement for elders to 'draw out' the lamb on the tenth day create a participatory rather than merely observational redemption?",
+      "correct_answer": "A",
+      "options": {
+        "A": "By having the people actively prepare (select, kill, apply blood) the Passover lamb, they participate in their own redemption; this transforms them from passive recipients to active agents in God's plan",
+        "B": "It was just a preparation activity",
+        "C": "The people did nothing to cause their deliverance",
+        "D": "Active participation was not required"
+      },
+      "explanation": "While God provides the deliverance, the people must act in obedience - selecting the lamb, applying the blood, eating with the specified posture. This teaches that redemption is both God's sovereign act AND requires human participation through faith-demonstrated obedience."
+    },
+    {
+      "id": 96,
+      "level": 3,
+      "verse_reference": "Exodus 12:40-41",
+      "question": "How does the statement that Israel 'went out...by their armies' reframe their identity at the moment of deliverance?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A collection of enslaved families is reconstituted as an organized people with military structure, marking their transformation from individuals in bondage to a united nation with collective identity and purpose",
+        "B": "They were now a military power",
+        "C": "They planned to conquer Egypt",
+        "D": "The description was inaccurate"
+      },
+      "explanation": "The word 'armies' signals that redemption includes not just liberation from oppression but positive transformation into a covenantal community with structure, organization, and shared purpose. Israel's identity fundamentally shifts from 'slaves in Egypt' to 'redeemed people organized as God's nation.'"
+    },
+    {
+      "id": 97,
+      "level": 3,
+      "verse_reference": "Exodus 13:3",
+      "question": "Why does God command Israel to 'remember this day in which ye came out from Egypt'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Memory of deliverance is essential to maintain faith identity; conscious remembering and celebration ensures that God's mighty acts remain central to Israel's self-understanding across generations",
+        "B": "Memory serves no spiritual purpose",
+        "C": "Israel should forget the past",
+        "D": "God forgot His acts immediately"
+      },
+      "explanation": "The command to remember (repeated throughout Exodus and Jewish tradition) establishes that spiritual identity is not merely individual conversion but communal continuity with historical acts of God. Remembering becomes the practice through which faith is transmitted and renewed."
+    },
+    {
+      "id": 98,
+      "level": 3,
+      "verse_reference": "Exodus 4:21-22",
+      "question": "How does God's statement 'Israel is my son, even my firstborn' establish Israel's unique status and the grounds for redemption?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Israel's liberation is grounded not in merit but in their unique covenant relationship with God as His son; this filial status explains both why God must redeem them and why Pharaoh cannot refuse",
+        "B": "Israel was actually God's grandson",
+        "C": "The metaphor means nothing",
+        "D": "Pharaoh was also God's son"
+      },
+      "explanation": "The 'son' language establishes that Israel's relationship to God transcends mere contractual obligation - it is familial. A son's life cannot be owned by another master. This is why Pharaoh's refusal to let them go is not merely political but constitutes interference with a parent-child relationship."
+    },
+    {
+      "id": 99,
+      "level": 3,
+      "verse_reference": "Exodus 14:29-31",
+      "question": "What does the contrast between Israel's safe passage and the Egyptians' drowning teach about the ultimate purpose of the Exodus?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The Exodus serves both as Israel's redemption AND as Egypt's judgment; through one event, God simultaneously saves His people and punishes those who resist His will, establishing that alignment with God and opposition to God have opposite outcomes",
+        "B": "God was cruel to Egypt",
+        "C": "Both groups had equal outcomes",
+        "D": "The ending proves God is unjust"
+      },
+      "explanation": "The same sea event produces opposite outcomes - life for Israel, death for Egypt. This establishes a fundamental principle: in God's purposes, there is no neutral ground. Faith and obedience lead to life and salvation; rebellion leads to judgment. The Exodus declares this cosmic principle through historical event."
+    },
+    {
+      "id": 100,
+      "level": 3,
+      "verse_reference": "Exodus 1-16",
+      "question": "How does the overall narrative arc from oppression to Passover to wilderness provision establish God's full commitment to Israel's welfare?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's redemption includes liberation from oppression (Exodus), establishment of covenant identity (Passover), and ongoing provision in dependence (Manna) - showing redemption is not a single event but a comprehensive remaking of identity, relationship, and daily experience",
+        "B": "God only cared about the Exodus",
+        "C": "God's care ended after liberation",
+        "D": "Israel was abandoned in the wilderness"
+      },
+      "explanation": "The narrative doesn't end with escape but continues through covenant establishment and sustenance. This teaches that God's commitment extends beyond one miraculous moment to encompassing transformation - from being someone's slaves to being God's covenant people with divine provision and leadership."
+    }
+  ]
+}

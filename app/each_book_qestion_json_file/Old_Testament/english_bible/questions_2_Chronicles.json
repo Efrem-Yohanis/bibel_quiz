@@ -1,0 +1,1364 @@
+{
+  "metadata": {
+    "total_questions": 150,
+    "levels": [
+      "Easy",
+      "Medium",
+      "Hard"
+    ],
+    "book": "2 Chronicles",
+    "chapters": "1-36"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:1",
+      "question": "Who was strengthened in his kingdom at the beginning of 2 Chronicles?",
+      "correct_answer": "Solomon",
+      "options": ["Solomon", "David", "Rehoboam", "Jeroboam"],
+      "explanation": "2 Chronicles 1:1 says Solomon the son of David was strengthened in his kingdom." 
+    },
+    {
+      "id": 2,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:3",
+      "question": "At which high place did Solomon go because the tabernacle was there?",
+      "correct_answer": "Gibeon",
+      "options": ["Gibeon", "Bethel", "Jerusalem", "Shiloh"],
+      "explanation": "Solomon went to the high place at Gibeon, where the tabernacle was, in 2 Chronicles 1." 
+    },
+    {
+      "id": 3,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:4",
+      "question": "Who had brought the ark of God up from Kirjath-jearim?",
+      "correct_answer": "David",
+      "options": ["David", "Solomon", "Moses", "Aaron"],
+      "explanation": "David brought the ark up from Kirjath-jearim, as stated in 2 Chronicles 1:4." 
+    },
+    {
+      "id": 4,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:6",
+      "question": "How many burnt offerings did Solomon offer on the bronze altar at Gibeon?",
+      "correct_answer": "A thousand",
+      "options": ["A thousand", "Five hundred", "Ten thousand", "One hundred"],
+      "explanation": "Solomon offered a thousand burnt offerings before the Lord at Gibeon in 2 Chronicles 1." 
+    },
+    {
+      "id": 5,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:7",
+      "question": "Who appeared to Solomon in the night and told him to ask what God should give him?",
+      "correct_answer": "God",
+      "options": ["God", "Nathan", "An angel", "The Spirit of the Lord"],
+      "explanation": "God appeared to Solomon at night and invited him to ask for what he wanted in 2 Chronicles 1." 
+    },
+    {
+      "id": 6,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:10",
+      "question": "What did Solomon request from God?",
+      "correct_answer": "Wisdom and knowledge",
+      "options": ["Wisdom and knowledge", "Long life", "Riches", "Victory over enemies"],
+      "explanation": "Solomon asked for wisdom and knowledge to judge God's people in 2 Chronicles 1." 
+    },
+    {
+      "id": 7,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 1:11",
+      "question": "What three things did Solomon NOT ask for before requesting wisdom and knowledge?",
+      "correct_answer": "Riches, wealth, or honour",
+      "options": ["Riches, wealth, or honour", "Long life, health, or peace", "Power, land, or servants", "Fame, victory, or sons"],
+      "explanation": "Solomon did not ask for riches, wealth, or honour, but for wisdom and knowledge instead." 
+    },
+    {
+      "id": 8,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 1:12",
+      "question": "What did God say He would give Solomon because he asked for wisdom?",
+ "correct_answer": "Wisdom and knowledge, riches, wealth, and honour",
+      "options": ["Wisdom and knowledge, riches, wealth, and honour", "Only wisdom", "Long life and peace", "A powerful army"],
+      "explanation": "Because Solomon asked for wisdom and not riches or honor, God promised him wisdom plus riches, wealth, and honor." 
+    },
+    {
+      "id": 9,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:14",
+      "question": "How many chariots did Solomon have?",
+      "correct_answer": "1,400",
+      "options": ["1,400", "700", "2,000", "500"],
+      "explanation": "Solomon had 1,400 chariots according to 2 Chronicles 1:14." 
+    },
+    {
+      "id": 10,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:14",
+      "question": "How many horsemen did Solomon place in chariot cities and Jerusalem?",
+      "correct_answer": "12,000",
+      "options": ["12,000", "6,000", "10,000", "1,200"],
+      "explanation": "Solomon had twelve thousand horsemen placed in the chariot cities and with the king in Jerusalem." 
+    },
+    {
+      "id": 11,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 1:15",
+      "question": "What did Solomon make as plentiful as stones in Jerusalem?",
+      "correct_answer": "Silver and gold",
+      "options": ["Silver and gold", "Cedars", "Horses", "Bread"],
+      "explanation": "Solomon made silver and gold plenteous as stones in Jerusalem." 
+    },
+    {
+      "id": 12,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 1:16",
+      "question": "From which country did Solomon bring horses?",
+      "correct_answer": "Egypt",
+      "options": ["Egypt", "Tyre", "Cush", "Aram"],
+      "explanation": "Solomon brought horses from Egypt in 2 Chronicles 1." 
+    },
+    {
+      "id": 13,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 2:1",
+      "question": "What two kinds of houses did Solomon determine to build?",
+      "correct_answer": "A house for the name of the LORD and a house for his kingdom",
+      "options": ["A house for the name of the LORD and a house for his kingdom", "A house for the priests and a house for the Levites", "A house for the ark and a house for the people", "A house for wealth and a house for war"],
+      "explanation": "Solomon decided to build a house for the Lord and a house for his kingdom." 
+    },
+    {
+      "id": 14,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:2",
+      "question": "How many men did Solomon tell out to bear burdens?",
+      "correct_answer": "70,000",
+      "options": ["70,000", "80,000", "3,600", "10,000"],
+      "explanation": "Solomon appointed seventy thousand men to bear burdens in the temple work." 
+    },
+    {
+      "id": 15,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:2",
+      "question": "How many men did Solomon set to hew in the mountain?",
+      "correct_answer": "80,000",
+      "options": ["80,000", "70,000", "3,600", "100,000"],
+      "explanation": "Eighty thousand were appointed to hew in the mountain for the temple construction." 
+    },
+    {
+      "id": 16,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:2",
+      "question": "How many overseers did Solomon appoint over the laborers?",
+      "correct_answer": "3,600",
+      "options": ["3,600", "1,800", "10,000", "2,500"],
+      "explanation": "Three thousand six hundred were set over Solomon's laborers." 
+    },
+    {
+      "id": 17,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:3",
+      "question": "Whom did Solomon send to for help in building the house?",
+      "correct_answer": "Huram king of Tyre",
+      "options": ["Huram king of Tyre", "Pharaoh king of Egypt", "Hiram king of Sidon", "Ahab king of Israel"],
+      "explanation": "Solomon sent to Huram king of Tyre for help in building the temple." 
+    },
+    {
+      "id": 18,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:4",
+      "question": "What was one of the purposes of the house Solomon built?",
+      "correct_answer": "To burn sweet incense before God",
+      "options": ["To burn sweet incense before God", "To house the king's treasures", "To store chariots", "To hold army councils"],
+      "explanation": "The temple was built to burn sweet incense before the Lord." 
+    },
+    {
+      "id": 19,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 2:5",
+      "question": "How does Solomon describe God in relation to other gods?",
+      "correct_answer": "Our God is greater than all gods",
+      "options": ["Our God is greater than all gods", "Our God is one of many gods", "Our God is unknown", "Our God is a warrior god"],
+      "explanation": "Solomon recognizes God as great above all gods in 2 Chronicles 2." 
+    },
+    {
+      "id": 20,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 2:6",
+      "question": "Why does Solomon say he is building the house?",
+      "correct_answer": "To burn sacrifice before God",
+      "options": ["To burn sacrifice before God", "To display his wealth", "To make war less likely", "To honor his father"],
+      "explanation": "Solomon built the temple to burn sacrifices and worship God." 
+    },
+    {
+      "id": 21,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:7",
+      "question": "What qualities did Solomon request in the man sent for temple work?",
+      "correct_answer": "Skilled in gold, silver, brass, iron, purple, crimson, and blue",
+      "options": ["Skilled in gold, silver, brass, iron, purple, crimson, and blue", "Strong enough to carry stones", "Able to teach the people", "Skilled in writing scrolls"],
+      "explanation": "Solomon asked for craftsmen skilled with metals, cloth, and engraving." 
+    },
+    {
+      "id": 22,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:8",
+      "question": "From where did Solomon ask for cedar, fir, and algum trees?",
+      "correct_answer": "Lebanon",
+      "options": ["Lebanon", "Egypt", "Edom", "Mesopotamia"],
+      "explanation": "Solomon requested timber from Lebanon for the temple." 
+    },
+    {
+      "id": 23,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:10",
+      "question": "How many measures of beaten wheat did Solomon offer to the workers from Tyre?",
+      "correct_answer": "20,000",
+      "options": ["20,000", "10,000", "5,000", "30,000"],
+      "explanation": "Solomon supplied twenty thousand measures of beaten wheat to those who worked on the timber." 
+    },
+    {
+      "id": 24,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 2:11",
+      "question": "What did Huram call Solomon in his letter?",
+      "correct_answer": "A wise son endued with prudence and understanding",
+      "options": ["A wise son endued with prudence and understanding", "A strong king", "A mighty warrior", "A foolish prince"],
+      "explanation": "Huram praised Solomon as wise and understanding in his letter." 
+    },
+    {
+      "id": 25,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 2:13",
+      "question": "What kind of man did Huram send to Solomon?",
+      "correct_answer": "A cunning man endowed with understanding",
+      "options": ["A cunning man endowed with understanding", "A priest of Israel", "A chariot driver", "A prophet"],
+      "explanation": "Huram sent a skilled craftsman with wisdom to help build the temple." 
+    },
+    {
+      "id": 26,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 2:14",
+      "question": "Of which people was the mother of Huram's craftsman?",
+      "correct_answer": "Daughters of Dan",
+      "options": ["Daughters of Dan", "Daughters of Judah", "Daughters of Israel", "Daughters of Moab"],
+      "explanation": "The craftsman's mother was from the daughters of Dan." 
+    },
+    {
+      "id": 27,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 2:17",
+      "question": "How many strangers did Solomon number in the land of Israel?",
+      "correct_answer": "153,600",
+      "options": ["153,600", "100,000", "200,000", "75,000"],
+      "explanation": "Solomon counted one hundred fifty-three thousand six hundred strangers in Israel." 
+    },
+    {
+      "id": 28,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 3:1",
+      "question": "On what mount did Solomon begin to build the house of the LORD?",
+      "correct_answer": "Mount Moriah",
+      "options": ["Mount Moriah", "Mount Zion", "Mount Carmel", "Mount Sinai"],
+      "explanation": "Solomon built the temple on Mount Moriah, where the Lord had appeared to David." 
+    },
+    {
+      "id": 29,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 3:2",
+      "question": "In which year of Solomon's reign did he begin to build the temple?",
+      "correct_answer": "The fourth year",
+      "options": ["The fourth year", "The first year", "The seventh year", "The tenth year"],
+      "explanation": "Solomon started building the temple in the fourth year of his reign." 
+    },
+    {
+      "id": 30,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 3:4",
+      "question": "How long was the porch at the front of the temple?",
+      "correct_answer": "Twenty cubits",
+      "options": ["Twenty cubits", "Ten cubits", "Thirty cubits", "Forty cubits"],
+      "explanation": "The porch was twenty cubits long according to 2 Chronicles 3." 
+    },
+    {
+      "id": 31,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 3:5",
+      "question": "What material did Solomon overlay the greater house with?",
+      "correct_answer": "Pure gold",
+      "options": ["Pure gold", "Silver", "Bronze", "Cedar"],
+      "explanation": "The greater house was overlaid with pure gold." 
+    },
+    {
+      "id": 32,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 3:8",
+      "question": "How long were the wings of the cherubims in the most holy place?",
+      "correct_answer": "Twenty cubits",
+      "options": ["Twenty cubits", "Ten cubits", "Fifteen cubits", "Thirty cubits"],
+      "explanation": "Each cherubim had wings that spread twenty cubits." 
+    },
+    {
+      "id": 33,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 3:11",
+      "question": "How many cubits long were the wings of each cherub?",
+      "correct_answer": "Five cubits",
+      "options": ["Five cubits", "Ten cubits", "Three cubits", "Seven cubits"],
+      "explanation": "Each wing was five cubits long and reached to the wall or the other cherub." 
+    },
+    {
+      "id": 34,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 4:2",
+      "question": "What was the measurements of the molten sea?",
+      "correct_answer": "Ten cubits by ten cubits and five cubits high",
+      "options": ["Ten cubits by ten cubits and five cubits high", "Twenty cubits by ten cubits", "Five cubits by five cubits", "Fifteen cubits by ten cubits"],
+      "explanation": "The molten sea was ten cubits in diameter and five cubits high." 
+    },
+    {
+      "id": 35,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 4:3",
+      "question": "What was under the molten sea?",
+      "correct_answer": "Oxen",
+      "options": ["Oxen", "Lions", "Cherubim", "Serpents"],
+      "explanation": "The molten sea stood upon twelve oxen." 
+    },
+    {
+      "id": 36,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 4:6",
+      "question": "How many lavers did Solomon make?",
+      "correct_answer": "Ten",
+      "options": ["Ten", "Five", "Twenty", "Twelve"],
+      "explanation": "Solomon made ten lavers in the temple court." 
+    },
+    {
+      "id": 37,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 4:9",
+      "question": "What did Solomon place in the temple court besides the great court?",
+      "correct_answer": "Doors for the court overlaid with brass",
+      "options": ["Doors for the court overlaid with brass", "Altars of silver", "Golden statues", "Priestly garments"],
+      "explanation": "Solomon made the doors of the court and overlaid them with brass." 
+    },
+    {
+      "id": 38,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 4:10",
+      "question": "Where was the molten sea set?",
+      "correct_answer": "On the right side of the east end, over against the south",
+      "options": ["On the right side of the east end, over against the south", "At the north gate", "In the inner court", "In the most holy place"],
+      "explanation": "The molten sea was placed at the right side of the east end, opposite the south." 
+    },
+    {
+      "id": 39,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 4:11",
+      "question": "Who made the pots, shovels, and basins for the temple?",
+      "correct_answer": "Huram",
+      "options": ["Huram", "Solomon", "David", "Ben-Hur"],
+      "explanation": "Huram made the vessels required for the temple service." 
+    },
+    {
+      "id": 40,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 4:13",
+      "question": "How many pomegranates did Solomon make on the two wreaths atop the pillars?",
+      "correct_answer": "400",
+      "options": ["400", "200", "100", "600"],
+      "explanation": "There were four hundred pomegranates on the two wreaths of the pillars." 
+    },
+    {
+      "id": 41,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 4:15",
+      "question": "How many oxen supported the molten sea?",
+      "correct_answer": "Twelve",
+      "options": ["Twelve", "Ten", "Eight", "Fourteen"],
+      "explanation": "The sea stood on twelve oxen." 
+    },
+    {
+      "id": 42,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 4:20",
+      "question": "What material were the candlesticks made of?",
+      "correct_answer": "Gold",
+      "options": ["Gold", "Silver", "Bronze", "Copper"],
+      "explanation": "The candlesticks were made of gold for the temple." 
+    },
+    {
+      "id": 43,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 4:22",
+      "question": "Which parts of the house were made of pure gold, not silver?",
+      "correct_answer": "All the drinking vessels and all the vessels of the house of the forest of Lebanon",
+      "options": ["All the drinking vessels and all the vessels of the house of the forest of Lebanon", "Only the altar", "Only the doors", "Only the table of shewbread"],
+      "explanation": "All of Solomon's drinking vessels and forest house vessels were pure gold." 
+    },
+    {
+      "id": 44,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 5:2",
+      "question": "Who assembled the elders and heads of tribes to bring up the ark?",
+      "correct_answer": "Solomon",
+      "options": ["Solomon", "David", "Rehoboam", "Nathan"],
+      "explanation": "Solomon assembled the leaders of Israel to bring up the ark." 
+    },
+    {
+      "id": 45,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 5:4",
+      "question": "Who brought up the ark and holy vessels in the procession?",
+      "correct_answer": "The priests and Levites",
+      "options": ["The priests and Levites", "The elders", "The king's soldiers", "The women of Israel"],
+      "explanation": "The priests and Levites carried the ark and holy vessels." 
+    },
+    {
+      "id": 46,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 5:6",
+      "question": "How many oxen were sacrificed when the ark was brought into its place?",
+      "correct_answer": "A number too many to tell or number",
+      "options": ["A number too many to tell or number", "One thousand", "Five hundred", "Ten thousand"],
+      "explanation": "The sacrifices were so numerous they could not be numbered." 
+    },
+    {
+      "id": 47,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 5:8",
+      "question": "Where was the ark of the covenant placed inside the temple?",
+      "correct_answer": "In the oracle of the house, into the most holy place",
+      "options": ["In the oracle of the house, into the most holy place", "In the outer court", "On the bronze altar", "In the court of the priests"],
+      "explanation": "The ark was placed in the most holy place, under the cherubim." 
+    },
+    {
+      "id": 48,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 5:10",
+      "question": "What was in the ark when it was brought to the temple?",
+      "correct_answer": "The two tables of stone with the covenant",
+      "options": ["The two tables of stone with the covenant", "A jar of manna", "Aaron's rod", "The golden pot"],
+      "explanation": "The ark contained the two tablets that Moses put there at Horeb." 
+    },
+    {
+      "id": 49,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 5:13",
+      "question": "What filled the house of the LORD when the trumpeters and singers praised Him?",
+      "correct_answer": "A cloud",
+      "options": ["A cloud", "Fire", "Wind", "Darkness"],
+      "explanation": "The glory of the LORD filled the house like a cloud." 
+    },
+    {
+      "id": 50,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 6:1",
+      "question": "What did Solomon say the LORD had said about dwelling in darkness?",
+      "correct_answer": "The LORD would dwell in thick darkness",
+      "options": ["The LORD would dwell in thick darkness", "The LORD would dwell in the light", "The LORD would dwell among the people", "The LORD would dwell in the heavens"],
+      "explanation": "Solomon acknowledged that God would dwell in thick darkness." 
+    },
+    {
+      "id": 51,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 6:2",
+      "question": "Why did Solomon say he had built an house of habitation for God?",
+      "correct_answer": "To provide a place for God's dwelling forever",
+      "options": ["To provide a place for God's dwelling forever", "To be admired by nations", "To store treasures", "To honor David"],
+      "explanation": "Solomon built a permanent dwelling place for the Lord." 
+    },
+    {
+      "id": 52,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 6:5",
+      "question": "Which city did God choose among all tribes of Israel to put His name?",
+      "correct_answer": "Jerusalem",
+      "options": ["Jerusalem", "Bethel", "Shechem", "Hebron"],
+      "explanation": "God chose Jerusalem among all tribes for His name." 
+    },
+    {
+      "id": 53,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 6:6",
+      "question": "Who did God choose to be ruler over his people Israel?",
+      "correct_answer": "David",
+      "options": ["David", "Solomon", "Saul", "Rehoboam"],
+      "explanation": "God chose David to rule Israel, as Solomon said in his prayer." 
+    },
+    {
+      "id": 54,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 6:8",
+      "question": "What question did Solomon ask regarding God dwelling on earth?",
+      "correct_answer": "If God could dwell with men on earth since heaven cannot contain him",
+      "options": ["If God could dwell with men on earth since heaven cannot contain him", "If God would forgive sins of the people", "If God would accept offerings of animals", "If God would choose another temple"],
+      "explanation": "Solomon asks whether God would really dwell on earth, noting heaven cannot contain Him." 
+    },
+    {
+      "id": 55,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 6:11",
+      "question": "What did Solomon ask God to do when His people pray toward the temple?",
+      "correct_answer": "Hear from heaven and forgive their sin",
+      "options": ["Hear from heaven and forgive their sin", "Send fire upon their enemies", "Give them victory in battle", "Make them prosperous"],
+      "explanation": "Solomon prayed for God to hear from heaven and forgive Israel when they confess." 
+    },
+    {
+      "id": 56,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 6:22",
+      "question": "What did Solomon request concerning an oath made against a neighbor?",
+      "correct_answer": "That God would judge and requite the wicked and justify the righteous",
+      "options": ["That God would judge and requite the wicked and justify the righteous", "That God would destroy the oath", "That God would grant wealth to the one who swore", "That God would send a prophet"],
+      "explanation": "Solomon asked God to judge according to justice when oaths were sworn at the altar." 
+    },
+    {
+      "id": 57,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 6:24",
+      "question": "What did Solomon ask God to do if Israel was defeated because of sin?",
+      "correct_answer": "Hear their confession and return them to the land",
+      "options": ["Hear their confession and return them to the land", "Destroy their enemies completely", "Send a prophet to them", "Remove the temple"],
+      "explanation": "Solomon asked God to forgive and restore Israel if they repent after defeat." 
+    },
+    {
+      "id": 58,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 6:26",
+      "question": "Which calamities did Solomon mention if heaven was shut up?",
+      "correct_answer": "No rain because they have sinned against God",
+      "options": ["No rain because they have sinned against God", "A plague of locusts", "War from their neighbors", "Famine because of drought"],
+      "explanation": "Solomon mentioned drought as a consequence of sin and pleaded for forgiveness." 
+    },
+    {
+      "id": 59,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 6:28",
+      "question": "Which specific disasters did Solomon mention when asking God to hear prayer?",
+      "correct_answer": "Dearth, pestilence, blasting, mildew, locusts, or caterpillars",
+      "options": ["Dearth, pestilence, blasting, mildew, locusts, or caterpillars", "Fire, flood, earthquake, and famine", "Invading armies and betrayal","Plague, drought, and pestilence"],
+      "explanation": "Solomon listed a range of calamities and asked that God hear prayers." 
+    },
+    {
+      "id": 60,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 6:32",
+      "question": "What did Solomon say God should do for the stranger who prays in the temple?",
+      "correct_answer": "Hear him from heaven and do according to his request",
+      "options": ["Hear him from heaven and do according to his request", "Turn him away because he is not Israelite", "Require him to become Jewish first", "Accept only the offerings"],
+      "explanation": "Solomon asked that God also hear foreigners who pray toward the temple." 
+    },
+    {
+      "id": 61,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 6:35",
+      "question": "What did Solomon ask God to do if His people go to war by the way He sends them?",
+      "correct_answer": "Hear their prayer and maintain their cause",
+      "options": ["Hear their prayer and maintain their cause", "Send them a victory sign", "Provide more soldiers", "Reveal the enemy's strategy"],
+      "explanation": "Solomon prayed that God would hear Israel's war prayers when they obey His way." 
+    },
+    {
+      "id": 62,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 6:36",
+      "question": "What did Solomon say would happen if Israel sinned and was carried captive?",
+      "correct_answer": "They could pray from captivity and be heard if they repented",
+      "options": ["They could pray from captivity and be heard if they repented", "They would be destroyed utterly", "They would remain in captivity forever", "They should flee to another land"],
+      "explanation": "Solomon asked that God hear repentant captives when they pray toward their land and temple." 
+    },
+    {
+      "id": 63,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 6:41",
+      "question": "What did Solomon ask God to keep open when prayers are made in the temple?",
+      "correct_answer": "His eyes and ears",
+      "options": ["His eyes and ears", "His hands and feet", "His heart and mind", "His throne and angels"],
+      "explanation": "Solomon asked God to keep His eyes and ears attentive to prayer." 
+    },
+    {
+      "id": 64,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 6:42",
+      "question": "What did Solomon ask God not to turn away?",
+      "correct_answer": "The face of His anointed",
+      "options": ["The face of His anointed", "The face of the priest", "The face of the elders", "The face of the people"],
+      "explanation": "Solomon asked God to remember the mercies of David and not turn away from His anointed." 
+    },
+    {
+      "id": 65,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 7:1",
+      "question": "What came down from heaven after Solomon finished praying?",
+      "correct_answer": "Fire",
+      "options": ["Fire", "Rain", "Pillar of cloud", "Lightning"],
+      "explanation": "Fire came down from heaven and consumed the offerings after Solomon prayed." 
+    },
+    {
+      "id": 66,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 7:2",
+      "question": "Why could the priests not enter the house of the LORD after the fire came down?",
+      "correct_answer": "The glory of the LORD filled the house",
+      "options": ["The glory of the LORD filled the house", "The temple was too hot", "The doors were locked", "The people were not holy enough"],
+      "explanation": "The priests could not enter because the glory of the Lord filled the house." 
+    },
+    {
+      "id": 67,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 7:3",
+      "question": "How did the people respond when the glory of the LORD filled the house?",
+      "correct_answer": "They bowed with faces to the ground and worshipped",
+      "options": ["They bowed with faces to the ground and worshipped", "They shouted and danced", "They fled from the house", "They remained standing"],
+      "explanation": "The people bowed and worshiped when they saw the glory." 
+    },
+    {
+      "id": 68,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 7:4",
+      "question": "How many oxen did Solomon offer when dedicating the house?",
+      "correct_answer": "22,000",
+      "options": ["22,000", "12,000", "20,000", "2,000"],
+      "explanation": "Solomon offered twenty-two thousand oxen during the dedication of the house." 
+    },
+    {
+      "id": 69,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 7:4",
+      "question": "How many sheep did Solomon offer when dedicating the house?",
+      "correct_answer": "120,000",
+      "options": ["120,000", "60,000", "100,000", "80,000"],
+      "explanation": "Solomon offered one hundred twenty thousand sheep." 
+    },
+    {
+      "id": 70,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 7:6",
+      "question": "What instruments did the Levites use when praising the LORD?",
+      "correct_answer": "Instruments of music made by David",
+      "options": ["Instruments of music made by David", "Horns and flutes", "Tambourines and drums", "Lyres and bells"],
+      "explanation": "The Levites praised God with musical instruments made by David." 
+    },
+    {
+      "id": 71,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 7:8",
+      "question": "How long did Solomon keep the dedication feast?",
+      "correct_answer": "Seven days",
+      "options": ["Seven days", "Three days", "Fourteen days", "One day"],
+      "explanation": "Solomon kept the dedication of the altar for seven days." 
+    },
+    {
+      "id": 72,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 7:9",
+      "question": "How long was the solemn assembly on the eighth day?",
+      "correct_answer": "One day after the seven-day feast",
+      "options": ["One day after the seven-day feast", "Seven days", "Three days", "Ten days"],
+      "explanation": "On the eighth day they made a solemn assembly after seven days of dedication." 
+    },
+    {
+      "id": 73,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 7:10",
+      "question": "What was the mood of the people when they were sent away after the dedication?",
+      "correct_answer": "Glad and merry in heart",
+      "options": ["Glad and merry in heart", "Sad and mournful", "Angry and rebellious", "Silent and thoughtful"],
+      "explanation": "The people left joyful and thankful." 
+    },
+    {
+      "id": 74,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 7:12",
+      "question": "Who appeared to Solomon by night after the dedication?",
+      "correct_answer": "The LORD",
+      "options": ["The LORD", "An angel", "Nathan", "The priest"],
+      "explanation": "God appeared to Solomon by night and spoke to him after the dedication." 
+    },
+    {
+      "id": 75,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 7:13",
+      "question": "What threats did God mention He might send if He shut up heaven?",
+      "correct_answer": "No rain, locusts, pestilence",
+      "options": ["No rain, locusts, pestilence", "Earthquake, famine, war", "Fire, flood, drought", "Darkness, plagues, famine"],
+      "explanation": "God warned of drought, locusts, and pestilence if Israel forsook Him." 
+    },
+    {
+      "id": 76,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 7:14",
+      "question": "What must the people do so God will hear and heal their land?",
+      "correct_answer": "Humble themselves, pray, seek His face, and turn from wicked ways",
+      "options": ["Humble themselves, pray, seek His face, and turn from wicked ways", "Offer more sacrifices", "Build more altars", "Leave the land"],
+      "explanation": "God promised restoration if His people humbled themselves and repented." 
+    },
+    {
+      "id": 77,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 7:20",
+      "question": "What would happen to the house if Israel turned away and served other gods?",
+      "correct_answer": "God would cast it out of His sight and make it a proverb and byword",
+      "options": ["God would cast it out of His sight and make it a proverb and byword", "God would burn it down", "God would leave it intact forever", "God would hide it from the nations"],
+      "explanation": "God warned that the temple would become despised if His people forsook Him." 
+    },
+    {
+      "id": 78,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 8:1",
+      "question": "How many years had passed since Solomon built the house of the LORD when the cities were restored?",
+      "correct_answer": "Twenty years",
+      "options": ["Twenty years", "Ten years", "Fifteen years", "Five years"],
+      "explanation": "Solomon had built the temple and his own house by the end of twenty years." 
+    },
+    {
+      "id": 79,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 8:3",
+      "question": "What city did Solomon build in the wilderness?",
+      "correct_answer": "Tadmor",
+      "options": ["Tadmor", "Beth-horon", "Jerusalem", "Gath"],
+      "explanation": "Solomon built Tadmor in the wilderness." 
+    },
+    {
+      "id": 80,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 8:5",
+      "question": "Which two cities of Judah did Solomon build as fenced cities?",
+      "correct_answer": "Beth-horon the upper and Beth-horon the nether",
+      "options": ["Beth-horon the upper and Beth-horon the nether", "Jerusalem and Hebron", "Jericho and Bethel", "Lachish and Azekah"],
+      "explanation": "He built the upper and nether Beth-horon as fortified cities." 
+    },
+    {
+      "id": 81,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 8:7",
+      "question": "Which people remaining in the land did Solomon make pay tribute?",
+      "correct_answer": "Hittites, Amorites, Perizzites, Hivites, and Jebusites",
+      "options": ["Hittites, Amorites, Perizzites, Hivites, and Jebusites", "Philistines and Moabites", "Edomites and Amalekites", "Assyrians and Egyptians"],
+      "explanation": "Solomon made the remaining inhabitants pay tribute rather than enslave Israelites." 
+    },
+    {
+      "id": 82,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 8:9",
+      "question": "How many chief officers did Solomon have?",
+      "correct_answer": "250",
+      "options": ["250", "100", "500", "50"],
+      "explanation": "Solomon had two hundred and fifty chief officers." 
+    },
+    {
+      "id": 83,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 8:11",
+      "question": "How many talents of gold did Solomon receive from Ophir?",
+      "correct_answer": "450 talents",
+      "options": ["450 talents", "300 talents", "600 talents", "500 talents"],
+      "explanation": "Solomon received four hundred and fifty talents of gold from Ophir." 
+    },
+    {
+      "id": 84,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:1",
+      "question": "Who came to Solomon to test him with hard questions?",
+      "correct_answer": "The queen of Sheba",
+      "options": ["The queen of Sheba", "The queen of Egypt", "The queen of Shechem", "The queen of Moab"],
+      "explanation": "The queen of Sheba visited Solomon with hard questions." 
+    },
+    {
+      "id": 85,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 9:3",
+      "question": "What did the queen of Sheba say about Solomon after seeing his wisdom?",
+      "correct_answer": "There was no more spirit in her",
+      "options": ["There was no more spirit in her", "She was disappointed", "She thought he was foolish", "She refused to speak to him"],
+      "explanation": "Sheba was overwhelmed by Solomon's wisdom and riches." 
+    },
+    {
+      "id": 86,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 9:5",
+      "question": "What did the queen of Sheba declare about Solomon's wisdom?",
+      "correct_answer": "The one half of the greatness of thy wisdom was not told me",
+      "options": ["The one half of the greatness of thy wisdom was not told me", "He was no wiser than others", "He would soon fall", "He was a mighty king only in war"],
+      "explanation": "Sheba acknowledged that half of Solomon's greatness had not been told to her." 
+    },
+    {
+      "id": 87,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:8",
+      "question": "Whom did the queen of Sheba bless for loving Solomon and setting him on his throne?",
+      "correct_answer": "The LORD thy God",
+      "options": ["The LORD thy God", "Solomon's parents", "The people of Israel", "The king of Egypt"],
+      "explanation": "Sheba blessed Solomon's God for making him king with justice." 
+    },
+    {
+      "id": 88,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:9",
+      "question": "What gifts did the queen of Sheba bring to Solomon?",
+      "correct_answer": "Gold, spices, and precious stones",
+      "options": ["Gold, spices, and precious stones", "Silver, silk, and horses", "Ivory, cedar, and camels", "Armor, chariots, and servants"],
+      "explanation": "She brought gold, spices, and precious stones to Solomon." 
+    },
+    {
+      "id": 89,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 9:11",
+      "question": "What did Solomon make from the algum trees brought from Ophir?",
+      "correct_answer": "Terraces to the house of the LORD and to the king's palace, and harps and psalteries for singers",
+      "options": ["Terraces to the house of the LORD and to the king's palace, and harps and psalteries for singers", "Furniture for the king's house", "Ships for trade", "Statues for the temple"],
+      "explanation": "Solomon used the precious wood to make terraces and musical instruments." 
+    },
+    {
+      "id": 90,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 9:13",
+      "question": "How much gold came to Solomon in one year?",
+      "correct_answer": "666 talents",
+      "options": ["666 talents", "600 talents", "700 talents", "500 talents"],
+      "explanation": "Solomon received six hundred sixty-six talents of gold in one year." 
+    },
+    {
+      "id": 91,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 9:15",
+      "question": "How much gold went to make one of Solomon's shields?",
+      "correct_answer": "600 shekels",
+      "options": ["600 shekels", "300 shekels", "1,000 shekels", "150 shekels"],
+      "explanation": "Each gold target cost six hundred shekels." 
+    },
+    {
+      "id": 92,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:15",
+      "question": "How many shields of beaten gold did Solomon make?",
+      "correct_answer": "300",
+      "options": ["300", "200", "100", "400"],
+      "explanation": "Solomon made three hundred shields of beaten gold." 
+    },
+    {
+      "id": 93,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:16",
+      "question": "What was Solomon's throne made of?",
+      "correct_answer": "Ivory overlaid with pure gold",
+      "options": ["Ivory overlaid with pure gold", "Silver and cedar", "Bronze and gold", "Stone and ivory"],
+      "explanation": "Solomon's throne was ivory overlaid with pure gold." 
+    },
+    {
+      "id": 94,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 9:18",
+      "question": "How many lions stood by Solomon's throne on the six steps?",
+      "correct_answer": "Twelve",
+      "options": ["Twelve", "Six", "Ten", "Eight"],
+      "explanation": "Twelve lions stood by the throne on the six steps." 
+    },
+    {
+      "id": 95,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:20",
+      "question": "What material were all Solomon's drinking vessels made of?",
+      "correct_answer": "Gold",
+      "options": ["Gold", "Silver", "Bronze", "Wood"],
+      "explanation": "All the drinking vessels were made of gold." 
+    },
+    {
+      "id": 96,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 9:21",
+      "question": "How often did the ships of Tarshish come bringing goods?",
+      "correct_answer": "Every three years",
+      "options": ["Every three years", "Every year", "Every five years", "Every month"],
+      "explanation": "The ships of Tarshish brought goods every three years." 
+    },
+    {
+      "id": 97,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:26",
+      "question": "From which river to the border of Egypt did Solomon reign?",
+      "correct_answer": "The river Euphrates",
+      "options": ["The river Euphrates", "The river Jordan", "The river Nile", "The river Tigris"],
+      "explanation": "Solomon reigned from the river to the border of Egypt." 
+    },
+    {
+      "id": 98,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:30",
+      "question": "How long did Solomon reign in Jerusalem?",
+      "correct_answer": "Forty years",
+      "options": ["Forty years", "Thirty years", "Fifty years", "Twenty years"],
+      "explanation": "Solomon reigned forty years in Jerusalem." 
+    },
+    {
+      "id": 99,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 9:31",
+      "question": "Who reigned after Solomon died?",
+      "correct_answer": "Rehoboam",
+      "options": ["Rehoboam", "Abijah", "Asa", "Jeroboam"],
+      "explanation": "Solomon's son Rehoboam reigned after him." 
+    },
+    {
+      "id": 100,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 10:1",
+      "question": "Where did Rehoboam go to be made king?",
+      "correct_answer": "Shechem",
+      "options": ["Shechem", "Jerusalem", "Hebron", "Bethel"],
+      "explanation": "Rehoboam went to Shechem where all Israel gathered to crown him king." 
+    },
+    {
+      "id": 101,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 10:2",
+      "question": "From where did Jeroboam return when Israel called him?",
+      "correct_answer": "Egypt",
+      "options": ["Egypt", "Assyria", "Babylon", "Moab"],
+      "explanation": "Jeroboam had fled to Egypt and returned when the people sought Rehoboam." 
+    },
+    {
+      "id": 102,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 10:4",
+      "question": "What request did Israel make of Rehoboam regarding the yoke?",
+      "correct_answer": "Ease somewhat the grievous servitude of his father",
+      "options": ["Ease somewhat the grievous servitude of his father", "Raise the taxes", "Increase military service", "Send them to war"],
+      "explanation": "They asked Rehoboam to lighten Solomon's heavy yoke." 
+    },
+    {
+      "id": 103,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 10:6",
+      "question": "Whose counsel did Rehoboam first seek about answering the people?",
+      "correct_answer": "The old men who stood before Solomon",
+      "options": ["The old men who stood before Solomon", "The young men of his court", "The priests only", "The people"],
+      "explanation": "Rehoboam first consulted the elder advisers who served Solomon." 
+    },
+    {
+      "id": 104,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 10:7",
+      "question": "What counsel did the old men give Rehoboam?",
+      "correct_answer": "If thou be kind to this people and speak good words, they will serve thee forever",
+      "options": ["If thou be kind to this people and speak good words, they will serve thee forever", "Show them strength and make them fear", "Tax them heavier than thy father did", "Send them back to their tents"],
+      "explanation": "The elders told Rehoboam to be kind and gentle with the people." 
+    },
+    {
+      "id": 105,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 10:8",
+      "question": "Whom did Rehoboam seek counsel from after rejecting the old men?",
+      "correct_answer": "The young men who were brought up with him",
+      "options": ["The young men who were brought up with him", "The priests", "The captains", "The elders of Judah"],
+      "explanation": "Rehoboam consulted the young men raised with him instead of the older advisors." 
+    },
+    {
+      "id": 106,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 10:10",
+      "question": "What response did Rehoboam give to Israel after taking the young men's advice?",
+      "correct_answer": "My father chastised you with whips, but I will chastise you with scorpions",
+      "options": ["My father chastised you with whips, but I will chastise you with scorpions", "My father loved you, and so do I", "Take your yoke and be content", "I will lighten your burden"],
+      "explanation": "Rehoboam declared his punishment would be harsher than his father's." 
+    },
+    {
+      "id": 107,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 10:16",
+      "question": "What did Israel say to Rehoboam when he would not listen?",
+      "correct_answer": "What portion have we in David? every man to your tents",
+      "options": ["What portion have we in David? every man to your tents", "We will fight to keep the kingdom", "We will obey you despite your words", "We will seek another king from Judah"],
+      "explanation": "The northern tribes rejected Rehoboam and returned to their tents." 
+    },
+    {
+      "id": 108,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 10:17",
+      "question": "Which tribes remained under Rehoboam's rule?",
+      "correct_answer": "Judah and Benjamin",
+      "options": ["Judah and Benjamin", "Ephraim and Manasseh", "Levi and Simeon", "Dan and Naphtali"],
+      "explanation": "Only Judah and Benjamin stayed loyal to Rehoboam." 
+    },
+    {
+      "id": 109,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 10:18",
+      "question": "Who was stoned to death after Rehoboam sent him to the people?",
+      "correct_answer": "Hadoram",
+      "options": ["Hadoram", "Shemaiah", "Ahijah", "Nathan"],
+      "explanation": "Hadoram, who supervised tribute, was stoned by Israel." 
+    },
+    {
+      "id": 110,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 11:1",
+      "question": "How many chosen warriors did Rehoboam gather from Judah and Benjamin?",
+      "correct_answer": "180,000",
+      "options": ["180,000", "100,000", "250,000", "80,000"],
+      "explanation": "Rehoboam gathered one hundred eighty thousand warriors to fight Israel." 
+    },
+    {
+      "id": 111,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 11:4",
+      "question": "Who told Rehoboam not to fight against Israel because the matter was from the Lord?",
+      "correct_answer": "Shemaiah the man of God",
+      "options": ["Shemaiah the man of God", "Nathan the prophet", "Ahijah the Shilonite", "Gad the seer"],
+      "explanation": "Shemaiah told Rehoboam that the split of the kingdom was God's doing." 
+    },
+    {
+      "id": 112,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 11:5",
+      "question": "What did Rehoboam do after hearing Shemaiah's word?",
+      "correct_answer": "Returned home and obeyed the Lord's command",
+      "options": ["Returned home and obeyed the Lord's command", "Launched the battle anyway", "Sent messengers to Israel", "Built more fortresses"],
+      "explanation": "He obeyed and returned from fighting his brethren." 
+    },
+    {
+      "id": 113,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 11:5",
+      "question": "Which two kingdoms did Rehoboam build cities for defense in?",
+      "correct_answer": "Judah and Benjamin",
+      "options": ["Judah and Benjamin", "Israel and Judah", "Canaan and Judah", "Ephraim and Judah"],
+      "explanation": "He built defensive cities in Judah and Benjamin." 
+    },
+    {
+      "id": 114,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 11:6",
+      "question": "Which city is among those Rehoboam built for defense?",
+      "correct_answer": "Bethlehem",
+      "options": ["Bethlehem", "Jericho", "Shechem", "Bethel"],
+      "explanation": "Bethlehem was one of the defended cities Rehoboam built." 
+    },
+    {
+      "id": 115,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 11:10",
+      "question": "Why did the priests and Levites come to Rehoboam from all Israel?",
+      "correct_answer": "Jeroboam had cast them off from executing the priest's office",
+      "options": ["Jeroboam had cast them off from executing the priest's office", "They sought refuge from war", "They wanted to join Rehoboam's court", "They were commanded by God"],
+      "explanation": "Jeroboam rejected the Levites and priests, so they went to Judah." 
+    },
+    {
+      "id": 116,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 11:17",
+      "question": "For how many years did the kingdom of Judah remain strong under Rehoboam?",
+      "correct_answer": "Three years",
+      "options": ["Three years", "Five years", "One year", "Ten years"],
+      "explanation": "Judah was strong for three years because they walked in the ways of David and Solomon." 
+    },
+    {
+      "id": 117,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 11:18",
+      "question": "Who was Rehoboam's first wife?",
+      "correct_answer": "Mahalath the daughter of Jerimoth",
+      "options": ["Mahalath the daughter of Jerimoth", "Maachah the daughter of Absalom", "Naamah an Ammonitess", "Bathsheba"],
+      "explanation": "Mahalath is named as Rehoboam's wife." 
+    },
+    {
+      "id": 118,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 11:19",
+      "question": "How many wives and concubines did Rehoboam have?",
+      "correct_answer": "Eighteen wives and sixty concubines",
+      "options": ["Eighteen wives and sixty concubines", "Ten wives and twenty concubines", "Twenty wives and forty concubines", "Twelve wives and thirty concubines"],
+      "explanation": "Rehoboam had eighteen wives and sixty concubines." 
+    },
+    {
+      "id": 119,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 11:21",
+      "question": "Who did Rehoboam make chief among his brethren?",
+      "correct_answer": "Abijah the son of Maachah",
+      "options": ["Abijah the son of Maachah", "Jeush the son of Mahalath", "Zaham the son of Abihail", "Ziza the son of Maachah"],
+      "explanation": "Rehoboam made Abijah, son of Maachah, chief among his brethren." 
+    },
+    {
+      "id": 120,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 11:23",
+      "question": "What did Rehoboam do with his children throughout Judah and Benjamin?",
+      "correct_answer": "Dispersed them to every fenced city and gave them victual in abundance",
+      "options": ["Dispersed them to every fenced city and gave them victual in abundance", "Sent them to serve in the temple", "Kept them all in Jerusalem", "Married them into Israelite families"],
+      "explanation": "He placed his children in fortified cities and supplied them well." 
+    },
+    {
+      "id": 121,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 12:1",
+      "question": "What did Rehoboam do after he established the kingdom and strengthened himself?",
+      "correct_answer": "Forsook the law of the LORD",
+      "options": ["Forsook the law of the LORD", "Became more righteous", "Built more altars", "Destroyed idols"],
+      "explanation": "Rehoboam turned away from God's law after strengthening his kingdom." 
+    },
+    {
+      "id": 122,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 12:2",
+      "question": "Why did Shishak king of Egypt come up against Jerusalem?",
+      "correct_answer": "Because they had transgressed against the LORD",
+      "options": ["Because they had transgressed against the LORD", "To make a trade agreement", "To worship in the temple", "To rescue Rehoboam"],
+      "explanation": "Shishak invaded because Judah had turned away from God." 
+    },
+    {
+      "id": 123,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 12:3",
+      "question": "How many chariots did Shishak bring to Jerusalem?",
+      "correct_answer": "1,200",
+      "options": ["1,200", "400", "2,000", "3,000"],
+      "explanation": "Shishak brought twelve hundred chariots." 
+    },
+    {
+      "id": 124,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 12:3",
+      "question": "How many horsemen accompanied Shishak?",
+      "correct_answer": "60,000",
+      "options": ["60,000", "12,000", "30,000", "80,000"],
+      "explanation": "He brought sixty thousand horsemen among his forces." 
+    },
+    {
+      "id": 125,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 12:3",
+      "question": "Which peoples came with Shishak from Egypt?",
+      "correct_answer": "Lubims, Sukkiims, and Ethiopians",
+      "options": ["Lubims, Sukkiims, and Ethiopians", "Philistines and Moabites", "Assyrians and Babylonians", "Canaanites and Jebusites"],
+      "explanation": "Shishak's army included Lubims, Sukkiims, and Ethiopians." 
+    },
+    {
+      "id": 126,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 12:4",
+      "question": "What did Shishak take when he came to Jerusalem?",
+      "correct_answer": "The treasures of the house of the LORD and the king's house",
+      "options": ["The treasures of the house of the LORD and the king's house", "The ark of the covenant", "The priests captive", "The temple vessels only"],
+      "explanation": "Shishak took all the treasures from both the temple and the royal palace." 
+    },
+    {
+      "id": 127,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 12:9",
+      "question": "What did Rehoboam make instead of the gold shields taken by Shishak?",
+      "correct_answer": "Brass shields",
+      "options": ["Brass shields", "Silver shields", "Iron shields", "Wooden shields"],
+      "explanation": "Rehoboam made brass shields to replace those taken by Shishak." 
+    },
+    {
+      "id": 128,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 12:11",
+      "question": "Who fetched the shields when the king entered the house of the LORD?",
+      "correct_answer": "The guard",
+      "options": ["The guard", "The priests", "The Levites", "The servants"],
+      "explanation": "The guard brought the shields when Rehoboam entered the temple." 
+    },
+    {
+      "id": 129,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 12:12",
+      "question": "What happened after Rehoboam humbled himself when Shishak invaded?",
+      "correct_answer": "The wrath of the LORD turned from him and he was not destroyed altogether",
+      "options": ["The wrath of the LORD turned from him and he was not destroyed altogether", "He was captured and exiled", "He regained all his wealth", "The enemy withdrew immediately"],
+      "explanation": "Because he humbled himself, God spared him from total destruction." 
+    },
+    {
+      "id": 130,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 12:13",
+      "question": "How old was Rehoboam when he began to reign?",
+      "correct_answer": "41 years old",
+      "options": ["41 years old", "21 years old", "25 years old", "31 years old"],
+      "explanation": "Rehoboam was forty-one when he began to reign." 
+    },
+    {
+      "id": 131,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 12:13",
+      "question": "How many years did Rehoboam reign in Jerusalem?",
+      "correct_answer": "17 years",
+      "options": ["17 years", "40 years", "10 years", "25 years"],
+      "explanation": "Rehoboam reigned seventeen years in Jerusalem." 
+    },
+    {
+      "id": 132,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 12:14",
+      "question": "Why did Rehoboam do evil according to the chronicle?",
+      "correct_answer": "Because he prepared not his heart to seek the LORD",
+      "options": ["Because he prepared not his heart to seek the LORD", "Because he did not build enough cities", "Because he trusted in Egypt", "Because he ignored priests"],
+      "explanation": "His evil came from failing to set his heart to seek God." 
+    },
+    {
+      "id": 133,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 12:16",
+      "question": "Where are the acts of Rehoboam written according to the book?",
+      "correct_answer": "The book of Shemaiah the prophet and of Iddo the seer",
+      "options": ["The book of Shemaiah the prophet and of Iddo the seer", "The book of Samuel the seer", "The book of the chronicles of the kings of Judah", "The book of the kings of Israel"],
+      "explanation": "The acts are written in the works of Shemaiah and Iddo." 
+    },
+    {
+      "id": 134,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 12:16",
+      "question": "Who reigned after Rehoboam died?",
+      "correct_answer": "Abijah",
+      "options": ["Abijah", "Asa", "Jehoshaphat", "Ahaz"],
+      "explanation": "Abijah succeeded his father Rehoboam." 
+    },
+    {
+      "id": 135,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 13:1",
+      "question": "In which year of Jeroboam did Abijah begin to reign over Judah?",
+      "correct_answer": "The eighteenth year",
+      "options": ["The eighteenth year", "The fifth year", "The tenth year", "The twentieth year"],
+      "explanation": "Abijah began to reign in Jeroboam's eighteenth year." 
+    },
+    {
+      "id": 136,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 13:2",
+      "question": "How many years did Abijah reign in Jerusalem?",
+      "correct_answer": "Three years",
+      "options": ["Three years", "Five years", "Seven years", "Nine years"],
+      "explanation": "Abijah reigned three years in Jerusalem." 
+    },
+    {
+      "id": 137,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 13:3",
+      "question": "How many chosen men did Abijah have in his army?",
+      "correct_answer": "400,000",
+      "options": ["400,000", "800,000", "180,000", "100,000"],
+      "explanation": "Abijah's army included four hundred thousand chosen men." 
+    },
+    {
+      "id": 138,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 13:3",
+      "question": "How many chosen men did Jeroboam have in his army?",
+      "correct_answer": "800,000",
+      "options": ["800,000", "400,000", "600,000", "200,000"],
+      "explanation": "Jeroboam's army numbered eight hundred thousand chosen men." 
+    },
+    {
+      "id": 139,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 13:6",
+      "question": "What kind of covenant did God make with David?",
+      "correct_answer": "A covenant of salt",
+      "options": ["A covenant of salt", "A covenant of blood", "A covenant of peace", "A covenant of fire"],
+      "explanation": "Abijah referred to the covenant of salt God made with David." 
+    },
+    {
+      "id": 140,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 13:8",
+      "question": "What did Jeroboam make for Israel that Abijah condemned as gods?",
+      "options": ["Golden calves", "Asherah poles", "Stone images", "An idol of Baal"],
+      "correct_answer": "Golden calves",
+      "explanation": "Abijah criticized Jeroboam for making golden calves and idols." 
+    },
+    {
+      "id": 141,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 13:10",
+      "question": "What did the Levites and priests in Judah keep before the Lord?",
+      "correct_answer": "Burnt sacrifices morning and evening and the shewbread ordered on the table",
+      "options": ["Burnt sacrifices morning and evening and the shewbread ordered on the table", "Only the feast of tabernacles", "The law of Moses alone", "The king's commands"],
+      "explanation": "They maintained the temple worship as commanded by God." 
+    },
+    {
+      "id": 142,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 13:12",
+      "question": "Who did Abijah say was with Judah for their captain?",
+      "correct_answer": "God himself",
+      "options": ["God himself", "King David", "Shemaiah the prophet", "The armies of Judah"],
+      "explanation": "Abijah declared that God was with Judah for their captain." 
+    },
+    {
+      "id": 143,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 13:14",
+      "question": "What happened to the Israelites when they faced Judah in battle?",
+      "correct_answer": "They were caught between the army and an ambush behind them",
+      "options": ["They were caught between the army and an ambush behind them", "They broke through and fled Judah", "They held their ground", "They negotiated peace"],
+      "explanation": "Israel was ambushed and then trapped by Judah in battle." 
+    },
+    {
+      "id": 144,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 13:15",
+      "question": "What cry did Judah raise when the priests sounded with trumpets?",
+      "correct_answer": "A shout",
+      "options": ["A shout", "A lamentation", "A prayer", "A song"],
+      "explanation": "The men of Judah gave a shout and God struck Israel before them." 
+    },
+    {
+      "id": 145,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 13:17",
+      "question": "How many chosen men of Israel were slain by Judah?",
+      "correct_answer": "500,000",
+      "options": ["500,000", "100,000", "400,000", "800,000"],
+      "explanation": "Judah slew five hundred thousand chosen men of Israel." 
+    },
+    {
+      "id": 146,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 13:18",
+      "question": "Which cities did Abijah take from Jeroboam after the battle?",
+      "correct_answer": "Beth-el, Jeshanah, and Ephrain",
+      "options": ["Beth-el, Jeshanah, and Ephrain", "Samaria, Shechem, and Bethel", "Jerusalem, Hebron, and Lachish", "Gath, Ashdod, and Gaza"],
+      "explanation": "Abijah captured Beth-el and other cities from Jeroboam." 
+    },
+    {
+      "id": 147,
+      "level": "Medium",
+      "verse_reference": "2 Chronicles 13:20",
+      "question": "How did Jeroboam's strength fare after this battle?",
+      "correct_answer": "He did not recover strength again and died",
+      "options": ["He did not recover strength again and died", "He regained power quickly", "He allied with Egypt", "He continued to rule strongly"],
+      "explanation": "Jeroboam weakened after the defeat and later died." 
+    },
+    {
+      "id": 148,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 13:21",
+      "question": "How many wives did Abijah have?",
+      "correct_answer": "Fourteen",
+      "options": ["Fourteen", "Twelve", "Ten", "Eight"],
+      "explanation": "Abijah had fourteen wives." 
+    },
+    {
+      "id": 149,
+      "level": "Easy",
+      "verse_reference": "2 Chronicles 13:21",
+      "question": "How many sons did Abijah father?",
+      "correct_answer": "Twenty-two",
+      "options": ["Twenty-two", "Ten", "Fifteen", "Thirty"],
+      "explanation": "Abijah fathered twenty-two sons." 
+    },
+    {
+      "id": 150,
+      "level": "Hard",
+      "verse_reference": "2 Chronicles 13:22",
+      "question": "Where are the acts and sayings of Abijah recorded?",
+      "correct_answer": "In the story of the prophet Iddo",
+      "options": ["In the story of the prophet Iddo", "In the book of the kings of Israel", "In the book of Shemaiah the prophet", "In the book of Samuel"],
+      "explanation": "The chronicler notes that more about Abijah is written in Iddo's story." 
+    }
+  ]
+}

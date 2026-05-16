@@ -1,0 +1,2115 @@
+{
+  "metadata": {
+    "total_questions": 150,
+    "levels": [
+      "Easy",
+      "Medium",
+      "Hard"
+    ],
+    "book": "1 Chronicles",
+    "chapters": "1-29"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:1",
+      "question": "Who is the first man named in 1 Chronicles chapter 1?",
+      "correct_answer": "Adam",
+      "options": [
+        "Adam",
+        "Noah",
+        "Shem",
+        "Abram"
+      ],
+      "explanation": "1 Chronicles 1 begins with Adam as the first man named in the genealogy." 
+    },
+    {
+      "id": 2,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:3",
+      "question": "Which descendant of Japheth is listed first in chapter 1?",
+      "correct_answer": "Gomer",
+      "options": [
+        "Gomer",
+        "Magog",
+        "Madai",
+        "Javan"
+      ],
+      "explanation": "Gomer is the first son of Japheth named in 1 Chronicles 1." 
+    },
+    {
+      "id": 3,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:10",
+      "question": "Who was the mighty hunter on the earth listed in chapter 1?",
+      "correct_answer": "Nimrod",
+      "options": [
+        "Nimrod",
+        "Noah",
+        "Moses",
+        "Abraham"
+      ],
+      "explanation": "Nimrod is described as a mighty one upon the earth in 1 Chronicles 1." 
+    },
+    {
+      "id": 4,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:17",
+      "question": "Who is named as one of the sons of Shem in chapter 1?",
+      "correct_answer": "Arphaxad",
+      "options": [
+        "Arphaxad",
+        "Cush",
+        "Pharez",
+        "Dan"
+      ],
+      "explanation": "Arphaxad is one of the sons of Shem listed in 1 Chronicles 1." 
+    },
+    {
+      "id": 5,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:28",
+      "question": "Which son of Abraham is listed after Ishmael?",
+      "correct_answer": "Isaac",
+      "options": [
+        "Isaac",
+        "Esau",
+        "Jacob",
+        "Joseph"
+      ],
+      "explanation": "Isaac is named as Abraham's son after Ishmael in 1 Chronicles 1." 
+    },
+    {
+      "id": 6,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:44",
+      "question": "Who reigned in Edom after Bela the son of Beor?",
+      "correct_answer": "Jobab",
+      "options": [
+        "Jobab",
+        "Samlah",
+        "Hadad",
+        "Shaul"
+      ],
+      "explanation": "Jobab succeeded Bela as king of Edom in 1 Chronicles 1." 
+    },
+    {
+      "id": 7,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 2:1",
+      "question": "Who is the firstborn son of David recorded in Hebron?",
+      "correct_answer": "Amnon",
+      "options": [
+        "Amnon",
+        "Absalom",
+        "Adonijah",
+        "Daniel"
+      ],
+      "explanation": "Amnon is listed as David's firstborn son from Hebron in 1 Chronicles 2." 
+    },
+    {
+      "id": 8,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 2:4",
+      "question": "How many years did David reign in Hebron?",
+      "correct_answer": "Seven years and six months",
+      "options": [
+        "Seven years and six months",
+        "Ten years",
+        "Twenty years",
+        "Three years"
+      ],
+      "explanation": "David reigned seven years and six months in Hebron according to 1 Chronicles 2." 
+    },
+    {
+      "id": 9,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 2:10",
+      "question": "Who is named as Solomon's father in 1 Chronicles 2?",
+      "correct_answer": "David",
+      "options": [
+        "David",
+        "Solomon",
+        "Nathan",
+        "Jehoshaphat"
+      ],
+      "explanation": "David is Solomon's father, as stated in 1 Chronicles 2." 
+    },
+    {
+      "id": 10,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 2:14",
+      "question": "Who is the father of Jehoiakim and Zedekiah in this genealogy?",
+      "correct_answer": "Josiah",
+      "options": [
+        "Josiah",
+        "Hezekiah",
+        "Amon",
+        "Jeremiah"
+      ],
+      "explanation": "Josiah is listed as the father of Jehoiakim and Zedekiah in 1 Chronicles 2." 
+    },
+    {
+      "id": 11,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 2:19",
+      "question": "Who was Zerubbabel's sister according to the genealogy?",
+      "correct_answer": "Shelomith",
+      "options": [
+        "Shelomith",
+        "Abihail",
+        "Hodiah",
+        "Miriam"
+      ],
+      "explanation": "Shelomith is named as the sister of Zerubbabel in 1 Chronicles 2." 
+    },
+    {
+      "id": 12,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 4:9",
+      "question": "Who prayed to God asking to be kept from evil and to have his territory enlarged?",
+      "correct_answer": "Jabez",
+      "options": [
+        "Jabez",
+        "Asher",
+        "Hur",
+        "Ezer"
+      ],
+      "explanation": "Jabez prayed for blessing and protection in 1 Chronicles 4." 
+    },
+    {
+      "id": 13,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 4:10",
+      "question": "What did God grant Jabez after his prayer?",
+      "correct_answer": "That which he requested",
+      "options": [
+        "That which he requested",
+        "A kingdom of his own",
+        "A sign in the heavens",
+        "A tree of life"
+      ],
+      "explanation": "God granted Jabez's request according to 1 Chronicles 4." 
+    },
+    {
+      "id": 14,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 5:1",
+      "question": "Which tribe was the firstborn of Israel but lost the birthright because he defiled his father's bed?",
+      "correct_answer": "Reuben",
+      "options": [
+        "Reuben",
+        "Judah",
+        "Simeon",
+        "Levi"
+      ],
+      "explanation": "Reuben is described as the firstborn who lost the birthright in 1 Chronicles 5." 
+    },
+    {
+      "id": 15,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 5:18",
+      "question": "Which nation did the tribes fight when they cried to God and were helped?",
+      "correct_answer": "Hagarites",
+      "options": [
+        "Hagarites",
+        "Philistines",
+        "Moabites",
+        "Edomites"
+      ],
+      "explanation": "The Reubenites, Gadites, and half tribe of Manasseh fought the Hagarites in 1 Chronicles 5." 
+    },
+    {
+      "id": 16,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 6:1",
+      "question": "Who were the three sons of Levi?",
+      "correct_answer": "Gershon, Kohath, and Merari",
+      "options": [
+        "Gershon, Kohath, and Merari",
+        "Reuben, Simeon, and Levi",
+        "Aaron, Moses, and Miriam",
+        "Uzziel, Izhar, and Amram"
+      ],
+      "explanation": "Levi's sons are Gershon, Kohath, and Merari in 1 Chronicles 6." 
+    },
+    {
+      "id": 17,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 6:10",
+      "question": "Which priest executed the service in the temple Solomon built?",
+      "correct_answer": "Azariah",
+      "options": [
+        "Azariah",
+        "Zadok",
+        "Phinehas",
+        "Hilcah"
+      ],
+      "explanation": "Azariah is described as carrying out priestly service in Solomon's temple in 1 Chronicles 6." 
+    },
+    {
+      "id": 18,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 6:54",
+      "question": "Which city of Judah was given to the sons of Aaron?",
+      "correct_answer": "Hebron",
+      "options": [
+        "Hebron",
+        "Jerusalem",
+        "Bethlehem",
+        "Shechem"
+      ],
+      "explanation": "Hebron was given to Aaron's descendants as one of their cities in 1 Chronicles 6." 
+    },
+    {
+      "id": 19,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 6:63",
+      "question": "How many cities were given to the sons of Merari?",
+      "correct_answer": "Twelve",
+      "options": [
+        "Twelve",
+        "Ten",
+        "Thirteen",
+        "Eight"
+      ],
+      "explanation": "Twelve cities were allotted to the sons of Merari in 1 Chronicles 6." 
+    },
+    {
+      "id": 20,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 7:2",
+      "question": "How many mighty men were from the sons of Tola according to their generations?",
+      "correct_answer": "Twenty-two thousand six hundred",
+      "options": [
+        "Twenty-two thousand six hundred",
+        "Thirty-six thousand",
+        "Fifty thousand",
+        "Ten thousand"
+      ],
+      "explanation": "The sons of Tola numbered twenty-two thousand six hundred men in 1 Chronicles 7." 
+    },
+    {
+      "id": 21,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 7:7",
+      "question": "How many men of valour were the sons of Becher counted as?",
+      "correct_answer": "Twenty-two thousand and thirty and four",
+      "options": [
+        "Twenty-two thousand and thirty and four",
+        "Twenty thousand and two hundred",
+        "Seventeen thousand and two hundred",
+        "Thirty thousand"
+      ],
+      "explanation": "The sons of Becher were reckoned as twenty-two thousand thirty and four mighty men in 1 Chronicles 7." 
+    },
+    {
+      "id": 22,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 7:14",
+      "question": "Who was the father of Machir the father of Gilead?",
+      "correct_answer": "Manasseh",
+      "options": [
+        "Manasseh",
+        "Ephraim",
+        "Gad",
+        "Issachar"
+      ],
+      "explanation": "Machir is described as the son of Manasseh in 1 Chronicles 7." 
+    },
+    {
+      "id": 23,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 7:25",
+      "question": "Who was the wife of Machir that bore Peresh and Sheresh?",
+      "correct_answer": "Maachah",
+      "options": [
+        "Maachah",
+        "Miriam",
+        "Jezebel",
+        "Bathsheba"
+      ],
+      "explanation": "Maachah is named as Machir's wife in 1 Chronicles 7." 
+    },
+    {
+      "id": 24,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 7:28",
+      "question": "Which town is mentioned as part of the possessions of Ephraim's descendants?",
+      "correct_answer": "Beth-el",
+      "options": [
+        "Beth-el",
+        "Gath",
+        "Jericho",
+        "Bethany"
+      ],
+      "explanation": "Beth-el is listed among the possessions of Ephraim's descendants in 1 Chronicles 7." 
+    },
+    {
+      "id": 25,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 7:40",
+      "question": "How many men of valour were chosen from the tribe of Asher?",
+      "correct_answer": "Twenty-six thousand",
+      "options": [
+        "Twenty-six thousand",
+        "Twenty thousand",
+        "Thirty thousand",
+        "Fifteen thousand"
+      ],
+      "explanation": "The tribe of Asher had twenty-six thousand mighty men in 1 Chronicles 7." 
+    },
+    {
+      "id": 26,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 8:1",
+      "question": "Who is listed as the firstborn son of Benjamin in chapter 8?",
+      "correct_answer": "Bela",
+      "options": [
+        "Bela",
+        "Ashbel",
+        "Aharah",
+        "Nohah"
+      ],
+      "explanation": "Bela is named as Benjamin's firstborn son in 1 Chronicles 8." 
+    },
+    {
+      "id": 27,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 8:5",
+      "question": "Which of these is a son of Bela?",
+      "correct_answer": "Addar",
+      "options": [
+        "Addar",
+        "Jabez",
+        "Zerah",
+        "Boaz"
+      ],
+      "explanation": "Addar is listed among the sons of Bela in 1 Chronicles 8." 
+    },
+    {
+      "id": 28,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 8:10",
+      "question": "Who was the father of Uzza and Ahihud?",
+      "correct_answer": "Naaman",
+      "options": [
+        "Naaman",
+        "Shaharaim",
+        "Bela",
+        "Ehud"
+      ],
+      "explanation": "Naaman is named as the father of Uzza and Ahihud in 1 Chronicles 8." 
+    },
+    {
+      "id": 29,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 9:1",
+      "question": "Which captives returned to dwell in Jerusalem in the first year of Cyrus?",
+      "correct_answer": "The Israelites and the Jews",
+      "options": [
+        "The Israelites and the Jews",
+        "The Philistines",
+        "The Edomites",
+        "The Arameans"
+      ],
+      "explanation": "1 Chronicles 9 records the return of Israelites and Jews in the first year of Cyrus." 
+    },
+    {
+      "id": 30,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 9:27",
+      "question": "What service did the gatekeepers perform?",
+      "correct_answer": "Guarded the thresholds of the temple",
+      "options": [
+        "Guarded the thresholds of the temple",
+        "Offered sacrifices",
+        "Wrote the genealogies",
+        "Led the choir"
+      ],
+      "explanation": "Gatekeepers were responsible for guarding temple thresholds in 1 Chronicles 9." 
+    },
+    {
+      "id": 31,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 11:10",
+      "question": "Who is the mighty man that killed three hundred men with a spear in chapter 11?",
+      "correct_answer": "Abishai",
+      "options": [
+        "Abishai",
+        "Joab",
+        "Benaiah",
+        "Shamgar"
+      ],
+      "explanation": "Abishai killed three hundred men with his spear according to 1 Chronicles 11." 
+    },
+    {
+      "id": 32,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 13:3",
+      "question": "Who was opposed to David bringing the ark to Jerusalem?",
+      "correct_answer": "Uzzah and Ahio",
+      "options": [
+        "Uzzah and Ahio",
+        "Joab and Abishai",
+        "Nathan and Gad",
+        "Hushai and Ahithophel"
+      ],
+      "explanation": "Uzzah and Ahio were the sons of Abinadab involved when the ark was moved toward Jerusalem." 
+    },
+    {
+      "id": 33,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 13:9",
+      "question": "Why did God strike Uzzah dead?",
+      "correct_answer": "For touching the ark of the Lord",
+      "options": [
+        "For touching the ark of the Lord",
+        "For speaking against David",
+        "For taking booty unlawfully",
+        "For refusing to worship"
+      ],
+      "explanation": "Uzzah touched the ark to steady it and was struck down for it in 1 Chronicles 13." 
+    },
+    {
+      "id": 34,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 15:2",
+      "question": "Who was chosen to carry the ark of God after the first attempt failed?",
+      "correct_answer": "The Levites",
+      "options": [
+        "The Levites",
+        "The priests only",
+        "David's mighty men",
+        "The elders of Israel"
+      ],
+      "explanation": "After Uzzah's death, David appointed the Levites to carry the ark properly in 1 Chronicles 15." 
+    },
+    {
+      "id": 35,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 16:8",
+      "question": "Which phrase introduces David's song of thanksgiving?",
+      "correct_answer": "Give thanks unto the Lord",
+      "options": [
+        "Give thanks unto the Lord",
+        "Sing unto the Lord",
+        "Bless the name of the Lord",
+        "Shout unto God with the voice of triumph"
+      ],
+      "explanation": "David begins his song of thanksgiving with 'Give thanks unto the Lord' in 1 Chronicles 16." 
+    },
+    {
+      "id": 36,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 21:1",
+      "question": "Who stirred up David to number Israel?",
+      "correct_answer": "Satan",
+      "options": [
+        "Satan",
+        "Joab",
+        "God",
+        "Nathan"
+      ],
+      "explanation": "1 Chronicles 21:1 says Satan rose up against Israel and provoked David to number them." 
+    },
+    {
+      "id": 37,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 21:5",
+      "question": "How many men were in Israel according to Joab's census?",
+      "correct_answer": "One million one hundred thousand and eighty thousand",
+      "options": [
+        "One million one hundred thousand and eighty thousand",
+        "Nine hundred thousand",
+        "One million two hundred thousand",
+        "Eight hundred thousand"
+      ],
+      "explanation": "Joab's count gave Israel one million one hundred eighty thousand men able to go to war in 1 Chronicles 21." 
+    },
+    {
+      "id": 38,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 21:14",
+      "question": "What did the angel of the Lord do to the people of Israel?",
+      "correct_answer": "Smote them from morning until the time appointed",
+      "options": [
+        "Smote them from morning until the time appointed",
+        "Delivered them from their enemies",
+        "Fed them in the wilderness",
+        "Healed their wounds"
+      ],
+      "explanation": "The angel of the Lord struck Israel from morning until evening during the plague in 1 Chronicles 21." 
+    },
+    {
+      "id": 39,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 21:18",
+      "question": "Which threshing floor did David buy to build an altar?",
+      "correct_answer": "Araunah's threshing floor",
+      "options": [
+        "Araunah's threshing floor",
+        "Boaz's threshing floor",
+        "Nabal's threshing floor",
+        "Ezra's threshing floor"
+      ],
+      "explanation": "David bought Araunah's threshing floor to offer sacrifices and stop the plague in 1 Chronicles 21." 
+    },
+    {
+      "id": 40,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 22:5",
+      "question": "What did David assemble to prepare for building the temple?",
+      "correct_answer": "Silver, gold, brass, iron, woods, and precious stones",
+      "options": [
+        "Silver, gold, brass, iron, woods, and precious stones",
+        "Only cedar and stone",
+        "Only talents of gold",
+        "Only Levites and priests"
+      ],
+      "explanation": "David prepared materials such as metals, woods, and stones for the temple in 1 Chronicles 22." 
+    },
+    {
+      "id": 41,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 22:9",
+      "question": "Who did the Lord choose to build the house of the Lord?",
+      "correct_answer": "Solomon son of David",
+      "options": [
+        "Solomon son of David",
+        "Nathan son of David",
+        "Adonijah",
+        "Joab"
+      ],
+      "explanation": "God chose Solomon, David's son, to build the temple as stated in 1 Chronicles 22." 
+    },
+    {
+      "id": 42,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 28:2",
+      "question": "Who did David say the Lord had chosen to rule over Israel?",
+      "correct_answer": "Solomon",
+      "options": [
+        "Solomon",
+        "Absalom",
+        "Adonijah",
+        "Joab"
+      ],
+      "explanation": "David declared that the Lord had chosen Solomon to rule in 1 Chronicles 28." 
+    },
+    {
+      "id": 43,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 28:9",
+      "question": "What did David tell Solomon to seek from the Lord with all his heart?",
+      "correct_answer": "Wisdom and understanding",
+      "options": [
+        "Wisdom and understanding",
+        "Riches and honor",
+        "Strength and victory",
+        "Long life and health"
+      ],
+      "explanation": "David urged Solomon to seek wisdom and understanding from the Lord in 1 Chronicles 28." 
+    },
+    {
+      "id": 44,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 29:3",
+      "question": "How much gold did David give for the temple materials?",
+      "correct_answer": "Three thousand talents",
+      "options": [
+        "Three thousand talents",
+        "One thousand talents",
+        "Five thousand talents",
+        "Seven thousand talents"
+      ],
+      "explanation": "David gave three thousand talents of gold for the temple in 1 Chronicles 29." 
+    },
+    {
+      "id": 45,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 29:10",
+      "question": "How did David conclude his prayer in chapter 29?",
+      "correct_answer": "Blessed be thou, Lord God of Israel, our father, forever and ever",
+      "options": [
+        "Blessed be thou, Lord God of Israel, our father, forever and ever",
+        "Grant us peace in our days",
+        "Let your kingdom come quickly",
+        "May your name be praised in all the earth"
+      ],
+      "explanation": "David ended his prayer by blessing the Lord God of Israel in 1 Chronicles 29." 
+    },
+    {
+      "id": 46,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:5",
+      "question": "Which son of Japheth is the father of Ashkenaz and Riphath?",
+      "correct_answer": "Gomer",
+      "options": [
+        "Gomer",
+        "Magog",
+        "Javan",
+        "Madai"
+      ],
+      "explanation": "Gomer is listed as the father of Ashkenaz and Riphath in 1 Chronicles 1." 
+    },
+    {
+      "id": 47,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:8",
+      "question": "Which son of Ham was the father of Nimrod?",
+      "correct_answer": "Cush",
+      "options": [
+        "Cush",
+        "Mizraim",
+        "Put",
+        "Canaan"
+      ],
+      "explanation": "Cush is named as the father of Nimrod in 1 Chronicles 1." 
+    },
+    {
+      "id": 48,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 1:28",
+      "question": "Who is listed as the son of Abraham and Sarah?",
+      "correct_answer": "Isaac",
+      "options": [
+        "Isaac",
+        "Ishmael",
+        "Esau",
+        "Jacob"
+      ],
+      "explanation": "Isaac is the son of Abraham and Sarah listed in 1 Chronicles 1." 
+    },
+    {
+      "id": 49,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 2:12",
+      "question": "Who is named as the father of Jesse?",
+      "correct_answer": "Obed",
+      "options": [
+        "Obed",
+        "Boaz",
+        "Nahshon",
+        "Salma"
+      ],
+      "explanation": "Obed is identified as Jesse's father in 1 Chronicles 2." 
+    },
+    {
+      "id": 50,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 2:15",
+      "question": "Who is the firstborn son of Josiah?",
+      "correct_answer": "Johanan",
+      "options": [
+        "Johanan",
+        "Jehoiakim",
+        "Zedekiah",
+        "Shallum"
+      ],
+      "explanation": "Johanan is listed as Josiah's firstborn son in 1 Chronicles 2." 
+    },
+    {
+      "id": 51,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 3:1",
+      "question": "Which woman is the mother of Amnon?",
+      "correct_answer": "Ahinoam the Jezreelitess",
+      "options": [
+        "Ahinoam the Jezreelitess",
+        "Bathsheba",
+        "Abigail the Carmelitess",
+        "Maachah the daughter of Talmai"
+      ],
+      "explanation": "Ahinoam the Jezreelitess is recorded as Amnon's mother in 1 Chronicles 3." 
+    },
+    {
+      "id": 52,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 3:2",
+      "question": "Which son of David was the son of Abigail the Carmelitess?",
+      "correct_answer": "Daniel",
+      "options": [
+        "Daniel",
+        "Adonijah",
+        "Absalom",
+        "Shephatiah"
+      ],
+      "explanation": "Daniel is listed as the son of Abigail the Carmelitess in 1 Chronicles 3." 
+    },
+    {
+      "id": 53,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 3:4",
+      "question": "Which city did David reign in after Hebron?",
+      "correct_answer": "Jerusalem",
+      "options": [
+        "Jerusalem",
+        "Bethlehem",
+        "Ramoth",
+        "Hebron"
+      ],
+      "explanation": "David reigned in Jerusalem after his time in Hebron according to 1 Chronicles 3." 
+    },
+    {
+      "id": 54,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 3:5",
+      "question": "Which of David's sons is the same as Solomon?",
+      "correct_answer": "Shimea",
+      "options": [
+        "Shimea",
+        "Shobab",
+        "Nathan",
+        "Solomon"
+      ],
+      "explanation": "Solomon is listed as one of David's sons born in Jerusalem in 1 Chronicles 3." 
+    },
+    {
+      "id": 55,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 4:1",
+      "question": "Who is named as a son of Judah alongside Pharez and Hezron?",
+      "correct_answer": "Carmi",
+      "options": [
+        "Carmi",
+        "Tola",
+        "Zerah",
+        "Ammiel"
+      ],
+      "explanation": "Carmi is listed as one of Judah's sons in 1 Chronicles 4." 
+    },
+    {
+      "id": 56,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 4:10",
+      "question": "What is the name of the prayerful man mentioned in chapter 4?",
+      "correct_answer": "Jabez",
+      "options": [
+        "Jabez",
+        "Jemuel",
+        "Jared",
+        "Joram"
+      ],
+      "explanation": "Jabez is the man who prayed and was blessed in 1 Chronicles 4." 
+    },
+    {
+      "id": 57,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 4:5",
+      "question": "Who was the father of Ashur the father of Tekoa?",
+      "correct_answer": "Hur",
+      "options": [
+        "Hur",
+        "Carmi",
+        "Shobal",
+        "Jezreel"
+      ],
+      "explanation": "Hur is named as the father of Ashur the father of Tekoa in 1 Chronicles 4." 
+    },
+    {
+      "id": 58,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 4:14",
+      "question": "Who was the father of Joab the father of the valley of Charashim?",
+      "correct_answer": "Seraiah",
+      "options": [
+        "Seraiah",
+        "Othniel",
+        "Azariah",
+        "Nodab"
+      ],
+      "explanation": "Seraiah is listed as Joab's father in 1 Chronicles 4." 
+    },
+    {
+      "id": 59,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 4:15",
+      "question": "Which son of Caleb is named in chapter 4?",
+      "correct_answer": "Iru",
+      "options": [
+        "Iru",
+        "Jabez",
+        "Othniel",
+        "Jethro"
+      ],
+      "explanation": "Iru is listed as a son of Caleb the son of Jephunneh in 1 Chronicles 4." 
+    },
+    {
+      "id": 60,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 4:23",
+      "question": "What kind of workers are mentioned as dwelling among plants and hedges?",
+      "correct_answer": "Potters",
+      "options": [
+        "Potters",
+        "Fishermen",
+        "Shepherds",
+        "Carpenters"
+      ],
+      "explanation": "Potters and those dwelling among plants and hedges are described in 1 Chronicles 4." 
+    },
+    {
+      "id": 61,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 5:22",
+      "question": "From whom did the Reubenites take many camels and sheep?",
+      "correct_answer": "Hagarites",
+      "options": [
+        "Hagarites",
+        "Amalekites",
+        "Edomites",
+        "Moabites"
+      ],
+      "explanation": "They captured livestock from the Hagarites after victory in 1 Chronicles 5." 
+    },
+    {
+      "id": 62,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 6:3",
+      "question": "Who are the children of Amram listed in chapter 6?",
+      "correct_answer": "Aaron, Moses, and Miriam",
+      "options": [
+        "Aaron, Moses, and Miriam",
+        "Nadab, Abihu, and Eleazar",
+        "Asaph, Heman, and Jeduthun",
+        "Zadok, Abiathar, and Phinehas"
+      ],
+      "explanation": "Amram's children are Aaron, Moses, and Miriam in 1 Chronicles 6." 
+    },
+    {
+      "id": 63,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 6:15",
+      "question": "Who went into captivity when Judah and Jerusalem were carried away?",
+      "correct_answer": "Jehozadak",
+      "options": [
+        "Jehozadak",
+        "Azariah",
+        "Zadok",
+        "Phinehas"
+      ],
+      "explanation": "Jehozadak is the priest who went into Babylonian captivity in 1 Chronicles 6." 
+    },
+    {
+      "id": 64,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 6:67",
+      "question": "Which city of refuge was given to the Levites in mount Ephraim?",
+      "correct_answer": "Shechem",
+      "options": [
+        "Shechem",
+        "Joshaphat",
+        "Bezer",
+        "Ramoth"
+      ],
+      "explanation": "Shechem in mount Ephraim was given as a city of refuge in 1 Chronicles 6." 
+    },
+    {
+      "id": 65,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 7:21",
+      "question": "Which family had dominion in Moab in chapter 7?",
+      "correct_answer": "The house of Ashbea",
+      "options": [
+        "The house of Ashbea",
+        "The house of Tola",
+        "The house of Japhlet",
+        "The house of Shomer"
+      ],
+      "explanation": "The house of Ashbea is named as having dominion in Moab in 1 Chronicles 7." 
+    },
+    {
+      "id": 66,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 7:35",
+      "question": "Who is listed as the father of Jesimiel and Benaiah?",
+      "correct_answer": "Adiel",
+      "options": [
+        "Adiel",
+        "Joel",
+        "Elioenai",
+        "Ahi"
+      ],
+      "explanation": "Adiel is named as father of Jesimiel and Benaiah in 1 Chronicles 7." 
+    },
+    {
+      "id": 67,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 7:42",
+      "question": "Which tribe is credited with setting out for pasture in Gedor?",
+      "correct_answer": "The sons of Simeon",
+      "options": [
+        "The sons of Simeon",
+        "The sons of Judah",
+        "The sons of Levi",
+        "The sons of Dan"
+      ],
+      "explanation": "The sons of Simeon sought pasture at Gedor in 1 Chronicles 7." 
+    },
+    {
+      "id": 68,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 8:9",
+      "question": "Who was the wife of Shaharaim that bore children in Moab?",
+      "correct_answer": "Hodesh",
+      "options": [
+        "Hodesh",
+        "Malcham",
+        "Mirma",
+        "Shuah"
+      ],
+      "explanation": "Hodesh is named as Shaharaim's wife who bore children in Moab in 1 Chronicles 8." 
+    },
+    {
+      "id": 69,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 8:11",
+      "question": "Who was the father of Abitub and Elpaal?",
+      "correct_answer": "Hushim",
+      "options": [
+        "Hushim",
+        "Shaharaim",
+        "Bela",
+        "Ehud"
+      ],
+      "explanation": "Hushim is listed as the father of Abitub and Elpaal in 1 Chronicles 8." 
+    },
+    {
+      "id": 70,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 8:2",
+      "question": "Who was the father of Jahath, the ancestor of the Zorathites?",
+      "correct_answer": "Reaiah",
+      "options": [
+        "Reaiah",
+        "Shobal",
+        "Hur",
+        "Carmi"
+      ],
+      "explanation": "Reaiah begat Jahath, ancestor of the Zorathites, in 1 Chronicles 8." 
+    },
+    {
+      "id": 71,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 9:4",
+      "question": "Who was carried away captive by Tilgath-pilneser king of Assyria?",
+      "correct_answer": "Beerah",
+      "options": [
+        "Beerah",
+        "Joel",
+        "Zemira",
+        "Jeiel"
+      ],
+      "explanation": "Beerah was carried away captive by Tilgath-pilneser according to 1 Chronicles 9." 
+    },
+    {
+      "id": 72,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 9:20",
+      "question": "What was the main role of the gatekeepers in the restored city?",
+      "correct_answer": "Guarding the gates of Jerusalem",
+      "options": [
+        "Guarding the gates of Jerusalem",
+        "Leading worship in the temple",
+        "Reciting genealogies",
+        "Instructing the people"
+      ],
+      "explanation": "Gatekeepers were responsible for protecting Jerusalem's gates in 1 Chronicles 9." 
+    },
+    {
+      "id": 73,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 9:33",
+      "question": "What service did Heman, the son of Joel, perform?",
+      "correct_answer": "Singer in the house of the Lord",
+      "options": [
+        "Singer in the house of the Lord",
+        "Gatekeeper",
+        "Priest of the altar",
+        "Chief of the army"
+      ],
+      "explanation": "Heman served as a singer in the house of the Lord in 1 Chronicles 9." 
+    },
+    {
+      "id": 74,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 10:13",
+      "question": "Who killed Saul and his sons according to the chronicler?",
+      "correct_answer": "The Philistines",
+      "options": [
+        "The Philistines",
+        "The Israelites",
+        "The Ammonites",
+        "The Moabites"
+      ],
+      "explanation": "The Philistines defeated Saul and his sons in 1 Chronicles 10." 
+    },
+    {
+      "id": 75,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 11:4",
+      "question": "Who was anointed king over Israel at Hebron?",
+      "correct_answer": "David",
+      "options": [
+        "David",
+        "Ish-bosheth",
+        "Saul",
+        "Solomon"
+      ],
+      "explanation": "David was anointed king at Hebron in 1 Chronicles 11." 
+    },
+    {
+      "id": 76,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 11:26",
+      "question": "Who was the brother of Jashobeam and a leader among David's mighty men?",
+      "correct_answer": "Eleazar",
+      "options": [
+        "Eleazar",
+        "Shammah",
+        "Abishai",
+        "Benaiah"
+      ],
+      "explanation": "Eleazar was one of David's three mighty men and a brother of Jashobeam in 1 Chronicles 11." 
+    },
+    {
+      "id": 77,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 11:17",
+      "question": "How many Philistines did Shammah strike down in the lentils field?",
+      "correct_answer": "A thousand",
+      "options": [
+        "A thousand",
+        "Five hundred",
+        "Three hundred",
+        "Two thousand"
+      ],
+      "explanation": "Shammah struck down a thousand Philistines in the lentils field in 1 Chronicles 11." 
+    },
+    {
+      "id": 78,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 12:1",
+      "question": "From which tribe did many valiant men join David at Ziklag?",
+      "correct_answer": "Benjamin",
+      "options": [
+        "Benjamin",
+        "Judah",
+        "Levi",
+        "Dan"
+      ],
+      "explanation": "Mighty men from Benjamin joined David at Ziklag in 1 Chronicles 12." 
+    },
+    {
+      "id": 79,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 12:23",
+      "question": "What was the character of the fighters from Reuben, Gad, and half Manasseh?",
+      "correct_answer": "Able to bear shield and sword and shoot with bow",
+      "options": [
+        "Able to bear shield and sword and shoot with bow",
+        "Famous for their chariots",
+        "Skilled musicians",
+        "Prone to idolatry"
+      ],
+      "explanation": "They were described as skilled warriors able to use shields, swords, and bows in 1 Chronicles 12." 
+    },
+    {
+      "id": 80,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 12:16",
+      "question": "Which chief of the house of their fathers was a leader of the Gadites?",
+      "correct_answer": "Michael",
+      "options": [
+        "Michael",
+        "Meshullam",
+        "Sheba",
+        "Jorai"
+      ],
+      "explanation": "Michael is listed as a chief among the Gadites in 1 Chronicles 12." 
+    },
+    {
+      "id": 81,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 13:7",
+      "question": "Where was the ark taken from when David first attempted to bring it to Jerusalem?",
+      "correct_answer": "The house of Abinadab",
+      "options": [
+        "The house of Abinadab",
+        "Bethlehem",
+        "The tabernacle at Shiloh",
+        "The city of Gibeon"
+      ],
+      "explanation": "David brought the ark from the house of Abinadab in 1 Chronicles 13." 
+    },
+    {
+      "id": 82,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 15:2",
+      "question": "Which group was appointed to carry the ark after David’s second attempt?",
+      "correct_answer": "The Levites",
+      "options": [
+        "The Levites",
+        "The priests",
+        "The elders",
+        "The soldiers"
+      ],
+      "explanation": "David appointed the Levites to carry the ark properly in 1 Chronicles 15." 
+    },
+    {
+      "id": 83,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 15:27",
+      "question": "Whose house did the ark finally enter in Jerusalem?",
+      "correct_answer": "Obed-edom",
+      "options": [
+        "Obed-edom",
+        "Abinadab",
+        "David",
+        "Zadok"
+      ],
+      "explanation": "The ark was brought into the house of Obed-edom before it entered Jerusalem in 1 Chronicles 15." 
+    },
+    {
+      "id": 84,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 15:28",
+      "question": "Who was the king that offered sacrifices before the ark?",
+      "correct_answer": "David",
+      "options": [
+        "David",
+        "Solomon",
+        "Saul",
+        "Hezekiah"
+      ],
+      "explanation": "David offered sacrifices before the ark when it was brought into Jerusalem in 1 Chronicles 15." 
+    },
+    {
+      "id": 85,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 16:34",
+      "question": "What is the repeated command in David’s song of thanksgiving?",
+      "correct_answer": "O give thanks unto the Lord",
+      "options": [
+        "O give thanks unto the Lord",
+        "Sing unto the Lord",
+        "Bless his holy name",
+        "Praise him forever"
+      ],
+      "explanation": "David's song of thanksgiving repeats the command to give thanks unto the Lord in 1 Chronicles 16." 
+    },
+    {
+      "id": 86,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 17:1",
+      "question": "What did Nathan tell David the Lord had spoken about his house?",
+      "correct_answer": "That it would be established forever",
+      "options": [
+        "That it would be established forever",
+        "That it would be destroyed",
+        "That it would be made poor",
+        "That it would never know war"
+      ],
+      "explanation": "Nathan conveyed that God promised to establish David's house forever in 1 Chronicles 17." 
+    },
+    {
+      "id": 87,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 18:5",
+      "question": "Which Philistine city did David defeat and take from the Gittites?",
+      "correct_answer": "Gath",
+      "options": [
+        "Gath",
+        "Ekron",
+        "Ashdod",
+        "Gaza"
+      ],
+      "explanation": "David defeated the Philistines and the city of Gath is mentioned among his victories in 1 Chronicles 18." 
+    },
+    {
+      "id": 88,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 18:4",
+      "question": "Which king did David bring tribute to Jerusalem from after defeating him?",
+      "correct_answer": "Hiram king of Tyre",
+      "options": [
+        "Hiram king of Tyre",
+        "Hadadezer king of Zobah",
+        "Ben-hadad king of Syria",
+        "Pharaoh king of Egypt"
+      ],
+      "explanation": "Hiram king of Tyre is mentioned as sending tribute to David in 1 Chronicles 18." 
+    },
+    {
+      "id": 89,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 19:17",
+      "question": "Who did David send away from Edom after taking the territory by force?",
+      "correct_answer": "All the vassals of Hadadezer",
+      "options": [
+        "All the vassals of Hadadezer",
+        "The captains of the host",
+        "The people of Gaza",
+        "The Levites"
+      ],
+      "explanation": "David sent away the vassals of Hadadezer after conquering Edom in 1 Chronicles 19." 
+    },
+    {
+      "id": 90,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 20:1",
+      "question": "Which giant did David kill in the Valley of Elah?",
+      "correct_answer": "Goliath",
+      "options": [
+        "Goliath",
+        "Sihon",
+        "Og",
+        "Ishbibenob"
+      ],
+      "explanation": "David killed Goliath in the Valley of Elah, and this is also referenced in 1 Chronicles 20." 
+    },
+    {
+      "id": 91,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 20:4",
+      "question": "How many sons did the giant Sippai have?",
+      "correct_answer": "A son",
+      "options": [
+        "A son",
+        "Two sons",
+        "Three sons",
+        "None"
+      ],
+      "explanation": "Sippai, a giant, had one son whom Benaiah killed in 1 Chronicles 20." 
+    },
+    {
+      "id": 92,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 20:8",
+      "question": "Which giant had six fingers on each hand and six toes on each foot?",
+      "correct_answer": "Lahmi",
+      "options": [
+        "Lahmi",
+        "Goliath",
+        "Ishbi-benob",
+        "Saph"
+      ],
+      "explanation": "Lahmi, Goliath's brother, had six fingers and six toes in 1 Chronicles 20." 
+    },
+    {
+      "id": 93,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 21:7",
+      "question": "Who did David ask to perform the numbering of Israel?",
+      "correct_answer": "Joab",
+      "options": [
+        "Joab",
+        "Nathan",
+        "Satan",
+        "Abishai"
+      ],
+      "explanation": "David commanded Joab and the leaders to number Israel in 1 Chronicles 21." 
+    },
+    {
+      "id": 94,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 21:12",
+      "question": "What choice did God give David through Gad?",
+      "correct_answer": "Seven years famine, three months fleeing, or three days plague",
+      "options": [
+        "Seven years famine, three months fleeing, or three days plague",
+        "Peace, war, or exile",
+        "Territory, riches, or children",
+        "Glory, power, or wisdom"
+      ],
+      "explanation": "Gad presented David with three punishments and David chose the plague in 1 Chronicles 21." 
+    },
+    {
+      "id": 95,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 22:14",
+      "question": "What did David say about the work for the house of God?",
+      "correct_answer": "It is great because the palace is not for man but for the Lord God",
+      "options": [
+        "It is great because the palace is not for man but for the Lord God",
+        "It is small and can be finished quickly",
+        "It is only for the priests to build",
+        "It will be a sign to the nations"
+      ],
+      "explanation": "David emphasized that the temple was for the Lord, not for man, in 1 Chronicles 22." 
+    },
+    {
+      "id": 96,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 23:2",
+      "question": "Who organized the Levites by their ages and service in David's days?",
+      "correct_answer": "David",
+      "options": [
+        "David",
+        "Samuel",
+        "Solomon",
+        "Nathan"
+      ],
+      "explanation": "David organized the Levites by age and service in 1 Chronicles 23." 
+    },
+    {
+      "id": 97,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 23:26",
+      "question": "Who was appointed over the treasuries of the house of God?",
+      "correct_answer": "Azariah",
+      "options": [
+        "Azariah",
+        "Jehoiada",
+        "Ahimelech",
+        "Uriel"
+      ],
+      "explanation": "Azariah was given charge of the house of Gods treasuries in 1 Chronicles 23." 
+    },
+    {
+      "id": 98,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 24:1",
+      "question": "How many divisions of priests did David establish?",
+      "correct_answer": "Twenty-four",
+      "options": [
+        "Twenty-four",
+        "Twelve",
+        "Sixteen",
+        "Thirty"
+      ],
+      "explanation": "David divided the priests into twenty-four courses in 1 Chronicles 24." 
+    },
+    {
+      "id": 99,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 25:1",
+      "question": "Who were appointed by David, the princes, and the commanders of the host to prophesy with harps, psalteries, and cymbals?",
+      "correct_answer": "The sons of Asaph, Heman, and Jeduthun",
+      "options": [
+        "The sons of Asaph, Heman, and Jeduthun",
+        "The sons of Levi, Gershon, and Merari",
+        "The sons of David, Solomon, and Nathan",
+        "The sons of Korah, Ethan, and Caleb"
+      ],
+      "explanation": "The sons of Asaph, Heman, and Jeduthun were appointed to prophesy with music in 1 Chronicles 25." 
+    },
+    {
+      "id": 100,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 26:2",
+      "question": "Who was the chief gatekeeper of the entrance of the tent of meeting?",
+      "correct_answer": "Obed-edom",
+      "options": [
+        "Obed-edom",
+        "Shebuel",
+        "Shallum",
+        "Meshelemiah"
+      ],
+      "explanation": "Obed-edom is mentioned as a chief gatekeeper in 1 Chronicles 26." 
+    },
+    {
+      "id": 101,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 26:15",
+      "question": "How many Levites were appointed over the treasuries of the house of God?",
+      "correct_answer": "Two hundred and thirty",
+      "options": [
+        "Two hundred and thirty",
+        "One hundred and fifty",
+        "Three hundred",
+        "Seventy"
+      ],
+      "explanation": "Two hundred and thirty Levites were placed over the treasuries in 1 Chronicles 26." 
+    },
+    {
+      "id": 102,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 27:1",
+      "question": "What was the number of the division of the children of Israel that attended David in the month of their season?",
+      "correct_answer": "Forty thousand",
+      "options": [
+        "Forty thousand",
+        "Ten thousand",
+        "Fifty thousand",
+        "Twenty thousand"
+      ],
+      "explanation": "Each month a division of forty thousand attended David in their season in 1 Chronicles 27." 
+    },
+    {
+      "id": 103,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 27:25",
+      "question": "What was the duty of Ahithophel the son of Eliam?",
+      "correct_answer": "Chief advisor",
+      "options": [
+        "Chief advisor",
+        "Commander of chariots",
+        "King's treasurer",
+        "Chief priest"
+      ],
+      "explanation": "Ahithophel is later known as a counselor, and his son Eliam is referenced in 1 Chronicles 27." 
+    },
+    {
+      "id": 104,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 28:11",
+      "question": "What did David give to Solomon when he had finished speaking?",
+      "correct_answer": "The pattern of all the works of the temple",
+      "options": [
+        "The pattern of all the works of the temple",
+        "A list of enemies",
+        "A crown of gold",
+        "A scroll of laws"
+      ],
+      "explanation": "David gave Solomon the design for the temple and its furnishings in 1 Chronicles 28." 
+    },
+    {
+      "id": 105,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 28:20",
+      "question": "What did David urge Solomon to do that he would prosper?",
+      "correct_answer": "Be strong and of good courage and keep the charge of the Lord",
+      "options": [
+        "Be strong and of good courage and keep the charge of the Lord",
+        "Beware of the Philistines",
+        "Build a great army",
+        "Trust in riches and horses"
+      ],
+      "explanation": "David told Solomon to be strong, courageous, and obedient to the Lord in 1 Chronicles 28." 
+    },
+    {
+      "id": 106,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 29:1",
+      "question": "How many talents of gold did David have for the house of God?",
+      "correct_answer": "Three thousand",
+      "options": [
+        "Three thousand",
+        "Two thousand",
+        "Five thousand",
+        "One thousand"
+      ],
+      "explanation": "David had three thousand talents of gold for building the house of God in 1 Chronicles 29." 
+    },
+    {
+      "id": 107,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 29:2",
+      "question": "Who gave David cedar trees and iron for the palace?",
+      "correct_answer": "Hiram king of Tyre",
+      "options": [
+        "Hiram king of Tyre",
+        "Pharaoh king of Egypt",
+        "Nebuchadnezzar",
+        "Aram king"
+      ],
+      "explanation": "Hiram provided materials for David's house in 1 Chronicles 29." 
+    },
+    {
+      "id": 108,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 29:14",
+      "question": "What did David say about everything that comes from God?",
+      "correct_answer": "It is from your hand and you give it to us",
+      "options": [
+        "It is from your hand and you give it to us",
+        "It belongs to the king alone",
+        "It is earned by labor",
+        "It is a sign of favor"
+      ],
+      "explanation": "David acknowledged that all riches come from God's hand in 1 Chronicles 29." 
+    },
+    {
+      "id": 109,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 29:20",
+      "question": "Who were anointed king and priest in the presence of all the assembly?",
+      "correct_answer": "Solomon was anointed king and Zadok was anointed priest",
+      "options": [
+        "Solomon was anointed king and Zadok was anointed priest",
+        "David was anointed king and Abiathar was anointed priest",
+        "Nathan was anointed king and Jehoiada was priest",
+        "Solomon was anointed king and Eli was anointed priest"
+      ],
+      "explanation": "Solomon and Zadok were anointed in front of the assembly in 1 Chronicles 29." 
+    },
+    {
+      "id": 110,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 29:25",
+      "question": "How did the people respond when David praised the Lord in chapter 29?",
+      "correct_answer": "The people offered willingly and rejoiced"
+    ,
+      "options": [
+        "The people offered willingly and rejoiced",
+        "The people were silent and fearful",
+        "The people rebelled against David",
+        "The people scattered abroad"
+      ],
+      "explanation": "The people gave willingly and rejoiced when David praised the Lord in 1 Chronicles 29." 
+    },
+    {
+      "id": 111,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 29:26",
+      "question": "Who was the king of Israel in David's later days?",
+      "correct_answer": "David",
+      "options": [
+        "David",
+        "Solomon",
+        "Saul",
+        "Rehoboam"
+      ],
+      "explanation": "David is called king of Israel in his later days in 1 Chronicles 29." 
+    },
+    {
+      "id": 112,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 2:5",
+      "question": "Which of David's sons was born of Bath-shua the daughter of Ammiel?",
+      "correct_answer": "Solomon",
+      "options": [
+        "Solomon",
+        "Amnon",
+        "Absalom",
+        "Adonijah"
+      ],
+      "explanation": "Solomon was born to David and Bath-shua the daughter of Ammiel in 1 Chronicles 2." 
+    },
+    {
+      "id": 113,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 3:10",
+      "question": "Who was the son of Solomon?",
+      "correct_answer": "Rehoboam",
+      "options": [
+        "Rehoboam",
+        "Abijah",
+        "Jehoshaphat",
+        "Amaziah"
+      ],
+      "explanation": "Rehoboam is named as Solomon's son in 1 Chronicles 3." 
+    },
+    {
+      "id": 114,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 3:16",
+      "question": "Who was the son of Jehoiakim?",
+      "correct_answer": "Jeconiah",
+      "options": [
+        "Jeconiah",
+        "Zedekiah",
+        "Shallum",
+        "Jehoahaz"
+      ],
+      "explanation": "Jeconiah is listed as the son of Jehoiakim in 1 Chronicles 3." 
+    },
+    {
+      "id": 115,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 3:21",
+      "question": "Who was the father of Azariah, the priest in Solomon's temple?",
+      "correct_answer": "Johanan",
+      "options": [
+        "Johanan",
+        "Azariah",
+        "Zadok",
+        "Amariah"
+      ],
+      "explanation": "Johanan is listed as the father of Azariah in David's priestly genealogy in 1 Chronicles 3." 
+    },
+    {
+      "id": 116,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 3:25",
+      "question": "Who was the son of Nehushta mentioned in the genealogy of David?",
+      "correct_answer": "Jehoiakim",
+      "options": [
+        "Jehoiakim",
+        "Zedekiah",
+        "Shallum",
+        "Jeconiah"
+      ],
+      "explanation": "Jehoiakim, son of Josiah and Nehushta, appears in the genealogy in 1 Chronicles 3." 
+    },
+    {
+      "id": 117,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 6:12",
+      "question": "Who was the father of Uzzi, Zerahiah, and Meraioth?",
+      "correct_answer": "Bukki",
+      "options": [
+        "Bukki",
+        "Uzzi",
+        "Amariah",
+        "Zadok"
+      ],
+      "explanation": "Bukki is the father of Uzzi and Zerahiah in the priestly genealogy of 1 Chronicles 6." 
+    },
+    {
+      "id": 118,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 6:18",
+      "question": "Who is the father of Uriel and Uzziah in the genealogy of Kohath?",
+      "correct_answer": "Tahath",
+      "options": [
+        "Tahath",
+        "Uriah",
+        "Ishma",
+        "Korah"
+      ],
+      "explanation": "Tahath is named as father of Uriel and Uzziah in the Kohathite genealogy in 1 Chronicles 6." 
+    },
+    {
+      "id": 119,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 7:3",
+      "question": "Which descendant of Issachar is described as one of the chief men?",
+      "correct_answer": "Michael",
+      "options": [
+        "Michael",
+        "Jashub",
+        "Shimron",
+        "Ishiah"
+      ],
+      "explanation": "Michael is one of the chief men of Issachar in 1 Chronicles 7." 
+    },
+    {
+      "id": 120,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 7:10",
+      "question": "Who is the father of Bilhan, the founder of the family?",
+      "correct_answer": "Jediael",
+      "options": [
+        "Jediael",
+        "Zemira",
+        "Jeush",
+        "Benjamin"
+      ],
+      "explanation": "Jediael is the father of Bilhan in the genealogy of 1 Chronicles 7." 
+    },
+    {
+      "id": 121,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 8:5",
+      "question": "Which son of Bela is mentioned as the third son?",
+      "correct_answer": "Abishua",
+      "options": [
+        "Abishua",
+        "Addar",
+        "Gera",
+        "Naaman"
+      ],
+      "explanation": "Abishua is listed as the third son of Bela in 1 Chronicles 8." 
+    },
+    {
+      "id": 122,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 8:6",
+      "question": "Where were the sons of Ehud removed to?",
+      "correct_answer": "Manahath",
+      "options": [
+        "Manahath",
+        "Bethlehem",
+        "Jezreel",
+        "Shechem"
+      ],
+      "explanation": "The sons of Ehud were removed to Manahath in 1 Chronicles 8." 
+    },
+    {
+      "id": 123,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 9:2",
+      "question": "Which group returned to Jerusalem to build the temple in the reign of Cyrus?",
+      "correct_answer": "The priests and Levites",
+      "options": [
+        "The priests and Levites",
+        "The Philistines",
+        "The Edomites",
+        "The Babylonians"
+      ],
+      "explanation": "The priests and Levites returned to Jerusalem in the reign of Cyrus according to 1 Chronicles 9." 
+    },
+    {
+      "id": 124,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 10:12",
+      "question": "What happened to Saul because he did not obey the Lord?",
+      "correct_answer": "He and his sons died",
+      "options": [
+        "He and his sons died",
+        "He was exiled",
+        "He was imprisoned",
+        "He was forgiven"
+      ],
+      "explanation": "Saul and his sons died after God departed from him in 1 Chronicles 10." 
+    },
+    {
+      "id": 125,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 12:28",
+      "question": "Who were named as mighty men of valour from the tribe of Gad?",
+      "correct_answer": "Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, Jahdiel",
+      "options": [
+        "Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, Jahdiel",
+        "Michael, Meshullam, Sheba, Jorai",
+        "Nathan, Solomon, Rehoboam",
+        "David, Joab, Abishai"
+      ],
+      "explanation": "These chiefs are named as mighty men of Gad in 1 Chronicles 12." 
+    },
+    {
+      "id": 126,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 13:7",
+      "question": "Who carried the ark from the house of Abinadab?",
+      "correct_answer": "Uzzah and Ahio",
+      "options": [
+        "Uzzah and Ahio",
+        "Heman and Asaph",
+        "Eleazar and Ithamar",
+        "Joab and Abishai"
+      ],
+      "explanation": "Uzzah and Ahio were driving the cart that carried the ark in 1 Chronicles 13." 
+    },
+    {
+      "id": 127,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 15:2",
+      "question": "What reason did David give for the first failure to bring the ark?",
+      "correct_answer": "Because they had not carried it after the ordinance of Moses",
+      "options": [
+        "Because they had not carried it after the ordinance of Moses",
+        "Because they were not priests",
+        "Because it was not yet time",
+        "Because the people were unclean"
+      ],
+      "explanation": "David acknowledged they failed to carry the ark according to Moses' ordinance in 1 Chronicles 15." 
+    },
+    {
+      "id": 128,
+      "level": "Easy",
+      "verse_reference": "1 Chronicles 15:11",
+      "question": "Who led the Levites in the worship of the ark?",
+      "correct_answer": "Heman, Asaph, and Ethan",
+      "options": [
+        "Heman, Asaph, and Ethan",
+        "Zadok, Abiathar, and Nathan",
+        "Joab, Abishai, and Benaiah",
+        "David, Solomon, and Nathan"
+      ],
+      "explanation": "Heman, Asaph, and Ethan led the Levites in worship during the ark procession in 1 Chronicles 15." 
+    },
+    {
+      "id": 129,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 15:26",
+      "question": "Who blew the trumpets before the ark of the Lord?",
+      "correct_answer": "Chenaniah and his brethren",
+      "options": [
+        "Chenaniah and his brethren",
+        "David and his sons",
+        "The priests alone",
+        "The gatekeepers"
+      ],
+      "explanation": "Chenaniah and his brethren blew the trumpets before the ark in 1 Chronicles 15." 
+    },
+    {
+      "id": 130,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 16:41",
+      "question": "Who was appointed under the hand of Shebuel the son of Gershom?",
+      "correct_answer": "The porters of the tabernacle of the congregation",
+      "options": [
+        "The porters of the tabernacle of the congregation",
+        "The singers of David",
+        "The captains of the host",
+        "The heads of families"
+      ],
+      "explanation": "Shebuel oversaw the porters of the tabernacle in 1 Chronicles 16." 
+    },
+    {
+      "id": 131,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 17:11",
+      "question": "What promise did God make about David's seed?",
+      "correct_answer": "He will establish his kingdom forever",
+      "options": [
+        "He will establish his kingdom forever",
+        "He will never know sorrow",
+        "He will conquer all enemies",
+        "He will build many cities"
+      ],
+      "explanation": "God promised to establish David's seed and kingdom forever in 1 Chronicles 17." 
+    },
+    {
+      "id": 132,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 18:1",
+      "question": "Which king did David defeat to establish his reign over the Philistines?",
+      "correct_answer": "Hadadezer king of Zobah",
+      "options": [
+        "Hadadezer king of Zobah",
+        "Goliath king of Gath",
+        "Saul king of Benjamin",
+        "Aram king of Damascus"
+      ],
+      "explanation": "David defeated Hadadezer king of Zobah and subdued the Philistines in 1 Chronicles 18." 
+    },
+    {
+      "id": 133,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 20:5",
+      "question": "Who killed the son of the giant Goliath?",
+      "correct_answer": "David",
+      "options": [
+        "David",
+        "Jonathan",
+        "Joab",
+        "Benaiah"
+      ],
+      "explanation": "David killed the son of Goliath in the events recorded in 1 Chronicles 20." 
+    },
+    {
+      "id": 134,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 21:24",
+      "question": "What did Arunah offer to David for free?",
+      "correct_answer": "The threshing floor, oxen, and threshing instruments",
+      "options": [
+        "The threshing floor, oxen, and threshing instruments",
+        "Silver and gold",
+        "Water and grain",
+        "A place in his city"
+      ],
+      "explanation": "Arunah offered David the site and sacrifice for free in 1 Chronicles 21." 
+    },
+    {
+      "id": 135,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 21:28",
+      "question": "What did David do at the place where the angel stood?",
+      "correct_answer": "Built an altar and offered burnt offerings and peace offerings",
+      "options": [
+        "Built an altar and offered burnt offerings and peace offerings",
+        "Built a tower",
+        "Dug a well",
+        "Declared it holy ground"
+      ],
+      "explanation": "David built an altar and offered sacrifices at the angel's place in 1 Chronicles 21." 
+    },
+    {
+      "id": 136,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 22:14",
+      "question": "What did David say the work for the temple was?",
+      "correct_answer": "Great for the Lord is great and mighty",
+      "options": [
+        "Great for the Lord is great and mighty",
+        "Impossible for any man",
+        "Only for the priests",
+        "Better left unfinished"
+      ],
+      "explanation": "David acknowledged the greatness of the Lord and His temple work in 1 Chronicles 22." 
+    },
+    {
+      "id": 137,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 26:31",
+      "question": "Which Levite family served as porters for the east gate?",
+      "correct_answer": "The sons of Salomoth",
+      "options": [
+        "The sons of Salomoth",
+        "The sons of Korah",
+        "The sons of Gershon",
+        "The sons of Merari"
+      ],
+      "explanation": "The sons of Salomoth served as gatekeepers for the east gate in 1 Chronicles 26." 
+    },
+    {
+      "id": 138,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 27:32",
+      "question": "Who was the ruler of the half tribe of Manasseh toward the east?",
+      "correct_answer": "Hizkijah",
+      "options": [
+        "Hizkijah",
+        "Ahiezer",
+        "Shephatiah",
+        "Jephunneh"
+      ],
+      "explanation": "Hizkijah is named as the ruler of the half tribe of Manasseh in 1 Chronicles 27." 
+    },
+    {
+      "id": 139,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 28:11",
+      "question": "What did David give Solomon when he showed him the plan of the temple?",
+      "correct_answer": "A pattern of all that would be built",
+      "options": [
+        "A pattern of all that would be built",
+        "A list of the names of priests",
+        "A set of sacred vessels",
+        "A map of Jerusalem"
+      ],
+      "explanation": "David gave Solomon the pattern for the temple and its service in 1 Chronicles 28." 
+    },
+    {
+      "id": 140,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 28:20",
+      "question": "What promise did David make to Solomon if he kept the Lord's commandments?",
+      "correct_answer": "Then thou shalt prosper, and then thou shalt have good success",
+      "options": [
+        "Then thou shalt prosper, and then thou shalt have good success",
+        "Then thou shalt never be challenged",
+        "Then thou shalt have a long life",
+        "Then thou shalt reign over all nations"
+      ],
+      "explanation": "David promised Solomon prosperity and success if he obeyed God's commandments in 1 Chronicles 28." 
+    },
+    {
+      "id": 141,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 29:11",
+      "question": "How does David describe God in his prayer?",
+      "correct_answer": "Great, and to be praised, and mighty in power",
+      "options": [
+        "Great, and to be praised, and mighty in power",
+        "Gentle and merciful forever",
+        "Vengeful and just",
+        "Hidden and mysterious"
+      ],
+      "explanation": "David calls God great, praiseworthy, and mighty in power in 1 Chronicles 29." 
+    },
+    {
+      "id": 142,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 29:17",
+      "question": "Why did David say he had willingly offered to the Lord?",
+      "correct_answer": "Because all things come from the Lord and are His",
+      "options": [
+        "Because all things come from the Lord and are His",
+        "Because he wanted more wealth",
+        "Because he desired honor from men",
+        "Because he feared the Philistines"
+      ],
+      "explanation": "David said he gave willingly because everything comes from God in 1 Chronicles 29." 
+    },
+    {
+      "id": 143,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 29:22",
+      "question": "What did the people do at the death of David?",
+      "correct_answer": "They anointed Solomon king over Israel",
+      "options": [
+        "They anointed Solomon king over Israel",
+        "They mourned for seven days",
+        "They rebelled against the new king",
+        "They fled to the mountains"
+      ],
+      "explanation": "After David's reign, Solomon was anointed king over Israel in 1 Chronicles 29." 
+    },
+    {
+      "id": 144,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 5:24",
+      "question": "Which chief was listed among the sons of Abihail the son of Huri?",
+      "correct_answer": "Ahi the son of Abdiel",
+      "options": [
+        "Ahi the son of Abdiel",
+        "Joel the son of Shemaiah",
+        "Zillah the son of Nahath",
+        "Baal the son of Guni"
+      ],
+      "explanation": "Ahi the son of Abdiel is described as chief of the house of their fathers in 1 Chronicles 5." 
+    },
+    {
+      "id": 145,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 14:1",
+      "question": "Who was the king of Israel when the Philistines heard that David was anointed?",
+      "correct_answer": "David",
+      "options": [
+        "David",
+        "Saul",
+        "Ish-bosheth",
+        "Solomon"
+      ],
+      "explanation": "Although not explicitly in this text excerpt, 1 Chronicles 14 mentions David as king of Israel when the Philistines heard of his anointing." 
+    },
+    {
+      "id": 146,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 4:22",
+      "question": "Who had the dominion in Moab from the house of Ashbea?",
+      "correct_answer": "Saraph",
+      "options": [
+        "Saraph",
+        "Jokim",
+        "Joash",
+        "Ashbea"
+      ],
+      "explanation": "Saraph held dominion in Moab among the sons of Shelah in 1 Chronicles 4." 
+    },
+    {
+      "id": 147,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 6:26",
+      "question": "Who is the son of Elkanah mentioned in the Levitical genealogy?",
+      "correct_answer": "Amasai",
+      "options": [
+        "Amasai",
+        "Jonathan",
+        "Samuel",
+        "Eleazer"
+      ],
+      "explanation": "Amasai is listed as a son of Elkanah in the Levitical genealogy of 1 Chronicles 6." 
+    },
+    {
+      "id": 148,
+      "level": "Medium",
+      "verse_reference": "1 Chronicles 6:35",
+      "question": "Who is the son of Zephaniah in the line of Heman?",
+      "correct_answer": "Asaph",
+      "options": [
+        "Asaph",
+        "Ethan",
+        "Elkanah",
+        "Joel"
+      ],
+      "explanation": "Asaph is the son of Zephaniah in the line of Heman in 1 Chronicles 6." 
+    },
+    {
+      "id": 149,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 29:17",
+      "question": "How does David describe his own offering to the Lord?",
+      "correct_answer": "A willing heart",
+      "options": [
+        "A willing heart",
+        "A reluctant gift",
+        "A burden and tribute",
+        "A hidden gift"
+      ],
+      "explanation": "David said he gave with a willing heart because all things come from the Lord in 1 Chronicles 29." 
+    },
+    {
+      "id": 150,
+      "level": "Hard",
+      "verse_reference": "1 Chronicles 29:30",
+      "question": "What skill did Jonathan the son of Uzziah possess?",
+      "correct_answer": "He was skilful in the word of knowledge",
+      "options": [
+        "He was skilful in the word of knowledge",
+        "He was mighty in battle",
+        "He was a skilled archer",
+        "He was a faithful priest"
+      ],
+      "explanation": "Jonathan the son of Uzziah is described as skillful in the word of knowledge in 1 Chronicles 29." 
+    }
+  ]
+}

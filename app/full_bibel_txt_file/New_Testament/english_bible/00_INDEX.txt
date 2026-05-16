@@ -1,0 +1,39 @@
+NEW TESTAMENT - GUJI OROMO BIBLE
+============================================================
+
+Translation: King James (Authorized) Version
+English Name: King James Version
+Language: English
+
+BOOKS IN NEW TESTAMENT:
+----------------------------------------
+ 1. MAT: Matthew -> Matthew.txt
+ 2. MRK: Mark -> Mark.txt
+ 3. LUK: Luke -> Luke.txt
+ 4. JHN: John -> John.txt
+ 5. ACT: Acts -> Acts.txt
+ 6. ROM: Romans -> Romans.txt
+ 7. 1CO: 1 Corinthians -> 1_Corinthians.txt
+ 8. 2CO: 2 Corinthians -> 2_Corinthians.txt
+ 9. GAL: Galatians -> Galatians.txt
+10. EPH: Ephesians -> Ephesians.txt
+11. PHP: Philippians -> Philippians.txt
+12. COL: Colossians -> Colossians.txt
+13. 1TH: 1 Thessalonians -> 1_Thessalonians.txt
+14. 2TH: 2 Thessalonians -> 2_Thessalonians.txt
+15. 1TI: 1 Timothy -> 1_Timothy.txt
+16. 2TI: 2 Timothy -> 2_Timothy.txt
+17. TIT: Titus -> Titus.txt
+18. PHM: Philemon -> Philemon.txt
+19. HEB: Hebrews -> Hebrews.txt
+20. JAS: James -> James.txt
+21. 1PE: 1 Peter -> 1_Peter.txt
+22. 2PE: 2 Peter -> 2_Peter.txt
+23. 1JN: 1 John -> 1_John.txt
+24. 2JN: 2 John -> 2_John.txt
+25. 3JN: 3 John -> 3_John.txt
+26. JUD: Jude -> Jude.txt
+27. REV: Revelation -> Revelation.txt
+
+============================================================
+Total New Testament books: 27

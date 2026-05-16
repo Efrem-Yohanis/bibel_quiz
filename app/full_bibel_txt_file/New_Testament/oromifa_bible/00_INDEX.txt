@@ -1,0 +1,39 @@
+NEW TESTAMENT - GUJI OROMO BIBLE
+============================================================
+
+Translation: Kitaaba Woyyuu
+English Name: Guji Oromo Bible
+Language: Borana-Arsi-Guji Oromo
+
+BOOKS IN NEW TESTAMENT:
+----------------------------------------
+ 1. MAT: Wongeela Maatewoosii -> Matthew.txt
+ 2. MRK: Wongeela Maarqoosii -> Mark.txt
+ 3. LUK: Wongeela Luqaasii -> Luke.txt
+ 4. JHN: Wongeela Yohaannisii -> John.txt
+ 5. ACT: Hujii Ergantootaa -> Acts.txt
+ 6. ROM: Worra Rooma'aa -> Romans.txt
+ 7. 1CO: 1 Worra Qorontoosii -> 1_Corinthians.txt
+ 8. 2CO: 2 Worra Qorontoosii -> 2_Corinthians.txt
+ 9. GAL: Worra Galaatiya'aa -> Galatians.txt
+10. EPH: Worra Efesoonii -> Ephesians.txt
+11. PHP: Worra Filiphisiiyuusii -> Philippians.txt
+12. COL: Worra Qolosaayisii -> Colossians.txt
+13. 1TH: 1 Worra Tasalonqe'ee -> 1_Thessalonians.txt
+14. 2TH: 2 Worra Tasalonqe'ee -> 2_Thessalonians.txt
+15. 1TI: 1 Ximootewoos -> 1_Timothy.txt
+16. 2TI: 2 Ximootewoos -> 2_Timothy.txt
+17. TIT: Tiitoos -> Titus.txt
+18. PHM: Filemoon -> Philemon.txt
+19. HEB: Ibroota -> Hebrews.txt
+20. JAS: Ergaa Yaaqoobii -> James.txt
+21. 1PE: 1 Ergaa Pheexroosii -> 1_Peter.txt
+22. 2PE: 2 Ergaa Pheexroosii -> 2_Peter.txt
+23. 1JN: 1 Ergaa Yohaannisii -> 1_John.txt
+24. 2JN: 2 Ergaa Yohaannisii -> 2_John.txt
+25. 3JN: 3 Ergaa Yohaannisii -> 3_John.txt
+26. JUD: Ergaa Yihuda'aa -> Jude.txt
+27. REV: Mudhii Yohaannisii -> Revelation.txt
+
+============================================================
+Total New Testament books: 27

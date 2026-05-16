@@ -1,0 +1,1364 @@
+{
+  "metadata": {
+    "total_questions": 150,
+    "levels": {
+      "1": {"name": "Easy", "count": 50, "description": "Factual questions directly from the text"},
+      "2": {"name": "Medium", "count": 50, "description": "Interpretive questions about meaning and themes"},
+      "3": {"name": "Hard", "count": 50, "description": "Analytical questions requiring deeper understanding"}
+    },
+    "book": "Joshua",
+    "chapters": "1-24"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "verse_reference": "Joshua 1:1",
+      "question": "Who spoke to Joshua after the death of Moses?",
+      "correct_answer": "A",
+      "options": {"A": "The LORD", "B": "Aaron", "C": "Moses", "D": "Caleb"},
+      "explanation": "Joshua 1:1 says the LORD spoke unto Joshua after Moses died."
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "verse_reference": "Joshua 1:2",
+      "question": "What command did God give Joshua in Joshua 1:2?",
+      "correct_answer": "B",
+      "options": {"A": "Wait in the wilderness", "B": "Arise and go over this Jordan", "C": "Build an altar", "D": "Gather the tribes"},
+      "explanation": "The LORD told Joshua to arise and go over the Jordan with the people."
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "verse_reference": "Joshua 1:3",
+      "question": "What land promise did God make to Joshua in chapter 1?",
+      "correct_answer": "A",
+      "options": {"A": "Every place the sole of your foot shall tread upon", "B": "Only the land of Canaan", "C": "The land of Egypt", "D": "The hill country alone"},
+      "explanation": "God promised all the land the feet of Joshua and the people would tread upon."
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "verse_reference": "Joshua 1:4",
+      "question": "Which river marks the eastern boundary of the promised land in Joshua 1:4?",
+      "correct_answer": "D",
+      "options": {"A": "Nile", "B": "Tigris", "C": "Jordan", "D": "Euphrates"},
+      "explanation": "Joshua 1:4 references the river Euphrates as the eastern limit."
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "verse_reference": "Joshua 1:5",
+      "question": "How long did God say no one would be able to stand before Joshua?",
+      "correct_answer": "A",
+      "options": {"A": "All the days of thy life", "B": "Until the next year", "C": "Until Joshua died", "D": "For seven years"},
+      "explanation": "God said no man would be able to stand before Joshua all the days of his life."
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "verse_reference": "Joshua 1:6",
+      "question": "What two qualities did God command Joshua to have?",
+      "correct_answer": "B",
+      "options": {"A": "Wise and humble", "B": "Strong and of good courage", "C": "Quiet and submissive", "D": "Rich and powerful"},
+      "explanation": "God commanded Joshua to be strong and courageous."
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "verse_reference": "Joshua 1:7",
+      "question": "According to Joshua 1:7, what should Joshua not turn from?",
+      "correct_answer": "C",
+      "options": {"A": "The city of Jericho", "B": "His own desire", "C": "The law of Moses", "D": "The path of the river"},
+      "explanation": "He was told not to turn from the law that Moses commanded him."
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "verse_reference": "Joshua 1:8",
+      "question": "What is Joshua told to do with the book of the law?",
+      "correct_answer": "D",
+      "options": {"A": "Hide it in the ark", "B": "Sing it daily", "C": "Read it once a year", "D": "Meditate on it day and night"},
+      "explanation": "Joshua 1:8 commands meditation on the law day and night."
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "verse_reference": "Joshua 1:9",
+      "question": "What reason is given for not being afraid?",
+      "correct_answer": "A",
+      "options": {"A": "The LORD thy God is with thee", "B": "The people will protect you", "C": "The enemies are weak", "D": "The land is already yours"},
+      "explanation": "God reassured Joshua that He would be with him wherever he went."
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "verse_reference": "Joshua 1:11",
+      "question": "How many days did Joshua tell the people to prepare to pass over Jordan?",
+      "correct_answer": "C",
+      "options": {"A": "One day", "B": "Seven days", "C": "Three days", "D": "Ten days"},
+      "explanation": "Joshua commanded them to prepare victuals for three days before crossing."
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "verse_reference": "Joshua 1:14",
+      "question": "Which tribes were told to remain on this side of Jordan with their children and cattle?",
+      "correct_answer": "A",
+      "options": {"A": "Reubenites, Gadites, and half the tribe of Manasseh", "B": "Judah, Simeon, and Levi", "C": "Benjamin, Naphtali, and Zebulun", "D": "Ephraim, Dan, and Asher"},
+      "explanation": "Those tribes were instructed to stay until their brethren had rest."
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "verse_reference": "Joshua 1:16",
+      "question": "What did the people promise Joshua in Joshua 1:16?",
+      "correct_answer": "D",
+      "options": {"A": "We will build a city", "B": "We will offer sacrifices", "C": "We will go back to Egypt", "D": "We will do all that you command us"},
+      "explanation": "They promised to obey Joshua as they obeyed Moses."
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "verse_reference": "Joshua 1:17",
+      "question": "Whom did the people want to be with Joshua as they had been with Moses?",
+      "correct_answer": "A",
+      "options": {"A": "The LORD thy God", "B": "The priests", "C": "The elders", "D": "The warriors"},
+      "explanation": "They said only that the LORD be with Joshua as He was with Moses."
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "verse_reference": "Joshua 1:18",
+      "question": "What would happen to anyone who rebelled against Joshua's commandment?",
+      "correct_answer": "D",
+      "options": {"A": "They would be exiled", "B": "They would lose their inheritance", "C": "They would be put in prison", "D": "They would be put to death"},
+      "explanation": "Joshua said rebels would be put to death."
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "verse_reference": "Joshua 2:1",
+      "question": "Who did Joshua send to spy out Jericho?",
+      "correct_answer": "B",
+      "options": {"A": "Twelve princes", "B": "Two men", "C": "A Levite", "D": "A prophet"},
+      "explanation": "Joshua sent two men to secretly spy out Jericho."
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "verse_reference": "Joshua 2:1",
+      "question": "Where did the two spies lodge in Jericho?",
+      "correct_answer": "C",
+      "options": {"A": "In the king's palace", "B": "At the city gate", "C": "In Rahab’s house", "D": "In the temple"},
+      "explanation": "They stayed in the house of Rahab the harlot."
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "verse_reference": "Joshua 2:3",
+      "question": "What did the king of Jericho ask Rahab to do?",
+      "correct_answer": "A",
+      "options": {"A": "Bring forth the men who came to her house", "B": "Send them away with gifts", "C": "Hide them in the walls", "D": "Take them to the river"},
+      "explanation": "The king demanded the two men be brought out."
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "verse_reference": "Joshua 2:4",
+      "question": "What did Rahab say when the king’s men came to her house?",
+      "correct_answer": "B",
+      "options": {"A": "They are in the king's palace", "B": "I know not whence they are", "C": "They have already left", "D": "They are sleeping"},
+      "explanation": "She claimed she did not know where they came from."
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "verse_reference": "Joshua 2:6",
+      "question": "How did Rahab hide the men?",
+      "correct_answer": "A",
+      "options": {"A": "With the stalks of flax on the roof", "B": "Under the bed", "C": "In the well", "D": "In the wall"},
+      "explanation": "She hid them under flax stalks on the roof."
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "verse_reference": "Joshua 2:9",
+      "question": "Why did Rahab say the people fainted?",
+      "correct_answer": "B",
+      "options": {"A": "Because of a famine", "B": "Because the LORD had given the land into Israel's hand", "C": "Because of a plague", "D": "Because of a siege"},
+      "explanation": "She said their terror fell on the inhabitants because the LORD gave the land to Israel."
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "verse_reference": "Joshua 2:10",
+      "question": "What mighty act did Rahab mention Israel had done?",
+      "correct_answer": "C",
+      "options": {"A": "Built a wall around Jericho", "B": "Performed many miracles in Jericho", "C": "Dried up the Red Sea water", "D": "Defeated the Amorites in one battle"},
+      "explanation": "She referred to God drying up the Red Sea for Israel."
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "verse_reference": "Joshua 2:11",
+      "question": "What did Rahab say the people of the land knew about Israel’s God?",
+      "correct_answer": "B",
+      "options": {"A": "He was a weak god", "B": "He is God in heaven above and earth beneath", "C": "He lives only in the wilderness", "D": "He is like their idols"},
+      "explanation": "She acknowledged the LORD is God in heaven above and earth beneath."
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "verse_reference": "Joshua 2:12",
+      "question": "What did Rahab ask the spies to do for her family?",
+      "correct_answer": "A",
+      "options": {"A": "Deal kindly with my father's household", "B": "Give us a house in Israel", "C": "Bring them into the city", "D": "Hide them in the wilderness"},
+      "explanation": "She requested kindness for her family because she showed them kindness."
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "verse_reference": "Joshua 2:15",
+      "question": "How did Rahab help the spies escape?",
+      "correct_answer": "D",
+      "options": {"A": "By giving them a horse", "B": "By letting them out through the gate", "C": "By disguising them", "D": "By letting them down through a window with a cord"},
+      "explanation": "She lowered them through a window with a cord."
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "verse_reference": "Joshua 2:17",
+      "question": "What would happen if Rahab told the king about the spies?",
+      "correct_answer": "C",
+      "options": {"A": "The LORD would punish her", "B": "She would be forgiven", "C": "The men would be quit of the oath", "D": "The king would reward her"},
+      "explanation": "They said if she betrayed them they would be free from her oath."
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "verse_reference": "Joshua 2:18",
+      "question": "What was Rahab instructed to bind in her window?",
+      "correct_answer": "A",
+      "options": {"A": "A scarlet line", "B": "A white cloth", "C": "A blue rope", "D": "A red lantern"},
+      "explanation": "She was told to bind a scarlet thread in the window."
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "verse_reference": "Joshua 2:19",
+      "question": "What would happen if anyone left Rahab's house?",
+      "correct_answer": "B",
+      "options": {"A": "They would be safe", "B": "Their blood would be on their own head", "C": "They would be hidden", "D": "They would be spared"},
+      "explanation": "The spies said anyone who leaves the house bears their own blood."
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "verse_reference": "Joshua 2:23",
+      "question": "What did the spies report to Joshua after returning?",
+      "correct_answer": "A",
+      "options": {"A": "The LORD hath delivered into our hands all the land", "B": "The city is too strong", "C": "Jericho is uninhabited", "D": "The people are friendly"},
+      "explanation": "They reported that the land had been delivered into their hands."
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "verse_reference": "Joshua 3:1",
+      "question": "Where did Israel camp before crossing Jordan?",
+      "correct_answer": "C",
+      "options": {"A": "At Gilgal", "B": "At Jericho", "C": "By Jordan", "D": "At Shittim"},
+      "explanation": "They lodged by Jordan before passing over."
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "verse_reference": "Joshua 3:3",
+      "question": "What were the people told to do when they saw the ark?",
+      "correct_answer": "B",
+      "options": {"A": "Run ahead", "B": "Remove from your place and go after it", "C": "Stay where you are", "D": "Bow down"},
+      "explanation": "They were told to follow the ark."
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "verse_reference": "Joshua 3:4",
+      "question": "How far were the people to stay from the ark?",
+      "correct_answer": "D",
+      "options": {"A": "One cubit", "B": "Five hundred cubits", "C": "A city block", "D": "About two thousand cubits"},
+      "explanation": "They were told to keep about two thousand cubits away."
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "verse_reference": "Joshua 3:5",
+      "question": "What were the people told to do because the LORD would do wonders?",
+      "correct_answer": "A",
+      "options": {"A": "Sanctify yourselves", "B": "Build an altar", "C": "Gather food", "D": "March silently"},
+      "explanation": "Joshua told the people to sanctify themselves."
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "verse_reference": "Joshua 3:6",
+      "question": "Who bore the ark of the covenant into Jordan?",
+      "correct_answer": "C",
+      "options": {"A": "The kings", "B": "The elders", "C": "The priests, the Levites", "D": "The soldiers"},
+      "explanation": "The priests carrying the ark went before the people."
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "verse_reference": "Joshua 3:13",
+      "question": "What would happen when the priests' feet touched the water?",
+      "correct_answer": "B",
+      "options": {"A": "The river would overflow", "B": "The waters would be cut off and stand in a heap", "C": "The priests would drown", "D": "The water would boil"},
+      "explanation": "The waters of Jordan stood in a heap when the priests carried the ark into the water."
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "verse_reference": "Joshua 3:17",
+      "question": "How did the Israelites cross Jordan?",
+      "correct_answer": "D",
+      "options": {"A": "By boat", "B": "On a bridge", "C": "Through a dry valley", "D": "On dry ground"},
+      "explanation": "They passed over Jordan on dry ground."
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "verse_reference": "Joshua 4:1",
+      "question": "What did the LORD command after all the people had passed over Jordan?",
+      "correct_answer": "A",
+      "options": {"A": "Take twelve men and take stones out of Jordan", "B": "Build a temple", "C": "Prepare for battle", "D": "Celebrate with a feast"},
+      "explanation": "God commanded them to take twelve stones from the river."
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "verse_reference": "Joshua 4:5",
+      "question": "How many stones was each man to carry?",
+      "correct_answer": "C",
+      "options": {"A": "One for his tribe", "B": "Two stones", "C": "One stone", "D": "Three stones"},
+      "explanation": "Each of the twelve men was to take up one stone upon his shoulder."
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "verse_reference": "Joshua 4:8",
+      "question": "Where did Joshua set up the twelve stones taken from Jordan?",
+      "correct_answer": "B",
+      "options": {"A": "At the altar of the LORD", "B": "In the midst of Jordan at the place where the priests stood", "C": "At Jericho", "D": "On Mount Ebal"},
+      "explanation": "The stones were set up in the midst of Jordan where the priests’ feet stood."
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "verse_reference": "Joshua 4:21",
+      "question": "What were the stones a sign of?",
+      "correct_answer": "C",
+      "options": {"A": "The battle at Jericho", "B": "The covenant with Rahab", "C": "The crossing of Jordan on dry ground", "D": "The death of Moses"},
+      "explanation": "They served as a memorial of the crossing of Jordan."
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "verse_reference": "Joshua 4:22",
+      "question": "What did Joshua say the stones would remind their children of?",
+      "correct_answer": "B",
+      "options": {"A": "The people of Egypt", "B": "That Israel came over Jordan on dry land", "C": "The prophets of Israel", "D": "The kings of Canaan"},
+      "explanation": "He explained they would remind future generations of the dry crossing."
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "verse_reference": "Joshua 4:24",
+      "question": "Why did the LORD do this miracle at Jordan?",
+      "correct_answer": "D",
+      "options": {"A": "To show off to the nations", "B": "To ambush the Canaanites", "C": "To punish Jericho", "D": "So all the earth would know the hand of the LORD and fear Him forever"},
+      "explanation": "The miracle showed the LORD's mighty power so people would fear Him."
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "verse_reference": "Joshua 5:2",
+      "question": "What did the LORD tell Joshua to make at Gilgal?",
+      "correct_answer": "A",
+      "options": {"A": "Sharp knives and circumcise the Israelites again", "B": "A new altar", "C": "A fortress", "D": "An offering of bread"},
+      "explanation": "God commanded a second circumcision of Israel."
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "verse_reference": "Joshua 5:3",
+      "question": "Where did Joshua circumcise the people?",
+      "correct_answer": "C",
+      "options": {"A": "Jericho", "B": "Mount Ebal", "C": "The hill of the foreskins", "D": "Gilgal"},
+      "explanation": "Joshua circumcised the Israelites at the hill of the foreskins."
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "verse_reference": "Joshua 5:9",
+      "question": "What did the LORD say had been rolled away from Israel?",
+      "correct_answer": "A",
+      "options": {"A": "The reproach of Egypt", "B": "The fear of enemies", "C": "The burden of slavery", "D": "The law of Moses"},
+      "explanation": "The LORD said the reproach of Egypt was rolled away."
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "verse_reference": "Joshua 5:10",
+      "question": "What festival did Israel keep at Gilgal?",
+      "correct_answer": "D",
+      "options": {"A": "Tabernacles", "B": "Feast of Weeks", "C": "Day of Atonement", "D": "Passover"},
+      "explanation": "They kept the Passover on the fourteenth day at Gilgal."
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "verse_reference": "Joshua 5:12",
+      "question": "What ceased after the Israelites ate the old corn of the land?",
+      "correct_answer": "B",
+      "options": {"A": "The people’s complaints", "B": "The manna", "C": "The war with Jericho", "D": "The need for tents"},
+      "explanation": "The manna ceased when they ate the produce of Canaan."
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "verse_reference": "Joshua 5:13",
+      "question": "Who appeared to Joshua near Jericho with his sword drawn?",
+      "correct_answer": "C",
+      "options": {"A": "An angel of the LORD", "B": "Moses", "C": "A man over against him", "D": "The king of Jericho"},
+      "explanation": "A man stood before Joshua with a sword drawn."
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "verse_reference": "Joshua 5:14",
+      "question": "What title did the man with the sword give himself?",
+      "correct_answer": "A",
+      "options": {"A": "Captain of the host of the LORD", "B": "Prince of Jericho", "C": "Chief of the army", "D": "Messenger of Moses"},
+      "explanation": "He said he was the captain of the Lord's host."
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "verse_reference": "Joshua 5:15",
+      "question": "What did Joshua do when the man spoke to him?",
+      "correct_answer": "C",
+      "options": {"A": "Ran away", "B": "Attacked him", "C": "Fell on his face and worshipped", "D": "Asked for a sign"},
+      "explanation": "Joshua fell on his face and worshipped the man."
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "verse_reference": "Joshua 6:1",
+      "question": "What city was shut up because of the children of Israel?",
+      "correct_answer": "B",
+      "options": {"A": "Ai", "B": "Jericho", "C": "Gibeon", "D": "Hazor"},
+      "explanation": "Jericho was tightly shut because of Israel."
+    },
+    {
+      "id": 51,
+      "level": 2,
+      "verse_reference": "Joshua 6:2",
+      "question": "What had the LORD already given Joshua in Joshua 6:2?",
+      "correct_answer": "A",
+      "options": {"A": "Jericho and the king thereof", "B": "The plains of Moab", "C": "The city of Ai", "D": "The land of Egypt"},
+      "explanation": "God told Joshua He had given Jericho and its king into his hand."
+    },
+    {
+      "id": 52,
+      "level": 2,
+      "verse_reference": "Joshua 6:3",
+      "question": "How many days were the people to compass Jericho?",
+      "correct_answer": "C",
+      "options": {"A": "Seven days every day", "B": "One day only", "C": "Six days once each day", "D": "Fourteen days twice each day"},
+      "explanation": "They were commanded to march around the city once for six days."
+    },
+    {
+      "id": 53,
+      "level": 2,
+      "verse_reference": "Joshua 6:4",
+      "question": "What did the priests carry before the ark?",
+      "correct_answer": "B",
+      "options": {"A": "Sword and shield", "B": "Seven trumpets of rams' horns", "C": "A scroll of the law", "D": "A banner"},
+      "explanation": "Seven priests bore seven trumpets before the ark."
+    },
+    {
+      "id": 54,
+      "level": 2,
+      "verse_reference": "Joshua 6:5",
+      "question": "What would happen when the people shouted after the long blast?",
+      "correct_answer": "A",
+      "options": {"A": "The wall of the city would fall flat", "B": "The sun would rise", "C": "The king would surrender", "D": "The earth would shake"},
+      "explanation": "The wall would fall flat upon the shout."
+    },
+    {
+      "id": 55,
+      "level": 2,
+      "verse_reference": "Joshua 6:10",
+      "question": "What were the people told not to do until the commanded day?",
+      "correct_answer": "C",
+      "options": {"A": "Build a siege", "B": "Set fire to the city", "C": "Shout or make noise", "D": "Drink the water"},
+      "explanation": "They were told to remain silent until Joshua said shout."
+    },
+    {
+      "id": 56,
+      "level": 2,
+      "verse_reference": "Joshua 6:14",
+      "question": "What happened on the seventh day of marching around Jericho?",
+      "correct_answer": "D",
+      "options": {"A": "They stopped midway", "B": "They prepared their weapons", "C": "They built an altar", "D": "They compassed the city seven times"},
+      "explanation": "On the seventh day they marched around Jericho seven times."
+    },
+    {
+      "id": 57,
+      "level": 2,
+      "verse_reference": "Joshua 6:17",
+      "question": "Who was to be spared from the accursed thing in Jericho?",
+      "correct_answer": "B",
+      "options": {"A": "The king", "B": "Rahab the harlot", "C": "The priests", "D": "The elders"},
+      "explanation": "Rahab and all that were with her were to live."
+    },
+    {
+      "id": 58,
+      "level": 2,
+      "verse_reference": "Joshua 6:19",
+      "question": "What would make the camp of Israel a curse?",
+      "correct_answer": "D",
+      "options": {"A": "Taking silver and gold", "B": "Taking men and women alive", "C": "Entering before the shout", "D": "Taking any accursed thing"},
+      "explanation": "Taking accursed things would make the camp accursed."
+    },
+    {
+      "id": 59,
+      "level": 2,
+      "verse_reference": "Joshua 6:20",
+      "question": "What was the sign that the wall had fallen?",
+      "correct_answer": "A",
+      "options": {"A": "The people shouted with a great shout", "B": "The priests dropped their trumpets", "C": "The king surrendered", "D": "The earth shook"},
+      "explanation": "The shout following the trumpets signaled the wall's fall."
+    },
+    {
+      "id": 60,
+      "level": 2,
+      "verse_reference": "Joshua 6:21",
+      "question": "What was done to the inhabitants of Jericho?",
+      "correct_answer": "A",
+      "options": {"A": "Utterly destroyed them with the edge of the sword", "B": "Made them slaves", "C": "Exiled them", "D": "Let them live"},
+      "explanation": "All that was in Jericho was utterly destroyed."
+    },
+    {
+      "id": 61,
+      "level": 2,
+      "verse_reference": "Joshua 6:22",
+      "question": "What did Joshua command the spies to do after Jericho fell?",
+      "correct_answer": "B",
+      "options": {"A": "Burn Rahab's house", "B": "Bring out Rahab and her family", "C": "Capture the king", "D": "Destroy the scarlet line"},
+      "explanation": "Joshua sent for Rahab and her household as promised."
+    },
+    {
+      "id": 62,
+      "level": 2,
+      "verse_reference": "Joshua 6:24",
+      "question": "What became of Rahab and her household?",
+      "correct_answer": "C",
+      "options": {"A": "They were killed", "B": "They were enslaved", "C": "They were brought outside the camp and left alive", "D": "They fled"},
+      "explanation": "Rahab and her family were saved and left outside the camp."
+    },
+    {
+      "id": 63,
+      "level": 2,
+      "verse_reference": "Joshua 6:25",
+      "question": "Why did Rahab dwell in Israel?",
+      "correct_answer": "A",
+      "options": {"A": "Because she hid the messengers", "B": "Because she paid tribute", "C": "Because she renounced her old trade", "D": "Because she married a prince"},
+      "explanation": "She was spared for hiding the spies."
+    },
+    {
+      "id": 64,
+      "level": 2,
+      "verse_reference": "Joshua 6:26",
+      "question": "What curse did Joshua pronounce on Jericho?",
+      "correct_answer": "B",
+      "options": {"A": "The city will never be rebuilt", "B": "Anyone rebuilding it will lose his firstborn and youngest son", "C": "No grain shall grow there", "D": "The site will be forever an altar"},
+      "explanation": "He cursed anyone who rebuilt Jericho so they would lose their firstborn and youngest son."
+    },
+    {
+      "id": 65,
+      "level": 2,
+      "verse_reference": "Joshua 7:1",
+      "question": "What caused the LORD's anger against Israel after Jericho?",
+      "correct_answer": "A",
+      "options": {"A": "Achan took of the accursed thing", "B": "They did not circumcise the people", "C": "They refused to march against Ai", "D": "They ate forbidden food"},
+      "explanation": "Achan's sin with the accursed things brought God’s anger."
+    },
+    {
+      "id": 66,
+      "level": 2,
+      "verse_reference": "Joshua 7:3",
+      "question": "How many men did Joshua initially take to fight Ai?",
+      "correct_answer": "A",
+      "options": {"A": "About three thousand", "B": "Seven thousand", "C": "Twelve thousand", "D": "Forty thousand"},
+      "explanation": "Joshua sent about three thousand men to Ai."
+    },
+    {
+      "id": 67,
+      "level": 2,
+      "verse_reference": "Joshua 7:5",
+      "question": "How many men of Israel were killed at Ai?",
+      "correct_answer": "B",
+      "options": {"A": "Twelve", "B": "Thirty and six", "C": "One hundred", "D": "Three hundred"},
+      "explanation": "Thirty-six Israelite men were struck down at Ai."
+    },
+    {
+      "id": 68,
+      "level": 2,
+      "verse_reference": "Joshua 7:6",
+      "question": "What did Joshua do when he heard of the defeat at Ai?",
+      "correct_answer": "A",
+      "options": {"A": "Rent his clothes and fell on his face before the ark", "B": "Called the army to prayer", "C": "Burned the city of Ai", "D": "Sought counsel of the elders"},
+      "explanation": "He tore his clothes and worshipped before the ark."
+    },
+    {
+      "id": 69,
+      "level": 2,
+      "verse_reference": "Joshua 7:11",
+      "question": "Why could Israel not stand before their enemies?",
+      "correct_answer": "C",
+      "options": {"A": "Because they were weak", "B": "Because the city was too strong", "C": "Because they took of the accursed thing", "D": "Because they had no leader"},
+      "explanation": "The sin of taking accursed things made them accursed."
+    },
+    {
+      "id": 70,
+      "level": 2,
+      "verse_reference": "Joshua 7:13",
+      "question": "What did the LORD command Israel to do before the next day?",
+      "correct_answer": "D",
+      "options": {"A": "March around the city", "B": "Offer burnt offerings", "C": "Send spies again", "D": "Sanctify themselves and find the accursed thing"},
+      "explanation": "They were told to sanctify themselves and remove the accursed thing."
+    },
+    {
+      "id": 71,
+      "level": 2,
+      "verse_reference": "Joshua 7:17",
+      "question": "Which tribe was taken when the accursed thing was identified?",
+      "correct_answer": "B",
+      "options": {"A": "Ephraim", "B": "Judah", "C": "Benjamin", "D": "Levi"},
+      "explanation": "The tribe of Judah was selected, and within it the family of the Zerahites was taken."
+    },
+    {
+      "id": 72,
+      "level": 2,
+      "verse_reference": "Joshua 7:20",
+      "question": "What did Achan confess to taking from Jericho?",
+      "correct_answer": "D",
+      "options": {"A": "Bread and clothes", "B": "Gold and silver only", "C": "A scarlet thread", "D": "A Babylonish garment, silver, and a wedge of gold"},
+      "explanation": "Achan confessed to coveting and taking those specific items."
+    },
+    {
+      "id": 73,
+      "level": 2,
+      "verse_reference": "Joshua 7:21",
+      "question": "Why did Achan take the accursed items?",
+      "correct_answer": "A",
+      "options": {"A": "Because he coveted them", "B": "Because he was commanded to", "C": "Because he wanted to trade them", "D": "Because he thought they were innocent"},
+      "explanation": "He admitted he coveted the items and hid them."
+    },
+    {
+      "id": 74,
+      "level": 2,
+      "verse_reference": "Joshua 7:24",
+      "question": "What was done to Achan and his possession?",
+      "correct_answer": "B",
+      "options": {"A": "He was exiled", "B": "He and all that he had were stoned and burned", "C": "He was imprisoned", "D": "He was let go"},
+      "explanation": "Achan and his belongings were destroyed by stoning and fire."
+    },
+    {
+      "id": 75,
+      "level": 2,
+      "verse_reference": "Joshua 8:1",
+      "question": "What did the LORD tell Joshua about Ai after the sin was removed?",
+      "correct_answer": "A",
+      "options": {"A": "Fear not; I have given it into thy hand", "B": "It is too strong to take", "C": "Wait for another year", "D": "Attack with all your people"},
+      "explanation": "God assured Joshua that Ai would be given into his hand."
+    },
+    {
+      "id": 76,
+      "level": 2,
+      "verse_reference": "Joshua 8:3",
+      "question": "How many men did Joshua choose to lie in ambush against Ai?",
+      "correct_answer": "A",
+      "options": {"A": "Thirty thousand", "B": "Three thousand", "C": "Twelve thousand", "D": "Forty thousand"},
+      "explanation": "Joshua selected thirty thousand mighty men of valor."
+    },
+    {
+      "id": 77,
+      "level": 2,
+      "verse_reference": "Joshua 8:6",
+      "question": "What did Joshua tell his ambush to do after the main force fled?",
+      "correct_answer": "B",
+      "options": {"A": "Stay hidden", "B": "Rise up quickly and seize the city", "C": "Attack the camp", "D": "Retreat to the valley"},
+      "explanation": "They were to rise quickly and take the city when drawn out."
+    },
+    {
+      "id": 78,
+      "level": 2,
+      "verse_reference": "Joshua 8:19",
+      "question": "What was the purpose of the ambush at Ai?",
+      "correct_answer": "D",
+      "options": {"A": "To negotiate peace", "B": "To entertain the enemy", "C": "To build a fort", "D": "To seize the city when it was overextended"},
+      "explanation": "The ambush was meant to capture Ai after drawing out its forces."
+    },
+    {
+      "id": 79,
+      "level": 2,
+      "verse_reference": "Joshua 8:20",
+      "question": "How many times did Joshua and the people surround Ai before the city fell?",
+      "correct_answer": "C",
+      "options": {"A": "Once", "B": "Three times", "C": "Once after the ambush was revealed", "D": "Seven times"},
+      "explanation": "After the ambush was triggered, they surrounded Ai and took it."
+    },
+    {
+      "id": 80,
+      "level": 2,
+      "verse_reference": "Joshua 8:21",
+      "question": "What did the Israelites do to the men of Ai?",
+      "correct_answer": "A",
+      "options": {"A": "Slew them with the edge of the sword", "B": "Made them slaves", "C": "Let them escape", "D": "Forced them into exile"},
+      "explanation": "They killed the men of Ai in battle."
+    },
+    {
+      "id": 81,
+      "level": 2,
+      "verse_reference": "Joshua 8:24",
+      "question": "How did Joshua execute the king of Ai?",
+      "correct_answer": "D",
+      "options": {"A": "He let him go", "B": "He imprisoned him", "C": "He sent him back to Jericho", "D": "He brought him to Joshua and then killed him"},
+      "explanation": "The king was brought to Joshua and then executed."
+    },
+    {
+      "id": 82,
+      "level": 2,
+      "verse_reference": "Joshua 8:28",
+      "question": "What did Joshua do to the city of Ai after taking it?",
+      "correct_answer": "B",
+      "options": {"A": "Left it standing", "B": "Burned it and made it a heap forever", "C": "Turned it into a refuge city", "D": "Gave it to the priests"},
+      "explanation": "Joshua burned the city and made it an everlasting heap."
+    },
+    {
+      "id": 83,
+      "level": 2,
+      "verse_reference": "Joshua 8:30",
+      "question": "Which mountain did Joshua build an altar on?",
+      "correct_answer": "A",
+      "options": {"A": "Mount Ebal", "B": "Mount Gerizim", "C": "Mount Horeb", "D": "Mount Zion"},
+      "explanation": "Joshua built an altar to the LORD on Mount Ebal."
+    },
+    {
+      "id": 84,
+      "level": 2,
+      "verse_reference": "Joshua 8:31",
+      "question": "What type of stones were used for the altar on Mount Ebal?",
+      "correct_answer": "C",
+      "options": {"A": "Stones with iron made on them", "B": "Polished stones", "C": "Whole stones over which no iron was lifted", "D": "Limestone stones"},
+      "explanation": "The altar was made of whole stones over which no iron instrument was lifted."
+    },
+    {
+      "id": 85,
+      "level": 2,
+      "verse_reference": "Joshua 8:32",
+      "question": "What did Joshua write on the stones of the altar?",
+      "correct_answer": "B",
+      "options": {"A": "The names of the tribes", "B": "A copy of the law of Moses", "C": "The genealogy of Joshua", "D": "The order of battle"},
+      "explanation": "He wrote a copy of the law on the stones."
+    },
+    {
+      "id": 86,
+      "level": 2,
+      "verse_reference": "Joshua 8:34",
+      "question": "Who listened when Joshua read all the words of the law?",
+      "correct_answer": "A",
+      "options": {"A": "All Israel with women, little ones, and strangers", "B": "Only the priests and elders", "C": "Only the fighting men", "D": "Only the leaders"},
+      "explanation": "Joshua read the law before all the congregation including women and strangers."
+    },
+    {
+      "id": 87,
+      "level": 2,
+      "verse_reference": "Joshua 9:1",
+      "question": "What reaction did the kings of the land have when they heard about Israel’s conquests?",
+      "correct_answer": "C",
+      "options": {"A": "They celebrated", "B": "They ignored it", "C": "They gathered to fight with Joshua", "D": "They fled to Egypt"},
+      "explanation": "They united to fight Joshua and Israel."
+    },
+    {
+      "id": 88,
+      "level": 2,
+      "verse_reference": "Joshua 9:3",
+      "question": "What did the people of Gibeon appear to be in Joshua 9:3?",
+      "correct_answer": "B",
+      "options": {"A": "Kings at war", "B": "Ambassadors from a far country", "C": "Slaves in need", "D": "Leaders of a neighboring tribe"},
+      "explanation": "They came pretending to be ambassadors from a distant land."
+    },
+    {
+      "id": 89,
+      "level": 2,
+      "verse_reference": "Joshua 9:4",
+      "question": "What disguise did the Gibeonites use to appear as travelers?",
+      "correct_answer": "A",
+      "options": {"A": "Old sacks, rent wine bottles, old shoes, and moldy bread", "B": "New clothes and horses", "C": "Jewelry and gifts", "D": "Royal banners"},
+      "explanation": "They made themselves look like people from a long journey."
+    },
+    {
+      "id": 90,
+      "level": 2,
+      "verse_reference": "Joshua 9:14",
+      "question": "Why did Israel make a treaty with the Gibeonites?",
+      "correct_answer": "A",
+      "options": {"A": "They asked not counsel at the mouth of the LORD", "B": "They wanted allies", "C": "They feared them", "D": "They were tired of war"},
+      "explanation": "The Israelites made the covenant without consulting God."
+    },
+    {
+      "id": 91,
+      "level": 2,
+      "verse_reference": "Joshua 9:17",
+      "question": "What discovery was made three days after the treaty with Gibeon?",
+      "correct_answer": "C",
+      "options": {"A": "They were from Egypt", "B": "They were spies", "C": "They were neighbors living near them", "D": "They were Canaanite priests"},
+      "explanation": "Israel discovered the Gibeonites lived nearby, not far away."
+    },
+    {
+      "id": 92,
+      "level": 2,
+      "verse_reference": "Joshua 9:20",
+      "question": "What did the princes decide regarding the Gibeonites?",
+      "correct_answer": "B",
+      "options": {"A": "Kill them immediately", "B": "Let them live as woodcutters and water carriers", "C": "Set them free", "D": "Expel them"},
+      "explanation": "They allowed them to live but as servants for the congregation."
+    },
+    {
+      "id": 93,
+      "level": 2,
+      "verse_reference": "Joshua 9:22",
+      "question": "How did Joshua describe the Gibeonites' deception?",
+      "correct_answer": "D",
+      "options": {"A": "As a miracle", "B": "As a blessing", "C": "As a sin", "D": "As a beguiling"},
+      "explanation": "Joshua charged them with deceiving Israel by pretending to be from afar."
+    },
+    {
+      "id": 94,
+      "level": 2,
+      "verse_reference": "Joshua 10:1",
+      "question": "Which king feared greatly when he heard about Israel’s victories?",
+      "correct_answer": "D",
+      "options": {"A": "Adoni-zedek of Hebron", "B": "The king of Ai", "C": "The king of Jericho", "D": "Adoni-zedek king of Jerusalem"},
+      "explanation": "Adoni-zedek king of Jerusalem was greatly afraid."
+    },
+    {
+      "id": 95,
+      "level": 2,
+      "verse_reference": "Joshua 10:4",
+      "question": "Who were the five kings that joined against Gibeon?",
+      "correct_answer": "B",
+      "options": {"A": "Kings of Ai, Jericho, Hebron, Gaza, and Lachish", "B": "Kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon", "C": "Kings of Samaria, Tyre, Sidon, Lebanon, and Hazor", "D": "Kings of Moab, Ammon, Edom, Philistia, and Syria"},
+      "explanation": "Those five kings came to fight Gibeon."
+    },
+    {
+      "id": 96,
+      "level": 2,
+      "verse_reference": "Joshua 10:8",
+      "question": "What did the LORD say to Joshua about the battle at Gibeon?",
+      "correct_answer": "A",
+      "options": {"A": "Fear them not; I have delivered them into thy hand", "B": "Wait for reinforcements", "C": "Build a wall around Gibeon", "D": "Ask Gibeon to surrender"},
+      "explanation": "God told Joshua not to fear and that He would deliver the enemy."
+    },
+    {
+      "id": 97,
+      "level": 2,
+      "verse_reference": "Joshua 10:9",
+      "question": "What did Joshua do when the LORD discomfited the Amorites?",
+      "correct_answer": "C",
+      "options": {"A": "He retreated", "B": "He set up a siege", "C": "He came suddenly and attacked them at night", "D": "He offered peace"},
+      "explanation": "Joshua rose quickly and attacked the Amorites while they were discomfited."
+    },
+    {
+      "id": 98,
+      "level": 2,
+      "verse_reference": "Joshua 10:11",
+      "question": "What extraordinary event struck the fleeing Amorites?",
+      "correct_answer": "D",
+      "options": {"A": "A storm of fire", "B": "A sudden earthquake", "C": "A great darkness", "D": "Great hailstones from heaven"},
+      "explanation": "The LORD cast down great stones from heaven on them."
+    },
+    {
+      "id": 99,
+      "level": 2,
+      "verse_reference": "Joshua 10:12",
+      "question": "What did Joshua command the sun and moon to do?",
+      "correct_answer": "A",
+      "options": {"A": "Stand still and stay", "B": "Go down quickly", "C": "Hide behind the clouds", "D": "Shine upon the camp"},
+      "explanation": "Joshua asked the sun and moon to stand still until Israel avenged themselves."
+    },
+    {
+      "id": 100,
+      "level": 2,
+      "verse_reference": "Joshua 10:13",
+      "question": "What was the result of Joshua’s prayer for the sun and moon?",
+      "correct_answer": "B",
+      "options": {"A": "The day became night", "B": "The sun stood still for about a whole day", "C": "The moon disappeared", "D": "A rainbow appeared"},
+      "explanation": "The sun stood still and delayed going down about a whole day."
+    },
+    {
+      "id": 101,
+      "level": 3,
+      "verse_reference": "Joshua 10:14",
+      "question": "Why is the day when the sun stood still described as unique?",
+      "correct_answer": "D",
+      "options": {"A": "Because it was the day of the Passover", "B": "Because it rained in the land of Canaan", "C": "Because the walls of Jericho fell", "D": "Because God never before or after hearkened to a man like that"},
+      "explanation": "The verse emphasizes the uniqueness of God's response to Joshua's prayer."
+    },
+    {
+      "id": 102,
+      "level": 3,
+      "verse_reference": "Joshua 10:19",
+      "question": "What strategic advice did God give Joshua regarding pursuit after the battle?",
+      "correct_answer": "B",
+      "options": {"A": "Wait until morning", "B": "Suffer them not to enter their cities", "C": "Announce a truce", "D": "Leave the cave unguarded"},
+      "explanation": "God told Joshua to pursue the enemies and not allow them to escape to their cities."
+    },
+    {
+      "id": 103,
+      "level": 3,
+      "verse_reference": "Joshua 10:22",
+      "question": "Why were the five kings brought out of the cave before Israel?",
+      "correct_answer": "A",
+      "options": {"A": "To show the people their victory and demonstrate God’s deliverance", "B": "To ransom them", "C": "To offer them mercy", "D": "To use them as laborers"},
+      "explanation": "Joshua displayed the captured kings to the people after victory."
+    },
+    {
+      "id": 104,
+      "level": 3,
+      "verse_reference": "Joshua 10:24",
+      "question": "Why did Joshua command the captains to put their feet on the necks of the kings?",
+      "correct_answer": "D",
+      "options": {"A": "To bless them", "B": "To shame them", "C": "To spare them", "D": "To show they were under Israel's authority"},
+      "explanation": "It symbolized their submission and Israel's victory."
+    },
+    {
+      "id": 105,
+      "level": 3,
+      "verse_reference": "Joshua 10:26",
+      "question": "What does the curse upon the man who rebuilds Jericho reveal about Israel's relationship to the city?",
+      "correct_answer": "A",
+      "options": {"A": "Jericho was accursed and reserved for the LORD", "B": "The site was meant for a future temple", "C": "The city belonged to their enemies", "D": "The gates were magical"},
+      "explanation": "The curse emphasizes Jericho's sacred status after being devoted to destruction."
+    },
+    {
+      "id": 106,
+      "level": 3,
+      "verse_reference": "Joshua 11:6",
+      "question": "What instructions did the LORD give Joshua before the battle by the waters of Merom?",
+      "correct_answer": "B",
+      "options": {"A": "Build siege towers", "B": "Be not afraid; tomorrow I will deliver them slain into thy hand", "C": "Make peace with the kings", "D": "Retreat to Gilgal"},
+      "explanation": "God reassured Joshua that He would deliver their enemies into Israel's hand."
+    },
+    {
+      "id": 107,
+      "level": 3,
+      "verse_reference": "Joshua 11:9",
+      "question": "What does the sudden attack at Merom illustrate about Joshua’s leadership?",
+      "correct_answer": "C",
+      "options": {"A": "His hesitancy in battle", "B": "His reliance on foreign allies", "C": "His willingness to obey God and seize opportunity", "D": "His refusal to fight"},
+      "explanation": "The surprise attack showed Joshua’s obedience and bold action."
+    },
+    {
+      "id": 108,
+      "level": 3,
+      "verse_reference": "Joshua 11:10",
+      "question": "What was distinctive about Hazor compared to other cities Joshua captured?",
+      "correct_answer": "A",
+      "options": {"A": "It was the head of all those kingdoms", "B": "It was a city of refuge", "C": "It was spared", "D": "It was the smallest city"},
+      "explanation": "Hazor was the chief city of the confederation and was burned."
+    },
+    {
+      "id": 109,
+      "level": 3,
+      "verse_reference": "Joshua 11:11",
+      "question": "Why did Israel burn Hazor but not other fortified cities?",
+      "correct_answer": "C",
+      "options": {"A": "Because it was full of idols", "B": "Because it surrendered", "C": "Because it was the chief city and represented the enemy’s strength", "D": "Because it was commanded by Moses"},
+      "explanation": "Hazor was burned as the principal city of the alliance."
+    },
+    {
+      "id": 110,
+      "level": 3,
+      "verse_reference": "Joshua 11:16",
+      "question": "What does the phrase 'Joshua made war a long time with all those kings' imply about the conquest?",
+      "correct_answer": "D",
+      "options": {"A": "Joshua was indecisive", "B": "He lacked support", "C": "The kings joined Israel", "D": "The campaign was extensive and required persistent effort"},
+      "explanation": "The conquest involved prolonged campaigns against many kings."
+    },
+    {
+      "id": 111,
+      "level": 3,
+      "verse_reference": "Joshua 11:20",
+      "question": "Why did God harden the hearts of the enemy kings?",
+      "correct_answer": "B",
+      "options": {"A": "To show mercy to them", "B": "So He might destroy them utterly and prevent favor toward them", "C": "To make them join Israel", "D": "To test Israel’s faith"},
+      "explanation": "God hardened their hearts so Israel could carry out His judgment."
+    },
+    {
+      "id": 112,
+      "level": 3,
+      "verse_reference": "Joshua 11:22",
+      "question": "What does the removal of the Anakims from the land signify for Israel’s conquest?",
+      "correct_answer": "A",
+      "options": {"A": "The elimination of the most terrifying foes", "B": "The loss of allies", "C": "The beginning of Egyptian control", "D": "The end of the line of Judah"},
+      "explanation": "Destroying the Anakims removed the feared giants from the land."
+    },
+    {
+      "id": 113,
+      "level": 3,
+      "verse_reference": "Joshua 11:23",
+      "question": "What is the significance of the final verse of chapter 11?",
+      "correct_answer": "C",
+      "options": {"A": "Joshua failed to obey God", "B": "The land was lost again", "C": "Joshua completed the conquest as the LORD had promised Moses", "D": "The people returned to Egypt"},
+      "explanation": "It declares Joshua took all the land according to God's promise."
+    },
+    {
+      "id": 114,
+      "level": 3,
+      "verse_reference": "Joshua 12:1",
+      "question": "What is the purpose of the list of kings in Joshua 12?",
+      "correct_answer": "B",
+      "options": {"A": "To name all friendly nations", "B": "To record the kings defeated by Moses and Joshua", "C": "To identify cities of refuge", "D": "To list the tribes of Israel"},
+      "explanation": "Joshua 12 catalogs the kings conquered during the conquest."
+    },
+    {
+      "id": 115,
+      "level": 3,
+      "verse_reference": "Joshua 12:1",
+      "question": "Why are Sihon and Og included among the defeated kings?",
+      "correct_answer": "A",
+      "options": {"A": "They were defeated before crossing Jordan and were part of the conquest", "B": "They were trapped in Jericho", "C": "They were allies of Israel", "D": "They were judges"},
+      "explanation": "Moses and Israel defeated them east of Jordan before the land division."
+    },
+    {
+      "id": 116,
+      "level": 3,
+      "verse_reference": "Joshua 12:4",
+      "question": "What does the mention of Og being a remnant of giants indicate?",
+      "correct_answer": "D",
+      "options": {"A": "He was a small man", "B": "He had no army", "C": "He was kind to Israel", "D": "He belonged to the feared Rephaim dynasty"},
+      "explanation": "Og is described as a remaining giant leader among a feared people."
+    },
+    {
+      "id": 117,
+      "level": 3,
+      "verse_reference": "Joshua 13:1",
+      "question": "What does God's statement to Joshua about his age imply?",
+      "correct_answer": "A",
+      "options": {"A": "There remained much land yet to possess", "B": "Joshua should retire", "C": "The conquest was complete", "D": "Moses would return"},
+      "explanation": "God told Joshua he was old and much of the land still remained to be taken."
+    },
+    {
+      "id": 118,
+      "level": 3,
+      "verse_reference": "Joshua 13:2",
+      "question": "What region east of Jordan is listed as remaining land?",
+      "correct_answer": "B",
+      "options": {"A": "Judah", "B": "All the borders of the Philistines and Geshuri", "C": "Egypt", "D": "Mount Sinai"},
+      "explanation": "The remaining land included the Philistine border and Geshur."
+    },
+    {
+      "id": 119,
+      "level": 3,
+      "verse_reference": "Joshua 13:5",
+      "question": "Why was the land of the Giblites and Lebanon included in the remaining conquest?",
+      "correct_answer": "C",
+      "options": {"A": "It had already been taken", "B": "It was outside Canaan", "C": "It had not yet been fully driven out", "D": "It was given to the Levites"},
+      "explanation": "These regions were still inhabited and were yet to be conquered."
+    },
+    {
+      "id": 120,
+      "level": 3,
+      "verse_reference": "Joshua 13:14",
+      "question": "Why did the tribe of Levi receive no inheritance of land?",
+      "correct_answer": "A",
+      "options": {"A": "Their inheritance was the LORD Himself and the offerings made by fire", "B": "They were cursed", "C": "They had already received cities east of Jordan", "D": "They demanded no land"},
+      "explanation": "Levi's inheritance was their priestly service and the LORD."
+    },
+    {
+      "id": 121,
+      "level": 3,
+      "verse_reference": "Joshua 14:6",
+      "question": "What does Caleb’s request reveal about his character?",
+      "correct_answer": "C",
+      "options": {"A": "He was fearful", "B": "He doubted God’s promise", "C": "He remained faithful and bold", "D": "He wanted more land than others"},
+      "explanation": "Caleb requested the mountain region because he was still strong and faithful."
+    },
+    {
+      "id": 122,
+      "level": 3,
+      "verse_reference": "Joshua 24:15",
+      "question": "What choice does Joshua present to the people?",
+      "correct_answer": "B",
+      "options": {"A": "Choose your own king", "B": "Choose whom you will serve, the LORD or foreign gods", "C": "Choose a city of refuge", "D": "Choose to return to Egypt"},
+      "explanation": "He challenged them to decide between serving the LORD or other gods."
+    },
+    {
+      "id": 123,
+      "level": 3,
+      "verse_reference": "Joshua 24:16",
+      "question": "How did the people answer Joshua’s challenge?",
+      "correct_answer": "A",
+      "options": {"A": "We will serve the LORD", "B": "We will follow the elders", "C": "We will worship the sun", "D": "We will remain neutral"},
+      "explanation": "They declared they would serve the LORD."
+    },
+    {
+      "id": 124,
+      "level": 3,
+      "verse_reference": "Joshua 24:19",
+      "question": "Why did Joshua warn the people not to rebel against the LORD?",
+      "correct_answer": "C",
+      "options": {"A": "Because it would bring wealth", "B": "Because foreign nations would envy them", "C": "Because the LORD is holy and will not pardon transgression", "D": "Because they would lose their land"},
+      "explanation": "Joshua emphasized God's holiness and intolerance of rebellion."
+    },
+    {
+      "id": 125,
+      "level": 3,
+      "verse_reference": "Joshua 24:25",
+      "question": "What covenant action did Joshua perform after the people agreed to serve the LORD?",
+      "correct_answer": "A",
+      "options": {"A": "He wrote these words in the book of the law and took a great stone", "B": "He made a golden calf", "C": "He built a new altar of gold", "D": "He set up a monument of bronze"},
+      "explanation": "He recorded their words and set up a stone as a witness."
+    },
+    {
+      "id": 126,
+      "level": 3,
+      "verse_reference": "Joshua 24:27",
+      "question": "What purpose did the great stone at Shechem serve?",
+      "correct_answer": "D",
+      "options": {"A": "A memorial for the dead", "B": "A boundary marker", "C": "A throne for the king", "D": "A witness to the covenant between Israel and the LORD"},
+      "explanation": "It served as a witness to Israel’s covenant commitment."
+    },
+    {
+      "id": 127,
+      "level": 3,
+      "verse_reference": "Joshua 24:29",
+      "question": "What does the final record of Joshua’s death signify about his life?",
+      "correct_answer": "A",
+      "options": {"A": "He served the LORD faithfully all his days", "B": "He died without children", "C": "He returned to Egypt", "D": "He became king"},
+      "explanation": "The conclusion states Joshua served the LORD all his days."
+    },
+    {
+      "id": 128,
+      "level": 3,
+      "verse_reference": "Joshua 4:24",
+      "question": "Why should the nations know the hand of the LORD and fear Him forever?",
+      "correct_answer": "B",
+      "options": {"A": "So they would bring tribute", "B": "So they would recognize God's power and remain in awe", "C": "So they would become Israelites", "D": "So they would build altars"},
+      "explanation": "The miraculous crossing would cause all peoples to fear the LORD."
+    },
+    {
+      "id": 129,
+      "level": 3,
+      "verse_reference": "Joshua 2:11",
+      "question": "What does Rahab’s declaration about God reveal about the reputation of Israel’s God?",
+      "correct_answer": "A",
+      "options": {"A": "He is universally feared and known as God in heaven above and earth beneath", "B": "He is only a local god", "C": "He is weak before the Canaanites", "D": "He fights only in Egypt"},
+      "explanation": "Her statement shows God’s supremacy was recognized among the nations."
+    },
+    {
+      "id": 130,
+      "level": 3,
+      "verse_reference": "Joshua 1:8",
+      "question": "What is the promised result of meditating on the law day and night?",
+      "correct_answer": "C",
+      "options": {"A": "Wealth and riches", "B": "Honor and fame", "C": "Prosperity and good success", "D": "Long life"},
+      "explanation": "Meditation on the law is linked to prosperity and success."
+    },
+    {
+      "id": 131,
+      "level": 3,
+      "verse_reference": "Joshua 5:10",
+      "question": "What was the significance of celebrating Passover at Gilgal?",
+      "correct_answer": "A",
+      "options": {"A": "It marked Israel’s first observance of Passover in the promised land", "B": "It replaced the Passover in Egypt", "C": "It was the last Passover ever observed", "D": "It was only for the priests"},
+      "explanation": "They kept Passover after crossing into Canaan, signifying a new chapter."
+    },
+    {
+      "id": 132,
+      "level": 3,
+      "verse_reference": "Joshua 6:18",
+      "question": "Why were silver, gold, brass, and iron consecrated unto the LORD?",
+      "correct_answer": "D",
+      "options": {"A": "To fund the temple", "B": "To pay the priests", "C": "To buy food", "D": "Because they were accursed things dedicated to the LORD"},
+      "explanation": "The metals were set apart as holy treasure of the Lord."
+    },
+    {
+      "id": 133,
+      "level": 3,
+      "verse_reference": "Joshua 7:13",
+      "question": "What does the requirement to sanctify the people before removing the accursed thing suggest?",
+      "correct_answer": "B",
+      "options": {"A": "The battle was already won", "B": "Holiness must precede obedience and deliverance", "C": "The people were to fast for seven days", "D": "Only the priests were involved"},
+      "explanation": "Sanctification prepared Israel to act in obedience and purity."
+    },
+    {
+      "id": 134,
+      "level": 3,
+      "verse_reference": "Joshua 8:30",
+      "question": "Why was an altar built on Mount Ebal as Moses commanded?",
+      "correct_answer": "A",
+      "options": {"A": "To renew covenant obedience and proclaim blessings and cursings", "B": "To offer war captives", "C": "To store grain", "D": "To replace the tabernacle"},
+      "explanation": "The altar was part of covenant renewal in the land."
+    },
+    {
+      "id": 135,
+      "level": 3,
+      "verse_reference": "Joshua 9:14",
+      "question": "What lesson arises from Israel’s failure to consult the LORD about the Gibeonites?",
+      "correct_answer": "C",
+      "options": {"A": "It is acceptable to ignore God in minor matters", "B": "Leaders should decide alone", "C": "Consulting God is essential before making treaties", "D": "Treaties with neighbors are always wrong"},
+      "explanation": "The event shows the importance of seeking God’s guidance."
+    },
+    {
+      "id": 136,
+      "level": 3,
+      "verse_reference": "Joshua 10:12",
+      "question": "What does the sun standing still demonstrate about the relationship between prayer and God’s actions?",
+      "correct_answer": "A",
+      "options": {"A": "God may act miraculously in response to earnest prayer", "B": "Natural laws cannot be trusted", "C": "Joshua was a god", "D": "The sun always stands still during battles"},
+      "explanation": "It illustrates God’s power to intervene when asked."
+    },
+    {
+      "id": 137,
+      "level": 3,
+      "verse_reference": "Joshua 11:9",
+      "question": "How did divine intervention influence Joshua’s military strategy at Merom?",
+      "correct_answer": "B",
+      "options": {"A": "He delayed the battle", "B": "He attacked suddenly because God promised victory", "C": "He sought a peaceful negotiation", "D": "He retreated"},
+      "explanation": "God’s promise of victory enabled a sudden and confident attack."
+    },
+    {
+      "id": 138,
+      "level": 3,
+      "verse_reference": "Joshua 11:12",
+      "question": "What is the significance of burning Hazor in the conquest narrative?",
+      "correct_answer": "D",
+      "options": {"A": "It was the only city with a temple", "B": "It was spared by the LORD", "C": "It signified mercy", "D": "It symbolized the destruction of the leadership of the enemy confederation"},
+      "explanation": "Hazor’s destruction showed the defeat of the enemy coalition’s head city."
+    },
+    {
+      "id": 139,
+      "level": 3,
+      "verse_reference": "Joshua 24:14",
+      "question": "What call to action does Joshua make regarding idols?",
+      "correct_answer": "C",
+      "options": {"A": "Make more idols", "B": "Keep them hidden", "C": "Put away the gods which your fathers served" , "D": "Offer them to the LORD"},
+      "explanation": "Joshua urged Israel to abandon the idols of their ancestors."
+    },
+    {
+      "id": 140,
+      "level": 3,
+      "verse_reference": "Joshua 24:20",
+      "question": "What is the consequence Joshua warns if the people serve foreign gods?",
+      "correct_answer": "A",
+      "options": {"A": "The LORD will not pardon them", "B": "They will prosper", "C": "They will be welcomed by their neighbors", "D": "They will become mighty"},
+      "explanation": "Joshua made clear that disobedience would not be pardoned by God."
+    },
+    {
+      "id": 141,
+      "level": 3,
+      "verse_reference": "Joshua 24:25",
+      "question": "Why was writing the covenant in the book of the law important?",
+      "correct_answer": "B",
+      "options": {"A": "To make a legal document for foreigners", "B": "To preserve the commitment and hold the people accountable", "C": "To hide it from the kings", "D": "To use as a weapon"},
+      "explanation": "Recording the covenant ensured the people could remember and be accountable."
+    },
+    {
+      "id": 142,
+      "level": 3,
+      "verse_reference": "Joshua 1:5",
+      "question": "How does God’s promise to Joshua compare to His promise to Moses?",
+      "correct_answer": "B",
+      "options": {"A": "It is less specific", "B": "It is equally sure: I will not fail thee nor forsake thee", "C": "It is conditional on conquest", "D": "It is only for a short time"},
+      "explanation": "The promise mirrors God’s commitment to Moses: He will not fail or forsake Joshua."
+    },
+    {
+      "id": 143,
+      "level": 3,
+      "verse_reference": "Joshua 3:5",
+      "question": "Why was sanctification necessary before the crossing of Jordan?",
+      "correct_answer": "D",
+      "options": {"A": "To prepare for battle", "B": "To clean up the camp", "C": "To show respect for the river", "D": "To set the people apart for a divine miracle"},
+      "explanation": "Sanctification prepared them to witness God’s miraculous action."
+    },
+    {
+      "id": 144,
+      "level": 3,
+      "verse_reference": "Joshua 6:17",
+      "question": "What theological principle is shown by Rahab’s preservation?",
+      "correct_answer": "C",
+      "options": {"A": "God saves only Israelites", "B": "War always spares the innocent", "C": "Faithful action and mercy can protect the believer", "D": "Deception is always rewarded"},
+      "explanation": "Rahab’s faith and kindness led to her and her family’s preservation."
+    },
+    {
+      "id": 145,
+      "level": 3,
+      "verse_reference": "Joshua 7:24",
+      "question": "What does Achan’s punishment teach about communal responsibility?",
+      "correct_answer": "B",
+      "options": {"A": "Individual sins are ignored by the community", "B": "One person's sin can bring judgment on the whole community", "C": "Tribal leaders bear all guilt", "D": "Sin is tolerated in war"},
+      "explanation": "The community suffered until the hidden sin was removed."
+    },
+    {
+      "id": 146,
+      "level": 3,
+      "verse_reference": "Joshua 8:30",
+      "question": "What is the purpose of reading the law after the conquest of Ai?",
+      "correct_answer": "A",
+      "options": {"A": "To remind Israel of God's requirements after victory", "B": "To reenact the giving of the law", "C": "To celebrate with the kings", "D": "To build a new temple"},
+      "explanation": "Reading the law renewed Israel’s commitment after success in battle."
+    },
+    {
+      "id": 147,
+      "level": 3,
+      "verse_reference": "Joshua 9:20",
+      "question": "Why did the princes not break the treaty with Gibeon despite the deception?",
+      "correct_answer": "C",
+      "options": {"A": "They feared Gibeon’s army", "B": "They wanted more allies", "C": "They feared wrath because of the oath sworn by the LORD", "D": "They were commanded by Joshua"},
+      "explanation": "They kept the oath because it had been sworn before the LORD."
+    },
+    {
+      "id": 148,
+      "level": 3,
+      "verse_reference": "Joshua 10:12",
+      "question": "What does the prayer for the sun and moon tell us about Israel’s view of creation?",
+      "correct_answer": "B",
+      "options": {"A": "They worshiped the sun and moon", "B": "They believed God controlled creation", "C": "They thought the sun was a god", "D": "They were ignorant of astronomy"},
+      "explanation": "The request acknowledges God's sovereign control over the heavenly bodies."
+    },
+    {
+      "id": 149,
+      "level": 3,
+      "verse_reference": "Joshua 24:14",
+      "question": "How does Joshua contrast the LORD with the gods of the nations?",
+      "correct_answer": "A",
+      "options": {"A": "He commands Israel to fear the LORD and put away foreign gods", "B": "He says the LORD is one of many gods", "C": "He allows them to serve both", "D": "He says foreign gods are better"},
+      "explanation": "Joshua exhorts Israel to serve the LORD alone and abandon foreign worship."
+    },
+    {
+      "id": 150,
+      "level": 3,
+      "verse_reference": "Joshua 24:31",
+      "question": "What does the burial of Eleazar in a hill given to Phinehas indicate about priestly inheritance?",
+      "correct_answer": "C",
+      "options": {"A": "Priests had no burial rights", "B": "Priests were buried in Egypt", "C": "Priests received their own allotted inheritance within Israel", "D": "Priests were buried in enemy territory"},
+      "explanation": "Eleazar’s burial on land given to Phinehas confirms the Levites and priests received designated land."
+    }
+  ]
+}

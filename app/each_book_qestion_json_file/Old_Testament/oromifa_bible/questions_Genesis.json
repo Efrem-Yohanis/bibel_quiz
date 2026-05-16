@@ -1,0 +1,2116 @@
+{
+  "metadata": {
+    "total_questions": 150,
+    "levels": {
+      "1": {"name": "Salphaa", "count": 50, "description": "Gaaffii dhugaa irraa fudhatame"},
+      "2": {"name": "Giddugaleessa", "count": 50, "description": "Gaaffii hiikaafi madaallii irratti xiyyeeffatu"},
+      "3": {"name": "Cimaa", "count": 50, "description": "Gaaffii hubannoo gad fagoo barbaadu"}
+    },
+    "book": "Uumama",
+    "chapters": "1-50"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "verse_reference": "Uumama 1:1",
+      "question": "Waan Waaqayyo jalqabatti uume maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Samii fi lafa",
+        "B": "Aduu fi baatii",
+        "C": "Bineeldottaafi biqiltoota",
+        "D": "Ergamaawwan"
+      },
+      "explanation": "Uumama 1:1 akkana jedha 'Waaqayyo jalqabatti samii fi lafa uume.'"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "verse_reference": "Uumama 1:3",
+      "question": "Waan Waaqayyo guyyaa jalqabatti 'Haata' jedhe maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ifa",
+        "B": "Samii",
+        "C": "Lafa goggogaa",
+        "D": "Aduu"
+      },
+      "explanation": "Uumama 1:3 akkana jedha 'Waaqayyo, 'Ifa haata' jedhe; ifas ni ta'e.'"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "verse_reference": "Uumama 1:5",
+      "question": "Waaqayyo ifaa fi dukkana maal jedhee waame?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Guyyaa fi Halkan",
+        "B": "Ganama fi Galgala",
+        "C": "Aduu fi Baatii",
+        "D": "Ifa fi Gaaddisa"
+      },
+      "explanation": "Uumama 1:5 akkana jedha 'Waaqayyo ifa Guyyaa, dukkana immo Halkan jedhee waame.'"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "verse_reference": "Uumama 1:10",
+      "question": "Waaqayyo lafa goggogaa maal jedhee waame?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Lafa",
+        "B": "Biyyee",
+        "C": "Bushaale",
+        "D": "Dachee"
+      },
+      "explanation": "Uumama 1:10 akkana jedha 'Waaqayyo lafa goggogaa Lafa jedhee waame.'"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "verse_reference": "Uumama 1:16",
+      "question": "Ifoonni gugurdaa Waaqayyo uume lamaan maal fa'a?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ifni guddaan guyyaa to'achuuf, ifni xiqqaan immo halkan to'achuuf",
+        "B": "Aduu fi pilaneetota",
+        "C": "Urjii fi baatii",
+        "D": "Urjii ganamaa fi urjii galgalaa"
+      },
+      "explanation": "Uumama 1:16 akkana jedha 'Waaqayyo ifoonni gugurdaa lama uume; ifni guddaan guyyaa to'achuuf, ifni xiqqaan immo halkan to'achuuf.'"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "verse_reference": "Uumama 1:26",
+      "question": "Waaqayyo 'Namni akka fakkeenya keenyaatiin haa uumannu' jedhe maal fakkeenyaan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Akka fakkeenya keenyaatiin, akka hurrii keenyaatiin",
+        "B": "Akka fakkeenya ergamaa",
+        "C": "Akka fakkeenya bineeldootaa",
+        "D": "Akka fakkeenya ifaa"
+      },
+      "explanation": "Uumama 1:26 akkana jedha 'Namni akka fakkeenya keenyaatiin, akka hurrii keenyaatiin haa uumannu.'"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "verse_reference": "Uumama 1:27",
+      "question": "Waaqayyo namicha akkamitti uume?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dhaabni fi dhalaa isaan uume",
+        "B": "Dhaabuma qofa uume",
+        "C": "Dhalaa qofa uume",
+        "D": "Ergamaan dura uumame"
+      },
+      "explanation": "Uumama 1:27 akkana jedha 'dhaabni fi dhalaa isaan uume.'"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "verse_reference": "Uumama 2:2",
+      "question": "Waaqayyo guyyaa meeqaffaa hojiidhaa boqote?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Guyyaa torbaffaa",
+        "B": "Guyyaa ja'affaa",
+        "C": "Guyyaa jalqabaa",
+        "D": "Guyyaa saddeettaffaa"
+      },
+      "explanation": "Uumama 2:2 akkana jedha 'guyyaa torbaffaa Waaqayyo hojii isaa kan hojjede xumure; guyyaa torbaffaas hojii isaa hunda irraa boqote.'"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "verse_reference": "Uumama 2:7",
+      "question": "Waaqayyo waan qaawwa funyaan namaa keessa afuufe maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Hafuura jireenyaa",
+        "B": "Hafuura ogummaa",
+        "C": "Humna dubbii",
+        "D": "Beekumsa gaarii fi hamtuu"
+      },
+      "explanation": "Uumama 2:7 akkana jedha 'qaawwa funyaan isaas keessatti hafuura jireenyaa afuufe; namnis lubbuu qabeessa ta'e.'"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "verse_reference": "Uumama 2:8",
+      "question": "Waaqayyo Gabatee Eedem keessatti ashaakitii biqilchise?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Karaa ba'aa Eedem keessatti",
+        "B": "Karaa dhiha Eedem keessatti",
+        "C": "Kaaba Eedem",
+        "D": "Kibba Eedem"
+      },
+      "explanation": "Uumama 2:8 akkana jedha 'Waaqayyo Gabatee karaa ba'aa Eedem keessatti biqilchise.'"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "verse_reference": "Uumama 2:9",
+      "question": "Mukkeenni ashaakiti keessatti turan adda ta'an lamaan maal fa'a?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Mukki jireenyaa fi mukki beekumsa gaarii fi hamtuu",
+        "B": "Mukki ogummaa fi mukki hubannoo",
+        "C": "Mukki nagaa fi mukki gammachuu",
+        "D": "Mukki amantii fi mukki abdii"
+      },
+      "explanation": "Uumama 2:9 akkana jedha 'mukki jireenyaa ashaakiti keessattuu, mukki beekumsa gaarii fi hamtuus.'"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "verse_reference": "Uumama 2:15",
+      "question": "Namni ashaakiti keessatti maal gochuu qaba ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Hojjechuufi eeguuf",
+        "B": "Mukkeerra hunda nyaachuuf",
+        "C": "Bineeldottaaf maqaa baasuuf",
+        "D": "Iddaa ijaarrachuuf"
+      },
+      "explanation": "Uumama 2:15 akkana jedha 'hojjechuufi eeguuf.'"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "verse_reference": "Uumama 2:17",
+      "question": "Adaam yoo mukki beekumsaa irraa nyaate maal akka ta'u Waaqayyo himani ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dhugumaan ni duuta",
+        "B": "Ijji kee ni banama",
+        "C": "Akkuma Waaqayyo ni taata",
+        "D": "Ni abaaramta"
+      },
+      "explanation": "Uumama 2:17 akkana jedha 'guyyaa isa irraa nyaatte san dhugumaan ni duuta.'"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "verse_reference": "Uumama 2:18",
+      "question": "Waan Waaqayyo akka gaarii hin taane jedhe maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Namni kophaatti jiraachuun",
+        "B": "Bofaan sobaa ta'uun",
+        "C": "Mukni dhorgamuun",
+        "D": "Roobi tokko iyyuu hin jiraanne"
+      },
+      "explanation": "Uumama 2:18 akkana jedha 'Namni kophaatti jiraachuun gaarii miti.'"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "verse_reference": "Uumama 2:22",
+      "question": "Waaqayyo cinaadhaa Adaam irraa maal hojjete?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dhalaa",
+        "B": "Dhaabicha biraa",
+        "C": "Ergamaa",
+        "D": "Gargaaraa lafa irraa fudhatame"
+      },
+      "explanation": "Uumama 2:22 akkana jedha 'dhalaa hojjete, gara namichaa fidees.'"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "verse_reference": "Uumama 3:1",
+      "question": "Bineeldi bineeldoota lafa irraa hunda caalaa sobaa ture maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Bofa",
+        "B": "Jeenbura",
+        "C": "Leencaa",
+        "D": "Risa"
+      },
+      "explanation": "Uumama 3:1 akkana jedha 'bofni bineeldoota lafa irraa kan Waaqayyo uume hunda caalaa sobaa ture.'"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "verse_reference": "Uumama 3:6",
+      "question": "Hawaan waan mukicha ilaalte maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Nyaataaf gaarii, ijaafis gammachiisa ta'uu isaa",
+        "B": "Dheeraa fi jabaa ta'uu isaa",
+        "C": "Ashaakiti keessatti mukni kophaatu ta'uu isaa",
+        "D": "Iskuura'aa akka hin qabne"
+      },
+      "explanation": "Uumama 3:6 akkana jedha 'mukni nyaataaf gaarii ta'uu isaa, ijaafis gammachiisa ta'uu isaa.'"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "verse_reference": "Uumama 3:7",
+      "question": "Adaam fi Hawaan erga iskuuraa nyaatanii booda maal hubatan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Qal'ina isaanii",
+        "B": "Beellisuun isaanii",
+        "C": "Jaboonni isaanii",
+        "D": "Ogeessi isaanii"
+      },
+      "explanation": "Uumama 3:7 akkana jedha 'ijji isaanii lamaanuu ni baname, qal'ina isaanii ni beekan.'"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "verse_reference": "Uumama 3:8",
+      "question": "Adaam fi Hawaan fuula Waaqayyoo irraa eessa dhokatan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Mukkeen ashaakiti keessatti",
+        "B": "Holqa keessatti",
+        "C": "Tulluuwwan duuba",
+        "D": "Bishaan jala"
+      },
+      "explanation": "Uumama 3:8 akkana jedha 'mukkeen ashaakiti keessatti fuula Waaqayyo Rabbii irraa dhokatan.'"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "verse_reference": "Uumama 3:13",
+      "question": "Hawaan nama ishee gowwoomse jedhe maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Bofni",
+        "B": "Adaam",
+        "C": "Mukichi",
+        "D": "Yaadi ishee"
+      },
+      "explanation": "Uumama 3:13 akkana jedha 'Bofni gowwoomse, anis nyaadhe.'"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "verse_reference": "Uumama 3:19",
+      "question": "Waaqayyo namni gara maaltit akka deebi'u jedhe?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Biyyee",
+        "B": "Lafa",
+        "C": "Dachee",
+        "D": "Hangaafa"
+      },
+      "explanation": "Uumama 3:19 akkana jedha 'akkuma biyyee taateef gara biyyeetti deebita.'"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "verse_reference": "Uumama 4:1",
+      "question": "Maqaan ilma jalqabaa Adaam fi Hawaan maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Qaayiini",
+        "B": "Aabiil",
+        "C": "Seeti",
+        "D": "Henook"
+      },
+      "explanation": "Uumama 4:1 akkana jedha 'ulfoofte, Qaayiniinis deesse.'"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "verse_reference": "Uumama 4:2",
+      "question": "Hojiin Aabiil maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Hoolotaa, tiksee ture",
+        "B": "Lafa, qotee ture",
+        "C": "Adamsaa ture",
+        "D": "Ijaaraa ture"
+      },
+      "explanation": "Uumama 4:2 akkana jedha 'Aabiil hoolotaa tiksee ture.'"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "verse_reference": "Uumama 4:8",
+      "question": "Qaayiin Aabiil irratti maal hojjete?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ajeese",
+        "B": "Ari'ate",
+        "C": "Dhiifama isaaf goone",
+        "D": "Abaare"
+      },
+      "explanation": "Uumama 4:8 akkana jedha 'Qaayiin Aabiil obboleessa isaa irratti ka'ee isa ajjeese.'"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "verse_reference": "Uumama 5:5",
+      "question": "Adaam waggaa meeqa jiraate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waggaa 930",
+        "B": "Waggaa 800",
+        "C": "Waggaa 1000",
+        "D": "Waggaa 700"
+      },
+      "explanation": "Uumama 5:5 akkana jedha 'barri Adaam hundi waggaa sagal dhibbaa soddoma ture.'"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "verse_reference": "Uumama 5:24",
+      "question": "Henook maal ta'e?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo fudhate",
+        "B": "Du'e",
+        "C": "Mootii ta'e",
+        "D": "Magaalaa ijaare"
+      },
+      "explanation": "Uumama 5:24 akkana jedha 'Henook waan Waaqayyo wajjin deemee hin argamne; Waaqayyo isa fudhateera.'"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "verse_reference": "Uumama 6:8",
+      "question": "Eenyutu fuula Waaqayyoo duratti ayyaana argate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Nohi",
+        "B": "Abraham",
+        "C": "Musee",
+        "D": "Daawit"
+      },
+      "explanation": "Uumama 6:8 akkana jedha 'Nohi garuu fuula Waaqayyoo duratti ayyaana argate.'"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "verse_reference": "Uumama 6:14",
+      "question": "Waan Nohiin ijaaruuf ajajame maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Doonii",
+        "B": "Mana sagadaa",
+        "C": "Magaalaa",
+        "D": "Gamoo"
+      },
+      "explanation": "Uumama 6:14 akkana jedha 'Doonii mukaa gopher irraa ijaari.'"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "verse_reference": "Uumama 7:11",
+      "question": "Bishaan badiisa yoom eegale?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waggaa ja'offa jireenya Nohii keessatti",
+        "B": "Waggaa shanaffaa keessatti",
+        "C": "Waggaa torbaaffaa keessatti",
+        "D": "Waggaa saddeettaffaa keessatti"
+      },
+      "explanation": "Uumama 7:11 akkana jedha 'Waggaa ja'offa jireenya Nohii keessatti... guyyuma san maddi lafa guddaa hundi ni balleessani.'"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "verse_reference": "Uumama 8:4",
+      "question": "Dooniin eessa boqote?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Tulluu Araraat irratti",
+        "B": "Tulluu Siinaa irratti",
+        "C": "Tulluu Xiyoon irratti",
+        "D": "Tulluu Kaarmel irratti"
+      },
+      "explanation": "Uumama 8:4 akkana jedha 'dooniin... tulluu Araraat irratti boqote.'"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "verse_reference": "Uumama 8:11",
+      "question": "Sinnigoo baala maalii qabattee gara Nohii deebite?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Baala ejersaa",
+        "B": "Damee",
+        "C": "Sanyii",
+        "D": "Dha'aa"
+      },
+      "explanation": "Uumama 8:11 akkana jedha 'afaan isheetis baala ejersaa baala cinqilame qabdi turte.'"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "verse_reference": "Uumama 9:13",
+      "question": "Waan Waaqayyo dubbi kakuu isaa mallattoo ta'uuf duumessa keessa kaa'e maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Sabbata",
+        "B": "Muka adeemsaa",
+        "C": "Guyyaa duumessa",
+        "D": "Urjii"
+      },
+      "explanation": "Uumama 9:13 akkana jedha 'Sabbata koo duumessa keessa kaa'een jira.'"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "verse_reference": "Uumama 11:1",
+      "question": "Akkamtaan lafa kanatti hundaa namaa jalqabatti maal fakkaata ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Akkamtaa tokko",
+        "B": "Akkamtaawwan hedduu",
+        "C": "Cibraa qofa",
+        "D": "Giriikii qofa"
+      },
+      "explanation": "Uumama 11:1 akkana jedha 'lafa keessatti nama hundi akkamtaa tokkoo fi jecha tokko qaba ture.'"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "verse_reference": "Uumama 11:9",
+      "question": "Maqaan gamoo yeroo abbootiin akkamtaan isaanii itti danda'ame maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Baabilon",
+        "B": "Beet'el",
+        "C": "Yerikoo",
+        "D": "Damaasqoos"
+      },
+      "explanation": "Uumama 11:9 akkana jedha 'Waan Waaqayyo achitti akkamtaa lafa kanatti hundaa wallaaleef maqaan isaa Baabilon jedhame.'"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "verse_reference": "Uumama 12:1",
+      "question": "Waaqayyo Abram maal dhiisuu akka qabu itti himi ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Biyya isaa, fira isaa, fi mana abbaa isaa",
+        "B": "Badhaadhummaa fi qabeenya isaa",
+        "C": "Ilmaan fi tajaajiltoota isaa",
+        "D": "Beyloonni isaa"
+      },
+      "explanation": "Uumama 12:1 akkana jedha 'Biyya kee, fira kee, fi mana abbaa kee irraa ba'i.'"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "verse_reference": "Uumama 12:4",
+      "question": "Abram yeroo Karaan ba'u umuriin isaa meeqa ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waggaa torbaatama shan",
+        "B": "Waggaa shantama",
+        "C": "Waggaa dhibba",
+        "D": "Waggaa soddoma"
+      },
+      "explanation": "Uumama 12:4 akkana jedha 'Abram yeroo Karaan ba'u waggaa torbaatama shani ture.'"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "verse_reference": "Uumama 13:6",
+      "question": "Abram fi Loox waliin jiraachuu kan hin dandeenye maaliif?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Lafni waliin akka jiraatan isaanitti mala, qabeenyi isaanii guddaa ture",
+        "B": "Walii hin galan",
+        "C": "Bekaanti ture",
+        "D": "Maatiin isaanii wal lolu ture"
+      },
+      "explanation": "Uumama 13:6 akkana jedha 'lafni waliin akka isaan jiraatan isaaniif gahaa miti; qabeenyi isaanii guddaa ture.'"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "verse_reference": "Uumama 14:18",
+      "question": "Eenyutu buddeena fi daadhii wayinii Abramiif fide?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Melkiisedik mootii Saliem",
+        "B": "Mootii Sodoom",
+        "C": "Mootii Gommoraa",
+        "D": "Ergamaa"
+      },
+      "explanation": "Uumama 14:18 akkana jedha 'Melkiisedik mootii Saliem buddeena fi daadhii wayinii fide.'"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "verse_reference": "Uumama 15:6",
+      "question": "Waan Abramiif qajeelummaatti lakkaa'ame maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo amanu isaa",
+        "B": "Aarsaa isaa",
+        "C": "Iddaa ijaaruu isaa",
+        "D": "Maatiin isaa dhagna kaa'uu isaa"
+      },
+      "explanation": "Uumama 15:6 akkana jedha 'Abbaamis Waaqayyo amane; amantiis qajeelummaatti lakkaa'amer.'"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "verse_reference": "Uumama 16:11",
+      "question": "Haajir maqaa maalii ilma isheetti baasuu qabdi jedhamee beeksifate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Isimaa'eel",
+        "B": "Isihaaq",
+        "C": "Yaaqoob",
+        "D": "Esaaw"
+      },
+      "explanation": "Uumama 16:11 akkana jedha 'maqaa isaas Isimaa'eel jedhi.'"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "verse_reference": "Uumama 17:1",
+      "question": "Yeroo Waaqayyo Waaqayyo Hunda danda'aatti Abramitti mul'atu umuriin Abram meeqa ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waggaa saddeettamni sagal",
+        "B": "Waggaa torbaatami shan",
+        "C": "Waggaa dhibba",
+        "D": "Waggaa saddeettama"
+      },
+      "explanation": "Uumama 17:1 akkana jedha 'yeroo Abram waggaa saddeettami sagal ture.'"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "verse_reference": "Uumama 17:5",
+      "question": "Waaqayyo maqaan Abram maalitti geeddare?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Abraham",
+        "B": "Abram",
+        "C": "Abaram",
+        "D": "Abiraham"
+      },
+      "explanation": "Uumama 17:5 akkana jedha 'maqaan kee Abrahaam ta'a.'"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "verse_reference": "Uumama 18:2",
+      "question": "Namoonni mikkamee Abrahaamitti madaa Mamre jedhamutti mul'atan meeqa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Sadii",
+        "B": "Lama",
+        "C": "Afur",
+        "D": "Tokko"
+      },
+      "explanation": "Uumama 18:2 akkana jedha 'namoonni sadii s bira isaatti dhaabbatan.'"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "verse_reference": "Uumama 19:24",
+      "question": "Waan Waaqayyo Sodoom fi Gommoraa irratti roobe maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Bishaana fi ibidda",
+        "B": "Bishaan fi bishaan badiisaa",
+        "C": "Daaraa fi biyoo",
+        "D": "Dukkana fi cabbii"
+      },
+      "explanation": "Uumama 19:24 akkana jedha 'Waaqayyo Samii irraa Sodoomi fi Gommoraa irratti bishaana fi ibidda roobe.'"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "verse_reference": "Uumama 21:3",
+      "question": "Abraham ilma isaa kan Saaraan argame maqaa maalii moggaase?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Isihaaq",
+        "B": "Isimaa'eel",
+        "C": "Yaaqoob",
+        "D": "Yoosef"
+      },
+      "explanation": "Uumama 21:3 akkana jedha 'Abraham maqaa ilma isaa Isihaaq jedhee moggaase.'"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "verse_reference": "Uumama 22:2",
+      "question": "Abraham Isihaaq akka aarsaa gubamiif eessa dhibbuuf ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dachaa Moryaa",
+        "B": "Dachaa Gibxi",
+        "C": "Dachaa Kana'aan",
+        "D": "Dachaa Urdu"
+      },
+      "explanation": "Uumama 22:2 akkana jedha 'Dachaa Moryaa dhaqi.'"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "verse_reference": "Uumama 24:15",
+      "question": "Maqaan dubartii gara boollaatti dhuftee niitii Isihaaq taate maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ribqaa",
+        "B": "Raahel",
+        "C": "Liyaa",
+        "D": "Saara"
+      },
+      "explanation": "Uumama 24:15 akkana jedha 'Ribqaan baate.'"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "verse_reference": "Uumama 25:25",
+      "question": "Esaaw yeroo dhalatu maal fakkaata ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Diimaa, dhugumatti akka uffata rifeensaatti",
+        "B": "Bareedaa fi laafaa",
+        "C": "Jabaa fi dheeraa",
+        "D": "Lafaa fi xixiqqaa"
+      },
+      "explanation": "Uumama 25:25 akkana jedha 'kan jalqaba baate diimaadha; akka uffata rifeensatti hamma ofurtootti rifeensa qaba ture.'"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "verse_reference": "Uumama 28:12",
+      "question": "Yaaqoob abjuu beet'el itti arge maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ejersaan lafa irra dederee fi samiitti ga'a, ergamaawwan Waaqayyoo isa irratti ol ba'aa, isa irratti bu'aa",
+        "B": "Magaalaa guddaa",
+        "C": "Huuroo boba'aa",
+        "D": "Teessoo ibiddaa"
+      },
+      "explanation": "Uumama 28:12 akkana jedha 'ejersaan lafa irratti dederee fi samiitti ga'a; ergamaawwan Waaqayyoos isa irratti ol ba'aa, isa irratti bu'aa.'"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "verse_reference": "Uumama 32:28",
+      "question": "Waaqayyo maqaa haaraa kan Yaqoobitti kenne maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Israa'el",
+        "B": "Abrahaam",
+        "C": "Isihaaq",
+        "D": "Yoosef"
+      },
+      "explanation": "Uumama 32:28 akkana jedha 'Maqaan kee si deebi'ee Yaaqoob hin jedhamu, Israa'eliin jedhama.'"
+    },
+    {
+      "id": 51,
+      "level": 2,
+      "verse_reference": "Uumama 1:1",
+      "question": "Seensa Uumamaa waa'ee Waaqayyo akkamtaa isaa maal barsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo Uumama waan hundaa",
+        "B": "Waaqayyo hafuura qofa",
+        "C": "Waaqayyo uumama irraa fagaate",
+        "D": "Waaqayyo addunyaa hin uumin"
+      },
+      "explanation": "Uumama 1:1 Waaqayyo waan hundaa uumee fi wantoota hundarraa dura jiraate akka uumama ta'ee mul'isa."
+    },
+    {
+      "id": 52,
+      "level": 2,
+      "verse_reference": "Uumama 1:3",
+      "question": "Waaqayyo dubbiidhaan qofa ifa uumuu isaa waan maalii agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dubbiidhaan qofa uumuu danda'uu isaa",
+        "B": "Waaqayyo meeshaa barbaachisa",
+        "C": "Humni Waaqayyoo daangeffame ture",
+        "D": "Ifa duraa jira ture"
+      },
+      "explanation": "Dubbiin Waaqayyoo waa'ee injifannoo fi humna uumama isaa kan meeshaa duraa hin barbaachisne agarsiisa."
+    },
+    {
+      "id": 53,
+      "level": 2,
+      "verse_reference": "Uumama 1:26",
+      "question": "'Namni akka fakkeenya keenyaatiin haa uumannu' jechuun waa'ee Waaqayyo maal jedha?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo tokkummaa keessatti namoota hedduu jiraachuu",
+        "B": "Waaqayyo ergamoota wajjin dubbachaa ture",
+        "C": "Waaqayyo mirkanaa hin turre",
+        "D": "Waaqayyo gargaarsa barbaade"
+      },
+      "explanation": "Jechi hedduun 'nu' fi 'keenya' Waaqayyo tokkummaan keessatti namoota hedduu (Trinity) jiraachuu agarsiisa."
+    },
+    {
+      "id": 54,
+      "level": 2,
+      "verse_reference": "Uumama 2:2-3",
+      "question": "Waaqayyo guyyaa torbaffaa maaliif boqote?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Akka fakkeenya boqonnaa fi Sanbata qulqulleessuuf",
+        "B": "Uumuudhaan dadhabeef",
+        "C": "Uumama bara baraan akka xumure agarsuuf",
+        "D": "Akkuma namni boqotuuf"
+      },
+      "explanation": "Boqonni Waaqayyoo dadhabbii irraa miti; akka fakkeenya boqonnaa fi guyyaa Sanbataa uumama isaatiif eeyyamuu kennuuf."
+    },
+    {
+      "id": 55,
+      "level": 2,
+      "verse_reference": "Uumama 3:6",
+      "question": "Waan Hawaan iskuuraa dhorgamaa kana nyaachuuf goote maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Nyaataaf gaarii fakkaata, ijaafis gammachiisa, beekumsas ni kenna",
+        "B": "Beelooti fi nyaanni biraa hin jiraanne",
+        "C": "Adaam ishee humne",
+        "D": "Dhorgamaa akka ta'e hin beektu ture"
+      },
+      "explanation": "Hawaan fedhii qaamaa, fedhii ijaa, fi of tuulummaa beekumsaa kanaan qorame."
+    },
+    {
+      "id": 56,
+      "level": 2,
+      "verse_reference": "Uumama 3:15",
+      "question": "Iskuuraa dhaloota dubartiitiin mataa bofaa akka infuftu ta'uu wacaan kun maal fa'a?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Wacaa waadaa walgayaa kan Furiisa Dhufuuti",
+        "B": "Namni hundi hamtuu mo'uu isaan ibsa",
+        "C": "Achumaan Adaamin raawwatame",
+        "D": "Hiika hafuuraa hin qabu"
+      },
+      "explanation": "Kun Protoevangelium (waaca wangeelaa jalqabaa) jedhama; ilma Hawaa (Mesihiin) Seexana dhuma irratti mo'uu."
+    },
+    {
+      "id": 57,
+      "level": 2,
+      "verse_reference": "Uumama 4:9",
+      "question": "Gaaffiin Qaayin 'Mataa obboleessa koo ani?' waa'ee amala isaa maal agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ofittummaa, ofirraa gatamuu, akkasumas nama biraatiif ittigaafannuu dhabuu",
+        "B": "Dhugumaan jallachuu",
+        "C": "Akka irraa hin yakkaamne mirkaneessu",
+        "D": "Aabiil fedhii gadi fagoo"
+      },
+      "explanation": "Deebiin Qaayin onnee cinaattuu kan obboleessa isaa ajjeesee booda ittigaafannuu isaa amanuu dhabuu agarsiisa."
+    },
+    {
+      "id": 58,
+      "level": 2,
+      "verse_reference": "Uumama 6:5",
+      "question": "'Yaadni onnee isaa guyyuu cubbuu qofa' waa'ee namooma bishaan badiisaa duraa maal hima?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Namoonni guutumattuu fo'a turan",
+        "B": "Namoonni tokko tokko qofa fo'a turan",
+        "C": "Namoonni bu'uuraan gaariin turan",
+        "D": "Yaadni isaanii qofa fo'a turan"
+      },
+      "explanation": "Kun fo'a guutuu jedhama; namni cubbuun bishaan badiisaa dura guutummaa namummaa keessatti ture."
+    },
+    {
+      "id": 59,
+      "level": 2,
+      "verse_reference": "Uumama 8:21",
+      "question": "Waaqayyo akka deebi'ee bishaan badiisaan lafa hin balleessine waadaa galuun kun waa'ee amala isaa maal barsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo araaramaa, waadaa isaas eega",
+        "B": "Waaqayyo lafa walitti deebisnee badiisuu hin danda'u",
+        "C": "Waaqayyo cubbuu mursuuf beylogaate",
+        "D": "Waaqayyo cubbuudhaaf hin yaadu"
+      },
+      "explanation": "Yaadni onnee namichaa ijoollummaa irraas hamtuudha waan ta'uuf, Waaqayyo lafa deebi'ee bishaan badiisaan akka hin balleessine waadaa galuudhaan araarama agarsiisa."
+    },
+    {
+      "id": 60,
+      "level": 2,
+      "verse_reference": "Uumama 9:6",
+      "question": "Waaqayyo maaliif ajjeesuuf adabbii du'aa?" ,
+      "correct_answer": "A",
+      "options": {
+        "A": "Namni akka fakkeenya Waaqayyootti uumame",
+        "B": "Ajjeessu yakka waan ta'eef",
+        "C": "Aadaa waan ta'eef",
+        "D": "Waaqayyo adabuu jaalalata waan ta'eef"
+      },
+      "explanation": "Jireenyi namaa kan qulqulluu ta'u isaa namoonni akka fakkeenya Waaqayyootti waan uumaman irratti hundaa'a; ajjeessuunis Waaqayyo isa mataa isaati"
+    },
+    {
+      "id": 61,
+      "level": 2,
+      "verse_reference": "Uumama 11:4",
+      "question": "Cubbuun namoonni Gamoo Baabilon ijaaraa turan isaanii jalqabaa maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Of tuulummaa fi Waaqayyoof utuu hin ta'in maqaa ofii isaaniif ijaarachuu fedhii",
+        "B": "Mana jireenya gaara barbaadaa turan",
+        "C": "Bishaan badiisa biraa sodaachaa turan",
+        "D": "Samii qaamaan ga'uu barbaadaa turan"
+      },
+      "explanation": "Galii isaanii 'maqaa ofii isaaniif ijaarratan'; Waaqayyoof utuu hin ta'in ulfeessuu isaaniitti of tuulan."
+    },
+    {
+      "id": 62,
+      "level": 2,
+      "verse_reference": "Uumama 12:2-3",
+      "question": "Waaqayyo Abram eeyyamuu isaa kaayyoon maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Isatu eeyyamichi warra lafa irraa hundaa isaaniif garee ta'uuf",
+        "B": "Abramuma qofa eeyyamf",
+        "C": "Sooressa ta'uuf",
+        "D": "Warra biroo irraa adda ta'uuf"
+      },
+      "explanation": "Waaqayyo Abram isa eeyyeme 'warri lafa irraa hundi sanyii keetiin eeyyamamu' jedhee eeyyeme."
+    },
+    {
+      "id": 63,
+      "level": 2,
+      "verse_reference": "Uumama 15:6",
+      "question": "Amantiin Abram 'qajeelummaatti tilmaamame' inni waa'ee fayyinaa maal barsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Qajeelummaan amantiidhaan dhufa, hojiidhaan miti",
+        "B": "Qajeelummaan dhagna kaasuudhaan dhufa",
+        "C": "Qajeelummaan aarsaa fi aarsaadhaan dhufa",
+        "D": "Qajeelummaan jireenya waaltuu qabaachuudhaan dhufa"
+      },
+      "explanation": "Kun waa'ee hojiidhaan utuu hin ta'in amantiidhaan fayyina mirkaneessuuf bu'uura kutaa qulqulluu ti."
+    },
+    {
+      "id": 64,
+      "level": 2,
+      "verse_reference": "Uumama 18:14",
+      "question": "'Wanni waa'ee Waaqayyo wayyowwu jiraa?' inni waa'ee humna Waaqayyoo maal barsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyoof wanti hin danda'ame tokko iyyuu hin jiru",
+        "B": "Waaqayyo wantoota tokko tokkoof malee wantoota hunda gochuu hin danda'u",
+        "C": "Humni Waaqayyo seerota uumamaatiin daangeffame",
+        "D": "Waaqayyo wantoota madaa isaaniif qofa gocha"
+      },
+      "explanation": "Gaaffiin kun Waaqayyo hin danda'amne of keessaa kan hin qabu ta'uu isaa mirkaneessa - wanti Waaqayyoof wayyowwu tokko iyyuu hin jiru."
+    },
+    {
+      "id": 65,
+      "level": 2,
+      "verse_reference": "Uumama 22:12",
+      "question": "Waaqayyo yeroo Isihaaq akka aarsaa gubamuuf gaafate gochi kun maal qorate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo sodaachuu fi ajajamuu Abrahaam",
+        "B": "Jabeenya qaamaa Abrahaam",
+        "C": "Keeyyatamtii Isihaaq",
+        "D": "Amantii Saaraa"
+      },
+      "explanation": "Waaqayyo weelawwii fi ajajamuu Abrahaam itti gaafate - isaaf ilma waadaa godhame irraa caalaa Waaqayyo sodaachuu isaa mul'ise."
+    },
+    {
+      "id": 66,
+      "level": 2,
+      "verse_reference": "Uumama 25:34",
+      "question": "Esaaw ijaaboo isaa nyaataaf gurguruun kun waa'ee gatiiwwan isaa maal agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Eeyyamoonni hafuuraa sababa cruu fedhii qaamaatiif gatii gad dheeesse",
+        "B": "Bela'ee waan beela'eef filannoowwan madaa ta'uu godhe",
+        "C": "Ijaaboo isaa booda deebisee fudhachuuf karoorfate",
+        "D": "Waan raawwatuu waan ofi hinta'aa"
+      },
+      "explanation": "Ijaaboo isaa haala yeroo muraassaatiif itti gurguruunis filannoowwan hafuuraa turaniin caalaa cruu fedhii qaamaa akka jaallatu agarsiisa."
+    },
+    {
+      "id": 67,
+      "level": 2,
+      "verse_reference": "Uumama 28:16-17",
+      "question": "Yaaqoob yeroo abjuu Beet'elii booda maaliif sodaa ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fuula Waaqayyo quunnamuu isaa waan hubateef",
+        "B": "Ejersa sana waan sodaachiseef",
+        "C": "Abjuun mallattoo hamaa ta'uu isaa hin yaade",
+        "D": "Ergamaawwan sana waan sodaateef"
+      },
+      "explanation": "Yaaqoob waan utuu hin eegamin fuula Waaqayyo qulqulluu duratti dhaabbachuu isaa hubachuun dinqisiifannaafi sodaa guutame."
+    },
+    {
+      "id": 68,
+      "level": 2,
+      "verse_reference": "Uumama 32:24-28",
+      "question": "Yaaqoob biyya keessa lafa Waaqayyoo wajjin loluun kun hafuuraan maal agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Tattaaffii kadhannaa fi Waaqayyo irratti hirkachuu",
+        "B": "Waaqayyo Filannoowan isaatiin loluu",
+        "C": "Torbee qaamaa",
+        "D": "Waaqayyotti aaruu"
+      },
+      "explanation": "Lolti Yaaqoob kadhannaa jabaataa fi lolaa amantiidhaan fakkeenya - hanga eeyyamamuuf akka dhiistuu dide."
+    },
+    {
+      "id": 69,
+      "level": 2,
+      "verse_reference": "Uumama 37:3-4",
+      "question": "Obboleewwan Yoosef maaliif isa jibbu turan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Abboon isaanii Yoosef gadda caalaa jaalala; uffata furdaa uffachiiseef",
+        "B": "Yoosef sitti waan bocameef",
+        "C": "Yoosef waan hatu tureef",
+        "D": "Yoosef waan gamoo hin hojiin tureef"
+      },
+      "explanation": "Yaaqoob Yoosef jedhee jedhame; jaalalli kun uffata furdaa faallessaan guneessaa fi jibba ermamooman keessatti soore."
+    },
+    {
+      "id": 70,
+      "level": 2,
+      "verse_reference": "Uumama 45:5",
+      "question": "Yoosef ganda obboleewwan isaa itti gurguran waan akkamitti ilaale?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Akka karoora Waaqayyo jireenya isaaniif hambisuuf, akka yakka isaanii miti",
+        "B": "Akka yakka addaa addaaf of dhiisutti",
+        "C": "Akka balaa tasgabbee",
+        "D": "Akka waan tokko illee of dhiisuu hin danda'yu"
+      },
+      "explanation": "Yoosef bulchiinsa Waaqayyo beekumsa - obboleewwan isaanii cubbuu carraaqqiratti; Waaqayyo garuu jireenya hedduu fayyisuuf seena."
+    },
+    {
+      "id": 71,
+      "level": 2,
+      "verse_reference": "Uumama 50:20",
+      "question": "Waan Yoosef 'Isin waan hamaa kophaatti yaaddaa turtan; Waaqayyo garuu waan gaarii akka ta'u of eeyyames' waa'ee rakinaa maal barsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo ittigaafannoo hamaa waan gaariif fayyadamuu danda'a",
+        "B": "Rakinni hiikaa hin qabu",
+        "C": "Waaqayyo cubbuu hunda kallattiin vasanana",
+        "D": "Waan ofirraa haalchuu qabna"
+      },
+      "explanation": "Waan Yoosef yeroon yakki namaa Waaqayyo karoora gaarii hawwii isaatiidhaan hojjechuu danda'uu agarsiisa."
+    },
+    {
+      "id": 72,
+      "level": 2,
+      "verse_reference": "Uumama 3:22-24",
+      "question": "Waaqayyo Adaami fi Hawaan Ashaakiti Eedem irraa baase maaliif?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Mukki jireenyaa irraa erga nyaatanii booda cubbuudhaan bara baraan akka hin jiraanneef",
+        "B": "Waaqayyo nama waan aaref",
+        "C": "Ashaakiti waan barbaaddoof",
+        "D": "Isaan ba'uu waan fedhan"
+      },
+      "explanation": "Waaqayyo bara baraan haala cubbuu keessa jireenya ittisan eeguudhaan rahmata isaaniif goone."
+    },
+    {
+      "id": 73,
+      "level": 2,
+      "verse_reference": "Uumama 4:3-5",
+      "question": "Waaqayyo aarsaan Aabiil fudhatee kan Qaayin hin fudhanne maaliif?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Amalli qaamni aarsaa irrattii caalaa onneen haala ta'u",
+        "B": "Waaqayyo aarsaa foonii eeboo caalaa filata",
+        "C": "Aarsaan Qaayin gadhee ture",
+        "D": "Waaqayyo gatii firaaqumsaaf gaan fayyadama"
+      },
+      "explanation": "Ibrootiya 11:4 Akka ibsutti Aabiil amantiidhaan dhiheesse; wanni isa duraa aarsaa miti garuu onneen."
+    },
+    {
+      "id": 74,
+      "level": 2,
+      "verse_reference": "Uumama 12:1-3",
+      "question": "Waadaawwan sadeen Waaqayyo Abramiif godhe maal fa'a?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Lafa, ilmaan, eeyyemma saboota cufa",
+        "B": "Baadhaadhummaa, humna, fi maqaa guddaa",
+        "C": "Fayyaa, umurii dheera, fi ogummaa",
+        "D": "Moo'ummaa, badhaadhummaa, fi nagaa"
+      },
+      "explanation": "Waaqayyo Abramiif lafa (Kanaan), ilmaan lakkaa'amuu hin dandeenye, akka isaatiin saboonni lafa irraa hundi eeyyaman jedhee waadaa gale."
+    },
+    {
+      "id": 75,
+      "level": 2,
+      "verse_reference": "Uumama 15:1",
+      "question": "Waaqayyo 'Hin sodaatin' jedhee Abramiif himuuf isaaf himacho isaa maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Gaancho kee, badhaasni kee guddaa anatu",
+        "B": "Si sooressa taasisaa",
+        "C": "Diina kee nan moo",
+        "D": "Mootii si taasa"
+      },
+      "explanation": "Waaqayyo Abram iyyansa eeggansa (gaachana) fi badhaasa isaa mirkaneesse."
+    },
+    {
+      "id": 76,
+      "level": 2,
+      "verse_reference": "Uumama 17:10-11",
+      "question": "Dhagna kaasuun mallattoo kakuu godhuuf kaayyoon isaa maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Mallattoo alaa kan of keessatti hafuuraa kakuu uunmani Waaqayyo fi sanyii Abraham gidduu jiru",
+        "B": "Tilaajii fayyaa",
+        "C": "Aadaa aadaa",
+        "D": "Adabbii"
+      },
+      "explanation": "Dhagna kaasuun warra Waaqayyo yeroo kakuu uummata isaatiif beekamu calaqqisiisa."
+    },
+    {
+      "id": 77,
+      "level": 2,
+      "verse_reference": "Uumama 18:23-33",
+      "question": "Abrahaam soodomaaf kadhannaa kadhachuun kun waa'ee qajeelina Waaqayyoo maal agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo jidduu warra kraa keessatti qajeeltota hambisuu fedha",
+        "B": "Waaqayyo kadhattaan hin dhaga'u",
+        "C": "Waaqayyo yeroo ujummama itti yaada isaa jijjiiru",
+        "D": "Waaqayyo cubbuu hin mursu"
+      },
+      "explanation": "Haasaa Abrahaam yeroo hamoota irratti mursitu Waaqayyo qajeeltoyta warra hamoota keessa jiran hambisa."
+    },
+    {
+      "id": 78,
+      "level": 2,
+      "verse_reference": "Uumama 19:26",
+      "question": "Niitii Loox maaliif gadansaa dookkii taate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Gar-gara suuqatuun garaa ishee akka Sodoomitti akka fufte agarsifate",
+        "B": "Baqaqeen waan ishee rukuteef",
+        "C": "Yeroo ishee fiigu kufte",
+        "D": "Cubbuu ishee ta'eef dookkii taate"
+      },
+      "explanation": "Irraa haroo xiyyarruun garaa ishee magaalaa hamtuu ishee baachiifamtee irraa akka hin baadhaannee Akka fufte agarsifate."
+    },
+    {
+      "id": 79,
+      "level": 2,
+      "verse_reference": "Uumama 22:8",
+      "question": "Abrahaam yeroo 'Waaqayyo qondon isaa mataa isaa uffisa' jedhu maal jechuu isaa ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo dhuma irratti Qondon Yesuus fakkii agarsu",
+        "B": "Isihaaq sobuuf",
+        "C": "Qondon tokko akka mul'atu abdii qaba",
+        "D": "Waan jallateef"
+      },
+      "explanation": "Abrahaam dureeffamaan waa'ee Waaqayyo waadaa isaa waa'ee Yuusuf qondon Waaqayyo."
+    },
+    {
+      "id": 80,
+      "level": 2,
+      "verse_reference": "Uumama 24:67",
+      "question": "Ribqaan Ishaaqitti maal fidde?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Erga haati isaa Saaraa duutee booda ni jajjabaafame",
+        "B": "Baadhaadhummaan isa fidde",
+        "C": "Tajaajiltoota fidde",
+        "D": "Mana haaraa fidde"
+      },
+      "explanation": "Jaalalli Ribqaa Isihaaq akka haati isaa Saaraa duuu booda jajjabina."
+    },
+    {
+      "id": 81,
+      "level": 2,
+      "verse_reference": "Uumama 27:36",
+      "question": "Esaaw Yaaqoob iddoo madaa ta'uu maalii jechuun yeroo dubbatu maaliif?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Sababii Yaaqoob ijaaboo fi eeyyemmii isaa fudhate",
+        "B": "Yaaqoob amaanatummaan waan ta'aniif",
+        "C": "Yaaqoob jabeessa waan ta'aniif",
+        "D": "Yaaqoob ogeessa waan ta'aniif"
+      },
+      "explanation": "Esaaw maqaa Yaaqoob ('gurratuu') ijaaboo fi eeyyemmii isaan fudhachuu wajjin isa quunnamaa turan."
+    },
+    {
+      "id": 82,
+      "level": 2,
+      "verse_reference": "Uumama 29:20",
+      "question": "Waggaan torbaan Yaaqoobiif maaliif guyyoota muraasaa fakkaate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Raaheliif waan jaalala guddaa qabaatuf",
+        "B": "Sooressa ta'uu isaaf",
+        "C": "Hojiitti gammaduu isaaf",
+        "D": "Yeroon kanaan waan dhaabbatuuf"
+      },
+      "explanation": "Sababii jaalala guddaa waan qaban erga yeroo dheeraa sana gabaaba taasisaniif."
+    },
+    {
+      "id": 83,
+      "level": 2,
+      "verse_reference": "Uumama 31:49",
+      "question": "Maqaan Mitspaa ('Waaqayyo gidduukiyyuu fi keessanitti eeggata') waa'ee maalii argisisaa ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo yeroo addaani raaga yeroo kakuu isaanii",
+        "B": "Yaaqoob irratti abaarsa",
+        "C": "Waadaa badhaadhummaa",
+        "D": "Sodaachisa adabbii"
+      },
+      "explanation": "Mitspaan Waaqayyo yeroo isaan addaani, kakuu isaaniif ragaa fi eeggata ta'uu gaafata."
+    },
+    {
+      "id": 84,
+      "level": 2,
+      "verse_reference": "Uumama 35:10",
+      "question": "Waaqayyo maqaan Yaaqoob Israa'el maaliif jedhee jijjiire?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Sababii Waaqayyo fi namoota wajjin cinnaa isaaniif",
+        "B": "Baay'ee waan sooressa ta'aniif",
+        "C": "Iddaa waan ijaarratif",
+        "D": "Ilmaan baay'ee waan qabaatuuf"
+      },
+      "explanation": "Maqaan Israa'el ('Waaqayyo wajjin hoogganaa') Yaaqoob yeroo isaa Waaqayyo wajjin lola fi badhaadhina isa"
+    },
+    {
+      "id": 85,
+      "level": 2,
+      "verse_reference": "Uumama 37:28",
+      "question": "Yoosef ollaa isaa tokko meeqaaf gurguraamee ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Xiriiroo biraa digdamaaf",
+        "B": "Xiriiroo kurnanf",
+        "C": "Xiriiroo soddomaaf",
+        "D": "Xiriiroo shantamaaf"
+      },
+      "explanation": "Uumama 37:28 'Yoosef Xiriiroo digdamaaf isimaa'eltootatti gurguran' jedha."
+    },
+    {
+      "id": 86,
+      "level": 2,
+      "verse_reference": "Uumama 39:2",
+      "question": "Wanni Yoosef hunda maaliif milkaa'aa ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo Yoosef wajjin ture",
+        "B": "Dandeettii uumamaa qab",
+        "C": "Carraa isaa ture",
+        "D": "Quunnamtii gaarii qab"
+      },
+      "explanation": "'Waaqayyo Yoosef wajjin ture' waan ta'eef waan hojjechu hundaa keessa milkaa'a ture."
+    },
+    {
+      "id": 87,
+      "level": 2,
+      "verse_reference": "Uumama 41:16",
+      "question": "Yoosef hiikuu abjuu beekumsa isaaf'i namaaf kenne?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo",
+        "B": "Ogummaa isaati",
+        "C": "Warra falfaltii beekantuuf",
+        "D": "Fir'awniif"
+      },
+      "explanation": "Yoo saaf' 'Anatu miti; Waaqayyo fuula fir'awni duraa deebisa nagaa kenna' jedhe."
+    },
+    {
+      "id": 88,
+      "level": 2,
+      "verse_reference": "Uumama 44:33",
+      "question": "Yihuudaan Binyamiiniif maal akka godhuuf of kenne?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Iddoo isaa gara isaaniif tajaajilaa ta'uu",
+        "B": "Maallaqa isaaf kennuu",
+        "C": "Isaa f loluu",
+        "D": "Isaa wajjin baqachuu"
+      },
+      "explanation": "Yihuudaan Yoosef itti gurguruu yaade sana amma obboleessa isaa eeguuf of kenne; kan amala isaa jijjiiruu agarsisuu."
+    },
+    {
+      "id": 89,
+      "level": 2,
+      "verse_reference": "Uumama 47:9",
+      "question": "Yaaqoob Fir'awniif akkamitti bara jireenyaa isaa hiike?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Gabaaboo, hamaa",
+        "B": "Dheeraa, badhaadhawa",
+        "C": "Gammachiisaa, gammachuu",
+        "D": "Rakkisaaafi badhaadhawa"
+      },
+      "explanation": "Yaaqoob waggaa 130 isaa abbootii isaa wajjin yeroo wal birayyuu gabaaboo, hamaa jedha."
+    },
+    {
+      "id": 90,
+      "level": 2,
+      "verse_reference": "Uumama 49:22-26",
+      "question": "Wanni eeyyemni Yoosef adda ta'u godhe maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Eeyyemmi baay'ee ta'anii fi eeyyemmi qabeenya samii fi lafa ga'aa",
+        "B": "Waan hin qabu",
+        "C": "Abaarsa ta'e",
+        "D": "Dhiifama tahe"
+      },
+      "explanation": "Yaaqoob Yoosef eeyyemmi baay'ee - kan ilmaan isaa Efreem fi Minaaseen isaaf."
+    },
+    {
+      "id": 91,
+      "level": 3,
+      "verse_reference": "Uumama 1:1",
+      "question": "Waaqayyo ijaarsa lafa akka 'bira qofa hojjate' himuun wawwa",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo ijaarii haala jireenyaa fi ifaa keessaa baasa",
+        "B": "Waaqayyo addunyaa haala isa hin taaneen uume",
+        "C": "Ba ta'a lola Waaqayyo ti",
+        "D": "Ijaaricha uumamaa So"
+      },
+      "explanation": "Salphina fi dukkana isaa duraa humna Waaqayyo ifa, woyyii fi ijaariin isaa baasuu agarsisa."
+    },
+    {
+      "id": 92,
+      "level": 3,
+      "verse_reference": "Uumama 2:24",
+      "question": "Seerri hirmaata Uumama maal f unu?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Moodaa isaaniin dhiisuu, niitii kedu, foon tokko ta'uu",
+        "B": "Dhaabni fi dhalaan niitii ta'uu",
+        "C": "Hiriine akka ta'u",
+        "D": "Dhalaan akka ta u"
+      },
+      "explanation": "Yesuus yeroo kana waa'ee iijaawwan Waaqayyo ijaara isaa (hirmaatatti) of irratti dhufu fudhata."
+    },
+    {
+      "id": 93,
+      "level": 3,
+      "verse_reference": "Uumama 3:1-6",
+      "question": "Malli qorumsa sammuu Hawaa fi bofa gidduu maal agarsisa",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waan Waaqayyo hin walfu, itti gaafachuu dhorkaa",
+        "B": "Rukuttaa qaamaa, Sodaa",
+        "C": "Hin beekamuu, qulqulluu",
+        "D": "Beela"
+      },
+      "explanation": "Bofni duraa waa'ee Waaqayyo mishi shakkii uume; ammoo."
+    },
+    {
+      "id": 94,
+      "level": 3,
+      "verse_reference": "Uumama 6:9",
+      "question": "'Nohi Waaqayyo wajjin deeme' jechuun maal jechuu?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo wajjin walitti dhufeenyaa jiraata ture",
+        "B": "Waaqayyo wajjin madaa deeme",
+        "C": "Tokkoyyuu hin cubbuun hojjen",
+        "D": "Hin"
+      },
+      "explanation": "Waan Waaqayyo wajjin deemuu dhugaa, jireenya of eeggachuu ture."
+    },
+    {
+      "id": 95,
+      "level": 3,
+      "verse_reference": "Uumama 9:25-27",
+      "question": "Abaarsi Kana'aani fi eeyyemmi Sheemii fi Yaafeti maal akka ta'e ibsa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fuuldura hariiroo saba kanaa fi eeyyema Waaqayyoo ibsa",
+        "B": "Jecha abbaa dallansaa qofa ture",
+        "C": "Bu'aa yeroo dheeraa hin qabu",
+        "D": "Hatattamaan hin raawwatamne"
+      },
+      "explanation": "Abaarsi kanaa eeyyemmi Sheemii fi Yaafeti fuuldura saba fi waadaa Waaqayyoo irratti agarsiisa."
+    },
+    {
+      "id": 96,
+      "level": 3,
+      "verse_reference": "Uumama 12:10-20",
+      "question": "Shiri Abrahaam Misir keessatti maal akka amantii isaa mul'isu agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Amantiin isaa hanga ammaatti guddachaa ture; namoota sodaachuudhaan Waaqayyoo irra hin amanne",
+        "B": "Amantiin isaa guutuu ture",
+        "C": "Inni sobaa namaa ture",
+        "D": "Waaqayyoo hin amanne"
+      },
+      "explanation": "Abram Firaayim biraa sodaatudhaan, amantiin isaa guutuu hin turre akka ture agarsiisa."
+    },
+    {
+      "id": 97,
+      "level": 3,
+      "verse_reference": "Uumama 14:18-20",
+      "question": "Melkiisedek amantii keessatti maaliif barbaachisaa dha?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Mootii fi faarfataa ta'uu isaatiin Kiristoos fakkaata",
+        "B": "Inni malaakaa ture",
+        "C": "Inni obboleessa Abrahaam ture",
+        "D": "Inni Yihudaa jalqabaa ture"
+      },
+      "explanation": "Melkiisedek, mootii Salemii fi faarfataa Waaqayyoo, Yesuus yeroo hunda faarfataa ta'uu isaa dura gale."
+    },
+    {
+      "id": 98,
+      "level": 3,
+      "verse_reference": "Uumama 16:1-4",
+      "question": "Waan Abrahaam fi Saara Hagariin daa'ima argachuuf yaalan keessatti rakkoon amantii maali?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Yeroo Waaqayyoo eeguu dhiisanii ofiin murteeffatan",
+        "B": "Ilma fudhachuu biraa filachuun isaanii ture",
+        "C": "Tajaajiltoota biraa fayyadamuu qaban ture",
+        "D": "Kadhannaa caalaa gochuu qaban ture"
+      },
+      "explanation": "Isaan Waaqayyoo of duuba dhorkanii, amantiin isaanii yeroo Waaqayyoo eeguu dhiise agarsiisa."
+    },
+    {
+      "id": 99,
+      "level": 3,
+      "verse_reference": "Uumama 19:1-11",
+      "question": "Cubbuun Sodoom hamma akkamii akka ture maaliif agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dinqisiifannaa fi lafa qixxee hin qabu agarsiisa",
+        "B": "Isaan qofa birmaduu hin turre",
+        "C": "Isaan amala badaa qofa turan",
+        "D": "Isaan hubannoo dhabe turan"
+      },
+      "explanation": "Namoonni Sodoom sodaa fi miidhaa guddaa irratti hundaayee, cubbuu isaanii dhugaa ta'ee agarsiisan."
+    },
+    {
+      "id": 100,
+      "level": 3,
+      "verse_reference": "Uumama 22:1-19",
+      "question": "Hiikkaan factii Abrahaam Isa'aaq dhiisee qophaa'e maali?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Kenna Waaqayyoo fi dhiiga Isaa of danda'uu isaa dura agarsiisa",
+        "B": "Abrahaam ajjechuuf qophiidha",
+        "C": "Waaqayyo yaada isaa jijjiire",
+        "D": "Qormaata humna qaamaa ture"
+      },
+      "explanation": "Seenaa kun kennaa Waaqayyoo fi dhiiga Ilma Isaa gara jalqabatti agarsiisa."
+    },
+
+    {
+      "id": 101,
+      "level": 3,
+      "verse_reference": "Uumama 27:1-40",
+      "question": "Yaaqoob eeyyemma Isihaaq gowwoomsuun isaa waa'ee bulchiinsa Waaqayyoo maal barsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Karoorri Waaqayyoo cubbuu fi tooftaa namaa irraa kan ta'elie ni raawwatama",
+        "B": "Waaqayyo gowwoomsa fudhata",
+        "C": "Karoorri Waaqayyoo duraa balleessamuu danda'a",
+        "D": "Eeyyemmiin humna hin qabu"
+      },
+      "explanation": "Gowwoomsi Yaaqoob illee, Waaqayyo filannoo isaa yeroo isaan dhalatutti akka isaanitti yoode sanyicha Yaaqoobiin fufiinsa kenne."
+    },
+    {
+      "id": 102,
+      "level": 3,
+      "verse_reference": "Uumama 29:18-30",
+      "question": "Gowwoomsi Laabaa waa'ee 'waan namaan sade ni haamta' maal barsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Yaaqoob abbaa isaa gowwoomse, amma abbaa isaatin gowwoomfame",
+        "B": "Gowwoomsi yeroo mara achumatti galata gabaaf",
+        "C": "Laabaa yakka hin ole",
+        "D": "Yaaqoob caalaa galata argachuu qaba ture"
+      },
+      "explanation": "Qajeeltuma isa kana keessatti - Yaaqoob gowwoomsaa gowwoomfamee, amala isaa ittiin qululleeffame."
+    },
+    {
+      "id": 103,
+      "level": 3,
+      "verse_reference": "Uumama 32:24-30",
+      "question": "Yaaqoob maaliif eeyyemma nama lolaa irraa gaafate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Kun quunnamtii Waaqayyoo ta'uu isaa hubate, eeyyemma hanga argatu utuu hindhiisiniin haata jedhe",
+        "B": "Jabeenya qaamaa barbaade",
+        "C": "Waan lola irratti mo'uu barbaade",
+        "D": "Jabaata waan tureef"
+      },
+      "explanation": "Jabaansi Yaaqoob kadhannaa jabaataa kan agarsiisa - eeyyema hanga argatuutti Waaqayyo irratti maxxannuu."
+    },
+    {
+      "id": 104,
+      "level": 3,
+      "verse_reference": "Uumama 34:1-31",
+      "question": "Wanni Simoonii fi Lewwiin Sheekem irratti gochaa badaa godhan maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Kakoota waliigalanii cabsanii maatii Yaaqoob miidhan",
+        "B": "Hojii isaanii deeggare",
+        "C": "Namoota hunda ajjeesuuf mirga hin qabu",
+        "D": "Itti gaafatama isaanii sirriitti guute"
+      },
+      "explanation": "Deebiin isaanii gowwoomsa fi cimaa ture; akkaataa seera namaa fi eeyyema Waaqayyoo cabsaniin galata dhaban."
+    },
+    {
+      "id": 105,
+      "level": 3,
+      "verse_reference": "Uumama 37:9-11",
+      "question": "Yaaqoob maaliif abjuu Yoosef isaaf dhufe tuffisee, garuu yeroo sana yaada isaa ilaale?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Tuffii keessa ture garuu abjuun karoora Waaqayyoo ta'uu malu jedhee fudhate",
+        "B": "Abjuun isaa isa hin gammachiifne",
+        "C": "Yoosef irratti aarii qaba ture",
+        "D": "Dogoggora ture"
+      },
+      "explanation": "Yaaqoob abjuu sana tuffii qabu ture, garuu akka waan Waaqayyoo ta'uu danda'u tilmaame."
+    },
+    {
+      "id": 106,
+      "level": 3,
+      "verse_reference": "Uumama 38:8-10",
+      "question": "Waan Onan gochuu isaa Waaqayyo maaliif akka hamaa ilaalte?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ilma obboleessa isaa horuuf dirqama isaa guutuu dhiise",
+        "B": "Kanaa gochuun yeroo itti gaafatama hin qabne jedhu ture",
+        "C": "Haadha obboleessaa isaa jibbe",
+        "D": "Dhaloota hin barbaadne"
+      },
+      "explanation": "Onan dirqama levirate heerumaa fi maatii isaa guutuu dhiisee; Waaqayyo ajaja isaa cabsuu isaa hamaa ta'ee ilaale."
+    },
+    {
+      "id": 107,
+      "level": 3,
+      "verse_reference": "Uumama 40:1-23",
+      "question": "Hiikkaan abjuu waaqessichaa fi booqertichaa jechuun yeroo Waaqayyoo waliin hojjetu maal barsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Karoorri Waaqayyoo yeroo isaatiin raawwata",
+        "B": "Hiikkaan salphaa dha",
+        "C": "Abjuun yeroo hunda walfakkaata",
+        "D": "Yoosef carraa qofa ture"
+      },
+      "explanation": "Yoosef akka Waaqayyoon hojii isaa yeroo isaarraa eeguu fi qabadhaa akka danda'u barnoota kenne."
+    },
+    {
+      "id": 108,
+      "level": 3,
+      "verse_reference": "Uumama 41:25-32",
+      "question": "Maaliif Fir'aawni abjuu isaa lama arge?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo murtii isaa dhugaa fi akka dhaqabu mirkaneessuuf",
+        "B": "Fir'aawni yaada gabaabaa ture",
+        "C": "Abjuun tokko gara biraa turte",
+        "D": "Yoosef dogoggoraan hiike"
+      },
+      "explanation": "Abjuun lamaa murtii Waaqayyoo kan ittiin jajjabeessu fi yeroo dhihoo keessatti raawwatamuu isaa agarsiisa."
+    },
+    {
+      "id": 109,
+      "level": 3,
+      "verse_reference": "Uumama 42:21-22",
+      "question": "Obboleewwan Yoosef maaliif rakkoo isaanii cubbuu isaanii irratti akka hubatan beeku?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Cubbuun isaan Yoosef irratti hojjetan rakkoo isaanii fida",
+        "B": "Balaa tasaa ture",
+        "C": "Beela qofa ture",
+        "D": "Yoosef deebi'ee isaan miidhe"
+      },
+      "explanation": "Obboleewwan Yoosef yaada ofitti amanummaa yeroo cubbuu isaanii yaadatan, cubbuu isaanii akka sababaa rakkoo akka ta'e hubatan."
+    },
+    {
+      "id": 110,
+      "level": 3,
+      "verse_reference": "Uumama 43:34",
+      "question": "Maaliif Yoosef Binyamiim irra nyaata shan caalaa kenne?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Obboleewwan isaa garaa isaanii Binyamiim irratti maal akka godhan ilaaluuf",
+        "B": "Isa caalaa jaalala qaba ture",
+        "C": "Aadaa ta'e ture",
+        "D": "Binyamiim beela'e"
+      },
+      "explanation": "Yoosef obboleewwan isaa jijjiirama qaban akka mirkaneessuuf, Binyamiim irratti amala isaanii ilaale."
+    },
+    {
+      "id": 111,
+      "level": 3,
+      "verse_reference": "Uumama 44:18-34",
+      "question": "Haasa'i Yihuudaa jijjiirrama amala isaa maal agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Binyamiimaf of kennuun ofii isaa jalqaba irra caalaatti of jijjiire",
+        "B": "Binyamiim arrabsee",
+        "C": "Isin dhiisee deeme",
+        "D": "Deebii dogoggora ture"
+      },
+      "explanation": "Yihuudaan ofii isaa ijoollee isaa eeguuf akka of kennu, amala isaa kan gara durii fooyyessu ta'uu agarsiise."
+    },
+    {
+      "id": 112,
+      "level": 3,
+      "verse_reference": "Uumama 45:24",
+      "question": "Waan Yoosef 'Karaa irratti walitti hin ar'aa' jechuun maal jechuu isaa ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Walitti hin arrabnee fi walitti hin rakkatnee",
+        "B": "Farda irra hin buune",
+        "C": "Meeshaa hin dhabama",
+        "D": "Daandii hin dhaban"
+      },
+      "explanation": "Yoosef obboleewwan isaa walitti hin rakkataniif, yakka fi wal-dhabdee irraa of qusachuu akka qaban akeekkachiise."
+    },
+    {
+      "id": 113,
+      "level": 3,
+      "verse_reference": "Uumama 46:3-4",
+      "question": "Waaqayyo maaliif Yaqoob sodaachuu dhiisu akka hin qabne jedhe?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Isin wajjin nan deema; gara biyya waadaa deebisuuf nan siif deema",
+        "B": "Gibxiin nagaadha",
+        "C": "Waan sodaatan hin jiru",
+        "D": "Yoosef isin eeguuf jira"
+      },
+      "explanation": "Waaqayyo jiraachuu isaa fi deebi'uu isaa Yaqoobitti himuun sodaa isaa ni haqaa."
+    },
+    {
+      "id": 114,
+      "level": 3,
+      "verse_reference": "Uumama 48:14-19",
+      "question": "Maaliif Yaaqoob harka isaa cabsuun Ephraayim duratti Manaasee eebbise?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fedhii Waaqayyoo adda baasee ilma xiqqaa dursee eebbise",
+        "B": "Dogoggora ture",
+        "C": "Isa kaasuu hin barbaadne",
+        "D": "Joeph isa dirqise"
+      },
+      "explanation": "Yaaqoob ofii isaa gara fuula Waaqayyoo deebisee, filannoo which Waaqayyoo mallattoo ittiin kennuudha."
+    },
+    {
+      "id": 115,
+      "level": 3,
+      "verse_reference": "Uumama 49:3-4",
+      "question": "Ruuubeen maaliif ijaaboo fi eeyyemme isaa dhabe?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Niitii abbaa isaa Bilhaa wajjin ciisaan akka irra hin taane",
+        "B": "Waan gamoo garee taateef",
+        "C": "Waan ijaaboo hin fedaaf",
+        "D": "Waan xixiqqaa taateef"
+      },
+      "explanation": "Cubbuun Ruuubeen Bilhaa wajjin ijaaboo isaa fi eeyyemme isaa dhabsiise."
+    },
+    {
+      "id": 116,
+      "level": 3,
+      "verse_reference": "Uumama 49:8-12",
+      "question": "Waan eeyyemmi Yihuudaa obboloota isaa wajjin wal bira qabamee caalaa kan ta'u maali?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ulee mootummaa fi waadaa Mesihii dhufu kan qabu",
+        "B": "Gabaabduu turte",
+        "C": "Abaarsa turte",
+        "D": "Ture"
+      },
+      "explanation": "Yihuudaan mootummaa ulee fi Mesihii (Suula) kan fudhate yoo ta'u, kunis sanyii Daawiti fi Yesuusi4."
+    },
+    {
+      "id": 117,
+      "level": 3,
+      "verse_reference": "Uumama 50:1-3",
+      "question": "Wanni Gibxota Yaaqoob (Israa'el) waan itti waraansan biyya Gibxi keessatti isaan jiraachuu maal agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Isaan hawaasa Gibxi keessatti dinqisiifannaa fi kabaja qabaachuu eegalan",
+        "B": "Ummata isaanii isa Cibraa didan",
+        "C": "Aadaa Gibxi fudhachuuf dirqaman",
+        "D": "Gibxota awwaala isaanii fudhatan"
+      },
+      "explanation": "Waraanumsi yeroo baay'ee moototaa qofaaf ture, kunis Yaaqoob biyya Gibxi keessatti iddoo ol'aanaa qabaachuu isaa agarsiisa."
+    },
+    {
+      "id": 118,
+      "level": 3,
+      "verse_reference": "Uumama 50:15-21",
+      "question": "Waan Yoosef jaalala obboleewwan isaa sodaachuu deebise waa'ee dhiifama dhugaa maal agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dhiifamni dhugaa garaa namootaa gad dhiisa, bulchiinsa Waaqayyo ofitti amana",
+        "B": "Dhiifamni wantoota hunda irraanfachuu gaafata",
+        "C": "Dhiifamni yeroo mara salphaadha",
+        "D": "Adabuun isaanii barbaachisaa ture"
+      },
+      "explanation": "Yoosef yeroo isaan sodaachuu isaaniif boo'e, dhiifama isaaniif gumaacha, cubbuu isaanii Waaqayyo karoora gaarii ta'een ibse."
+    },
+    {
+      "id": 119,
+      "level": 3,
+      "verse_reference": "Uumama 50:25",
+      "question": "Yoosef maaliif Israa'eloota lafa Kana'aanitti lafee isaa akka deebisan isaan kakachiise?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo isaan biyya waadaa garatti akka deebisu amantii taatee",
+        "B": "Gibxi waan hin jaallanneef",
+        "C": "Obboleewwan waan gaafataniif",
+        "D": "Fir'awn waan eeyyamaniif"
+      },
+      "explanation": "Yeroo Yoosef gaafatan waadaan kun Waaqayyo sanyii Abrahaam biyya Kana'aanitti deebisa itti amanuu agarsiisa."
+    },
+    {
+      "id": 120,
+      "level": 3,
+      "verse_reference": "Uumama 50:26",
+      "question": "Uumama Yoosef lafa Gibxi keessatti qawwa qawwee ta'ee xumuuruun isaa hiika qulqulluu fi caasluga maal agarsiisa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Seenaan xumuramuu kan hin qabne ta'ee, gara ba'ii guddaa Seena Bahuu fi Waaqayyo bilisa baasuu isaa itti argisiisa",
+        "B": "Abdii malee xumura gaddaa ti",
+        "C": "Yoosef irraanfamu isaa agarsiisa",
+        "D": "Hiika hin qabu"
+      },
+      "explanation": "Xumuuriin seenichaa kan banamaan ta'u, Seena Bahuuf kan daaya ta'e - Waaqayyo uummatni isaa Gibxi keessatti bilisa ba'aa eeggachaa jira."
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "verse_reference": "Uumama 30:22-24",
+      "question": "Yoosef jechuun Raaheliin himu ishee maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo ilma biraa naaf dabala",
+        "B": "Ni baay'ata",
+        "C": "Waaqayyo balleessina koo fudhateera",
+        "D": "Ilma jaallatamaa"
+      },
+      "explanation": "Raaheel 'Waaqayyo ilma biraa naaf dabala' jette, kunis akka Yoosef maqaa isaa abdii wajjin waliin isa qindeessu."
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "verse_reference": "Uumama 33:4",
+      "question": "Esaaw yeroo dhuma irratti Yaqoob quunnamu akkamitti isa simate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Isa quunnamuuf fiigu, isa hammate, isa dhungaate, ni boo'an",
+        "B": "Isa rukute",
+        "C": "Isatti hin seene",
+        "D": "Isa abaare"
+      },
+      "explanation": "Hammachuun Esaaw waan dinqisiisaa ta'e, Waaqayyo onnee isaa laafsuun walitti dhufeenya akka isaaf godhu agarsiisa."
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "verse_reference": "Uumama 36:1-43",
+      "question": "Uumama maaliif sanyii Esaaw (Edoom) iftoomina isaa ibsa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waaqayyo sanyii Esaaw amanamuu isaa fi Israa'el saba dallaa wajjin quunnamtii isaa ibsuuf",
+        "B": "Dabalata barbaachisaa hin taane",
+        "C": "Esaaw akka caalaatti barbaachisaa ta'uu isaa ibsuuf",
+        "D": "Seenaa dhugaa mirkaneessuuf"
+      },
+      "explanation": "Sanyileen kun Waaqayyo sanyii Abrahaam ta'uu isaa kabaja isaaf kennuuf, walitti dhufeenya Israa'el fi Edoom ibsuuf bu'uura ta'a."
+    },
+    {
+      "id": 124,
+      "level": 1,
+      "verse_reference": "Uumama 31:47-49",
+      "question": "Yaaqoob fi Laabaan tuullaa dhagaa kakuu isaanii mallattoo godhan maal jedhani?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Galeed fi Mitspaa",
+        "B": "Beet'el fi Eeden",
+        "C": "Hebroon fi Sheekem",
+        "D": "Peniel fi Suukkot"
+      },
+      "explanation": "Yaaqoob Galeed, Laabaan Immoo Jegarsahadutha jedhe; Mitspaan immoo maqaa moggaasa itti eeganii."
+    },
+    {
+      "id": 125,
+      "level": 1,
+      "verse_reference": "Uumama 31:55",
+      "question": "Laabaan yeroo Yaaqoob irraa adda ba'u maal goote?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ilmaan fi ilmaan ilma isaa dhungaate, eeyyamme",
+        "B": "Abaare",
+        "C": "Rukute",
+        "D": "Isaan irraa hate"
+      },
+      "explanation": "Laabaan ilmaan fi ilmoon ilmaan isaa dhunguudhaan eeyyamme, sana booda deeme."
+    },
+    {
+      "id": 126,
+      "level": 1,
+      "verse_reference": "Uumama 33:17",
+      "question": "Yaaqoob Suukkot keessatti beeylada isaatiif maal ijaare?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Suukkot (kuulaa)",
+        "B": "Ajaanib",
+        "C": "Dannaba",
+        "D": "Gamoo"
+      },
+      "explanation": "Yaaqoob beeylada isaatiif kuulaa (suukkot) ijaare, kunis iddichaaf maqaa kenne."
+    },
+    {
+      "id": 127,
+      "level": 1,
+      "verse_reference": "Uumama 35:8",
+      "question": "Dibooraan warra Yaaqoob keessatti eenyu turte?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Hooggantuu Ribqaa",
+        "B": "Niitii Yaaqoob",
+        "C": "Haati Liyaa",
+        "D": "Obboleettii Raaheel"
+      },
+      "explanation": "Dibooraan hooggantuu Ribqaa ti; Allon-Baakuut jedhamu tulluu jala awwaalame."
+    },
+    {
+      "id": 128,
+      "level": 1,
+      "verse_reference": "Uumama 35:18",
+      "question": "Maqaan Raaheel yeroo du'uuf ilma isheef maalii turte, Yaaqoob immoo maalitti jijjiire?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Ben-Onii, Yaaqoob garuu Binyamiin jedhe",
+        "B": "Yosef, Yaaqoob garuu Efreem jedhe",
+        "C": "Manaase, Yaaqoob garuu Naftaalee jedhe",
+        "D": "Lewwii, Yaaqoob garuu Simoon jedhe"
+      },
+      "explanation": "Raaheel Ben-Onii ('gaddayya ilma koo') jette; Yaaqoob garuu Binyamiin ('harka mirgaa ilma') jedhe."
+    },
+    {
+      "id": 129,
+      "level": 1,
+      "verse_reference": "Uumama 36:8",
+      "question": "Esaaw sanyii isaa wajjin eessa qubachuuf lakkaa'ame?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Tulluu Se'ir",
+        "B": "Tulluu Siinaa",
+        "C": "Tulluu Moryaa",
+        "D": "Tulluu Kaarmel"
+      },
+      "explanation": "Esaaw tulluu Se'ir keessa qubachuuf lakkaa'ame; Esaaw kun Edoom yoo ta'u, sanyiin isaa immoo Edoomota."
+    },
+    {
+      "id": 130,
+      "level": 1,
+      "verse_reference": "Uumama 41:45",
+      "question": "Fir'awn Yoosef maqaa maalii jedhee moggaase?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Zafnaat-Paane'ah",
+        "B": "Potifera",
+        "C": "Abimelek",
+        "D": "Melkiisedek"
+      },
+      "explanation": "Fir'awn Zafnaat-Paane'ah ('adunyaa fayyisaa' ykn 'icciitii agarsisaa') jechuudhaan Yoosef moggaase."
+    },
+    {
+      "id": 131,
+      "level": 1,
+      "verse_reference": "Uumama 41:51-52",
+      "question": "Maqaan ilmaan Yoosef lamaa maalii fi hiikni isaanii maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Manaase ('irraanfachiisaa') fi Efreem ('baay'isaa')",
+        "B": "Ruuubeen fi Simoon",
+        "C": "Lewwii fi Yihuudaa",
+        "D": "Daan fi Naftaalee"
+      },
+      "explanation": "Manaase jechuun 'Waaqayyo dadhabbii koo hunda irraanfachiise' jechuudha; Efreemis 'Waaqayyo biyya gaddayyaa koo keessatti na baay'ise' jechuudha."
+    },
+    {
+      "id": 132,
+      "level": 1,
+      "verse_reference": "Uumama 42:6",
+      "question": "Obboleewwan Yoosef yeroo Gibxi isatti dhufan maal gootan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Fuula isaatiif lafatti gomboo bu'anii sagadan",
+        "B": "Baqatan",
+        "C": "Wajjin lolan",
+        "D": "Isatti hin seene"
+      },
+      "explanation": "Obboleewwan Yosef abjuu ijoollummaa isaa hin beekin fuula isaatiif sagadan."
+    },
+    {
+      "id": 133,
+      "level": 1,
+      "verse_reference": "Uumama 43:34",
+      "question": "Binyamiin wayita obboloota isaatiin caalmaatti meeqa fudhate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Shan yeroo caalaa",
+        "B": "Lama yeroo caalaa",
+        "C": "Kudhan yeroo caalaa",
+        "D": "Hanga wal taate"
+      },
+      "explanation": "Binyamiin wayita isaaniin yeroo shan guutuu caalaa fudhate, kunis hassassuu isaanii qorachuuf ture."
+    },
+    {
+      "id": 134,
+      "level": 1,
+      "verse_reference": "Uumama 44:2",
+      "question": "Waan Yoosef akka qorumsaatiif Binyamiin korojoo isaa keessa kaa'ame maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Qophii isaa diimaa isaa",
+        "B": "Saaqiltoota warqee",
+        "C": "Chaaphaa mootumma",
+        "D": "Ergaa"
+      },
+      "explanation": "Qophii diimaa Yoosef waan Binyamiin korojoo isaa keessa dhokate, kunis amanamumma obboloota isaatiif qorumsa uume."
+    },
+    {
+      "id": 135,
+      "level": 1,
+      "verse_reference": "Uumama 45:9-11",
+      "question": "Yoosef abbaa fi obboloota isaa Gibxi keessatti akka jiraatan maal fedhe?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Gaaxali Goosheen",
+        "B": "Magaalaa Memfis",
+        "C": "Daltoo Abbayyaa",
+        "D": "Magaalaa Taayibis"
+      },
+      "explanation": "Yosef maatii isaa biyya Gooshen keessatti akka qubachu gaafate."
+    },
+    {
+      "id": 136,
+      "level": 1,
+      "verse_reference": "Uumama 46:27",
+      "question": "Warri Yaaqoob Gibxi dhufan meeqa?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Torbaatama",
+        "B": "Shantama",
+        "C": "Dhibba",
+        "D": "Saddeettama"
+      },
+      "explanation": "Uumama 46:27 namoota torbaatama warra Yaaqoob Gibxi dhufan akka ta'an galmeessa."
+    },
+    {
+      "id": 137,
+      "level": 1,
+      "verse_reference": "Uumama 47:28",
+      "question": "Yaaqoob Gibxi keessatti waggaa meeqa jiraate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waggaa kudha-torba",
+        "B": "Waggaa kudhan",
+        "C": "Waggaa digdama",
+        "D": "Waggaa soddoma"
+      },
+      "explanation": "Yaaqoob Gibxi keessatti waggaa kudha-torba jiraate, kunis umurii 130-147."
+    },
+    {
+      "id": 138,
+      "level": 1,
+      "verse_reference": "Uumama 48:5",
+      "question": "Yaaqoob akka Ruuubeen fi Simoonitti ilmaan eenyu ilma isaa isaaniif ta'u godhe?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Efreem fi Minaase",
+        "B": "Lewwii fi Yihuudaa",
+        "C": "Daan fi Naftaalee",
+        "D": "Gaad fi Asheeri"
+      },
+      "explanation": "Yaaqoob ilmaan Yoosef Efreem fi Minaase akka ilmaan isaa ta'uu isaaniif dhaaluun dhaala isaaniif kenne."
+    },
+    {
+      "id": 139,
+      "level": 1,
+      "verse_reference": "Uumama 49:33",
+      "question": "Yaaqoob erga ilmaan isaa eeyyammee booda maal goote?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Du'e, gara saba isaatti walitti qabame",
+        "B": "Kana'aanitti deebi'e",
+        "C": "Mootii ta'e",
+        "D": "Dhaala barreesse"
+      },
+      "explanation": "Yaaqoob erga ilmaan isaa ajaje, miilla isaa siree irratti walitti qabatee du'e."
+    },
+    {
+      "id": 140,
+      "level": 1,
+      "verse_reference": "Uumama 50:13",
+      "question": "Yaaqoob eessa awwaalfame?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Holqa Makpeelaa Mamre biraa keessatti",
+        "B": "Gibxi keessatti",
+        "C": "Karaan keessatti",
+        "D": "Urda Kaldii keessatti"
+      },
+      "explanation": "Yaaqoob holqa Makpeelaa Abrahaam maatii isaatiif awwaalchuf bitame keessatti awwaalfame."
+    },
+    {
+      "id": 141,
+      "level": 1,
+      "verse_reference": "Uumama 3:24",
+      "question": "Waan Waaqayyo bahaa Ashaakiti Eedem keessatti kaa'e maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Kirubeelii fi goraadee ibiddaa naannawaa",
+        "B": "Ajaaniba ibiddaa",
+        "C": "Ergamaa malakataa",
+        "D": "Lagge hintuu"
+      },
+      "explanation": "Waaqayyo daandii mukki jirenyaa eeguuf Kirubeelii fi goraadee ibiddaa naannawaa kaa'e."
+    },
+    {
+      "id": 142,
+      "level": 1,
+      "verse_reference": "Uumama 4:25",
+      "question": "Hawaan maqaa maalii ilma ishee sadaffaa kenne?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Seeti",
+        "B": "Henook",
+        "C": "Nohii",
+        "D": "Aabiil"
+      },
+      "explanation": "Hawaan ilma ishee Seeti ('gaafatame') jette, kunis bakka bu'aa Aabiil ta'eef."
+    },
+    {
+      "id": 143,
+      "level": 1,
+      "verse_reference": "Uumama 5:3",
+      "question": "Adaam yeroo ilma akka fakkeenya isaatiin dhalche umuri isaa meeqa ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Waggaa 130",
+        "B": "Waggaa 100",
+        "C": "Waggaa 200",
+        "D": "Waggaa 50"
+      },
+      "explanation": "Adaam umuriin isaa waggaa 130 yeroo Seeti dhalche, kan akka fakkeenya isaatiin uumame."
+    },
+    {
+      "id": 144,
+      "level": 1,
+      "verse_reference": "Uumama 6:15",
+      "question": "Dimenstoonni Doonii Nohi maal turan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Dheerinni 300 cubit, bal'inni 50 cubit, ol fageenyi 30 cubit",
+        "B": "Dheerinni 500 cubit, bal'inni 100 cubit, ol fageenyi 50 cubit",
+        "C": "Dheerinni 200 cubit, bal'inni 30 cubit, ol fageenyi 20 cubit",
+        "D": "Dheerinni 400 cubit, bal'inni 60 cubit, ol fageenyi 40 cubit"
+      },
+      "explanation": "Doonichi guddaan ture: dheerinni 300 cubit (450 feet), bal'inni 50 cubit (75 feet), ol fageenyi 30 cubit (45 feet)."
+    },
+    {
+      "id": 145,
+      "level": 1,
+      "verse_reference": "Uumama 9:2-3",
+      "question": "Waan Waaqayyo bishaan badiisaa booda Nohiif nyaata ta'uuf kenne maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Wanni waan lubbu qabu hunda (foon)",
+        "B": "Biqiltoota qofa",
+        "C": "Qurxummii qofa",
+        "D": "Buddeena qofa"
+      },
+      "explanation": "Waaqayyo bishaan badiisaa booda nama nyaata biqiltoota irraa garuu foon beeyladaaf mul'ate."
+    },
+    {
+      "id": 146,
+      "level": 1,
+      "verse_reference": "Uumama 10:8-9",
+      "question": "Akka adamsaa jabaa fuula Waaqayyoo duratti eenyu?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Niimrod",
+        "B": "Qaayiin",
+        "C": "Aabiil",
+        "D": "Nohi"
+      },
+      "explanation": "Niimrod, ilma Kuush, adamsaa jabaa ture, mootummaan isaa Baabilon keessatti jalqabe."
+    },
+    {
+      "id": 147,
+      "level": 1,
+      "verse_reference": "Uumama 23:16",
+      "question": "Abraham holqa Makpeelaa fudhachuuf maallaqa meeqa kenne?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Mi'aqaa dhibba afur",
+        "B": "Mi'aqaa dhibba tokko",
+        "C": "Mi'aqaa dhibba torba",
+        "D": "Mi'aqaa dhibba lama"
+      },
+      "explanation": "Abraham mi'aqaa dhibba afur lafa korojoo isaaf lakka'uudhaan kenne."
+    },
+    {
+      "id": 148,
+      "level": 1,
+      "verse_reference": "Uumama 24:22",
+      "question": "Waan tajaajilaan Abraham boollaatti Ribqaaf kenne maal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Qurata warqee fi anbartee lama",
+        "B": "Mootii fi qubeelaa",
+        "C": "Maallaqa diimaa fi uffata",
+        "D": "Gaala fi warqee"
+      },
+      "explanation": "Tajaajilichi akka waadaa heerumaa, Ribqaaf qurata warqee fi anbartee lama kenne."
+    },
+    {
+      "id": 149,
+      "level": 1,
+      "verse_reference": "Uumama 26:18",
+      "question": "Isihaaq boollaawwan abbaan isaa Abrahaam coraa turan maal isaaniif goote?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Deebisee coraa boollaawwan isaanii deebise",
+        "B": "Ciiccaan isaanii guute",
+        "C": "Isaan tuffate",
+        "D": "Haaraa ijaare"
+      },
+      "explanation": "Isihaaq boollaawwan abbaan isaa Abrahaam boolla Filisxeemonni cufani deebisee coraa boolla isaan deebise."
+    },
+    {
+      "id": 150,
+      "level": 1,
+      "verse_reference": "Uumama 27:28-29",
+      "question": "Eeyyemmi Isihaaq hin beekin Yaqoob eeyyame maal ture?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Haaqqa samii, badhaadhummaa lafaa, midhaan fi wayinii baay'ina, fi mooyee obboloota isaa irratti",
+        "B": "Badhaadhumma qofa",
+        "C": "Lafa qofa",
+        "D": "Jireenya dheeraa qofa"
+      },
+      "explanation": "Isihaaq Yaqoob badhaadhina qonna, mooyummummaa siyaasa, fi waadaa eeyyemuufi abaaruun eeyyeme."
+    }
+  ]
+}
+  

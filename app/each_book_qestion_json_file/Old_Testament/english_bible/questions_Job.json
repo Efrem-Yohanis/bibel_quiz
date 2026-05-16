@@ -1,0 +1,2108 @@
+{
+  "book": "Job",
+  "chapters": "1-42",
+  "total_questions": 150,
+  "levels": 3,
+  "questions": [
+    {
+      "id": 1,
+      "level": "easy",
+      "verse_reference": "Job 1:1",
+      "question": "Who was the man described as perfect and upright in Job 1:1?",
+      "correct_answer": "Job",
+      "options": [
+        "Job",
+        "Zophar the Naamathite",
+        "Satan",
+        "His wife"
+      ],
+      "explanation": "Based on Job 1:1."
+    },
+    {
+      "id": 2,
+      "level": "easy",
+      "verse_reference": "Job 1:2",
+      "question": "How many sons and daughters did Job have in Job 1:2?",
+      "correct_answer": "Seven sons and three daughters",
+      "options": [
+        "Six sons and four daughters",
+        "Eight sons and three daughters",
+        "Seven sons and two daughters",
+        "Seven sons and three daughters"
+      ],
+      "explanation": "Based on Job 1:2."
+    },
+    {
+      "id": 3,
+      "level": "easy",
+      "verse_reference": "Job 1:3",
+      "question": "How many sheep did Job own in Job 1:3?",
+      "correct_answer": "Seven thousand",
+      "options": [
+        "Five thousand",
+        "Three thousand",
+        "Seven thousand",
+        "Ten thousand"
+      ],
+      "explanation": "Based on Job 1:3."
+    },
+    {
+      "id": 4,
+      "level": "easy",
+      "verse_reference": "Job 1:4",
+      "question": "What does Job 1:4 say?",
+      "correct_answer": "And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.",
+      "options": [
+        "Curse God and die",
+        "All that he hath",
+        "And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 1:4."
+    },
+    {
+      "id": 5,
+      "level": "easy",
+      "verse_reference": "Job 1:5",
+      "question": "What did Job offer for his children in Job 1:5?",
+      "correct_answer": "Burnt offerings",
+      "options": [
+        "A potsherd",
+        "A hedge",
+        "A mantle",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 1:5."
+    },
+    {
+      "id": 6,
+      "level": "easy",
+      "verse_reference": "Job 1:6",
+      "question": "Who came among the sons of God in Job 1:6?",
+      "correct_answer": "Satan",
+      "options": [
+        "Satan",
+        "Job",
+        "Zophar the Naamathite",
+        "The LORD"
+      ],
+      "explanation": "Based on Job 1:6."
+    },
+    {
+      "id": 7,
+      "level": "easy",
+      "verse_reference": "Job 1:7",
+      "question": "What does Job 1:7 say?",
+      "correct_answer": "And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.",
+      "options": [
+        "And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.",
+        "Curse God and die",
+        "Seven days and seven nights",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 1:7."
+    },
+    {
+      "id": 8,
+      "level": "easy",
+      "verse_reference": "Job 1:8",
+      "question": "What does Job 1:8 say?",
+      "correct_answer": "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?",
+      "options": [
+        "Burnt offerings",
+        "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?",
+        "Seven days and seven nights",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 1:8."
+    },
+    {
+      "id": 9,
+      "level": "easy",
+      "verse_reference": "Job 1:9",
+      "question": "What question did Satan ask about Job in Job 1:9?",
+      "correct_answer": "Doth Job fear God for nought?",
+      "options": [
+        "Doth Job fear God for nought?",
+        "Curse God and die",
+        "All that he hath",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 1:9."
+    },
+    {
+      "id": 10,
+      "level": "easy",
+      "verse_reference": "Job 1:10",
+      "question": "What had God made about Job and his house in Job 1:10?",
+      "correct_answer": "An hedge",
+      "options": [
+        "A hedge",
+        "A potsherd",
+        "An hedge",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 1:10."
+    },
+    {
+      "id": 11,
+      "level": "easy",
+      "verse_reference": "Job 1:11",
+      "question": "What did Satan say Job would do if he lost everything in Job 1:11?",
+      "correct_answer": "Curse thee to thy face",
+      "options": [
+        "Burnt offerings",
+        "All that he hath",
+        "Seven days and seven nights",
+        "Curse thee to thy face"
+      ],
+      "explanation": "Based on Job 1:11."
+    },
+    {
+      "id": 12,
+      "level": "easy",
+      "verse_reference": "Job 1:12",
+      "question": "What did God say was in Satan's power in Job 1:12?",
+      "correct_answer": "All that he hath",
+      "options": [
+        "An hedge",
+        "Burnt offerings",
+        "Curse God and die",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 1:12."
+    },
+    {
+      "id": 13,
+      "level": "easy",
+      "verse_reference": "Job 1:13",
+      "question": "What does Job 1:13 say?",
+      "correct_answer": "¶ And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house:",
+      "options": [
+        "An hedge",
+        "¶ And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house:",
+        "Seven days and seven nights",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 1:13."
+    },
+    {
+      "id": 14,
+      "level": "easy",
+      "verse_reference": "Job 1:14",
+      "question": "What does Job 1:14 say?",
+      "correct_answer": "And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:",
+      "options": [
+        "All that he hath",
+        "And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:",
+        "Curse God and die",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 1:14."
+    },
+    {
+      "id": 15,
+      "level": "easy",
+      "verse_reference": "Job 1:15",
+      "question": "What does Job 1:15 say?",
+      "correct_answer": "And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.",
+      "options": [
+        "Burnt offerings",
+        "And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.",
+        "Curse God and die",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 1:15."
+    },
+    {
+      "id": 16,
+      "level": "easy",
+      "verse_reference": "Job 1:16",
+      "question": "What does Job 1:16 say?",
+      "correct_answer": "While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.",
+      "options": [
+        "Curse God and die",
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee."
+      ],
+      "explanation": "Based on Job 1:16."
+    },
+    {
+      "id": 17,
+      "level": "easy",
+      "verse_reference": "Job 1:17",
+      "question": "What does Job 1:17 say?",
+      "correct_answer": "While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.",
+      "options": [
+        "An hedge",
+        "All that he hath",
+        "While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 1:17."
+    },
+    {
+      "id": 18,
+      "level": "easy",
+      "verse_reference": "Job 1:18",
+      "question": "What does Job 1:18 say?",
+      "correct_answer": "While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother’s house:",
+      "options": [
+        "While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother’s house:",
+        "Seven days and seven nights",
+        "An hedge",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 1:18."
+    },
+    {
+      "id": 19,
+      "level": "easy",
+      "verse_reference": "Job 1:19",
+      "question": "What does Job 1:19 say?",
+      "correct_answer": "And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.",
+      "options": [
+        "All that he hath",
+        "An hedge",
+        "Burnt offerings",
+        "And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee."
+      ],
+      "explanation": "Based on Job 1:19."
+    },
+    {
+      "id": 20,
+      "level": "easy",
+      "verse_reference": "Job 1:20",
+      "question": "What does Job 1:20 say?",
+      "correct_answer": "Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,",
+      "options": [
+        "Curse God and die",
+        "Burnt offerings",
+        "Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 1:20."
+    },
+    {
+      "id": 21,
+      "level": "easy",
+      "verse_reference": "Job 1:21",
+      "question": "What does Job 1:21 say?",
+      "correct_answer": "And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.",
+      "options": [
+        "An hedge",
+        "Curse God and die",
+        "And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 1:21."
+    },
+    {
+      "id": 22,
+      "level": "easy",
+      "verse_reference": "Job 1:22",
+      "question": "How did Job respond to his suffering in Job 1:22?",
+      "correct_answer": "He sinned not nor charged God foolishly",
+      "options": [
+        "Curse God and die",
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "He sinned not nor charged God foolishly"
+      ],
+      "explanation": "Based on Job 1:22."
+    },
+    {
+      "id": 23,
+      "level": "easy",
+      "verse_reference": "Job 2:1",
+      "question": "Who came among the sons of God in Job 2:1?",
+      "correct_answer": "Satan",
+      "options": [
+        "Eliphaz the Temanite",
+        "His wife",
+        "Satan",
+        "Job"
+      ],
+      "explanation": "Based on Job 2:1."
+    },
+    {
+      "id": 24,
+      "level": "easy",
+      "verse_reference": "Job 2:2",
+      "question": "What does Job 2:2 say?",
+      "correct_answer": "And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.",
+      "options": [
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "An hedge",
+        "And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it."
+      ],
+      "explanation": "Based on Job 2:2."
+    },
+    {
+      "id": 25,
+      "level": "easy",
+      "verse_reference": "Job 2:3",
+      "question": "What does Job 2:3 say?",
+      "correct_answer": "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.",
+      "options": [
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "All that he hath",
+        "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause."
+      ],
+      "explanation": "Based on Job 2:3."
+    },
+    {
+      "id": 26,
+      "level": "easy",
+      "verse_reference": "Job 2:4",
+      "question": "What does Job 2:4 say?",
+      "correct_answer": "And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.",
+      "options": [
+        "All that he hath",
+        "An hedge",
+        "Seven days and seven nights",
+        "And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life."
+      ],
+      "explanation": "Based on Job 2:4."
+    },
+    {
+      "id": 27,
+      "level": "easy",
+      "verse_reference": "Job 2:5",
+      "question": "What did Satan say Job would do if he lost everything in Job 2:5?",
+      "correct_answer": "Curse thee to thy face",
+      "options": [
+        "Curse thee to thy face",
+        "An hedge",
+        "Curse God and die",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 2:5."
+    },
+    {
+      "id": 28,
+      "level": "easy",
+      "verse_reference": "Job 2:6",
+      "question": "What command did God give Satan regarding Job in Job 2:6?",
+      "correct_answer": "Save his life",
+      "options": [
+        "Curse God and die",
+        "Burnt offerings",
+        "Save his life",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 2:6."
+    },
+    {
+      "id": 29,
+      "level": "easy",
+      "verse_reference": "Job 2:7",
+      "question": "What did Satan afflict Job with in Job 2:7?",
+      "correct_answer": "Sore boils",
+      "options": [
+        "Sore boils",
+        "A mantle",
+        "A potsherd",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 2:7."
+    },
+    {
+      "id": 30,
+      "level": "easy",
+      "verse_reference": "Job 2:8",
+      "question": "What did Job take to scrape himself in Job 2:8?",
+      "correct_answer": "A potsherd",
+      "options": [
+        "A hedge",
+        "Burnt offerings",
+        "Sore boils",
+        "A potsherd"
+      ],
+      "explanation": "Based on Job 2:8."
+    },
+    {
+      "id": 31,
+      "level": "easy",
+      "verse_reference": "Job 2:9",
+      "question": "What does Job 2:9 say?",
+      "correct_answer": "¶ Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.",
+      "options": [
+        "All that he hath",
+        "Curse God and die",
+        "¶ Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 2:9."
+    },
+    {
+      "id": 32,
+      "level": "easy",
+      "verse_reference": "Job 2:10",
+      "question": "What did Job say about receiving good and evil from God in Job 2:10?",
+      "correct_answer": "Shall we receive good at the hand of God, and shall we not receive evil?",
+      "options": [
+        "Shall we receive good at the hand of God, and shall we not receive evil?",
+        "Curse God and die",
+        "Burnt offerings",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 2:10."
+    },
+    {
+      "id": 33,
+      "level": "easy",
+      "verse_reference": "Job 2:11",
+      "question": "What does Job 2:11 say?",
+      "correct_answer": "¶ Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+      "options": [
+        "An hedge",
+        "Seven days and seven nights",
+        "¶ Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 2:11."
+    },
+    {
+      "id": 34,
+      "level": "easy",
+      "verse_reference": "Job 2:12",
+      "question": "What does Job 2:12 say?",
+      "correct_answer": "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.",
+      "options": [
+        "Curse God and die",
+        "All that he hath",
+        "Burnt offerings",
+        "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven."
+      ],
+      "explanation": "Based on Job 2:12."
+    },
+    {
+      "id": 35,
+      "level": "easy",
+      "verse_reference": "Job 2:13",
+      "question": "How long did Job's friends sit with him in Job 2:13?",
+      "correct_answer": "Seven days and seven nights",
+      "options": [
+        "Nine days and nine nights",
+        "Seven days and seven nights",
+        "Three days and three nights",
+        "Seven days and six nights"
+      ],
+      "explanation": "Based on Job 2:13."
+    },
+    {
+      "id": 36,
+      "level": "easy",
+      "verse_reference": "Job 3:1",
+      "question": "What did Job do to the day of his birth in Job 3:1?",
+      "correct_answer": "Cursed it",
+      "options": [
+        "An hedge",
+        "Cursed it",
+        "All that he hath",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:1."
+    },
+    {
+      "id": 37,
+      "level": "easy",
+      "verse_reference": "Job 3:2",
+      "question": "What does Job 3:2 say?",
+      "correct_answer": "And Job spake, and said,",
+      "options": [
+        "An hedge",
+        "And Job spake, and said,",
+        "All that he hath",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:2."
+    },
+    {
+      "id": 38,
+      "level": "easy",
+      "verse_reference": "Job 3:3",
+      "question": "What does Job 3:3 say?",
+      "correct_answer": "Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived.",
+      "options": [
+        "Burnt offerings",
+        "An hedge",
+        "Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived.",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 3:3."
+    },
+    {
+      "id": 39,
+      "level": "easy",
+      "verse_reference": "Job 3:4",
+      "question": "What did Job wish for the day of his birth in Job 3:4?",
+      "correct_answer": "Let that day be darkness",
+      "options": [
+        "All that he hath",
+        "Curse God and die",
+        "Let that day be darkness",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:4."
+    },
+    {
+      "id": 40,
+      "level": "easy",
+      "verse_reference": "Job 3:5",
+      "question": "What two things did Job say should stain the day of his birth in Job 3:5?",
+      "correct_answer": "Darkness and the shadow of death",
+      "options": [
+        "All that he hath",
+        "Seven days and seven nights",
+        "An hedge",
+        "Darkness and the shadow of death"
+      ],
+      "explanation": "Based on Job 3:5."
+    },
+    {
+      "id": 41,
+      "level": "easy",
+      "verse_reference": "Job 3:6",
+      "question": "What does Job 3:6 say?",
+      "correct_answer": "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.",
+      "options": [
+        "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.",
+        "An hedge",
+        "All that he hath",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 3:6."
+    },
+    {
+      "id": 42,
+      "level": "easy",
+      "verse_reference": "Job 3:7",
+      "question": "What does Job 3:7 say?",
+      "correct_answer": "Lo, let that night be solitary, let no joyful voice come therein.",
+      "options": [
+        "Lo, let that night be solitary, let no joyful voice come therein.",
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 3:7."
+    },
+    {
+      "id": 43,
+      "level": "easy",
+      "verse_reference": "Job 3:8",
+      "question": "What does Job 3:8 say?",
+      "correct_answer": "Let them curse it that curse the day, who are ready to raise up their mourning.",
+      "options": [
+        "Curse God and die",
+        "Let them curse it that curse the day, who are ready to raise up their mourning.",
+        "Burnt offerings",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 3:8."
+    },
+    {
+      "id": 44,
+      "level": "easy",
+      "verse_reference": "Job 3:9",
+      "question": "What did Job say should happen to the stars of that day in Job 3:9?",
+      "correct_answer": "They should be dark",
+      "options": [
+        "Burnt offerings",
+        "They should be dark",
+        "Curse God and die",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:9."
+    },
+    {
+      "id": 45,
+      "level": "easy",
+      "verse_reference": "Job 3:10",
+      "question": "What does Job 3:10 say?",
+      "correct_answer": "Because it shut not up the doors of my mother’s womb, nor hid sorrow from mine eyes.",
+      "options": [
+        "Curse God and die",
+        "An hedge",
+        "Burnt offerings",
+        "Because it shut not up the doors of my mother’s womb, nor hid sorrow from mine eyes."
+      ],
+      "explanation": "Based on Job 3:10."
+    },
+    {
+      "id": 46,
+      "level": "easy",
+      "verse_reference": "Job 3:11",
+      "question": "What question did Job ask about his birth in Job 3:11?",
+      "correct_answer": "Why died I not from the womb?",
+      "options": [
+        "Why died I not from the womb?",
+        "Burnt offerings",
+        "An hedge",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 3:11."
+    },
+    {
+      "id": 47,
+      "level": "easy",
+      "verse_reference": "Job 3:12",
+      "question": "What does Job 3:12 say?",
+      "correct_answer": "Why did the knees prevent me? or why the breasts that I should suck?",
+      "options": [
+        "Curse God and die",
+        "Why did the knees prevent me? or why the breasts that I should suck?",
+        "Burnt offerings",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:12."
+    },
+    {
+      "id": 48,
+      "level": "easy",
+      "verse_reference": "Job 3:13",
+      "question": "What does Job 3:13 say?",
+      "correct_answer": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,",
+      "options": [
+        "An hedge",
+        "Curse God and die",
+        "Burnt offerings",
+        "For now should I have lain still and been quiet, I should have slept: then had I been at rest,"
+      ],
+      "explanation": "Based on Job 3:13."
+    },
+    {
+      "id": 49,
+      "level": "easy",
+      "verse_reference": "Job 3:14",
+      "question": "What does Job 3:14 say?",
+      "correct_answer": "With kings and counsellors of the earth, which built desolate places for themselves;",
+      "options": [
+        "An hedge",
+        "With kings and counsellors of the earth, which built desolate places for themselves;",
+        "Burnt offerings",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:14."
+    },
+    {
+      "id": 50,
+      "level": "easy",
+      "verse_reference": "Job 3:15",
+      "question": "What does Job 3:15 say?",
+      "correct_answer": "Or with princes that had gold, who filled their houses with silver:",
+      "options": [
+        "Or with princes that had gold, who filled their houses with silver:",
+        "Burnt offerings",
+        "All that he hath",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:15."
+    },
+    {
+      "id": 51,
+      "level": "easy",
+      "verse_reference": "Job 3:16",
+      "question": "What does Job 3:16 say?",
+      "correct_answer": "Or as an hidden untimely birth I had not been; as infants which never saw light.",
+      "options": [
+        "Or as an hidden untimely birth I had not been; as infants which never saw light.",
+        "An hedge",
+        "Burnt offerings",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:16."
+    },
+    {
+      "id": 52,
+      "level": "medium",
+      "verse_reference": "Job 3:17",
+      "question": "What does Job 3:17 say?",
+      "correct_answer": "There the wicked cease from troubling; and there the weary be at rest.",
+      "options": [
+        "An hedge",
+        "Seven days and seven nights",
+        "There the wicked cease from troubling; and there the weary be at rest.",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 3:17."
+    },
+    {
+      "id": 53,
+      "level": "medium",
+      "verse_reference": "Job 3:18",
+      "question": "What does Job 3:18 say?",
+      "correct_answer": "There the prisoners rest together; they hear not the voice of the oppressor.",
+      "options": [
+        "An hedge",
+        "Burnt offerings",
+        "There the prisoners rest together; they hear not the voice of the oppressor.",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 3:18."
+    },
+    {
+      "id": 54,
+      "level": "medium",
+      "verse_reference": "Job 3:19",
+      "question": "What does Job 3:19 say?",
+      "correct_answer": "The small and great are there; and the servant is free from his master.",
+      "options": [
+        "Seven days and seven nights",
+        "Curse God and die",
+        "An hedge",
+        "The small and great are there; and the servant is free from his master."
+      ],
+      "explanation": "Based on Job 3:19."
+    },
+    {
+      "id": 55,
+      "level": "medium",
+      "verse_reference": "Job 3:20",
+      "question": "What does Job 3:20 say?",
+      "correct_answer": "Wherefore is light given to him that is in misery, and life unto the bitter in soul;",
+      "options": [
+        "Wherefore is light given to him that is in misery, and life unto the bitter in soul;",
+        "Seven days and seven nights",
+        "An hedge",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 3:20."
+    },
+    {
+      "id": 56,
+      "level": "medium",
+      "verse_reference": "Job 3:21",
+      "question": "What does Job 3:21 say?",
+      "correct_answer": "Which long for death, but it cometh not; and dig for it more than for hid treasures;",
+      "options": [
+        "All that he hath",
+        "Which long for death, but it cometh not; and dig for it more than for hid treasures;",
+        "Seven days and seven nights",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 3:21."
+    },
+    {
+      "id": 57,
+      "level": "medium",
+      "verse_reference": "Job 3:22",
+      "question": "What does Job 3:22 say?",
+      "correct_answer": "Which rejoice exceedingly, and are glad, when they can find the grave?",
+      "options": [
+        "All that he hath",
+        "Burnt offerings",
+        "Which rejoice exceedingly, and are glad, when they can find the grave?",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 3:22."
+    },
+    {
+      "id": 58,
+      "level": "medium",
+      "verse_reference": "Job 3:23",
+      "question": "What does Job 3:23 say?",
+      "correct_answer": "Why is light given to a man whose way is hid, and whom God hath hedged in?",
+      "options": [
+        "Curse God and die",
+        "Why is light given to a man whose way is hid, and whom God hath hedged in?",
+        "An hedge",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 3:23."
+    },
+    {
+      "id": 59,
+      "level": "medium",
+      "verse_reference": "Job 3:24",
+      "question": "What does Job 3:24 say?",
+      "correct_answer": "For my sighing cometh before I eat, and my roarings are poured out like the waters.",
+      "options": [
+        "Curse God and die",
+        "For my sighing cometh before I eat, and my roarings are poured out like the waters.",
+        "Burnt offerings",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 3:24."
+    },
+    {
+      "id": 60,
+      "level": "medium",
+      "verse_reference": "Job 3:25",
+      "question": "What does Job 3:25 say?",
+      "correct_answer": "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.",
+      "options": [
+        "Burnt offerings",
+        "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.",
+        "All that he hath",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 3:25."
+    },
+    {
+      "id": 61,
+      "level": "medium",
+      "verse_reference": "Job 3:26",
+      "question": "What does Job 3:26 say?",
+      "correct_answer": "I was not in safety, neither had I rest, neither was I quiet; yet trouble came.",
+      "options": [
+        "Seven days and seven nights",
+        "All that he hath",
+        "I was not in safety, neither had I rest, neither was I quiet; yet trouble came.",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 3:26."
+    },
+    {
+      "id": 62,
+      "level": "medium",
+      "verse_reference": "Job 4:1",
+      "question": "What does Job 4:1 say?",
+      "correct_answer": "Then Eliphaz the Temanite answered and said,",
+      "options": [
+        "All that he hath",
+        "Then Eliphaz the Temanite answered and said,",
+        "Seven days and seven nights",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 4:1."
+    },
+    {
+      "id": 63,
+      "level": "medium",
+      "verse_reference": "Job 4:2",
+      "question": "What does Job 4:2 say?",
+      "correct_answer": "If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?",
+      "options": [
+        "Seven days and seven nights",
+        "All that he hath",
+        "Burnt offerings",
+        "If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?"
+      ],
+      "explanation": "Based on Job 4:2."
+    },
+    {
+      "id": 64,
+      "level": "medium",
+      "verse_reference": "Job 4:3",
+      "question": "What does Job 4:3 say?",
+      "correct_answer": "Behold, thou hast instructed many, and thou hast strengthened the weak hands.",
+      "options": [
+        "Seven days and seven nights",
+        "Behold, thou hast instructed many, and thou hast strengthened the weak hands.",
+        "An hedge",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 4:3."
+    },
+    {
+      "id": 65,
+      "level": "medium",
+      "verse_reference": "Job 4:4",
+      "question": "What does Job 4:4 say?",
+      "correct_answer": "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.",
+      "options": [
+        "Curse God and die",
+        "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.",
+        "All that he hath",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 4:4."
+    },
+    {
+      "id": 66,
+      "level": "medium",
+      "verse_reference": "Job 4:5",
+      "question": "What does Job 4:5 say?",
+      "correct_answer": "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.",
+      "options": [
+        "All that he hath",
+        "An hedge",
+        "Burnt offerings",
+        "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled."
+      ],
+      "explanation": "Based on Job 4:5."
+    },
+    {
+      "id": 67,
+      "level": "medium",
+      "verse_reference": "Job 4:6",
+      "question": "What does Job 4:6 say?",
+      "correct_answer": "Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?",
+      "options": [
+        "Burnt offerings",
+        "Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?",
+        "Curse God and die",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 4:6."
+    },
+    {
+      "id": 68,
+      "level": "medium",
+      "verse_reference": "Job 4:7",
+      "question": "What does Job 4:7 say?",
+      "correct_answer": "Remember, I pray thee, who ever perished, being innocent? or where were the righteous cut off?",
+      "options": [
+        "An hedge",
+        "Curse God and die",
+        "Remember, I pray thee, who ever perished, being innocent? or where were the righteous cut off?",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 4:7."
+    },
+    {
+      "id": 69,
+      "level": "medium",
+      "verse_reference": "Job 4:8",
+      "question": "What does Job 4:8 say?",
+      "correct_answer": "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.",
+      "options": [
+        "Seven days and seven nights",
+        "Curse God and die",
+        "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 4:8."
+    },
+    {
+      "id": 70,
+      "level": "medium",
+      "verse_reference": "Job 4:9",
+      "question": "What does Job 4:9 say?",
+      "correct_answer": "By the blast of God they perish, and by the breath of his nostrils are they consumed.",
+      "options": [
+        "By the blast of God they perish, and by the breath of his nostrils are they consumed.",
+        "Curse God and die",
+        "All that he hath",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 4:9."
+    },
+    {
+      "id": 71,
+      "level": "medium",
+      "verse_reference": "Job 4:10",
+      "question": "What does Job 4:10 say?",
+      "correct_answer": "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.",
+      "options": [
+        "Curse God and die",
+        "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.",
+        "All that he hath",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 4:10."
+    },
+    {
+      "id": 72,
+      "level": "medium",
+      "verse_reference": "Job 4:11",
+      "question": "What does Job 4:11 say?",
+      "correct_answer": "The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.",
+      "options": [
+        "All that he hath",
+        "The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.",
+        "Burnt offerings",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 4:11."
+    },
+    {
+      "id": 73,
+      "level": "medium",
+      "verse_reference": "Job 4:12",
+      "question": "What does Job 4:12 say?",
+      "correct_answer": "Now a thing was secretly brought to me, and mine ear received a little thereof.",
+      "options": [
+        "Now a thing was secretly brought to me, and mine ear received a little thereof.",
+        "Curse God and die",
+        "All that he hath",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 4:12."
+    },
+    {
+      "id": 74,
+      "level": "medium",
+      "verse_reference": "Job 4:13",
+      "question": "What does Job 4:13 say?",
+      "correct_answer": "In thoughts from the visions of the night, when deep sleep falleth on men,",
+      "options": [
+        "All that he hath",
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "In thoughts from the visions of the night, when deep sleep falleth on men,"
+      ],
+      "explanation": "Based on Job 4:13."
+    },
+    {
+      "id": 75,
+      "level": "medium",
+      "verse_reference": "Job 4:14",
+      "question": "What does Job 4:14 say?",
+      "correct_answer": "Fear came upon me, and trembling, which made all my bones to shake.",
+      "options": [
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "Curse God and die",
+        "Fear came upon me, and trembling, which made all my bones to shake."
+      ],
+      "explanation": "Based on Job 4:14."
+    },
+    {
+      "id": 76,
+      "level": "medium",
+      "verse_reference": "Job 4:15",
+      "question": "What does Job 4:15 say?",
+      "correct_answer": "Then a spirit passed before my face; the hair of my flesh stood up:",
+      "options": [
+        "Then a spirit passed before my face; the hair of my flesh stood up:",
+        "Seven days and seven nights",
+        "Curse God and die",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 4:15."
+    },
+    {
+      "id": 77,
+      "level": "medium",
+      "verse_reference": "Job 4:16",
+      "question": "What does Job 4:16 say?",
+      "correct_answer": "It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,",
+      "options": [
+        "Seven days and seven nights",
+        "An hedge",
+        "Burnt offerings",
+        "It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,"
+      ],
+      "explanation": "Based on Job 4:16."
+    },
+    {
+      "id": 78,
+      "level": "medium",
+      "verse_reference": "Job 4:17",
+      "question": "What does Job 4:17 say?",
+      "correct_answer": "Shall mortal man be more just than God? shall a man be more pure than his maker?",
+      "options": [
+        "Shall mortal man be more just than God? shall a man be more pure than his maker?",
+        "Curse God and die",
+        "All that he hath",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 4:17."
+    },
+    {
+      "id": 79,
+      "level": "medium",
+      "verse_reference": "Job 4:18",
+      "question": "What does Job 4:18 say?",
+      "correct_answer": "Behold, he put no trust in his servants; and his angels he charged with folly:",
+      "options": [
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "Curse God and die",
+        "Behold, he put no trust in his servants; and his angels he charged with folly:"
+      ],
+      "explanation": "Based on Job 4:18."
+    },
+    {
+      "id": 80,
+      "level": "medium",
+      "verse_reference": "Job 4:19",
+      "question": "What does Job 4:19 say?",
+      "correct_answer": "How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?",
+      "options": [
+        "Curse God and die",
+        "Seven days and seven nights",
+        "An hedge",
+        "How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?"
+      ],
+      "explanation": "Based on Job 4:19."
+    },
+    {
+      "id": 81,
+      "level": "medium",
+      "verse_reference": "Job 4:20",
+      "question": "What does Job 4:20 say?",
+      "correct_answer": "They are destroyed from morning to evening: they perish for ever without any regarding it.",
+      "options": [
+        "An hedge",
+        "All that he hath",
+        "They are destroyed from morning to evening: they perish for ever without any regarding it.",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 4:20."
+    },
+    {
+      "id": 82,
+      "level": "medium",
+      "verse_reference": "Job 4:21",
+      "question": "What does Job 4:21 say?",
+      "correct_answer": "Doth not their excellency which is in them go away? they die, even without wisdom.",
+      "options": [
+        "Curse God and die",
+        "All that he hath",
+        "Doth not their excellency which is in them go away? they die, even without wisdom.",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 4:21."
+    },
+    {
+      "id": 83,
+      "level": "medium",
+      "verse_reference": "Job 5:1",
+      "question": "What does Job 5:1 say?",
+      "correct_answer": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?",
+      "options": [
+        "All that he hath",
+        "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?",
+        "Seven days and seven nights",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 5:1."
+    },
+    {
+      "id": 84,
+      "level": "medium",
+      "verse_reference": "Job 5:2",
+      "question": "What does Job 5:2 say?",
+      "correct_answer": "For wrath killeth the foolish man, and envy slayeth the silly one.",
+      "options": [
+        "Seven days and seven nights",
+        "Curse God and die",
+        "An hedge",
+        "For wrath killeth the foolish man, and envy slayeth the silly one."
+      ],
+      "explanation": "Based on Job 5:2."
+    },
+    {
+      "id": 85,
+      "level": "medium",
+      "verse_reference": "Job 5:3",
+      "question": "What does Job 5:3 say?",
+      "correct_answer": "I have seen the foolish taking root: but suddenly I cursed his habitation.",
+      "options": [
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "All that he hath",
+        "I have seen the foolish taking root: but suddenly I cursed his habitation."
+      ],
+      "explanation": "Based on Job 5:3."
+    },
+    {
+      "id": 86,
+      "level": "medium",
+      "verse_reference": "Job 5:4",
+      "question": "What does Job 5:4 say?",
+      "correct_answer": "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.",
+      "options": [
+        "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.",
+        "An hedge",
+        "Seven days and seven nights",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 5:4."
+    },
+    {
+      "id": 87,
+      "level": "medium",
+      "verse_reference": "Job 5:5",
+      "question": "What does Job 5:5 say?",
+      "correct_answer": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.",
+      "options": [
+        "An hedge",
+        "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.",
+        "Burnt offerings",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 5:5."
+    },
+    {
+      "id": 88,
+      "level": "medium",
+      "verse_reference": "Job 5:6",
+      "question": "What does Job 5:6 say?",
+      "correct_answer": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;",
+      "options": [
+        "Burnt offerings",
+        "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;",
+        "An hedge",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 5:6."
+    },
+    {
+      "id": 89,
+      "level": "medium",
+      "verse_reference": "Job 5:7",
+      "question": "What does Job 5:7 say?",
+      "correct_answer": "Yet man is born unto trouble, as the sparks fly upward.",
+      "options": [
+        "An hedge",
+        "Yet man is born unto trouble, as the sparks fly upward.",
+        "Seven days and seven nights",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 5:7."
+    },
+    {
+      "id": 90,
+      "level": "medium",
+      "verse_reference": "Job 5:8",
+      "question": "What does Job 5:8 say?",
+      "correct_answer": "I would seek unto God, and unto God would I commit my cause:",
+      "options": [
+        "I would seek unto God, and unto God would I commit my cause:",
+        "Curse God and die",
+        "Seven days and seven nights",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 5:8."
+    },
+    {
+      "id": 91,
+      "level": "medium",
+      "verse_reference": "Job 5:9",
+      "question": "What does Job 5:9 say?",
+      "correct_answer": "Which doeth great things and unsearchable; marvellous things without number:",
+      "options": [
+        "Curse God and die",
+        "All that he hath",
+        "Seven days and seven nights",
+        "Which doeth great things and unsearchable; marvellous things without number:"
+      ],
+      "explanation": "Based on Job 5:9."
+    },
+    {
+      "id": 92,
+      "level": "medium",
+      "verse_reference": "Job 5:10",
+      "question": "What does Job 5:10 say?",
+      "correct_answer": "Who giveth rain upon the earth, and sendeth waters upon the fields:",
+      "options": [
+        "Burnt offerings",
+        "An hedge",
+        "Who giveth rain upon the earth, and sendeth waters upon the fields:",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 5:10."
+    },
+    {
+      "id": 93,
+      "level": "medium",
+      "verse_reference": "Job 5:11",
+      "question": "What does Job 5:11 say?",
+      "correct_answer": "To set up on high those that be low; that those which mourn may be exalted to safety.",
+      "options": [
+        "Seven days and seven nights",
+        "An hedge",
+        "To set up on high those that be low; that those which mourn may be exalted to safety.",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 5:11."
+    },
+    {
+      "id": 94,
+      "level": "medium",
+      "verse_reference": "Job 5:12",
+      "question": "What does Job 5:12 say?",
+      "correct_answer": "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.",
+      "options": [
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "All that he hath",
+        "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise."
+      ],
+      "explanation": "Based on Job 5:12."
+    },
+    {
+      "id": 95,
+      "level": "medium",
+      "verse_reference": "Job 5:13",
+      "question": "What does Job 5:13 say?",
+      "correct_answer": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.",
+      "options": [
+        "Seven days and seven nights",
+        "All that he hath",
+        "Burnt offerings",
+        "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong."
+      ],
+      "explanation": "Based on Job 5:13."
+    },
+    {
+      "id": 96,
+      "level": "medium",
+      "verse_reference": "Job 5:14",
+      "question": "What does Job 5:14 say?",
+      "correct_answer": "They meet with darkness in the daytime, and grope in the noonday as in the night.",
+      "options": [
+        "They meet with darkness in the daytime, and grope in the noonday as in the night.",
+        "All that he hath",
+        "Curse God and die",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 5:14."
+    },
+    {
+      "id": 97,
+      "level": "medium",
+      "verse_reference": "Job 5:15",
+      "question": "What does Job 5:15 say?",
+      "correct_answer": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.",
+      "options": [
+        "An hedge",
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty."
+      ],
+      "explanation": "Based on Job 5:15."
+    },
+    {
+      "id": 98,
+      "level": "medium",
+      "verse_reference": "Job 5:16",
+      "question": "What does Job 5:16 say?",
+      "correct_answer": "So the poor hath hope, and iniquity stoppeth her mouth.",
+      "options": [
+        "Seven days and seven nights",
+        "An hedge",
+        "Burnt offerings",
+        "So the poor hath hope, and iniquity stoppeth her mouth."
+      ],
+      "explanation": "Based on Job 5:16."
+    },
+    {
+      "id": 99,
+      "level": "medium",
+      "verse_reference": "Job 5:17",
+      "question": "What does Job 5:17 say?",
+      "correct_answer": "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:",
+      "options": [
+        "Burnt offerings",
+        "Curse God and die",
+        "Seven days and seven nights",
+        "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:"
+      ],
+      "explanation": "Based on Job 5:17."
+    },
+    {
+      "id": 100,
+      "level": "medium",
+      "verse_reference": "Job 5:18",
+      "question": "What does Job 5:18 say?",
+      "correct_answer": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole.",
+      "options": [
+        "Burnt offerings",
+        "Curse God and die",
+        "An hedge",
+        "For he maketh sore, and bindeth up: he woundeth, and his hands make whole."
+      ],
+      "explanation": "Based on Job 5:18."
+    },
+    {
+      "id": 101,
+      "level": "medium",
+      "verse_reference": "Job 5:19",
+      "question": "What does Job 5:19 say?",
+      "correct_answer": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.",
+      "options": [
+        "All that he hath",
+        "Seven days and seven nights",
+        "Curse God and die",
+        "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee."
+      ],
+      "explanation": "Based on Job 5:19."
+    },
+    {
+      "id": 102,
+      "level": "hard",
+      "verse_reference": "Job 5:20",
+      "question": "What does Job 5:20 say?",
+      "correct_answer": "In famine he shall redeem thee from death: and in war from the power of the sword.",
+      "options": [
+        "In famine he shall redeem thee from death: and in war from the power of the sword.",
+        "Curse God and die",
+        "Burnt offerings",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 5:20."
+    },
+    {
+      "id": 103,
+      "level": "hard",
+      "verse_reference": "Job 5:21",
+      "question": "What does Job 5:21 say?",
+      "correct_answer": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
+      "options": [
+        "All that he hath",
+        "Curse God and die",
+        "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 5:21."
+    },
+    {
+      "id": 104,
+      "level": "hard",
+      "verse_reference": "Job 5:22",
+      "question": "What does Job 5:22 say?",
+      "correct_answer": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.",
+      "options": [
+        "Burnt offerings",
+        "An hedge",
+        "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 5:22."
+    },
+    {
+      "id": 105,
+      "level": "hard",
+      "verse_reference": "Job 5:23",
+      "question": "What does Job 5:23 say?",
+      "correct_answer": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.",
+      "options": [
+        "All that he hath",
+        "An hedge",
+        "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 5:23."
+    },
+    {
+      "id": 106,
+      "level": "hard",
+      "verse_reference": "Job 5:24",
+      "question": "What does Job 5:24 say?",
+      "correct_answer": "And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.",
+      "options": [
+        "An hedge",
+        "Seven days and seven nights",
+        "Curse God and die",
+        "And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin."
+      ],
+      "explanation": "Based on Job 5:24."
+    },
+    {
+      "id": 107,
+      "level": "hard",
+      "verse_reference": "Job 5:25",
+      "question": "What does Job 5:25 say?",
+      "correct_answer": "Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.",
+      "options": [
+        "Burnt offerings",
+        "All that he hath",
+        "An hedge",
+        "Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth."
+      ],
+      "explanation": "Based on Job 5:25."
+    },
+    {
+      "id": 108,
+      "level": "hard",
+      "verse_reference": "Job 5:26",
+      "question": "What does Job 5:26 say?",
+      "correct_answer": "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.",
+      "options": [
+        "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.",
+        "Seven days and seven nights",
+        "All that he hath",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 5:26."
+    },
+    {
+      "id": 109,
+      "level": "hard",
+      "verse_reference": "Job 5:27",
+      "question": "What does Job 5:27 say?",
+      "correct_answer": "Lo this, we have searched it, so it is; hear it, and know thou it for thy good.",
+      "options": [
+        "Lo this, we have searched it, so it is; hear it, and know thou it for thy good.",
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 5:27."
+    },
+    {
+      "id": 110,
+      "level": "hard",
+      "verse_reference": "Job 6:1",
+      "question": "What does Job 6:1 say?",
+      "correct_answer": "But Job answered and said,",
+      "options": [
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "But Job answered and said,",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:1."
+    },
+    {
+      "id": 111,
+      "level": "hard",
+      "verse_reference": "Job 6:2",
+      "question": "What does Job 6:2 say?",
+      "correct_answer": "Oh that my grief were throughly weighed, and my calamity laid in the balances together!",
+      "options": [
+        "Oh that my grief were throughly weighed, and my calamity laid in the balances together!",
+        "Burnt offerings",
+        "An hedge",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 6:2."
+    },
+    {
+      "id": 112,
+      "level": "hard",
+      "verse_reference": "Job 6:3",
+      "question": "What does Job 6:3 say?",
+      "correct_answer": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up.",
+      "options": [
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "For now it would be heavier than the sand of the sea: therefore my words are swallowed up.",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:3."
+    },
+    {
+      "id": 113,
+      "level": "hard",
+      "verse_reference": "Job 6:4",
+      "question": "What does Job 6:4 say?",
+      "correct_answer": "For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.",
+      "options": [
+        "Seven days and seven nights",
+        "For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.",
+        "All that he hath",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 6:4."
+    },
+    {
+      "id": 114,
+      "level": "hard",
+      "verse_reference": "Job 6:5",
+      "question": "What does Job 6:5 say?",
+      "correct_answer": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?",
+      "options": [
+        "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?",
+        "All that he hath",
+        "Seven days and seven nights",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:5."
+    },
+    {
+      "id": 115,
+      "level": "hard",
+      "verse_reference": "Job 6:6",
+      "question": "What does Job 6:6 say?",
+      "correct_answer": "Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?",
+      "options": [
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 6:6."
+    },
+    {
+      "id": 116,
+      "level": "hard",
+      "verse_reference": "Job 6:7",
+      "question": "What does Job 6:7 say?",
+      "correct_answer": "The things that my soul refused to touch are as my sorrowful meat.",
+      "options": [
+        "All that he hath",
+        "The things that my soul refused to touch are as my sorrowful meat.",
+        "Burnt offerings",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 6:7."
+    },
+    {
+      "id": 117,
+      "level": "hard",
+      "verse_reference": "Job 6:8",
+      "question": "What does Job 6:8 say?",
+      "correct_answer": "Oh that I might have my request; and that God would grant me the thing that I long for!",
+      "options": [
+        "Curse God and die",
+        "An hedge",
+        "Oh that I might have my request; and that God would grant me the thing that I long for!",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 6:8."
+    },
+    {
+      "id": 118,
+      "level": "hard",
+      "verse_reference": "Job 6:9",
+      "question": "What does Job 6:9 say?",
+      "correct_answer": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!",
+      "options": [
+        "All that he hath",
+        "Curse God and die",
+        "Seven days and seven nights",
+        "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!"
+      ],
+      "explanation": "Based on Job 6:9."
+    },
+    {
+      "id": 119,
+      "level": "hard",
+      "verse_reference": "Job 6:10",
+      "question": "What does Job 6:10 say?",
+      "correct_answer": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.",
+      "options": [
+        "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.",
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:10."
+    },
+    {
+      "id": 120,
+      "level": "hard",
+      "verse_reference": "Job 6:11",
+      "question": "What does Job 6:11 say?",
+      "correct_answer": "What is my strength, that I should hope? and what is mine end, that I should prolong my life?",
+      "options": [
+        "What is my strength, that I should hope? and what is mine end, that I should prolong my life?",
+        "An hedge",
+        "All that he hath",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 6:11."
+    },
+    {
+      "id": 121,
+      "level": "hard",
+      "verse_reference": "Job 6:12",
+      "question": "What does Job 6:12 say?",
+      "correct_answer": "Is my strength the strength of stones? or is my flesh of brass?",
+      "options": [
+        "All that he hath",
+        "Burnt offerings",
+        "Curse God and die",
+        "Is my strength the strength of stones? or is my flesh of brass?"
+      ],
+      "explanation": "Based on Job 6:12."
+    },
+    {
+      "id": 122,
+      "level": "hard",
+      "verse_reference": "Job 6:13",
+      "question": "What does Job 6:13 say?",
+      "correct_answer": "Is not my help in me? and is wisdom driven quite from me?",
+      "options": [
+        "Burnt offerings",
+        "An hedge",
+        "Is not my help in me? and is wisdom driven quite from me?",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 6:13."
+    },
+    {
+      "id": 123,
+      "level": "hard",
+      "verse_reference": "Job 6:14",
+      "question": "What does Job 6:14 say?",
+      "correct_answer": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.",
+      "options": [
+        "Curse God and die",
+        "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.",
+        "An hedge",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 6:14."
+    },
+    {
+      "id": 124,
+      "level": "hard",
+      "verse_reference": "Job 6:15",
+      "question": "What does Job 6:15 say?",
+      "correct_answer": "My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;",
+      "options": [
+        "My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;",
+        "Seven days and seven nights",
+        "Burnt offerings",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:15."
+    },
+    {
+      "id": 125,
+      "level": "hard",
+      "verse_reference": "Job 6:16",
+      "question": "What does Job 6:16 say?",
+      "correct_answer": "Which are blackish by reason of the ice, and wherein the snow is hid:",
+      "options": [
+        "Curse God and die",
+        "All that he hath",
+        "Which are blackish by reason of the ice, and wherein the snow is hid:",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 6:16."
+    },
+    {
+      "id": 126,
+      "level": "hard",
+      "verse_reference": "Job 6:17",
+      "question": "What does Job 6:17 say?",
+      "correct_answer": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place.",
+      "options": [
+        "All that he hath",
+        "Burnt offerings",
+        "What time they wax warm, they vanish: when it is hot, they are consumed out of their place.",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:17."
+    },
+    {
+      "id": 127,
+      "level": "hard",
+      "verse_reference": "Job 6:18",
+      "question": "What does Job 6:18 say?",
+      "correct_answer": "The paths of their way are turned aside; they go to nothing, and perish.",
+      "options": [
+        "All that he hath",
+        "An hedge",
+        "The paths of their way are turned aside; they go to nothing, and perish.",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 6:18."
+    },
+    {
+      "id": 128,
+      "level": "hard",
+      "verse_reference": "Job 6:19",
+      "question": "What does Job 6:19 say?",
+      "correct_answer": "The troops of Tema looked, the companies of Sheba waited for them.",
+      "options": [
+        "Curse God and die",
+        "An hedge",
+        "All that he hath",
+        "The troops of Tema looked, the companies of Sheba waited for them."
+      ],
+      "explanation": "Based on Job 6:19."
+    },
+    {
+      "id": 129,
+      "level": "hard",
+      "verse_reference": "Job 6:20",
+      "question": "What does Job 6:20 say?",
+      "correct_answer": "They were confounded because they had hoped; they came thither, and were ashamed.",
+      "options": [
+        "All that he hath",
+        "Burnt offerings",
+        "They were confounded because they had hoped; they came thither, and were ashamed.",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:20."
+    },
+    {
+      "id": 130,
+      "level": "hard",
+      "verse_reference": "Job 6:21",
+      "question": "What does Job 6:21 say?",
+      "correct_answer": "For now ye are nothing; ye see my casting down, and are afraid.",
+      "options": [
+        "All that he hath",
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "For now ye are nothing; ye see my casting down, and are afraid."
+      ],
+      "explanation": "Based on Job 6:21."
+    },
+    {
+      "id": 131,
+      "level": "hard",
+      "verse_reference": "Job 6:22",
+      "question": "What does Job 6:22 say?",
+      "correct_answer": "Did I say, Bring unto me? or, Give a reward for me of your substance?",
+      "options": [
+        "All that he hath",
+        "Burnt offerings",
+        "Curse God and die",
+        "Did I say, Bring unto me? or, Give a reward for me of your substance?"
+      ],
+      "explanation": "Based on Job 6:22."
+    },
+    {
+      "id": 132,
+      "level": "hard",
+      "verse_reference": "Job 6:23",
+      "question": "What does Job 6:23 say?",
+      "correct_answer": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?",
+      "options": [
+        "Seven days and seven nights",
+        "All that he hath",
+        "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 6:23."
+    },
+    {
+      "id": 133,
+      "level": "hard",
+      "verse_reference": "Job 6:24",
+      "question": "What does Job 6:24 say?",
+      "correct_answer": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.",
+      "options": [
+        "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.",
+        "Curse God and die",
+        "Burnt offerings",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 6:24."
+    },
+    {
+      "id": 134,
+      "level": "hard",
+      "verse_reference": "Job 6:25",
+      "question": "What does Job 6:25 say?",
+      "correct_answer": "How forcible are right words! but what doth your arguing reprove?",
+      "options": [
+        "How forcible are right words! but what doth your arguing reprove?",
+        "All that he hath",
+        "Curse God and die",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 6:25."
+    },
+    {
+      "id": 135,
+      "level": "hard",
+      "verse_reference": "Job 6:26",
+      "question": "What does Job 6:26 say?",
+      "correct_answer": "Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?",
+      "options": [
+        "Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?",
+        "An hedge",
+        "All that he hath",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:26."
+    },
+    {
+      "id": 136,
+      "level": "hard",
+      "verse_reference": "Job 6:27",
+      "question": "What does Job 6:27 say?",
+      "correct_answer": "Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.",
+      "options": [
+        "Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.",
+        "Seven days and seven nights",
+        "Curse God and die",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 6:27."
+    },
+    {
+      "id": 137,
+      "level": "hard",
+      "verse_reference": "Job 6:28",
+      "question": "What does Job 6:28 say?",
+      "correct_answer": "Now therefore be content, look upon me; for it is evident unto you if I lie.",
+      "options": [
+        "Seven days and seven nights",
+        "Curse God and die",
+        "Now therefore be content, look upon me; for it is evident unto you if I lie.",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 6:28."
+    },
+    {
+      "id": 138,
+      "level": "hard",
+      "verse_reference": "Job 6:29",
+      "question": "What does Job 6:29 say?",
+      "correct_answer": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.",
+      "options": [
+        "Curse God and die",
+        "Burnt offerings",
+        "Seven days and seven nights",
+        "Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it."
+      ],
+      "explanation": "Based on Job 6:29."
+    },
+    {
+      "id": 139,
+      "level": "hard",
+      "verse_reference": "Job 6:30",
+      "question": "What does Job 6:30 say?",
+      "correct_answer": "Is there iniquity in my tongue? cannot my taste discern perverse things?",
+      "options": [
+        "An hedge",
+        "Burnt offerings",
+        "Is there iniquity in my tongue? cannot my taste discern perverse things?",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 6:30."
+    },
+    {
+      "id": 140,
+      "level": "hard",
+      "verse_reference": "Job 7:1",
+      "question": "What does Job 7:1 say?",
+      "correct_answer": "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?",
+      "options": [
+        "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?",
+        "An hedge",
+        "Seven days and seven nights",
+        "Burnt offerings"
+      ],
+      "explanation": "Based on Job 7:1."
+    },
+    {
+      "id": 141,
+      "level": "hard",
+      "verse_reference": "Job 7:2",
+      "question": "What does Job 7:2 say?",
+      "correct_answer": "As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:",
+      "options": [
+        "As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:",
+        "All that he hath",
+        "Burnt offerings",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 7:2."
+    },
+    {
+      "id": 142,
+      "level": "hard",
+      "verse_reference": "Job 7:3",
+      "question": "What does Job 7:3 say?",
+      "correct_answer": "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
+      "options": [
+        "An hedge",
+        "All that he hath",
+        "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 7:3."
+    },
+    {
+      "id": 143,
+      "level": "hard",
+      "verse_reference": "Job 7:4",
+      "question": "What does Job 7:4 say?",
+      "correct_answer": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.",
+      "options": [
+        "Burnt offerings",
+        "An hedge",
+        "All that he hath",
+        "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day."
+      ],
+      "explanation": "Based on Job 7:4."
+    },
+    {
+      "id": 144,
+      "level": "hard",
+      "verse_reference": "Job 7:5",
+      "question": "What does Job 7:5 say?",
+      "correct_answer": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
+      "options": [
+        "Burnt offerings",
+        "An hedge",
+        "All that he hath",
+        "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome."
+      ],
+      "explanation": "Based on Job 7:5."
+    },
+    {
+      "id": 145,
+      "level": "hard",
+      "verse_reference": "Job 7:6",
+      "question": "What does Job 7:6 say?",
+      "correct_answer": "My days are swifter than a weaver’s shuttle, and are spent without hope.",
+      "options": [
+        "All that he hath",
+        "My days are swifter than a weaver’s shuttle, and are spent without hope.",
+        "Curse God and die",
+        "An hedge"
+      ],
+      "explanation": "Based on Job 7:6."
+    },
+    {
+      "id": 146,
+      "level": "hard",
+      "verse_reference": "Job 7:7",
+      "question": "What does Job 7:7 say?",
+      "correct_answer": "O remember that my life is wind: mine eye shall no more see good.",
+      "options": [
+        "All that he hath",
+        "Seven days and seven nights",
+        "Curse God and die",
+        "O remember that my life is wind: mine eye shall no more see good."
+      ],
+      "explanation": "Based on Job 7:7."
+    },
+    {
+      "id": 147,
+      "level": "hard",
+      "verse_reference": "Job 7:8",
+      "question": "What does Job 7:8 say?",
+      "correct_answer": "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.",
+      "options": [
+        "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.",
+        "Seven days and seven nights",
+        "An hedge",
+        "All that he hath"
+      ],
+      "explanation": "Based on Job 7:8."
+    },
+    {
+      "id": 148,
+      "level": "hard",
+      "verse_reference": "Job 7:9",
+      "question": "What does Job 7:9 say?",
+      "correct_answer": "As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.",
+      "options": [
+        "Burnt offerings",
+        "All that he hath",
+        "As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 7:9."
+    },
+    {
+      "id": 149,
+      "level": "hard",
+      "verse_reference": "Job 7:10",
+      "question": "What does Job 7:10 say?",
+      "correct_answer": "He shall return no more to his house, neither shall his place know him any more.",
+      "options": [
+        "He shall return no more to his house, neither shall his place know him any more.",
+        "An hedge",
+        "Burnt offerings",
+        "Seven days and seven nights"
+      ],
+      "explanation": "Based on Job 7:10."
+    },
+    {
+      "id": 150,
+      "level": "hard",
+      "verse_reference": "Job 7:11",
+      "question": "What does Job 7:11 say?",
+      "correct_answer": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
+      "options": [
+        "All that he hath",
+        "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
+        "An hedge",
+        "Curse God and die"
+      ],
+      "explanation": "Based on Job 7:11."
+    }
+  ]
+}

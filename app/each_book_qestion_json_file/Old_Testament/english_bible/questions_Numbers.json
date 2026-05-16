@@ -1,0 +1,1276 @@
+{
+  "metadata": {
+    "total_questions": 150,
+    "levels": {
+      "1": {"name": "Easy", "count": 50, "description": "Factual questions directly from the text"},
+      "2": {"name": "Medium", "count": 50, "description": "Interpretive questions about meaning and themes"},
+      "3": {"name": "Hard", "count": 50, "description": "Analytical questions requiring deeper understanding"}
+    },
+    "book": "Numbers",
+    "chapters": "1-36"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "verse_reference": "Numbers 1:1-3",
+      "question": "What did the LORD command Moses to do in the wilderness of Sinai?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Take the sum of all the congregation of Israel by the number of their names",
+        "B": "Build a new tabernacle",
+        "C": "Prepare the people for battle",
+        "D": "Divide the land among the tribes"
+      },
+      "explanation": "Numbers 1:2-3 records the command to number all males able to go to war, from twenty years old and upward."
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "verse_reference": "Numbers 1:47-50",
+      "question": "Why were the Levites not numbered among the other tribes?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The LORD appointed them to keep the tabernacle and its vessels instead",
+        "B": "They were a different race",
+        "C": "They were not yet of age",
+        "D": "They refused to be counted"
+      },
+      "explanation": "Numbers 1:50 states that the Levites were appointed to bear and minister to the tabernacle rather than be numbered with the military forces."
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "verse_reference": "Numbers 2:1-2",
+      "question": "How were the children of Israel to arrange their camps?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Every man by his own standard with the ensign of his father's house",
+        "B": "In random order",
+        "C": "By age from oldest to youngest",
+        "D": "By size from smallest to largest"
+      },
+      "explanation": "Numbers 2:2 describes how each man was to pitch his tent by his standard with his father's house ensign."
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "verse_reference": "Numbers 3:1-4",
+      "question": "What happened to Nadab and Abihu?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They died before the LORD when they offered strange fire",
+        "B": "They were promoted to high priests",
+        "C": "They were banished from Israel",
+        "D": "They became judges of Israel"
+      },
+      "explanation": "Numbers 3:4 recalls their death when they offered unauthorized fire before the LORD in the wilderness of Sinai."
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "verse_reference": "Numbers 3:12",
+      "question": "For what purpose did the LORD take the Levites?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Instead of all the firstborn of Israel",
+        "B": "To be warriors",
+        "C": "To rule over other tribes",
+        "D": "To collect taxes"
+      },
+      "explanation": "Numbers 3:12 states that God chose the Levites to replace the firstborn of Israel for His service."
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "verse_reference": "Numbers 6:2-5",
+      "question": "What were the requirements of a Nazarite vow?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Separate from wine and strong drink, not use a razor on the head, and not come near a dead body",
+        "B": "Give away all possessions",
+        "C": "Never leave the tabernacle",
+        "D": "Never speak to anyone"
+      },
+      "explanation": "Numbers 6:3-6 describes the Nazarite vow which involved abstinence from wine, letting hair grow, and maintaining ritual purity."
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "verse_reference": "Numbers 6:24-26",
+      "question": "What blessing did the LORD command Aaron to give Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The LORD bless thee, keep thee, make His face shine upon thee and give thee peace",
+        "B": "Victory over all enemies",
+        "C": "Wealth and abundance",
+        "D": "Long life and many children"
+      },
+      "explanation": "Numbers 6:24-26 contains the Priestly Blessing, one of the most famous blessings in Scripture."
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "verse_reference": "Numbers 7:2-3",
+      "question": "What offerings did the princes of Israel bring for the tabernacle dedication?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Six covered wagons and twelve oxen",
+        "B": "Gold and silver vessels",
+        "C": "Animals for sacrifice",
+        "D": "Incense and perfumes"
+      },
+      "explanation": "Numbers 7:3 records the princes offering wagons and oxen for transporting the tabernacle."
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "verse_reference": "Numbers 9:1-3",
+      "question": "What festival did the LORD command Israel to keep in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The Passover",
+        "B": "The Feast of Tabernacles",
+        "C": "The Day of Atonement",
+        "D": "Pentecost"
+      },
+      "explanation": "Numbers 9:2 commands the children of Israel to keep the Passover at its appointed season."
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "verse_reference": "Numbers 9:15-17",
+      "question": "What guided Israel's movements in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The cloud that covered the tabernacle during the day and appeared as fire at night",
+        "B": "The stars",
+        "C": "Moses' directions",
+        "D": "The priests' guidance"
+      },
+      "explanation": "Numbers 9:15-17 describes how the cloud covered the tabernacle and guided Israel's journeys."
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "verse_reference": "Numbers 10:2-3",
+      "question": "What were the two silver trumpets used for?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To call the assembly together and to announce the journeying of the camps",
+        "B": "To call for war only",
+        "C": "To announce feast days",
+        "D": "To signal danger"
+      },
+      "explanation": "Numbers 10:2-3 describes the trumpets being used for assembling the congregation and moving the camps."
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "verse_reference": "Numbers 11:4-6",
+      "question": "What did the people of Israel complain about in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They wanted meat to eat instead of only manna",
+        "B": "They wanted to return to Egypt",
+        "C": "They did not have enough water",
+        "D": "They wanted new leadership"
+      },
+      "explanation": "Numbers 11:4-6 records how the mixed multitude lusted for meat and complained about manna."
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "verse_reference": "Numbers 12:3",
+      "question": "What was remarkable about Moses according to Numbers 12:3?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He was very meek, above all men upon the earth",
+        "B": "He was the strongest leader",
+        "C": "He had no equal in wisdom",
+        "D": "He performed the most miracles"
+      },
+      "explanation": "Numbers 12:3 characterizes Moses as extraordinarily meek, describing a unique humility in his character."
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "verse_reference": "Numbers 13:1-3",
+      "question": "Why did Moses send men into Canaan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To search the land that God was giving to Israel",
+        "B": "To establish trade agreements",
+        "C": "To make a military alliance",
+        "D": "To find a place to camp"
+      },
+      "explanation": "Numbers 13:2 records God's command to send men to spy out Canaan."
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "verse_reference": "Numbers 13:26-27",
+      "question": "What did the spies report about Canaan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It flows with milk and honey, but the people are strong and the cities are walled",
+        "B": "It is barren and cannot sustain people",
+        "C": "It is empty with no inhabitants",
+        "D": "It is smaller than they expected"
+      },
+      "explanation": "Numbers 13:27-28 describes the spies' mixed report, acknowledging the land's fertility but warning of its strength."
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "verse_reference": "Numbers 13:30",
+      "question": "What did Caleb urge the people to do?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Go up at once and possess the land, for they were well able to overcome it",
+        "B": "Retreat and reconsider",
+        "C": "Wait for more information",
+        "D": "Return to Egypt"
+      },
+      "explanation": "Numbers 13:30 shows Caleb's faith in God's ability to give them the land despite the giants."
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "verse_reference": "Numbers 14:1-2",
+      "question": "How did Israel respond to the spies' report?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They wept, murmured against Moses and Aaron, and wished they had died in Egypt",
+        "B": "They prepared to attack Canaan",
+        "C": "They praised God for the good land",
+        "D": "They remained calm and trusting"
+      },
+      "explanation": "Numbers 14:1-4 records Israel's rebellion against God's promise, with them wanting to return to Egypt."
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "verse_reference": "Numbers 14:22-23",
+      "question": "What was God's judgment on Israel's unbelief?",
+      "correct_answer": "A",
+      "options": {
+        "A": "None of those who saw God's miracles and tempted Him would see the Promised Land",
+        "B": "They would be immediately destroyed",
+        "C": "They would be enslaved again",
+        "D": "They would lose their God"
+      },
+      "explanation": "Numbers 14:23 records God's judgment that those who despised His land would not see it."
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "verse_reference": "Numbers 14:24",
+      "question": "Who would be allowed to enter the Promised Land?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Caleb, because he had another spirit and followed God fully",
+        "B": "Only the priests",
+        "C": "Only the young men",
+        "D": "Only those born in the wilderness"
+      },
+      "explanation": "Numbers 14:24 specifically names Caleb as one who would enter the land due to his faithful spirit."
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "verse_reference": "Numbers 14:33-34",
+      "question": "How long would Israel wander in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Forty years, one year for each day the spies searched the land",
+        "B": "Ten years",
+        "C": "Twenty years",
+        "D": "Fifty years"
+      },
+      "explanation": "Numbers 14:34 establishes the forty-year judgment as a consequence of Israel's unbelief."
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "verse_reference": "Numbers 16:1-3",
+      "question": "Who rebelled against Moses and Aaron's leadership?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Korah, Dathan, Abiram, and two hundred fifty princes of the congregation",
+        "B": "All the people of Israel",
+        "C": "Only the tribe of Judah",
+        "D": "The priests only"
+      },
+      "explanation": "Numbers 16:1-3 describes Korah's rebellion against the leadership, claiming all Israel was holy."
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "verse_reference": "Numbers 16:31-32",
+      "question": "What was God's judgment on Korah's rebellion?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The earth opened and swallowed them up with their houses and all their goods",
+        "B": "They were exiled from Israel",
+        "C": "They were struck with leprosy",
+        "D": "They were enslaved"
+      },
+      "explanation": "Numbers 16:31-32 records the dramatic judgment where the ground split and swallowed the rebels alive."
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "verse_reference": "Numbers 17:8",
+      "question": "What miraculous sign confirmed Aaron's priesthood?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Aaron's rod budded, blossomed, and yielded almonds",
+        "B": "Fire came down from heaven",
+        "C": "Water flowed from a rock",
+        "D": "A pillar of cloud appeared"
+      },
+      "explanation": "Numbers 17:8 records the miraculous budding of Aaron's rod as confirmation of his priesthood."
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "verse_reference": "Numbers 20:8",
+      "question": "What did God command Moses to do to provide water in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Speak to the rock, and it would give forth water",
+        "B": "Strike the rock with his staff",
+        "C": "Dig a well",
+        "D": "Call upon heaven"
+      },
+      "explanation": "Numbers 20:8 shows God's instruction for Moses to speak to the rock to bring forth water."
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "verse_reference": "Numbers 20:12",
+      "question": "Why did God say Moses would not enter the Promised Land?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Because he did not believe God and did not sanctify Him before Israel",
+        "B": "Because he was too old",
+        "C": "Because he lacked the strength",
+        "D": "Because the people rejected him"
+      },
+      "explanation": "Numbers 20:12 records God's judgment on Moses for failing to fully trust and honor Him at the water of Meribah."
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "verse_reference": "Numbers 20:22-26",
+      "question": "What happened to Aaron?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He died on Mount Hor, and his garments were put on Eleazar his son",
+        "B": "He was taken up to heaven",
+        "C": "He returned to Egypt",
+        "D": "He became a judge of Israel"
+      },
+      "explanation": "Numbers 20:25-27 records Aaron's death and the transfer of priesthood to his son Eleazar."
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "verse_reference": "Numbers 21:8-9",
+      "question": "What did Moses make to heal the people from fiery serpents?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A serpent of brass on a pole",
+        "B": "A golden altar",
+        "C": "A bronze tabernacle",
+        "D": "A healing herb"
+      },
+      "explanation": "Numbers 21:9 records how Moses made a brass serpent that people could look upon for healing."
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "verse_reference": "Numbers 21:21-24",
+      "question": "How did Israel obtain victory over Sihon king of the Amorites?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They smote him with the edge of the sword and possessed his land",
+        "B": "Sihon surrendered peacefully",
+        "C": "They made an alliance with him",
+        "D": "God destroyed him with a plague"
+      },
+      "explanation": "Numbers 21:24 records Israel's military victory over Sihon and their possession of his territory."
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "verse_reference": "Numbers 22:2-5",
+      "question": "Why did Balak king of Moab send messengers to Balaam?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To ask him to curse Israel because they were too mighty",
+        "B": "To form an alliance against Egypt",
+        "C": "To hire him as a general",
+        "D": "To invite him to a feast"
+      },
+      "explanation": "Numbers 22:5-6 records Balak's request for Balaam to curse Israel out of fear."
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "verse_reference": "Numbers 22:28",
+      "question": "What unusual event occurred during Balaam's journey to Moab?",
+      "correct_answer": "A",
+      "options": {
+        "A": "His donkey spoke to him",
+        "B": "A fire appeared from heaven",
+        "C": "He received a vision",
+        "D": "The ground shook"
+      },
+      "explanation": "Numbers 22:28 records the miraculous moment when God opened the mouth of Balaam's donkey to speak."
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "verse_reference": "Numbers 23:11-12",
+      "question": "What happened when Balaam prophesied instead of cursing Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He blessed Israel instead, saying God had not cursed them",
+        "B": "He fell silent",
+        "C": "He cursed Balak",
+        "D": "He returned to his home"
+      },
+      "explanation": "Numbers 23:11-12 shows Balak's frustration when Balaam blessed Israel instead of cursing them."
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "verse_reference": "Numbers 24:17",
+      "question": "What messianic prophecy did Balaam give?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A Star shall come out of Jacob and a Scepter shall rise out of Israel",
+        "B": "Israel will conquer all nations",
+        "C": "A king will rule over all people",
+        "D": "Israel will build a great temple"
+      },
+      "explanation": "Numbers 24:17 contains one of the most famous messianic prophecies in Scripture, speaking of a Star and Scepter."
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "verse_reference": "Numbers 25:1-3",
+      "question": "What sin did Israel commit at Shittim?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They committed whoredom with Moabite women and bowed to their gods",
+        "B": "They built idols",
+        "C": "They refused to follow Moses",
+        "D": "They stole from the tabernacle"
+      },
+      "explanation": "Numbers 25:1-3 records Israel's unfaithfulness through idolatry and sexual sin with Moabite women."
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "verse_reference": "Numbers 25:7-8",
+      "question": "How did Phinehas stop the plague upon Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He took a javelin and thrust both an Israelite and a Midianite woman through",
+        "B": "He prayed for God's mercy",
+        "C": "He made an offering at the altar",
+        "D": "He interceded for the people"
+      },
+      "explanation": "Numbers 25:7-8 records Phinehas' zealous act that stopped God's wrath and saved Israel from a greater plague."
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "verse_reference": "Numbers 26:1-2",
+      "question": "What did Moses and Eleazar do after the plague?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They took a census of all the congregation from twenty years old and upward",
+        "B": "They rebuilt the tabernacle",
+        "C": "They rewarded the faithful",
+        "D": "They prepared for conquest"
+      },
+      "explanation": "Numbers 26:2-3 records the second census of Israel as they prepared for conquest."
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "verse_reference": "Numbers 27:1-4",
+      "question": "What did the daughters of Zelophehad request?",
+      "correct_answer": "A",
+      "options": {
+        "A": "An inheritance in the land since their father had no sons",
+        "B": "To become priests",
+        "C": "To lead the army",
+        "D": "To speak in the assembly"
+      },
+      "explanation": "Numbers 27:3-4 records these women's request for inheritance rights, which God granted."
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "verse_reference": "Numbers 27:15-18",
+      "question": "Who did God choose as Moses' successor?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Joshua, a man in whom the spirit of God was",
+        "B": "Caleb",
+        "C": "Aaron's son Eleazar",
+        "D": "Moses' own son"
+      },
+      "explanation": "Numbers 27:18-19 records God's selection of Joshua to lead Israel after Moses."
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "verse_reference": "Numbers 30:1-2",
+      "question": "What did God command regarding vows in Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "All vows made to the LORD must be fulfilled",
+        "B": "Vows are optional",
+        "C": "Only priests can make vows",
+        "D": "Vows made to man override vows to God"
+      },
+      "explanation": "Numbers 30:2 establishes the seriousness of vows made to the LORD."
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "verse_reference": "Numbers 31:1-2",
+      "question": "What did God command Israel to do regarding Midian?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Avenge the LORD upon Midian for their wickedness",
+        "B": "Make peace with them",
+        "C": "Avoid conflict with them",
+        "D": "Trade with them"
+      },
+      "explanation": "Numbers 31:2 records God's command for vengeance against Midian for their role in Israel's sin."
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "verse_reference": "Numbers 33:1-3",
+      "question": "What record does Numbers 33 provide?",
+      "correct_answer": "A",
+      "options": {
+        "A": "A complete record of Israel's journeys from Egypt throughout the wilderness",
+        "B": "A genealogy of the tribes",
+        "C": "Laws for settlement in Canaan",
+        "D": "A military strategy for conquest"
+      },
+      "explanation": "Numbers 33 provides a detailed itinerary of all the places Israel journeyed and camped."
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "verse_reference": "Numbers 34:1-12",
+      "question": "What were the boundaries of the Promised Land?",
+      "correct_answer": "A",
+      "options": {
+        "A": "From the southern wilderness through Canaan to the Mediterranean Sea",
+        "B": "Only the Jordan valley",
+        "C": "Only the territory east of the Jordan",
+        "D": "The entire Middle East"
+      },
+      "explanation": "Numbers 34:2-12 describes the specific territorial boundaries God established for Israel's inheritance."
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "verse_reference": "Numbers 35:6",
+      "question": "What cities were designated for the Levites?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Forty-eight cities throughout Israel's territory",
+        "B": "Only cities in one region",
+        "C": "No cities were given to them",
+        "D": "All cities belonged to Levites"
+      },
+      "explanation": "Numbers 35:6-7 assigns forty-eight cities to the Levites for their habitation and pasture lands."
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "verse_reference": "Numbers 35:9-11",
+      "question": "Why were cities of refuge established?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To provide shelter for those who killed someone unintentionally, away from the avenger",
+        "B": "To imprison criminals",
+        "C": "To store provisions",
+        "D": "To serve as temples"
+      },
+      "explanation": "Numbers 35:11-12 explains that cities of refuge provided asylum for unintentional manslayers."
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "verse_reference": "Numbers 36:1-2",
+      "question": "What concern did the heads of the fathers' houses raise about inheritances?",
+      "correct_answer": "A",
+      "options": {
+        "A": "That women's inheritances could pass to other tribes through marriage",
+        "B": "That men had too much land",
+        "C": "That inheritances were being distributed unfairly",
+        "D": "That the poor had no inheritance"
+      },
+      "explanation": "Numbers 36:2-3 records the concern that women inheriting land could marry into other tribes and lose that land."
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "verse_reference": "Numbers 36:10-12",
+      "question": "How did the daughters of Zelophehad resolve the inheritance issue?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They married cousins from their own tribe to keep the inheritance within the tribe",
+        "B": "They refused to marry",
+        "C": "They gave their inheritance to men",
+        "D": "They moved to another nation"
+      },
+      "explanation": "Numbers 36:11-12 shows the daughters marrying within their tribe, preserving their inheritance."
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "verse_reference": "Numbers 6:22-26",
+      "question": "What is the first petition in the Priestly Blessing?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The LORD bless thee and keep thee",
+        "B": "The LORD make His face to shine",
+        "C": "The LORD lift up His countenance",
+        "D": "Give thee peace"
+      },
+      "explanation": "Numbers 6:24 begins the blessing with God's desire to bless and keep His people."
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "verse_reference": "Numbers 14:6-9",
+      "question": "What did Joshua and Caleb urge the people to do despite the giants?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Trust in God because He would give them the land and their defense was departed",
+        "B": "Wait for reinforcements",
+        "C": "Consult with the neighboring nations",
+        "D": "Return to the desert for more time"
+      },
+      "explanation": "Numbers 14:8-9 shows Joshua and Caleb's faith in God's ability, despite the obstacles."
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "verse_reference": "Numbers 21:4-5",
+      "question": "How did the people complain against God and Moses in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They said there was no bread or water and despised the manna",
+        "B": "They demanded to return to Egypt immediately",
+        "C": "They wanted to elect new leaders",
+        "D": "They refused to follow any commands"
+      },
+      "explanation": "Numbers 21:5 records Israel's complaint about lacking proper food and water."
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "verse_reference": "Numbers 11:16-17",
+      "question": "How did God relieve Moses' burden of leadership?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He selected seventy elders to whom He would give part of His spirit to help bear the burden",
+        "B": "He appointed Aaron to take all responsibility",
+        "C": "He sent angels to assist",
+        "D": "He reduced the number of people"
+      },
+      "explanation": "Numbers 11:16-17 records God's provision of leadership assistance through the seventy elders."
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "verse_reference": "Numbers 1:45-46",
+      "question": "What was the total number of Israel's fighting men when first counted?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Six hundred and three thousand and five hundred and fifty",
+        "B": "Two million men",
+        "C": "One hundred thousand men",
+        "D": "Half a million men"
+      },
+      "explanation": "Numbers 1:46 provides the total count of males able to go to war from the first census."
+    },
+    {
+      "id": 51,
+      "level": 2,
+      "verse_reference": "Numbers 1-4",
+      "question": "Why was organization and structure so important in Israel's camp?",
+      "correct_answer": "A",
+      "options": {
+        "A": "To demonstrate God's order and prepare Israel for conquest; order reflects God's nature and prepares a unified force",
+        "B": "Organization had no particular purpose",
+        "C": "Only military strength mattered",
+        "D": "To keep people busy"
+      },
+      "explanation": "The detailed organization of Israel's camps demonstrates God's order and prepares His people for the battles ahead."
+    },
+    {
+      "id": 52,
+      "level": 2,
+      "verse_reference": "Numbers 6",
+      "question": "What does the Nazarite vow symbolize?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Consecration to God through specific abstinences and separation from normal life",
+        "B": "Rejection of God's law",
+        "C": "Personal ambition and pride",
+        "D": "A path to becoming a priest"
+      },
+      "explanation": "The Nazarite vow represents dedicated consecration to God through personal commitment and separation."
+    },
+    {
+      "id": 53,
+      "level": 2,
+      "verse_reference": "Numbers 11:1-6",
+      "question": "What does Israel's complaint about manna reveal about their spiritual condition?",
+      "correct_answer": "A",
+      "options": {
+        "A": "They had become ungrateful and forgetful of God's provision, prioritizing physical comfort over faith",
+        "B": "The manna truly was insufficient food",
+        "C": "Moses failed to provide for them",
+        "D": "God did not care about their needs"
+      },
+      "explanation": "Israel's complaint reveals spiritual ingratitude - they forgot how God sustained them daily and longed for Egypt."
+    },
+    {
+      "id": 54,
+      "level": 2,
+      "verse_reference": "Numbers 13-14",
+      "question": "What is the significance of the majority report versus Caleb's minority report?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It shows how fear-based reasoning contradicts faith-based trust in God; the majority's fear, not facts, determined their choices",
+        "B": "The majority is always correct",
+        "C": "Minority opinions should be ignored",
+        "D": "Popular votes determine God's will"
+      },
+      "explanation": "The spies saw the same land but reached opposite conclusions based on faith or fear - illustrating how perspective determines response."
+    },
+    {
+      "id": 55,
+      "level": 2,
+      "verse_reference": "Numbers 14:11-12",
+      "question": "What does God's offer to Moses reveal about His covenant relationship with Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God is willing to replace the entire nation with Moses' descendants, showing His sovereignty but also Moses' intercession is essential",
+        "B": "God completely rejected Israel forever",
+        "C": "Moses was more important than Israel",
+        "D": "God's covenant was conditional on Israel's faith only"
+      },
+      "explanation": "God's offer to Moses reveals His sovereignty while demonstrating that prayer and intercession can change outcomes."
+    },
+    {
+      "id": 56,
+      "level": 2,
+      "verse_reference": "Numbers 16",
+      "question": "What doctrine does Korah's rebellion establish about leadership and authority?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Authority is divinely appointed, not democratically chosen; rebellion against appointed leaders is rebellion against God's order",
+        "B": "Anyone can lead if they claim to be holy",
+        "C": "Leadership should be decided by popular vote",
+        "D": "All people have equal authority"
+      },
+      "explanation": "Korah's rebellion demonstrates that even egalitarian claims cannot override divinely appointed authority - God alone determines leadership."
+    },
+    {
+      "id": 57,
+      "level": 2,
+      "verse_reference": "Numbers 17",
+      "question": "What is the theological significance of Aaron's budding rod?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It demonstrates God's choice of priesthood through resurrection symbolism - dead wood bearing life affirms God's selection",
+        "B": "It was merely a natural occurrence",
+        "C": "It proves Aaron was a magician",
+        "D": "It had no particular meaning"
+      },
+      "explanation": "The rod's budding symbolizes resurrection and new life, affirming Aaron's priestly office through divine miracle."
+    },
+    {
+      "id": 58,
+      "level": 2,
+      "verse_reference": "Numbers 20:1-13",
+      "question": "Why was Moses' sin at the rock particularly serious?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He was commanded to speak but struck the rock; this failure to trust and honor God's specific instructions cost him the Promised Land",
+        "B": "He was angry with the people",
+        "C": "He used the wrong weapon",
+        "D": "He broke a religious law"
+      },
+      "explanation": "Moses' sin wasn't getting water but dishonoring God by not fully obeying instructions and claiming credit - demonstrating that proximity to God demands absolute obedience."
+    },
+    {
+      "id": 59,
+      "level": 2,
+      "verse_reference": "Numbers 21:8-9",
+      "question": "What spiritual principle does the serpent on the pole illustrate?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Belief and obedience bring salvation; looking upon the serpent required faith in God's provision",
+        "B": "Serpents have healing power",
+        "C": "Medical treatment is the answer",
+        "D": "God ignores suffering"
+      },
+      "explanation": "The serpent on the pole is a type of Christ - it required faith to look and be healed, prefiguring salvation through faith."
+    },
+    {
+      "id": 60,
+      "level": 2,
+      "verse_reference": "Numbers 22-24",
+      "question": "What does the Balaam narrative teach about God's protection of Israel?",
+      "correct_answer": "A",
+      "options": {
+        "A": "No curse can overcome God's blessing on His people; human schemes cannot prevent God's purposes",
+        "B": "God needs human help to protect Israel",
+        "C": "Anyone can curse and harm God's people",
+        "D": "Prophecy determines the future, not God"
+      },
+      "explanation": "Balaam's enforced blessings show that God's protection of Israel is absolute - no prophet, curse, or human scheme can thwart God's purposes."
+    },
+    {
+      "id": 61,
+      "level": 2,
+      "verse_reference": "Numbers 25:1-13",
+      "question": "What does the incident at Baal-peor reveal about the danger of compromise?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Intermarriage and participation in pagan worship quickly corrupts a nation; one man's zeal (Phinehas) can turn God's wrath",
+        "B": "God approves of cultural exchange",
+        "C": "Compromise is harmless",
+        "D": "Individual actions have no community impact"
+      },
+      "explanation": "The plague following Israel's unfaithfulness shows how quickly moral compromise spreads and how individual faithfulness (Phinehas) can make interceding difference."
+    },
+    {
+      "id": 62,
+      "level": 2,
+      "verse_reference": "Numbers 27:15-23",
+      "question": "Why was public commission of Joshua important?",
+      "correct_answer": "A",
+      "options": {
+        "A": "It transferred authority before witnesses, ensuring community acceptance and showing institutional continuity beyond individuals",
+        "B": "It was just a ceremonial formality",
+        "C": "God's authority doesn't require validation",
+        "D": "Joshua needed public approval to have real power"
+      },
+      "explanation": "Public commissioning before the congregation and priest established Joshua's authority and ensured the community's recognition and obedience."
+    },
+    {
+      "id": 63,
+      "level": 2,
+      "verse_reference": "Numbers 35:9-15",
+      "question": "What does the cities of refuge system reveal about God's justice?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God distinguishes between intentional murder and unintentional killing; justice requires proper process and protection of the innocent",
+        "B": "All killing is equally wrong",
+        "C": "God desires quick revenge",
+        "D": "Intention doesn't matter in God's law"
+      },
+      "explanation": "The cities of refuge demonstrate God's nuanced justice - protecting the innocent from vendetta while ensuring true murderers face consequences."
+    },
+    {
+      "id": 64,
+      "level": 2,
+      "verse_reference": "Numbers 36",
+      "question": "What principle does the solution to the daughters of Zelophehad establish?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Women's rights and tribal integrity can coexist through wise application of law; inheritance by women is valid when properly administered",
+        "B": "Women should have no inheritance rights",
+        "C": "Tribal boundaries override individual rights",
+        "D": "Marriage dissolves all property rights"
+      },
+      "explanation": "The solution shows God's concern for both women's justice and maintaining tribal cohesion through strategic marriage within the tribe."
+    },
+    {
+      "id": 65,
+      "level": 2,
+      "verse_reference": "Numbers 11:29",
+      "question": "What does Moses' response reveal about his character?",
+      "correct_answer": "A",
+      "options": {
+        "A": "He desired God's spirit to be upon all people, showing humble leadership focused on God's work rather than personal power",
+        "B": "Moses was controlling and possessive",
+        "C": "He wanted to maintain exclusive authority",
+        "D": "He was jealous of other prophets"
+      },
+      "explanation": "Moses' statement 'Would God that all the LORD's people were prophets' reveals his genuine humility and desire for God's Spirit among all people."
+    },
+    {
+      "id": 66,
+      "level": 2,
+      "verse_reference": "Numbers 30",
+      "question": "Why would God carefully regulate vows, especially for women?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Vows to God are sacred commitments; regulations protect the family structure while ensuring promises to God are honored",
+        "B": "God wants to control women",
+        "C": "Vows are unimportant",
+        "D": "Only men should make vows"
+      },
+      "explanation": "The vow regulations balance God's concern for serious covenant commitment with practical family relationships and male leadership structures."
+    },
+    {
+      "id": 67,
+      "level": 2,
+      "verse_reference": "Numbers 1:45-54",
+      "question": "What does the separation of Levites from military count reveal about their role?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Levites had a spiritual calling distinct from warfare; they protected the tabernacle as priests, not as soldiers",
+        "B": "Levites were cowards",
+        "C": "Only warriors were valued",
+        "D": "Levites had no important role"
+      },
+      "explanation": "Levites were appointed to sacred service in the tabernacle rather than military service, showing God's distinct calling for different roles."
+    },
+    {
+      "id": 68,
+      "level": 2,
+      "verse_reference": "Numbers 12:1-10",
+      "question": "What does Miriam's leprosy illustrate about criticizing God's chosen leaders?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Rebellion against appointed leaders is rebellion against God; criticism of God's chosen comes with divine consequence",
+        "B": "All criticism should be punished",
+        "C": "Miriam was innocent",
+        "D": "Leaders deserve no accountability"
+      },
+      "explanation": "Miriam and Aaron's complaint against Moses was treated as rebellion against God - showing that appointed leaders' positions are protected by God."
+    },
+    {
+      "id": 69,
+      "level": 2,
+      "verse_reference": "Numbers 23:19",
+      "question": "What is the significance of God's statement 'God is not a man, that he should lie'?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's word is absolute and unchanging; unlike humans, God cannot be persuaded to break His commitment",
+        "B": "God has a physical body",
+        "C": "God is indifferent to promises",
+        "D": "Human promises are as reliable as God's"
+      },
+      "explanation": "This statement, even from pagan Balaam, affirms God's absolute integrity and the certainty of His word against all opposition."
+    },
+    {
+      "id": 70,
+      "level": 2,
+      "verse_reference": "Numbers 14:29-31",
+      "question": "Why would God bring the children into the land while excluding the adults?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The children were not culpable for their parents' unbelief; this shows God's mercy for the innocent and hope for the next generation",
+        "B": "Children are more deserving",
+        "C": "God was being cruel to adults",
+        "D": "The promise couldn't be fulfilled"
+      },
+      "explanation": "God's distinction between generations shows His justice - punishing the rebellious adults while preserving hope through their innocent children."
+    },
+    {
+      "id": 71,
+      "level": 3,
+      "verse_reference": "Numbers 1-10",
+      "question": "How does the organizational structure of Israel's camp reflect theological principles?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The tabernacle at center with tribes arranged around it demonstrates God at the center of Israel's life; order, holiness, and protection radiate from divine presence",
+        "B": "Organization has no theological meaning",
+        "C": "The structure was arbitrary",
+        "D": "Only military strategy mattered"
+      },
+      "explanation": "The camp's concentric structure with God's tabernacle at the center symbolizes God's centrality to Israel's existence and the protection radiating from Him."
+    },
+    {
+      "id": 72,
+      "level": 3,
+      "verse_reference": "Numbers 11-14",
+      "question": "What pattern emerges from Israel's repeated complaints in the wilderness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Murmuring progresses from complaints about provision to rebellion against leadership to ultimate rejection of God's promise, showing how small doubts escalate into grave unfaithfulness",
+        "B": "Israel was consistently faithful",
+        "C": "God was unfaithful",
+        "D": "Complaints have no consequences"
+      },
+      "explanation": "The wilderness narrative shows a tragic arc: complaint about food → complaint about water → rebellion against leaders → rejection of the promise - each step representing deeper unfaithfulness."
+    },
+    {
+      "id": 73,
+      "level": 3,
+      "verse_reference": "Numbers 13:25-14:4",
+      "question": "Why did identical evidence (the same land) produce opposite conclusions about God's faithfulness?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Perspective on God's power, not facts about enemies, determines faith; Caleb saw giants and God; others saw giants and despair",
+        "B": "Facts determine everything",
+        "C": "The spies saw different lands",
+        "D": "Faith has no rational basis"
+      },
+      "explanation": "This narrative reveals that the same evidence interpreted through faith produces hope, while interpreted through fear produces despair - showing that God's faithfulness is known through trust, not evidence."
+    },
+    {
+      "id": 74,
+      "level": 3,
+      "verse_reference": "Numbers 15:30-31",
+      "question": "What does the distinction between unintentional and presumptuous sin reveal?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Presumptuousness (intentional defiance of God) is fundamentally different from failure; it shows rebellion that cuts one off from God's people",
+        "B": "All sin is equally grave",
+        "C": "Intention doesn't matter",
+        "D": "Deliberate sin has no consequences"
+      },
+      "explanation": "The law distinguishes unintentional sins (remediable through offering) from presumptuous sins (rejection of God's authority), showing that defiant rebellion differs from failure."
+    },
+    {
+      "id": 75,
+      "level": 3,
+      "verse_reference": "Numbers 16-17",
+      "question": "How do Korah's rebellion and Aaron's budding rod together teach about God's authority?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God vindicated His choice through supernatural demonstration; rebellion is met with destruction, faith with confirmation - showing God's authority is absolute and provable",
+        "B": "Humans determine leadership",
+        "C": "God's choices are arbitrary",
+        "D": "Authority comes from democracy"
+      },
+      "explanation": "The contrast between judgment on Korah and confirmation of Aaron shows God's definitive establishment of authority through miraculous means against human rebellion."
+    },
+    {
+      "id": 76,
+      "level": 3,
+      "verse_reference": "Numbers 20",
+      "question": "Why is Moses' sin at Meribah presented as disqualifying him from entering Canaan?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God demands perfect obedience in specific instructions; Moses' deviation (striking instead of speaking) and failure to honor God showed he couldn't lead in Canaan",
+        "B": "God was being unfair",
+        "C": "Moses didn't do anything wrong",
+        "D": "One mistake shouldn't matter"
+      },
+      "explanation": "Moses' failure illustrates that leadership entering God's rest requires not just accomplishing God's will but doing it God's way - showing that method matters as much as result."
+    },
+    {
+      "id": 77,
+      "level": 3,
+      "verse_reference": "Numbers 22-24",
+      "question": "What theological truth does Balaam's enforced blessings establish about God's power?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God controls even hostile agents; Balaam became God's spokesperson despite Balak's intentions, demonstrating God's authority over all persons and events",
+        "B": "God is weak",
+        "C": "Humans control outcomes",
+        "D": "Evil can overcome good"
+      },
+      "explanation": "Balaam's transformation from curse-for-hire to blessing-prophet shows that God's purposes are unstoppable - even opponents are conscripted to serve God's will."
+    },
+    {
+      "id": 78,
+      "level": 3,
+      "verse_reference": "Numbers 25",
+      "question": "What does the sudden judgment at Baal-peor compared to Phinehas' intervention reveal about corporate and individual accountability?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The entire community faces judgment for collective unfaithfulness, but righteous individuals can intercede; one person's faithfulness affects the whole nation",
+        "B": "Individuals have no impact",
+        "C": "Communities are irrelevant",
+        "D": "Faithfulness is irrelevant"
+      },
+      "explanation": "The incident shows that nations are held collectively responsible for sin but individuals' faithfulness can turn God's wrath - illustrating both corporate solidarity and individual agency."
+    },
+    {
+      "id": 79,
+      "level": 3,
+      "verse_reference": "Numbers 26-27",
+      "question": "Why is the census followed immediately by settling the inheritance question through Joshua's commission?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The new generation counted must be prepared for conquest under new leadership; this transition from Moses to Joshua marks the shift from wilderness survival to land conquest",
+        "B": "The order was random",
+        "C": "Inheritance had no connection to census",
+        "D": "Joshua was an afterthought"
+      },
+      "explanation": "The narrative sequence shows God's plan progressing: the new generation (uncursed by wilderness unbelief) is counted, then the transition to Joshua occurs - ready for conquest."
+    },
+    {
+      "id": 80,
+      "level": 3,
+      "verse_reference": "Numbers 1:1-54 and 26:1-65",
+      "question": "What does the contrast between the first and second censuses reveal about God's judgment and hope?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The first generation (census 1) is counted and condemned; the second generation (census 2) is counted and commissioned - showing God's judgment is real but not final",
+        "B": "Both generations were equally condemned",
+        "C": "Neither generation was judged",
+        "D": "God had no plan for either generation"
+      },
+      "explanation": "The two censuses frame the wilderness story - one generation counted but dying in unfaithfulness, another counted and rising to inherit promise."
+    },
+    {
+      "id": 81,
+      "level": 3,
+      "verse_reference": "Numbers 3-4",
+      "question": "How does the Levitical system reflect God's grace regarding Israel's firstborn?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God claimed all firstborn but accepted Levites as substitutes; this shows God's justice (demanding life) but also His mercy (accepting substitution)",
+        "B": "God didn't care about firstborn",
+        "C": "Substitution has no meaning",
+        "D": "Israel had no obligation"
+      },
+      "explanation": "The Levitical substitution system demonstrates both God's serious claim on life (marked at Exodus) and His grace in accepting alternative consecration."
+    },
+    {
+      "id": 82,
+      "level": 3,
+      "verse_reference": "Numbers 6:23-27",
+      "question": "What does the Priestly Blessing reveal about the relationship between God, priest, and people?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The priest is a conduit, not a source; God blesses through the priest, and the priest's role is to convey God's name and invoke His favor",
+        "B": "Priests bless through their own power",
+        "C": "People don't need God's blessing",
+        "D": "Blessing is irrelevant"
+      },
+      "explanation": "The blessing's structure shows God blessing through priests, not from priests - the priest invokes and conveys, but God alone provides blessing and peace."
+    },
+    {
+      "id": 83,
+      "level": 3,
+      "verse_reference": "Numbers 9:9-13",
+      "question": "What principle does God establish in allowing Passover postponement for the unclean?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God values mercy over ritual technicality; those prevented by uncleanness get a second opportunity rather than losing covenant participation",
+        "B": "All rules are arbitrary",
+        "C": "Ritual timing is absolute",
+        "D": "God is inflexible"
+      },
+      "explanation": "God's allowance for delayed Passover shows He values covenant participation over rigid timing - demonstrating mercy while maintaining covenant boundaries."
+    },
+    {
+      "id": 84,
+      "level": 3,
+      "verse_reference": "Numbers 21:4-9",
+      "question": "How does the serpent on the pole prefigure New Testament salvation theology?",
+      "correct_answer": "A",
+      "options": {
+        "A": "The serpent (representing the curse of sin) being lifted requires faith-response; this prefigures Christ lifted up, requiring belief for salvation",
+        "B": "It has no spiritual significance",
+        "C": "It's just a historical account",
+        "D": "Salvation requires works"
+      },
+      "explanation": "Jesus explicitly identifies Himself with the lifted serpent (John 3:14-15) - the Old Testament image of looking in faith to a lifted instrument of judgment for healing."
+    },
+    {
+      "id": 85,
+      "level": 3,
+      "verse_reference": "Numbers 23:23",
+      "question": "What does the statement 'There is no enchantment against Jacob' establish about Israel's status?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Israel's covenant relationship with God provides protection that no magical or human power can overcome; their status is secure in God",
+        "B": "Israel is invulnerable",
+        "C": "Magic actually works",
+        "D": "God cannot protect"
+      },
+      "explanation": "This statement establishes Israel's unique covenant protection - no divination or curse can affect those in covenant relationship with God."
+    },
+    {
+      "id": 86,
+      "level": 3,
+      "verse_reference": "Numbers 27:12-23",
+      "question": "Why does God instruct Moses to commission Joshua publicly before the entire congregation and priest?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Public commissioning transfers authority institutionally; it ensures the community recognizes Joshua's legitimacy and establishes continuity of leadership beyond individuals",
+        "B": "Private commissioning would work",
+        "C": "Public perception doesn't matter",
+        "D": "God's authority doesn't require validation"
+      },
+      "explanation": "Public commissioning before the high priest and congregation established Joshua's authority legally and socially, ensuring community cohesion during transition."
+    },
+    {
+      "id": 87,
+      "level": 3,
+      "verse_reference": "Numbers 30:1-16",
+      "question": "How does the vow system balance God's authority, family structure, and individual agency?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Vows are sacred to God but may be nullified by fathers/husbands; this shows God honors authority structures while protecting the vulnerable from rash commitments",
+        "B": "All vows are absolute",
+        "C": "All vows are meaningless",
+        "D": "Family structure is irrelevant"
+      },
+      "explanation": "The vow regulations demonstrate a sophisticated balance: covenants with God are serious, family authority is real, but provisions exist for protecting those dependent on authority figures."
+    },
+    {
+      "id": 88,
+      "level": 3,
+      "verse_reference": "Numbers 35:9-34",
+      "question": "What does the cities of refuge system reveal about God's understanding of justice?",
+      "correct_answer": "A",
+      "options": {
+        "A": "Justice requires distinguishing motive from action; unintentional killing requires protection from vendetta, while murder deserves execution - showing God's nuanced understanding of culpability",
+        "B": "All killing is equally criminal",
+        "C": "Accidents don't happen",
+        "D": "God ignores motive"
+      },
+      "explanation": "The system shows God recognizes unintentional harm differs from intentional murder - providing asylum while ensuring true murderers face consequences."
+    },
+    {
+      "id": 89,
+      "level": 3,
+      "verse_reference": "Numbers 36:1-13",
+      "question": "What principle does the resolution of women's inheritance rights establish about God's law?",
+      "correct_answer": "A",
+      "options": {
+        "A": "God's justice protects individual rights (women inherit) while maintaining structural integrity (within-tribe marriage); precedent and principle adapt to new circumstances",
+        "B": "Women should have no rights",
+        "C": "Structure overrides justice",
+        "D": "Law is rigid and unchanging"
+      },
+      "explanation": "The solution shows God's law is flexible enough to address new situations while maintaining core principles - women can inherit and marry strategically."
+    },
+    {
+      "id": 90,
+      "level": 3,
+      "verse_reference": "Numbers 1-36",
+      "question": "What unifying theme connects the wilderness narrative from census through conquest preparation?",
+      "correct_answer": "A",
+      "options": {
+        "A": "From organization through rebellion to reconstruction: God organizes a people, they fail in unbelief, yet God preserves a new generation and commissions leaders for conquest",
+        "B": "God abandoned Israel",
+        "C": "The wilderness was purposeless",
+        "D": "No progress occurred"
+      },
+      "explanation": "Numbers presents a complete arc: organization (chapters 1-10), rebellion and judgment (11-25), reconstruction and preparation (26-36) - showing God's patience and ultimate faithfulness."
+    }
+
+    
+  ]
+}

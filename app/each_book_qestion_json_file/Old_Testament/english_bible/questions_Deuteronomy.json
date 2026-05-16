@@ -1,0 +1,2108 @@
+{
+  "book": "Deuteronomy",
+  "chapters": "1-34",
+  "total_questions": 150,
+  "levels": 3,
+  "questions": [
+    {
+      "id": 1,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:1",
+      "question": "Where was Moses speaking from in Deuteronomy 1:1?",
+      "correct_answer": "In the wilderness on this side Jordan",
+      "options": [
+        "In the wilderness on this side Jordan",
+        "At Mount Sinai",
+        "In the land of Egypt",
+        "On the plains of Moab"
+      ],
+      "explanation": "Deuteronomy 1:1 introduces Moses speaking to Israel on this side of the Jordan in the wilderness."
+    },
+    {
+      "id": 2,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:2",
+      "question": "How many days' journey from Horeb to Kadesh-barnea are mentioned in Deuteronomy 1:2?",
+      "correct_answer": "Eleven days' journey",
+      "options": [
+        "Eleven days' journey",
+        "Seven days' journey",
+        "Thirty days' journey",
+        "Fifty days' journey"
+      ],
+      "explanation": "The verse states there are eleven days' journey from Horeb to Kadesh-barnea."
+    },
+    {
+      "id": 3,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:3",
+      "question": "In which month and on what day did Moses speak to Israel in the fortieth year?",
+      "correct_answer": "Eleventh month, first day",
+      "options": [
+        "Eleventh month, first day",
+        "Tenth month, twentieth day",
+        "First month, tenth day",
+        "Twelfth month, fifteenth day"
+      ],
+      "explanation": "Deuteronomy 1:3 says Moses spoke in the fortieth year, in the eleventh month, on the first day of the month."
+    },
+    {
+      "id": 4,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:4",
+      "question": "Which two Amorite kings did Moses say he had slain in Deuteronomy 1:4?",
+      "correct_answer": "Sihon and Og",
+      "options": [
+        "Sihon and Og",
+        "Pharaoh and Sihon",
+        "Og and Balak",
+        "Balak and Sihon"
+      ],
+      "explanation": "Moses refers to Sihon king of the Amorites and Og king of Bashan."
+    },
+    {
+      "id": 5,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:5",
+      "question": "On which side of the Jordan did Moses start declaring the law?",
+      "correct_answer": "On this side Jordan",
+      "options": [
+        "On this side Jordan",
+        "Across the Jordan",
+        "At Mount Sinai",
+        "In Egypt"
+      ],
+      "explanation": "Deuteronomy 1:5 says Moses began to declare the law on this side of Jordan."
+    },
+    {
+      "id": 6,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:6",
+      "question": "What did the Lord say about their time at Horeb in Deuteronomy 1:6?",
+      "correct_answer": "Ye have dwelt long enough in this mount",
+      "options": [
+        "Ye have dwelt long enough in this mount",
+        "Ye have not yet learned the law",
+        "Ye must build an altar here",
+        "Ye shall return to Egypt"
+      ],
+      "explanation": "God told them they had dwelt long enough at Horeb and should take their journey."
+    },
+    {
+      "id": 7,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:7",
+      "question": "Which river is named as the great river in Deuteronomy 1:7?",
+      "correct_answer": "The river Euphrates",
+      "options": [
+        "The river Euphrates",
+        "The river Jordan",
+        "The river Nile",
+        "The river Tigris"
+      ],
+      "explanation": "The verse names the great river as the river Euphrates."
+    },
+    {
+      "id": 8,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:8",
+      "question": "Who swore the land to the fathers of Israel in Deuteronomy 1:8?",
+      "correct_answer": "The LORD",
+      "options": [
+        "The LORD",
+        "Moses",
+        "Joshua",
+        "The elders"
+      ],
+      "explanation": "The verse says the land was sworn unto their fathers by the LORD."
+    },
+    {
+      "id": 9,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:9",
+      "question": "Why did Moses say he could not bear them alone in Deuteronomy 1:9?",
+      "correct_answer": "Because the people were too many and burdensome",
+      "options": [
+        "Because the people were too many and burdensome",
+        "Because he had no authority",
+        "Because they wanted to return to Egypt",
+        "Because they refused to listen"
+      ],
+      "explanation": "Moses stated he could not bear the people alone because of their burden."
+    },
+    {
+      "id": 10,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:10",
+      "question": "What analogy does Moses use in Deuteronomy 1:10 for the people of Israel?",
+      "correct_answer": "As the stars of heaven for multitude",
+      "options": [
+        "As the stars of heaven for multitude",
+        "As the sands of the sea",
+        "As the grass of the field",
+        "As the trees of the forest"
+      ],
+      "explanation": "Moses compares Israel's number to the stars of heaven."
+    },
+    {
+      "id": 11,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:12",
+      "question": "What did Moses ask the people to take among them in Deuteronomy 1:12?",
+      "correct_answer": "Wise men and understanding",
+      "options": [
+        "Wise men and understanding",
+        "Younger men and warriors",
+        "More judges and priests",
+        "More offerings and sacrifices"
+      ],
+      "explanation": "Moses asked them to choose wise and understanding men for leaders."
+    },
+    {
+      "id": 12,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:13",
+      "question": "What title did Moses give to the chosen leaders in Deuteronomy 1:13?",
+      "correct_answer": "Heads over you, captains over thousands, hundreds, fifties, and tens",
+      "options": [
+        "Heads over you, captains over thousands, hundreds, fifties, and tens",
+        "Priests and Levites",
+        "Kings and chiefs",
+        "Scribes and elders"
+      ],
+      "explanation": "He appointed them as heads and captains over the people."
+    },
+    {
+      "id": 13,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:16",
+      "question": "What did Moses tell the judges to do between brothers?",
+      "correct_answer": "Hear the causes and judge righteously",
+      "options": [
+        "Hear the causes and judge righteously",
+        "Send them to Moses",
+        "Ignore the poor",
+        "Allow the elders to decide"
+      ],
+      "explanation": "Moses instructed judges to hear cases and judge justly."
+    },
+    {
+      "id": 14,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:17",
+      "question": "In Deuteronomy 1:17, should judges respect persons?",
+      "correct_answer": "No, they should not respect persons",
+      "options": [
+        "No, they should not respect persons",
+        "Yes, they should respect elders",
+        "Only if they are priests",
+        "Only if they are rich"
+      ],
+      "explanation": "Judges must be impartial and not show favoritism."
+    },
+    {
+      "id": 15,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:20",
+      "question": "When the people came to the mountain of the Amorites, what did Moses say in Deuteronomy 1:20?",
+      "correct_answer": "The Lord has set the land before you; go up and possess it",
+      "options": [
+        "The Lord has set the land before you; go up and possess it",
+        "Wait here for instructions",
+        "Return to Egypt",
+        "Build an altar first"
+      ],
+      "explanation": "Moses encouraged them to enter and take possession of the land."
+    },
+    {
+      "id": 16,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:21",
+      "question": "What did Moses tell Israel not to do in Deuteronomy 1:21?",
+      "correct_answer": "Fear not and neither be discouraged",
+      "options": [
+        "Fear not and neither be discouraged",
+        "Bow to other gods",
+        "Fight without Him",
+        "Leave the land"
+      ],
+      "explanation": "Moses said they should not fear or be discouraged because the Lord would fight for them."
+    },
+    {
+      "id": 17,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:22",
+      "question": "What did Israel say they would do with the spies in Deuteronomy 1:22?",
+      "correct_answer": "Send men before us to search out the land",
+      "options": [
+        "Send men before us to search out the land",
+        "Attack the land immediately",
+        "Return to Egypt",
+        "Build a tabernacle"
+      ],
+      "explanation": "They asked to send men to scout the land and report back."
+    },
+    {
+      "id": 18,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:23",
+      "question": "How many men did Moses choose to spy out the land?",
+      "correct_answer": "Twelve men",
+      "options": [
+        "Twelve men",
+        "Ten men",
+        "Seven men",
+        "Twenty men"
+      ],
+      "explanation": "He chose twelve men, one from each tribe."
+    },
+    {
+      "id": 19,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:25",
+      "question": "What did the spies bring back from the land in Deuteronomy 1:25?",
+      "correct_answer": "Fruit and report that it is a good land",
+      "options": [
+        "Fruit and report that it is a good land",
+        "Weapons and gold",
+        "A map of the land",
+        "A covenant of peace"
+      ],
+      "explanation": "They brought fruit and said the land was good."
+    },
+    {
+      "id": 20,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:26",
+      "question": "What did Israel do instead of going up into the land?",
+      "correct_answer": "Rebelled against the commandment of the LORD",
+      "options": [
+        "Rebelled against the commandment of the LORD",
+        "Went up immediately",
+        "Prayed for guidance",
+        "Built an altar"
+      ],
+      "explanation": "They refused to go in and were rebellious."
+    },
+    {
+      "id": 21,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:27",
+      "question": "What did the people say when they murmured in their tents?",
+      "correct_answer": "The Lord has brought us forth to deliver us into the hand of the Amorites",
+      "options": [
+        "The Lord has brought us forth to deliver us into the hand of the Amorites",
+        "We will trust the Lord always",
+        "We choose to go to Canaan",
+        "We will return to Egypt"
+      ],
+      "explanation": "They complained that God had taken them out of Egypt only to be destroyed."
+    },
+    {
+      "id": 22,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:29",
+      "question": "What did Moses tell Israel not to fear?",
+      "correct_answer": "Do not be afraid of the people of the land",
+      "options": [
+        "Do not be afraid of the people of the land",
+        "Do not be afraid of the sea",
+        "Do not be afraid of the wilderness",
+        "Do not be afraid of their own hearts"
+      ],
+      "explanation": "Moses encouraged them to trust God even though the people were strong."
+    },
+    {
+      "id": 23,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:30",
+      "question": "Who did Moses say would fight for Israel?",
+      "correct_answer": "The LORD your God",
+      "options": [
+        "The LORD your God",
+        "The kings of their tribes",
+        "Moses himself",
+        "The Levites"
+      ],
+      "explanation": "Moses said the LORD would fight for them as He had done in Egypt."
+    },
+    {
+      "id": 24,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:32",
+      "question": "What did Israel fail to believe in the wilderness?",
+      "correct_answer": "They did not believe the LORD their God",
+      "options": [
+        "They did not believe the LORD their God",
+        "They did not believe the prophets",
+        "They did not believe Moses’ law",
+        "They did not believe the Ark"
+      ],
+      "explanation": "Moses says they did not trust God despite His guiding presence."
+    },
+    {
+      "id": 25,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:36",
+      "question": "Which individual was allowed to see the promised land?",
+      "correct_answer": "Caleb the son of Jephunneh",
+      "options": [
+        "Caleb the son of Jephunneh",
+        "Joshua the son of Nun",
+        "Moses",
+        "Aaron"
+      ],
+      "explanation": "God spared Caleb and allowed him to see the land."
+    },
+    {
+      "id": 26,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:37",
+      "question": "Who else was punished along with the people?",
+      "correct_answer": "Moses was also not permitted to enter",
+      "options": [
+        "Moses was also not permitted to enter",
+        "Aaron was not permitted to enter",
+        "Joshua was not permitted to enter",
+        "Caleb was not permitted to enter"
+      ],
+      "explanation": "God said Moses would not go in because of the people’s rebellion."
+    },
+    {
+      "id": 27,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:38",
+      "question": "Who would go over Jordan in Moses’ place?",
+      "correct_answer": "Joshua the son of Nun",
+      "options": [
+        "Joshua the son of Nun",
+        "Caleb the son of Jephunneh",
+        "Aaron the priest",
+        "Moses’ eldest son"
+      ],
+      "explanation": "Joshua was chosen to lead Israel into the land."
+    },
+    {
+      "id": 28,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:41",
+      "question": "What did the people decide to do after their rebellion?",
+      "correct_answer": "They said they would go up and fight",
+      "options": [
+        "They said they would go up and fight",
+        "They decided to remain in the wilderness",
+        "They resolved to return to Egypt",
+        "They chose to build altars"
+      ],
+      "explanation": "Despite God’s warning, they armed themselves to fight."
+    },
+    {
+      "id": 29,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:42",
+      "question": "What command did the LORD give when the people prepared to fight?",
+      "correct_answer": "Go not up, neither fight",
+      "options": [
+        "Go not up, neither fight",
+        "Charge the enemy at once",
+        "Build a wall for protection",
+        "Send more spies"
+      ],
+      "explanation": "God said He would not be among them and they would be defeated."
+    },
+    {
+      "id": 30,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 1:44",
+      "question": "Who defeated Israel at Mount Seir?",
+      "correct_answer": "The Amorites",
+      "options": [
+        "The Amorites",
+        "The Egyptians",
+        "The Midianites",
+        "The Edomites"
+      ],
+      "explanation": "The Amorites came out against Israel and destroyed them in Seir."
+    },
+    {
+      "id": 31,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 2:1",
+      "question": "Which mountain did Israel compass many days in Deuteronomy 2:1?",
+      "correct_answer": "Mount Seir",
+      "options": [
+        "Mount Seir",
+        "Mount Sinai",
+        "Mount Horeb",
+        "Mount Zion"
+      ],
+      "explanation": "They went through the wilderness by the way of the Red sea and compassed Mount Seir."
+    },
+    {
+      "id": 32,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 2:5",
+      "question": "What were the Israelites told not to do to Esau’s descendants in Deuteronomy 2:5?",
+      "correct_answer": "Do not meddle with them",
+      "options": [
+        "Do not meddle with them",
+        "Attack them at once",
+        "Make a covenant with them",
+        "Take their land"
+      ],
+      "explanation": "God said He would not give them the land of Esau."
+    },
+    {
+      "id": 33,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 2:6",
+      "question": "What did Israel buy from Esau’s descendants?",
+      "correct_answer": "Meat and water for money",
+      "options": [
+        "Meat and water for money",
+        "Gold and silver for money",
+        "Land for money",
+        "Horses for money"
+      ],
+      "explanation": "They purchased food and water from them."
+    },
+    {
+      "id": 34,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 2:7",
+      "question": "How had the LORD blessed Israel in the wilderness?",
+      "correct_answer": "They lacked nothing",
+      "options": [
+        "They lacked nothing",
+        "They had no enemies",
+        "They had many treasures",
+        "They lived in peace"
+      ],
+      "explanation": "The verse says the Lord blessed their works and they lacked nothing."
+    },
+    {
+      "id": 35,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 2:9",
+      "question": "What city did God say not to distress or contend with?",
+      "correct_answer": "Moab",
+      "options": [
+        "Moab",
+        "Ammon",
+        "Edom",
+        "Philistia"
+      ],
+      "explanation": "God commanded them not to distress Moab or contend with them."
+    },
+    {
+      "id": 36,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 2:11",
+      "question": "What people were described as giants in Deuteronomy 2:11?",
+      "correct_answer": "The Emims",
+      "options": [
+        "The Emims",
+        "The Amorites",
+        "The Hittites",
+        "The Canaanites"
+      ],
+      "explanation": "The verse says the Emims were accounted giants."
+    },
+    {
+      "id": 37,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 2:24",
+      "question": "Which king did Israel begin to possess when they passed over the river Arnon?",
+      "correct_answer": "Sihon",
+      "options": [
+        "Sihon",
+        "Og",
+        "Balak",
+        "Abimelech"
+      ],
+      "explanation": "They were told to begin to possess the land of Sihon king of Heshbon."
+    },
+    {
+      "id": 38,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 3:1",
+      "question": "Which king opposed Israel at Edrei in Deuteronomy 3:1?",
+      "correct_answer": "Og king of Bashan",
+      "options": [
+        "Og king of Bashan",
+        "Sihon king of Heshbon",
+        "Balak king of Moab",
+        "Pharaoh king of Egypt"
+      ],
+      "explanation": "Og king of Bashan came out against Israel at Edrei."
+    },
+    {
+      "id": 39,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 3:2",
+      "question": "What had the LORD told Moses about Og in Deuteronomy 3:2?",
+      "correct_answer": "Fear him not; for I will deliver him into thy hand",
+      "options": [
+        "Fear him not; for I will deliver him into thy hand",
+        "Make peace with him",
+        "Avoid him altogether",
+        "Ask the elders for counsel"
+      ],
+      "explanation": "God told Moses not to fear Og because He would deliver him."
+    },
+    {
+      "id": 40,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 3:6",
+      "question": "What did Israel do to the cities of Bashan?",
+      "correct_answer": "Utterly destroyed them",
+      "options": [
+        "Utterly destroyed them",
+        "Made treaties with them",
+        "Captured them but spared the people",
+        "Fled from them"
+      ],
+      "explanation": "They destroyed the cities as they had done to Sihon."
+    },
+    {
+      "id": 41,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 3:11",
+      "question": "How long was Og's bedstead according to Deuteronomy 3:11?",
+      "correct_answer": "Nine cubits",
+      "options": [
+        "Nine cubits",
+        "Seven cubits",
+        "Twelve cubits",
+        "Five cubits"
+      ],
+      "explanation": "Og's bedstead was described as nine cubits long."
+    },
+    {
+      "id": 42,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 3:12",
+      "question": "Which tribes received the land of Gilead?",
+      "correct_answer": "Reuben and Gad",
+      "options": [
+        "Reuben and Gad",
+        "Judah and Benjamin",
+        "Dan and Asher",
+        "Levi and Simeon"
+      ],
+      "explanation": "Moses gave the land of Gilead to the Reubenites and Gadites."
+    },
+    {
+      "id": 43,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 3:13",
+      "question": "Where was the rest of Gilead given?",
+      "correct_answer": "To the half tribe of Manasseh",
+      "options": [
+        "To the half tribe of Manasseh",
+        "To the tribe of Levi",
+        "To the tribe of Judah",
+        "To the tribe of Ephraim"
+      ],
+      "explanation": "The rest of Gilead went to the half tribe of Manasseh."
+    },
+    {
+      "id": 44,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 4:1",
+      "question": "What did Moses urge Israel to do with the statutes and judgments?",
+      "correct_answer": "Hear them and do them",
+      "options": [
+        "Hear them and do them",
+        "Write them down only",
+        "Teach them to foreigners",
+        "Store them in the tabernacle"
+      ],
+      "explanation": "Moses urged Israel to hear the law and obey it."
+    },
+    {
+      "id": 45,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 4:2",
+      "question": "What must Israel not do with God's word?",
+      "correct_answer": "Add or diminish from it",
+      "options": [
+        "Add or diminish from it",
+        "Ignore it entirely",
+        "Share it with others",
+        "Write it on stones"
+      ],
+      "explanation": "The Lord commanded them not to add to or take away from the law."
+    },
+    {
+      "id": 46,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 4:3",
+      "question": "Why was Israel alive according to Deuteronomy 4:4?",
+      "correct_answer": "Because they cleaved unto the LORD their God",
+      "options": [
+        "Because they cleaved unto the LORD their God",
+        "Because they offered more sacrifices",
+        "Because they defeated the Amorites",
+        "Because they built altars"
+      ],
+      "explanation": "Those who remained faithful were alive on that day."
+    },
+    {
+      "id": 47,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 4:5",
+      "question": "What had Moses taught Israel as the LORD commanded?",
+      "correct_answer": "Statutes and judgments",
+      "options": [
+        "Statutes and judgments",
+        "Songs and parables",
+        "Works and sacrifices",
+        "History and genealogy"
+      ],
+      "explanation": "Moses taught them the statutes and judgments given by God."
+    },
+    {
+      "id": 48,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 4:9",
+      "question": "Who did Moses tell Israel to teach the law to?",
+      "correct_answer": "Your sons and your sons' sons",
+      "options": [
+        "Your sons and your sons' sons",
+        "Foreigners and strangers",
+        "Only the priests",
+        "Only the elders"
+      ],
+      "explanation": "Moses urged continual teaching of the commandments to future generations."
+    },
+    {
+      "id": 49,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 4:13",
+      "question": "Where were the ten commandments written according to Deuteronomy 4:13?",
+      "correct_answer": "On two tables of stone",
+      "options": [
+        "On two tables of stone",
+        "On parchments",
+        "In the book of the law",
+        "On the altar"
+      ],
+      "explanation": "God wrote the commandments on stone tablets."
+    },
+    {
+      "id": 50,
+      "level": "easy",
+      "verse_reference": "Deuteronomy 4:17",
+      "question": "What did Moses warn Israel not to make?",
+      "correct_answer": "A graven image or likeness",
+      "options": [
+        "A graven image or likeness",
+        "A new covenant",
+        "A golden calf",
+        "A sacrifice outside the tabernacle"
+      ],
+      "explanation": "He warned against making any image of a creature."
+    },
+    {
+      "id": 51,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:1",
+      "question": "Why did Moses call Israel to hear the statutes and judgments in Deuteronomy 5:1?",
+      "correct_answer": "So that they may learn, keep, and do them",
+      "options": [
+        "So that they may learn, keep, and do them",
+        "So that they may teach them to strangers",
+        "So that they may compare them to other laws",
+        "So that they may write them down"
+      ],
+      "explanation": "Moses wanted the people to learn and obey the law."
+    },
+    {
+      "id": 52,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:4",
+      "question": "How did the LORD speak to Israel at Horeb?",
+      "correct_answer": "Face to face out of the midst of the fire",
+      "options": [
+        "Face to face out of the midst of the fire",
+        "Through an angel",
+        "By a dream",
+        "By a prophet"
+      ],
+      "explanation": "The verse states God spoke directly to Israel from the fire on the mountain."
+    },
+    {
+      "id": 53,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:7",
+      "question": "What is the first commandment listed in Deuteronomy 5:7?",
+      "correct_answer": "Thou shalt have none other gods before me",
+      "options": [
+        "Thou shalt have none other gods before me",
+        "Thou shalt not make unto thee any graven image",
+        "Thou shalt not take the name of the LORD thy God in vain",
+        "Remember the sabbath day"
+      ],
+      "explanation": "The first commandment forbids other gods."
+    },
+    {
+      "id": 54,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:12",
+      "question": "What day is to be kept holy according to Deuteronomy 5:12?",
+      "correct_answer": "The sabbath day",
+      "options": [
+        "The sabbath day",
+        "The feast of unleavened bread",
+        "The day of atonement",
+        "The day of trumpets"
+      ],
+      "explanation": "The sabbath is commanded as a holy day of rest."
+    },
+    {
+      "id": 55,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:16",
+      "question": "What honor is commanded in Deuteronomy 5:16?",
+      "correct_answer": "Honor thy father and thy mother",
+      "options": [
+        "Honor thy father and thy mother",
+        "Honor the priests and Levites",
+        "Honor the elders of Israel",
+        "Honor thy neighbors"
+      ],
+      "explanation": "The fifth commandment instructs honor for parents."
+    },
+    {
+      "id": 56,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:17",
+      "question": "Which act is forbidden by Deuteronomy 5:17?",
+      "correct_answer": "Thou shalt not kill",
+      "options": [
+        "Thou shalt not kill",
+        "Thou shalt not steal",
+        "Thou shalt not covet",
+        "Thou shalt not commit adultery"
+      ],
+      "explanation": "The sixth commandment prohibits killing."
+    },
+    {
+      "id": 57,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:18",
+      "question": "What does Deuteronomy 5:18 forbid?",
+      "correct_answer": "Adultery",
+      "options": [
+        "Adultery",
+        "Theft",
+        "False testimony",
+        "Idolatry"
+      ],
+      "explanation": "The verse prohibits committing adultery."
+    },
+    {
+      "id": 58,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:19",
+      "question": "What is forbidden by Deuteronomy 5:19?",
+      "correct_answer": "Stealing",
+      "options": [
+        "Stealing",
+        "Bearing false witness",
+        "Coveting",
+        "Idolatry"
+      ],
+      "explanation": "The commandment prohibits theft."
+    },
+    {
+      "id": 59,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:20",
+      "question": "What does Deuteronomy 5:20 command?",
+      "correct_answer": "Thou shalt not bear false witness against thy neighbor",
+      "options": [
+        "Thou shalt not bear false witness against thy neighbor",
+        "Thou shalt not covet thy neighbor's house",
+        "Thou shalt not steal",
+        "Thou shalt not kill"
+      ],
+      "explanation": "It forbids giving false testimony."
+    },
+    {
+      "id": 60,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 5:21",
+      "question": "Which desire is prohibited by Deuteronomy 5:21?",
+      "correct_answer": "Coveting thy neighbor's wife",
+      "options": [
+        "Coveting thy neighbor's wife",
+        "Coveting thy neighbor's house",
+        "Coveting thy neighbor's ox",
+        "Coveting thy neighbor's servant"
+      ],
+      "explanation": "The commandment forbids coveting a neighbor's spouse."
+    },
+    {
+      "id": 61,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 6:4",
+      "question": "What declaration begins in Deuteronomy 6:4?",
+      "correct_answer": "Hear, O Israel: The LORD our God is one LORD",
+      "options": [
+        "Hear, O Israel: The LORD our God is one LORD",
+        "Remember the sabbath day",
+        "Do not make any graven image",
+        "Honor thy father and mother"
+      ],
+      "explanation": "This verse states the Shema, declaring God's oneness."
+    },
+    {
+      "id": 62,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 6:5",
+      "question": "How are Israelites told to love the LORD in Deuteronomy 6:5?",
+      "correct_answer": "With all their heart, soul, and might",
+      "options": [
+        "With all their heart, soul, and might",
+        "With offerings and sacrifices",
+        "With fasting and prayer",
+        "With words and songs"
+      ],
+      "explanation": "The verse commands wholehearted love for God."
+    },
+    {
+      "id": 63,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 6:6",
+      "question": "Where should the words of God be placed according to Deuteronomy 6:6?",
+      "correct_answer": "In your heart",
+      "options": [
+        "In your heart",
+        "On the altar",
+        "On the doorposts alone",
+        "In a book"
+      ],
+      "explanation": "God's words should be held close in the heart."
+    },
+    {
+      "id": 64,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 6:7",
+      "question": "When should parents teach God's commandments to their children?",
+      "correct_answer": "When sitting, walking, lying down, and rising up",
+      "options": [
+        "When sitting, walking, lying down, and rising up",
+        "Only at the festival",
+        "Only before battle",
+        "Only at the temple"
+      ],
+      "explanation": "They should teach them throughout daily life."
+    },
+    {
+      "id": 65,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 6:8",
+      "question": "What are Israelites instructed to bind as a sign upon their hand?",
+      "correct_answer": "God's commandments",
+      "options": [
+        "God's commandments",
+        "The name of Moses",
+        "A prayer",
+        "A portion of scripture"
+      ],
+      "explanation": "The verse says to bind the commandments as a sign on the hand."
+    },
+    {
+      "id": 66,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 6:9",
+      "question": "Where else does Deuteronomy 6:9 say to write God's words?",
+      "correct_answer": "On the doorposts of your house and on your gates",
+      "options": [
+        "On the doorposts of your house and on your gates",
+        "On the altar of the Lord",
+        "On the stones of the temple",
+        "On the pillars of the city"
+      ],
+      "explanation": "This verse commands writing His words at home and gate entry points."
+    },
+    {
+      "id": 67,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 6:16",
+      "question": "What did Moses say about tempting the LORD in Deuteronomy 6:16?",
+      "correct_answer": "Ye shall not tempt the LORD your God",
+      "options": [
+        "Ye shall not tempt the LORD your God",
+        "Ye shall test the LORD with signs",
+        "Ye shall seek a miracle",
+        "Ye shall demand proof"
+      ],
+      "explanation": "The people were forbidden to put God to the test."
+    },
+    {
+      "id": 68,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 6:24",
+      "question": "Why did God command these statutes, according to Deuteronomy 6:24?",
+      "correct_answer": "For our good always",
+      "options": [
+        "For our good always",
+        "For the elders to judge",
+        "For the land to prosper",
+        "For the strangers in the land"
+      ],
+      "explanation": "The statutes were given for Israel's continual good."
+    },
+    {
+      "id": 69,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 7:1",
+      "question": "How many nations did Israel have to dispossess in Deuteronomy 7:1?",
+      "correct_answer": "Seven nations",
+      "options": [
+        "Seven nations",
+        "Five nations",
+        "Ten nations",
+        "Twelve nations"
+      ],
+      "explanation": "The verse lists seven nations before them."
+    },
+    {
+      "id": 70,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 7:2",
+      "question": "What were they commanded not to do with these nations?",
+      "correct_answer": "Make no covenant with them nor show mercy",
+      "options": [
+        "Make no covenant with them nor show mercy",
+        "Allow them to serve idols",
+        "Take their daughters in marriage",
+        "Trade peacefully with them"
+      ],
+      "explanation": "They were told to destroy the nations and show no mercy."
+    },
+    {
+      "id": 71,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 7:3",
+      "question": "What kind of marriages were forbidden in Deuteronomy 7:3?",
+      "correct_answer": "Marriages with the nations of the land",
+      "options": [
+        "Marriages with the nations of the land",
+        "Marriages within the tribe",
+        "Marriages with Levites",
+        "Marriages outside Israel"
+      ],
+      "explanation": "They were forbidden to intermarry with the inhabitants of Canaan."
+    },
+    {
+      "id": 72,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 7:6",
+      "question": "Why had the LORD chosen Israel according to Deuteronomy 7:6?",
+      "correct_answer": "Because the LORD loved them and kept His oath to their fathers",
+      "options": [
+        "Because the LORD loved them and kept His oath to their fathers",
+        "Because they were the strongest nation",
+        "Because they were righteous from birth",
+        "Because they were numerous"
+      ],
+      "explanation": "God chose them out of love and to keep His covenant."
+    },
+    {
+      "id": 73,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 7:9",
+      "question": "What does the LORD keep for those who love Him and keep His commandments?",
+      "correct_answer": "His covenant and mercy",
+      "options": [
+        "His covenant and mercy",
+        "His wrath and judgment",
+        "His power and wealth",
+        "His kingship and rule"
+      ],
+      "explanation": "God keeps covenant and mercy with those who love Him."
+    },
+    {
+      "id": 74,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 7:12",
+      "question": "What will happen if Israel hearkens diligently to God's commandments?",
+      "correct_answer": "The LORD will keep unto them the covenant and mercy",
+      "options": [
+        "The LORD will keep unto them the covenant and mercy",
+        "They will never face enemies",
+        "They will inherit all lands",
+        "They will become priests"
+      ],
+      "explanation": "Obedience ensures God's covenant and mercy."
+    },
+    {
+      "id": 75,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 7:19",
+      "question": "What will the LORD do to the nations that Israel fears?",
+      "correct_answer": "Send the hornet among them until they are destroyed",
+      "options": [
+        "Send the hornet among them until they are destroyed",
+        "Send a plague upon them",
+        "Amass an army against them",
+        "Cause them to flee"
+      ],
+      "explanation": "God promised to put fear in the nations and send hornets against them."
+    },
+    {
+      "id": 76,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 8:2",
+      "question": "Why did God humble Israel in the wilderness according to Deuteronomy 8:2?",
+      "correct_answer": "To know what was in their heart and if they would keep His commandments",
+      "options": [
+        "To know what was in their heart and if they would keep His commandments",
+        "To punish them for sin",
+        "To make them strong warriors",
+        "To prepare them for war"
+      ],
+      "explanation": "The wilderness was a time of testing and teaching."
+    },
+    {
+      "id": 77,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 8:3",
+      "question": "What did God feed Israel with in the wilderness?",
+      "correct_answer": "Manna",
+      "options": [
+        "Manna",
+        "Quail",
+        "Bread from heaven",
+        "Fish"
+      ],
+      "explanation": "God gave them manna to teach dependence on His word."
+    },
+    {
+      "id": 78,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 8:5",
+      "question": "What is God's action toward His people compared to in Deuteronomy 8:5?",
+      "correct_answer": "As a man chasteneth his son",
+      "options": [
+        "As a man chasteneth his son",
+        "As a shepherd cares for his sheep",
+        "As a king rules his land",
+        "As a father provides for his household"
+      ],
+      "explanation": "God disciplines them like a father disciplines his child."
+    },
+    {
+      "id": 79,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 8:7",
+      "question": "What kind of land did Moses describe in Deuteronomy 8:7-8?",
+      "correct_answer": "A land of brooks of water, fountains, wheat, barley, vines, fig trees, and pomegranates",
+      "options": [
+        "A land of brooks of water, fountains, wheat, barley, vines, fig trees, and pomegranates",
+        "A desert land with little water",
+        "A land of mountains and snow",
+        "A land of cities and merchants"
+      ],
+      "explanation": "The land was described as fertile and rich."
+    },
+    {
+      "id": 80,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 8:11",
+      "question": "What warning does Moses give in Deuteronomy 8:11?",
+      "correct_answer": "Beware that thou forget not the LORD thy God",
+      "options": [
+        "Beware that thou forget not the LORD thy God",
+        "Beware of the kings of the land",
+        "Beware of false prophets",
+        "Beware of leavened bread"
+      ],
+      "explanation": "They were warned not to forget God when prosperous."
+    },
+    {
+      "id": 81,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 8:18",
+      "question": "Who gives power to get wealth according to Deuteronomy 8:18?",
+      "correct_answer": "The LORD thy God",
+      "options": [
+        "The LORD thy God",
+        "The king",
+        "Hard work alone",
+        "Wisdom of the elders"
+      ],
+      "explanation": "Wealth comes from God's empowering rather than human ability alone."
+    },
+    {
+      "id": 82,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 9:1",
+      "question": "What challenge does Israel face in Deuteronomy 9:1?",
+      "correct_answer": "To possess nations greater and mightier than themselves",
+      "options": [
+        "To possess nations greater and mightier than themselves",
+        "To cross the Jordan in flood season",
+        "To build a permanent temple",
+        "To feed the nation in the wilderness"
+      ],
+      "explanation": "The verse highlights the strength of the nations they must conquer."
+    },
+    {
+      "id": 83,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 9:4",
+      "question": "Why did God drive out the nations according to Deuteronomy 9:4?",
+      "correct_answer": "Because of their wickedness, not for Israel's righteousness",
+      "options": [
+        "Because of their wickedness, not for Israel's righteousness",
+        "Because Israel was righteous",
+        "Because Israel had a larger army",
+        "Because of a treaty"
+      ],
+      "explanation": "God acted on the nations’ wickedness, not Israel's merit."
+    },
+    {
+      "id": 84,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 9:7",
+      "question": "What does Moses remind Israel of in Deuteronomy 9:7?",
+      "correct_answer": "How they provoked the LORD in the wilderness",
+      "options": [
+        "How they provoked the LORD in the wilderness",
+        "How they conquered their enemies",
+        "How they built the tabernacle",
+        "How they received the law"
+      ],
+      "explanation": "Moses reminds them of their repeated rebellion."
+    },
+    {
+      "id": 85,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 9:15",
+      "question": "What did Moses do with the stone tablets after seeing the golden calf?",
+      "correct_answer": "Cast them out of his hands and brake them before their eyes",
+      "options": [
+        "Cast them out of his hands and broke them before their eyes",
+        "Burned them on the altar",
+        "Put them back in the ark",
+        "Sent them to the priests"
+      ],
+      "explanation": "Moses broke the tablets in anger at the idolatry."
+    },
+    {
+      "id": 86,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:4",
+      "question": "What did the Lord do after Moses hewed two tables of stone?",
+      "correct_answer": "Wrote on them the ten commandments",
+      "options": [
+        "Wrote on them the ten commandments",
+        "Commanded Moses to keep them hidden",
+        "Gave them to Aaron",
+        "Put them in the tabernacle"
+      ],
+      "explanation": "God rewrote the ten commandments on new tablets."
+    },
+    {
+      "id": 87,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:6",
+      "question": "Who died at Beeroth of the children of Jaakan?",
+      "correct_answer": "Aaron",
+      "options": [
+        "Aaron",
+        "Moses",
+        "Joshua",
+        "Eleazar"
+      ],
+      "explanation": "Aaron died there and was buried, with Eleazar succeeding him."
+    },
+    {
+      "id": 88,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:8",
+      "question": "Why did the LORD separate the tribe of Levi?",
+      "correct_answer": "To bear the ark and minister before the LORD",
+      "options": [
+        "To bear the ark and minister before the LORD",
+        "To receive land in Canaan",
+        "To lead the army",
+        "To teach the people"
+      ],
+      "explanation": "Levi was set apart to serve in the tabernacle."
+    },
+    {
+      "id": 89,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:12",
+      "question": "What does the LORD require of Israel in Deuteronomy 10:12?",
+      "correct_answer": "To fear the LORD, walk in His ways, love Him, serve Him with all their heart and soul",
+      "options": [
+        "To fear the LORD, walk in His ways, love Him, serve Him with all their heart and soul",
+        "To build altars in every city",
+        "To sacrifice daily",
+        "To keep the Sabbath only"
+      ],
+      "explanation": "The verse summarizes God's requirements in a heart-centered obedience."
+    },
+    {
+      "id": 90,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:14",
+      "question": "What belongs to the LORD according to Deuteronomy 10:14?",
+      "correct_answer": "Heaven, the heaven of heavens, and the earth",
+      "options": [
+        "Heaven, the heaven of heavens, and the earth",
+        "Only the tabernacle",
+        "Only the land of Canaan",
+        "Only the people of Israel"
+      ],
+      "explanation": "God owns all creation, not just Israel."
+    },
+    {
+      "id": 91,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:16",
+      "question": "What does God tell Israel to circumcise?",
+      "correct_answer": "The foreskin of their heart",
+      "options": [
+        "The foreskin of their heart",
+        "Their flesh",
+        "Their hands",
+        "Their toes"
+      ],
+      "explanation": "God calls for spiritual circumcision of heart."
+    },
+    {
+      "id": 92,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:17",
+      "question": "How is God described in Deuteronomy 10:17?",
+      "correct_answer": "God of gods and Lord of lords",
+      "options": [
+        "God of gods and Lord of lords",
+        "A mighty warrior",
+        "A distant judge",
+        "A hidden creator"
+      ],
+      "explanation": "He is supreme over all rulers and gods."
+    },
+    {
+      "id": 93,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:18",
+      "question": "What does God do for the fatherless, widow, and stranger?",
+      "correct_answer": "Executes judgment and loves them",
+      "options": [
+        "Executes judgment and loves them",
+        "Ignores them",
+        "Sends them away",
+        "Requires offerings from them"
+      ],
+      "explanation": "God cares for the vulnerable and gives them justice."
+    },
+    {
+      "id": 94,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 10:19",
+      "question": "Why should Israel love the stranger?",
+      "correct_answer": "Because they were strangers in Egypt",
+      "options": [
+        "Because they were strangers in Egypt",
+        "Because strangers pay tithes",
+        "Because strangers have gifts",
+        "Because strangers fear the law"
+      ],
+      "explanation": "They are reminded of their own history as foreigners."
+    },
+    {
+      "id": 95,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 11:1",
+      "question": "What does Moses tell Israel to love according to Deuteronomy 11:1?",
+      "correct_answer": "The LORD and keep His charge",
+      "options": [
+        "The LORD and keep His charge",
+        "Their parents and elders",
+        "Their land and crops",
+        "Their sacrifices and offerings"
+      ],
+      "explanation": "The verse calls for love of God and obedience."
+    },
+    {
+      "id": 96,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 11:7",
+      "question": "What had the Israelites seen with their eyes according to Deuteronomy 11:7?",
+      "correct_answer": "All the great acts of the LORD in Egypt and the wilderness",
+      "options": [
+        "All the great acts of the LORD in Egypt and the wilderness",
+        "Only the giving of the law",
+        "The building of the tabernacle",
+        "The fall of Jericho"
+      ],
+      "explanation": "They had witnessed God's power and wonders firsthand."
+    },
+    {
+      "id": 97,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 11:8",
+      "question": "Why should Israel keep the commandments in Deuteronomy 11:8?",
+      "correct_answer": "To be strong and possess the land",
+      "options": [
+        "To be strong and possess the land",
+        "To avoid the priests",
+        "To make sacrifices daily",
+        "To be wealthy"
+      ],
+      "explanation": "Obedience is linked to strength and possession of the land."
+    },
+    {
+      "id": 98,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 11:10",
+      "question": "How is the land of Canaan described compared to Egypt?",
+      "correct_answer": "It is not like Egypt; it is a land of hills and valleys that drinks rain",
+      "options": [
+        "It is not like Egypt; it is a land of hills and valleys that drinks rain",
+        "It is as fertile as Egypt with Nile irrigation",
+        "It is a desert land",
+        "It is covered with snow"
+      ],
+      "explanation": "Canaan is rain-fed and different from Egypt’s irrigation system."
+    },
+    {
+      "id": 99,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 11:13",
+      "question": "What does God promise if they hearken diligently to His commandments?",
+      "correct_answer": "To give rain in due season and bless their land",
+      "options": [
+        "To give rain in due season and bless their land",
+        "To remove all enemies immediately",
+        "To provide gold and silver",
+        "To make them priests"
+      ],
+      "explanation": "God promises agricultural blessing for obedience."
+    },
+    {
+      "id": 100,
+      "level": "medium",
+      "verse_reference": "Deuteronomy 12:1",
+      "question": "What must Israel observe in the land according to Deuteronomy 12:1?",
+      "correct_answer": "The statutes and judgments given by God",
+      "options": [
+        "The statutes and judgments given by God",
+        "The customs of the Canaanites",
+        "The laws of Egypt",
+        "The edicts of the king"
+      ],
+      "explanation": "They must obey God’s laws in the land they inherit."
+    },
+    {
+      "id": 101,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 12:2",
+      "question": "What was Israel commanded to do to the places where the nations served their gods?",
+      "correct_answer": "Utterly destroy them and burn their groves",
+      "options": [
+        "Utterly destroy them and burn their groves",
+        "Convert them into cities of refuge",
+        "Leave them untouched",
+        "Worship there with offerings"
+      ],
+      "explanation": "The nations’ shrines were to be removed completely to prevent idolatry."
+    },
+    {
+      "id": 102,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 12:13",
+      "question": "Where were Israelites instructed to bring burnt offerings and sacrifices?",
+      "correct_answer": "To the place the LORD shall choose",
+      "options": [
+        "To the place the LORD shall choose",
+        "To any high place they choose",
+        "To the city gates",
+        "To the people of Israel"
+      ],
+      "explanation": "God required central worship at the chosen sanctuary."
+    },
+    {
+      "id": 103,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 12:17",
+      "question": "What is forbidden when eating the tithe within your gates?",
+      "correct_answer": "You may not eat it within your gates if you are ceremonially unclean",
+      "options": [
+        "You may not eat it within your gates if you are ceremonially unclean",
+        "You may not eat it on the road",
+        "You may not eat it without a sacrifice",
+        "You may not eat it after sundown"
+      ],
+      "explanation": "The tithe must be eaten in purity before the Lord."
+    },
+    {
+      "id": 104,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 12:21",
+      "question": "What may a person do with meat if the chosen place is too far away?",
+      "correct_answer": "Kill and eat it in his own gates",
+      "options": [
+        "Kill and eat it in his own gates",
+        "Sell it to a foreigner",
+        "Throw it away",
+        "Offer it as a sin offering"
+      ],
+      "explanation": "They were allowed to eat the offering locally if the chosen place was too distant."
+    },
+    {
+      "id": 105,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 12:23",
+      "question": "What reason is given for not eating blood?",
+      "correct_answer": "Because the blood is the life",
+      "options": [
+        "Because the blood is the life",
+        "Because it is unclean to the touch",
+        "Because it causes disease",
+        "Because it belongs to the priest"
+      ],
+      "explanation": "Blood is sacred as it represents life."
+    },
+    {
+      "id": 106,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 12:25",
+      "question": "If the chosen place is too far, what may a man do with his offerings?",
+      "correct_answer": "Turn them into money and eat here",
+      "options": [
+        "Turn them into money and eat here",
+        "Leave them at the place forever",
+        "Give them to a Levite only",
+        "Offer them as charity"
+      ],
+      "explanation": "If travel was impractical, offerings could be converted to money for local use."
+    },
+    {
+      "id": 107,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 12:28",
+      "question": "What was Israel warned not to do once God cut off the nations from before them?",
+      "correct_answer": "Enquire after the gods of those nations",
+      "options": [
+        "Enquire after the gods of those nations",
+        "Build cities in their lands",
+        "Offer them gifts",
+        "Take their daughters in marriage"
+      ],
+      "explanation": "They were warned not to be influenced by pagan religious practices."
+    },
+    {
+      "id": 108,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 12:29",
+      "question": "Why should Israel not do so unto the LORD?",
+      "correct_answer": "Because the nations did abominations to their gods",
+      "options": [
+        "Because the nations did abominations to their gods",
+        "Because they were stronger than Israel",
+        "Because their gods were dead",
+        "Because it was forbidden by the king"
+      ],
+      "explanation": "Israel was not to imitate the abominable religious practices of the nations."
+    },
+    {
+      "id": 109,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 13:1",
+      "question": "What should they do if a prophet or dreamer gives a sign?",
+      "correct_answer": "See if the sign follows and the prophet speaks in the LORD’s name",
+      "options": [
+        "See if the sign follows and the prophet speaks in the LORD’s name",
+        "Immediately obey him",
+        "Ignore all signs",
+        "Ask the king for counsel"
+      ],
+      "explanation": "They must test prophets by whether their words come true and match God's will."
+    },
+    {
+      "id": 110,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 13:2",
+      "question": "If a miracle leads people to serve other gods, what does that indicate?",
+      "correct_answer": "The prophet is false and should not be hearkened to",
+      "options": [
+        "The prophet is false and should not be hearkened to",
+        "The miracle is from the LORD",
+        "The people are wise",
+        "The gods are equal"
+      ],
+      "explanation": "False prophets may perform signs to deceive, but they are not from God."
+    },
+    {
+      "id": 111,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 13:4",
+      "question": "What should Israel do to the false prophet in Deuteronomy 13:4?",
+      "correct_answer": "Walk after the LORD and fear Him",
+      "options": [
+        "Walk after the LORD and fear Him",
+        "Reject all miracles",
+        "Punish the false prophet quickly",
+        "Offer sacrifices to both gods"
+      ],
+      "explanation": "They are to remain faithful to God regardless of false signs."
+    },
+    {
+      "id": 112,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 13:5",
+      "question": "What happens to a prophet who speaks presumptuously in God's name?",
+      "correct_answer": "He shall die",
+      "options": [
+        "He shall die",
+        "He shall be exiled",
+        "He shall be fined",
+        "He shall be imprisoned"
+      ],
+      "explanation": "False prophecy in God’s name is punishable by death."
+    },
+    {
+      "id": 113,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 13:6",
+      "question": "Which relatives might entice you to serve another god?",
+      "correct_answer": "Brother, son, daughter, wife, or friend",
+      "options": [
+        "Brother, son, daughter, wife, or friend",
+        "Priest or Levite",
+        "Stranger or merchant",
+        "King or prophet"
+      ],
+      "explanation": "Close relations may secretly entice a person away from God."
+    },
+    {
+      "id": 114,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 13:9",
+      "question": "What must be done if such an enticement is confirmed?",
+      "correct_answer": "Stone the enticer to death",
+      "options": [
+        "Stone the enticer to death",
+        "Forgive them and warn them",
+        "Send them into exile",
+        "Make them a priest"
+      ],
+      "explanation": "The law requires a severe penalty for leading Israel into idolatry."
+    },
+    {
+      "id": 115,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 14:1",
+      "question": "What physical signs were Israelites forbidden to make for the dead?",
+      "correct_answer": "Cut themselves or make baldness between their eyes",
+      "options": [
+        "Cut themselves or make baldness between their eyes",
+        "Build monuments of stone",
+        "Wear garments of mixed fibers",
+        "Offer sacrifices to dead ancestors"
+      ],
+      "explanation": "They were to remain distinct from pagan mourning customs."
+    },
+    {
+      "id": 116,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 14:3",
+      "question": "What directive is given in Deuteronomy 14:3 about eating?",
+      "correct_answer": "Thou shalt not eat any abominable thing",
+      "options": [
+        "Thou shalt not eat any abominable thing",
+        "Thou shalt not eat meat on the sabbath",
+        "Thou shalt not eat foreign food",
+        "Thou shalt not eat unleavened bread"
+      ],
+      "explanation": "The law forbids eating ritually unclean animals."
+    },
+    {
+      "id": 117,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 14:15",
+      "question": "What is prohibited about birds in Deuteronomy 14:15?",
+      "correct_answer": "You shall not eat the owl, night hawk, or other unclean birds",
+      "options": [
+        "You shall not eat the owl, night hawk, or other unclean birds",
+        "You shall not eat any birds at all",
+        "You shall not eat birds with wings",
+        "You shall only eat birds in sacrifice"
+      ],
+      "explanation": "Certain birds are listed as unclean for eating."
+    },
+    {
+      "id": 118,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 14:21",
+      "question": "What should you do if an animal dies of itself?",
+      "correct_answer": "Give it to a stranger or sell it, but do not eat it",
+      "options": [
+        "Give it to a stranger or sell it, but do not eat it",
+        "Eat it after cooking thoroughly",
+        "Burn it with fire",
+        "Keep it for sacrifice"
+      ],
+      "explanation": "Animals that die naturally are unclean and cannot be eaten."
+    },
+    {
+      "id": 119,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 15:1",
+      "question": "How often must creditors release debt according to Deuteronomy 15:1?",
+      "correct_answer": "At the end of every seven years",
+      "options": [
+        "At the end of every seven years",
+        "Every year at Passover",
+        "Every fifty years",
+        "At the Jubilee only"
+      ],
+      "explanation": "The law of release applied every seventh year."
+    },
+    {
+      "id": 120,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 15:7",
+      "question": "What must a wealthy person not do to the poor brother in need?",
+      "correct_answer": "Not harden his heart or shut his hand",
+      "options": [
+        "Not harden his heart or shut his hand",
+        "Not ask for collateral",
+        "Not give him anything",
+        "Not speak to him"
+      ],
+      "explanation": "Generosity is commanded toward the poor."
+    },
+    {
+      "id": 121,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 15:12",
+      "question": "What must an Israelite do to a Hebrew servant after six years?",
+      "correct_answer": "Let him go free",
+      "options": [
+        "Let him go free",
+        "Sell him to a foreigner",
+        "Make him a priest",
+        "Keep him forever"
+      ],
+      "explanation": "Hebrew servants were to be released in the seventh year."
+    },
+    {
+      "id": 122,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 15:16",
+      "question": "If a servant loves his master and does not want to leave, what should be done?",
+      "correct_answer": "Thrust an aul through his ear and let him serve forever",
+      "options": [
+        "Thrust an aul through his ear and let him serve forever",
+        "Sell him back to his family",
+        "Release him immediately",
+        "Promote him to overseer"
+      ],
+      "explanation": "A permanent servant was ceremonially marked by an aul through the ear."
+    },
+    {
+      "id": 123,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 15:19",
+      "question": "What must be done with the firstling of herd and flock?",
+      "correct_answer": "Sanctify it unto the LORD",
+      "options": [
+        "Sanctify it unto the LORD",
+        "Offer it to the poor",
+        "Sell it in the market",
+        "Keep it for family use"
+      ],
+      "explanation": "The firstborn animals were to be dedicated to God."
+    },
+    {
+      "id": 124,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 15:23",
+      "question": "What must a person do with the blood of an animal?",
+      "correct_answer": "Pour it upon the ground as water",
+      "options": [
+        "Pour it upon the ground as water",
+        "Use it for healing",
+        "Keep it for the priests",
+        "Drink it after sacrifice"
+      ],
+      "explanation": "The blood was not to be eaten but poured out on the ground."
+    },
+    {
+      "id": 125,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 16:1",
+      "question": "What month is the Passover observed?",
+      "correct_answer": "Abib",
+      "options": [
+        "Abib",
+        "Nisan",
+        "Tishri",
+        "Sivan"
+      ],
+      "explanation": "The Passover is celebrated in the month of Abib."
+    },
+    {
+      "id": 126,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 16:3",
+      "question": "What were Israelites forbidden to eat during the Passover?",
+      "correct_answer": "Leavened bread",
+      "options": [
+        "Leavened bread",
+        "Unleavened bread",
+        "Manna",
+        "Roasted lamb"
+      ],
+      "explanation": "They were commanded to eat unleavened bread for seven days."
+    },
+    {
+      "id": 127,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 16:5",
+      "question": "Where was the Passover to be kept?",
+      "correct_answer": "In the place which the LORD shall choose",
+      "options": [
+        "In the place which the LORD shall choose",
+        "In every gate of the city",
+        "In the hillside",
+        "In the fields"
+      ],
+      "explanation": "Centralized worship at the chosen sanctuary was required."
+    },
+    {
+      "id": 128,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 16:9",
+      "question": "How many weeks are to be numbered from the reaping of the harvest?",
+      "correct_answer": "Seven weeks",
+      "options": [
+        "Seven weeks",
+        "Fifty weeks",
+        "Fourteen weeks",
+        "Three weeks"
+      ],
+      "explanation": "The Feast of Weeks is counted by seven weeks from the beginning of harvest."
+    },
+    {
+      "id": 129,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 16:11",
+      "question": "Who was to rejoice before the LORD at the Feast of Weeks?",
+      "correct_answer": "You, your sons, daughters, servants, Levites, strangers, fatherless, and widows",
+      "options": [
+        "You, your sons, daughters, servants, Levites, strangers, fatherless, and widows",
+        "Only the priests",
+        "Only the men of Israel",
+        "Only the elders"
+      ],
+      "explanation": "The entire community, including the marginalized, was to rejoice together."
+    },
+    {
+      "id": 130,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 16:18",
+      "question": "What kind of officials were to be appointed in every city?",
+      "correct_answer": "Judges and officers that judge with just judgment",
+      "options": [
+        "Judges and officers that judge with just judgment",
+        "Priests and prophets",
+        "Kings and chieftains",
+        "Scribes and Levites"
+      ],
+      "explanation": "Judicial officials were to administer justice fairly."
+    },
+    {
+      "id": 131,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 16:19",
+      "question": "What must not be done in judgment?",
+      "correct_answer": "Pervert judgment or respect persons",
+      "options": [
+        "Pervert judgment or respect persons",
+        "Hear witnesses",
+        "Consult the elders",
+        "Follow the law"
+      ],
+      "explanation": "Judges must avoid bias and corruption."
+    },
+    {
+      "id": 132,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 16:21",
+      "question": "What kind of tree must not be planted near the altar?",
+      "correct_answer": "A grove of any trees",
+      "options": [
+        "A grove of any trees",
+        "A fig tree",
+        "An olive tree",
+        "A cedar tree"
+      ],
+      "explanation": "Trees were not to be planted near the altar to avoid idolatry."
+    },
+    {
+      "id": 133,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:1",
+      "question": "What is forbidden when offering sacrifice to the LORD?",
+      "correct_answer": "Offering any blemished animal",
+      "options": [
+        "Offering any blemished animal",
+        "Offering a perfect animal",
+        "Offering grain instead of animals",
+        "Offering outside the chosen place"
+      ],
+      "explanation": "Sacrifices must be without blemish."
+    },
+    {
+      "id": 134,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:2",
+      "question": "What should be done if a man or woman is found worshiping other gods?",
+      "correct_answer": "Bring them to the gate and stone them to death",
+      "options": [
+        "Bring them to the gate and stone them to death",
+        "Exile them from Israel",
+        "Make them offer a sacrifice",
+        "Forgive them if they repent"
+      ],
+      "explanation": "Idolatry is punished severely under the Mosaic law."
+    },
+    {
+      "id": 135,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:6",
+      "question": "How many witnesses are required to convict someone of a capital crime?",
+      "correct_answer": "Two or three witnesses",
+      "options": [
+        "Two or three witnesses",
+        "One witness",
+        "Four witnesses",
+        "None, only confession"
+      ],
+      "explanation": "The law requires multiple witnesses for capital cases."
+    },
+    {
+      "id": 136,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:8",
+      "question": "Where is one to go if a matter is too hard for local judges?",
+      "correct_answer": "To the place the LORD shall choose",
+      "options": [
+        "To the place the LORD shall choose",
+        "To the nearest foreign priest",
+        "To the city gate elders",
+        "To the king of another nation"
+      ],
+      "explanation": "Difficult cases were referred to the central sanctuary."
+    },
+    {
+      "id": 137,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:9",
+      "question": "Who should decide the difficult cases at the chosen place?",
+      "correct_answer": "The priests the Levites and the judge in those days",
+      "options": [
+        "The priests the Levites and the judge in those days",
+        "The king",
+        "The elders of the city",
+        "The prophet"
+      ],
+      "explanation": "The central judges at the sanctuary rendered decisions."
+    },
+    {
+      "id": 138,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:10",
+      "question": "What were the people commanded to do with the judge’s sentence?",
+      "correct_answer": "Do according to what he tells them",
+      "options": [
+        "Do according to what he tells them",
+        "Question the sentence",
+        "Appeal to another judge",
+        "Ignore it if it seems harsh"
+      ],
+      "explanation": "Israel was to obey the verdict of the appointed judge."
+    },
+    {
+      "id": 139,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:13",
+      "question": "What will happen if Israel disobeys the sentence of the judge?",
+      "correct_answer": "The evil will remain among them",
+      "options": [
+        "The evil will remain among them",
+        "They will receive a second chance",
+        "They will be forgiven",
+        "They will be exiled immediately"
+      ],
+      "explanation": "Ignoring righteous judgment leaves sin in the community."
+    },
+    {
+      "id": 140,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:14",
+      "question": "When Israel desires a king, what kind of king should they appoint?",
+      "correct_answer": "One chosen by the LORD from among their brothers",
+      "options": [
+        "One chosen by the LORD from among their brothers",
+        "A foreign prince",
+        "A priestly ruler",
+        "A wealthy leader"
+      ],
+      "explanation": "The king must be an Israelite chosen by God."
+    },
+    {
+      "id": 141,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:16",
+      "question": "What must the king not multiply to himself?",
+      "correct_answer": "Horses, wives, or silver and gold",
+      "options": [
+        "Horses, wives, or silver and gold",
+        "Priests and Levites",
+        "Lands and possessions",
+        "Friends and servants"
+      ],
+      "explanation": "The king should not amass horses, wives, or wealth."
+    },
+    {
+      "id": 142,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:17",
+      "question": "Why should the king not multiply wives to himself?",
+      "correct_answer": "Lest his heart turn away",
+      "options": [
+        "Lest his heart turn away",
+        "Lest he become poor",
+        "Lest he lose the respect of people",
+        "Lest he be taxed heavily"
+      ],
+      "explanation": "Many wives could lead the king away from God."
+    },
+    {
+      "id": 143,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:18",
+      "question": "What should the king do after taking the throne?",
+      "correct_answer": "Write a copy of the law and read it all his life",
+      "options": [
+        "Write a copy of the law and read it all his life",
+        "Build a palace",
+        "Conquer neighboring nations",
+        "Offer special sacrifices"
+      ],
+      "explanation": "The king must keep the law before him continually."
+    },
+    {
+      "id": 144,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:19",
+      "question": "Why should the king read the law daily?",
+      "correct_answer": "So he may learn to fear the LORD and keep all His words",
+      "options": [
+        "So he may learn to fear the LORD and keep all His words",
+        "So he may appear scholarly",
+        "So he may impress foreign nations",
+        "So he may collect taxes"
+      ],
+      "explanation": "Daily reading keeps the king humble and obedient to God."
+    },
+    {
+      "id": 145,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 17:20",
+      "question": "What will be the result if the king follows the law?",
+      "correct_answer": "His heart will not be lifted above his brethren",
+      "options": [
+        "His heart will not be lifted above his brethren",
+        "He will grow rich quickly",
+        "He will conquer every nation",
+        "He will avoid all judgment"
+      ],
+      "explanation": "The king should remain humble and not exalt himself."
+    },
+    {
+      "id": 146,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 18:1",
+      "question": "Who among Israel had no inheritance in the land?",
+      "correct_answer": "The priests the Levites",
+      "options": [
+        "The priests the Levites",
+        "The kings",
+        "The elders",
+        "The prophets"
+      ],
+      "explanation": "The Levites’ inheritance was the Lord Himself and their priestly service."
+    },
+    {
+      "id": 147,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 18:9",
+      "question": "Which practices were Israelites forbidden to learn from the nations?",
+      "correct_answer": "Child sacrifice, divination, enchantment, witchcraft, necromancy",
+      "options": [
+        "Child sacrifice, divination, enchantment, witchcraft, necromancy",
+        "Feasting and celebration",
+        "Agricultural customs",
+        "Trade practices"
+      ],
+      "explanation": "These pagan practices were abominations."
+    },
+    {
+      "id": 148,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 18:15",
+      "question": "What type of prophet did Moses say the LORD would raise up?",
+      "correct_answer": "A prophet like Moses",
+      "options": [
+        "A prophet like Moses",
+        "A prophet like Elijah",
+        "A prophet like David",
+        "A prophet like Solomon"
+      ],
+      "explanation": "God promised a prophet from among their brethren like Moses."
+    },
+    {
+      "id": 149,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 18:18",
+      "question": "What will God put in the mouth of the coming prophet?",
+      "correct_answer": "His words",
+      "options": [
+        "His words",
+        "Songs",
+        "Prophecies of war",
+        "Dreams"
+      ],
+      "explanation": "God promised to place His words in the prophet’s mouth."
+    },
+    {
+      "id": 150,
+      "level": "hard",
+      "verse_reference": "Deuteronomy 18:19",
+      "question": "What is required of those who will not hearken to the LORD’s prophet?",
+      "correct_answer": "God will require it of them",
+      "options": [
+        "God will require it of them",
+        "They will be abandoned to idols",
+        "They will be sent into exile",
+        "They will be forgiven"
+      ],
+      "explanation": "Disobedience to God’s appointed prophet carries personal responsibility before God."
+    }
+  ]
+}
