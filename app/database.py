@@ -10,14 +10,14 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base, Session
 from typing import Generator
 
-# Get DATABASE_URL from environment
+# 1. Hardcoded Render Internal Database URL
 DATABASE_URL = "postgresql://bibel_quiz_user:IBQceDb477BJ0i7DWL4MSIOy6hnkATEO@dpg-d84b0f58nd3s73ctqle0-a/bibel_quiz"
 
-# Fix for Render PostgreSQL URL (postgres:// → postgresql://)
+# 2. Fix for Render PostgreSQL URL (postgres:// → postgresql://) if modified later
 if DATABASE_URL and DATABASE_URL.startswith("postgres://"):
     DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
 
-# Fallback to SQLite for local development (if no env set)
+# 3. Fallback to SQLite for local development (Triggers only if you comment out or clear the URL above)
 if not DATABASE_URL:
     DATABASE_URL = "sqlite:///./bible_quiz.db"
 
