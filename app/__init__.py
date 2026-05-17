@@ -2,7 +2,9 @@
 from flask import Flask
 from flask_cors import CORS
 from flask_jwt_extended import JWTManager
-from flasgger import Swagger, swag_from
+from flasgger import Swagger
+# Python 3.14 Compatibility: Import swag_from directly from its submodule
+from flasgger.utils import swag_from
 from datetime import timedelta
 import os
 
@@ -61,8 +63,12 @@ def create_app():
     
     app.config['SWAGGER'] = swagger_config
     
-    # Enable CORS
-    CORS(app, origins=["http://localhost:3000", "http://localhost:5000"], supports_credentials=True)
+    # Enable CORS for local development and your production Render domain
+    CORS(app, origins=[
+        "http://localhost:3000", 
+        "http://localhost:5000",
+        "https://bibel-quiz.onrender.com"  # Crucial for live API testing via Swagger UI
+    ], supports_credentials=True)
     
     # Initialize JWT
     JWTManager(app)
@@ -97,7 +103,7 @@ def create_app():
             }
         ],
         "basePath": "/",
-        "schemes": ["http", "https"],
+        "schemes": ["https", "http"],  # Prioritize secure HTTPS to avoid "Failed to fetch" blockages
         "tags": [
             {"name": "Authentication", "description": "User authentication endpoints"},
             {"name": "User Profile", "description": "User profile management"},
