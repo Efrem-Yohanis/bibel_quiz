@@ -4,7 +4,8 @@ from flask_jwt_extended import create_access_token, jwt_required, get_jwt_identi
 from datetime import datetime, timedelta
 import sys
 from pathlib import Path
-
+from flasgger import Swagger
+from flasgger.utils import swag_from
 # Create blueprint
 auth_bp = Blueprint('auth', __name__)
 
@@ -640,4 +641,3 @@ def change_password():
     except Exception as e:
         return jsonify(error_response(f'Password change failed: {str(e)}', 500))
 
-        
