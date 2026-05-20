@@ -1,6 +1,10 @@
 # app/init_db.py
 import sqlite3
+import os
+import hashlib
+import secrets
 from pathlib import Path
+from datetime import datetime
 
 DB_PATH = Path(__file__).parent / 'bible_quiz.db'
 
@@ -160,6 +164,9 @@ def init_database():
                 updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 last_login TIMESTAMP,
                 is_active BOOLEAN DEFAULT 1,
+                is_admin BOOLEAN DEFAULT 0,
+                google_id TEXT,
+                auth_provider TEXT,
                 total_quizzes_taken INTEGER DEFAULT 0,
                 total_correct_answers INTEGER DEFAULT 0,
                 total_questions_answered INTEGER DEFAULT 0,
@@ -170,6 +177,16 @@ def init_database():
             )
         """)
         
+        # Add invisible admin and Google auth columns to existing DB if missing
+        cursor.execute("PRAGMA table_info(users)")
+        existing_columns = [row[1] for row in cursor.fetchall()]
+        if 'is_admin' not in existing_columns:
+            cursor.execute("ALTER TABLE users ADD COLUMN is_admin BOOLEAN DEFAULT 0")
+        if 'google_id' not in existing_columns:
+            cursor.execute("ALTER TABLE users ADD COLUMN google_id TEXT")
+        if 'auth_provider' not in existing_columns:
+            cursor.execute("ALTER TABLE users ADD COLUMN auth_provider TEXT")
+        cursor.execute("CREATE UNIQUE INDEX IF NOT EXISTS idx_users_google_id ON users(google_id)")
         # 14. User Sessions table
         cursor.execute("""
             CREATE TABLE IF NOT EXISTS user_sessions (
@@ -272,6 +289,34 @@ def init_database():
         cursor.execute("INSERT OR IGNORE INTO testaments (id, name) VALUES (2, 'New')")
         
         conn.commit()
+
+        # Bootstrap admin account from environment if configured
+        admin_username = os.environ.get('ADMIN_USERNAME')
+        admin_password = os.environ.get('ADMIN_PASSWORD')
+        admin_email = os.environ.get('ADMIN_EMAIL')
+        if admin_username and admin_password:
+            cursor.execute("SELECT id, is_admin FROM users WHERE username = ?", (admin_username,))
+            existing = cursor.fetchone()
+            if existing:
+                cursor.execute(
+                    "UPDATE users SET is_admin = 1, updated_at = ? WHERE id = ?",
+                    (datetime.utcnow(), existing[0])
+                )
+            else:
+                salt = secrets.token_hex(16)
+                password_hash = hashlib.sha256(f"{admin_password}{salt}".encode()).hexdigest()
+                password_hash = f"{salt}:{password_hash}"
+                cursor.execute("""
+                    INSERT INTO users (username, email, password_hash, created_at, updated_at, is_active, is_admin)
+                    VALUES (?, ?, ?, ?, ?, 1, 1)
+                """, (
+                    admin_username,
+                    admin_email,
+                    password_hash,
+                    datetime.utcnow(),
+                    datetime.utcnow()
+                ))
+            conn.commit()
         
         # Verify tables were created
         cursor.execute("SELECT name FROM sqlite_master WHERE type='table' ORDER BY name;")

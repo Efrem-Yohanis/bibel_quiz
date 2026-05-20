@@ -22,6 +22,61 @@ class BibleService:
         conn.row_factory = sqlite3.Row
         return conn
     
+    # ==================== NEW METHODS ====================
+    
+    def get_languages(self) -> List[Dict]:
+        """Get all active languages for Bible reading"""
+        conn = self.get_db()
+        cursor = conn.cursor()
+        
+        cursor.execute("""
+            SELECT id, code, name, native_name 
+            FROM languages 
+            WHERE is_active = 1 
+            ORDER BY id
+        """)
+        
+        languages = [dict(row) for row in cursor.fetchall()]
+        conn.close()
+        
+        return languages
+    
+    def get_books_by_language(self, language_code: str = 'en') -> List[Dict]:
+        """Get all books that have content in the specified language"""
+        conn = self.get_db()
+        cursor = conn.cursor()
+        
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        
+        if not lang_row:
+            conn.close()
+            return []
+        
+        language_id = lang_row['id']
+        
+        # Get books with verses in this language
+        cursor.execute("""
+            SELECT DISTINCT b.id, b.name, t.name as testament,
+                   COUNT(DISTINCT c.id) as chapters
+            FROM books b
+            JOIN testaments t ON b.testament_id = t.id
+            JOIN chapters c ON c.book_id = b.id
+            JOIN verses v ON v.chapter_id = c.id
+            JOIN verse_texts vt ON vt.verse_id = v.id
+            WHERE vt.language_id = ?
+            GROUP BY b.id
+            ORDER BY t.id, b.id
+        """, (language_id,))
+        
+        books = [dict(row) for row in cursor.fetchall()]
+        conn.close()
+        
+        return books
+    
+    # ==================== EXISTING METHODS (UPDATED) ====================
+    
     def get_testaments(self) -> List[Dict]:
         """Get list of all testaments (Old and New)"""
         conn = self.get_db()
@@ -56,10 +111,15 @@ class BibleService:
         
         return books
     
-    def get_books_by_testament_with_language(self, testament_name: str, language: str = 'en') -> List[Dict]:
+    def get_books_by_testament_with_language(self, testament_name: str, language_code: str = 'en') -> List[Dict]:
         """Get list of books by testament with chapter counts for specific language"""
         conn = self.get_db()
         cursor = conn.cursor()
+        
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        language_id = lang_row['id'] if lang_row else 1
         
         cursor.execute("""
             SELECT DISTINCT b.id, b.name,
@@ -84,10 +144,15 @@ class BibleService:
             for book in books
         ]
     
-    def get_book_full_content(self, book_name: str, language: str = 'en') -> Dict:
+    def get_book_full_content(self, book_name: str, language_code: str = 'en') -> Dict:
         """Get full content of a specific book with book info"""
         conn = self.get_db()
         cursor = conn.cursor()
+        
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        language_id = lang_row['id'] if lang_row else 1
         
         # Get book info
         cursor.execute("""
@@ -114,9 +179,9 @@ class BibleService:
             FROM chapters c
             JOIN verses v ON v.chapter_id = c.id
             JOIN verse_texts vt ON vt.verse_id = v.id
-            WHERE c.book_id = ? AND vt.language = ?
+            WHERE c.book_id = ? AND vt.language_id = ?
             ORDER BY c.chapter_number, v.verse_number
-        """, (book_info['id'], language))
+        """, (book_info['id'], language_id))
         
         verses = cursor.fetchall()
         conn.close()
@@ -190,7 +255,7 @@ class BibleService:
             ]
         }
     
-    def get_book_chapters_with_language(self, book_name: str, language: str = 'en') -> Dict:
+    def get_book_chapters_with_language(self, book_name: str, language_code: str = 'en') -> Dict:
         """Get chapters of a book with verse counts for specific language"""
         conn = self.get_db()
         cursor = conn.cursor()
@@ -232,10 +297,15 @@ class BibleService:
             ]
         }
     
-    def get_chapters_content(self, book_name: str, language: str = 'en') -> Dict:
+    def get_chapters_content(self, book_name: str, language_code: str = 'en') -> Dict:
         """Get all chapters content of a book"""
         conn = self.get_db()
         cursor = conn.cursor()
+        
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        language_id = lang_row['id'] if lang_row else 1
         
         # Get book info
         cursor.execute("SELECT id, name FROM books WHERE name = ? OR name LIKE ?", 
@@ -252,9 +322,9 @@ class BibleService:
             FROM chapters c
             JOIN verses v ON v.chapter_id = c.id
             JOIN verse_texts vt ON vt.verse_id = v.id
-            WHERE c.book_id = ? AND vt.language = ?
+            WHERE c.book_id = ? AND vt.language_id = ?
             ORDER BY c.chapter_number, v.verse_number
-        """, (book['id'], language))
+        """, (book['id'], language_id))
         
         verses = cursor.fetchall()
         conn.close()
@@ -282,10 +352,15 @@ class BibleService:
             ]
         }
     
-    def get_chapter_verses(self, book_name: str, chapter: int, language: str = 'en') -> Dict:
+    def get_chapter_verses(self, book_name: str, chapter: int, language_code: str = 'en') -> Dict:
         """Get a specific chapter's verses"""
         conn = self.get_db()
         cursor = conn.cursor()
+        
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        language_id = lang_row['id'] if lang_row else 1
         
         # Get book info
         cursor.execute("SELECT id, name FROM books WHERE name = ? OR name LIKE ?", 
@@ -302,9 +377,9 @@ class BibleService:
             FROM chapters c
             JOIN verses v ON v.chapter_id = c.id
             JOIN verse_texts vt ON vt.verse_id = v.id
-            WHERE c.book_id = ? AND c.chapter_number = ? AND vt.language = ?
+            WHERE c.book_id = ? AND c.chapter_number = ? AND vt.language_id = ?
             ORDER BY v.verse_number
-        """, (book['id'], chapter, language))
+        """, (book['id'], chapter, language_id))
         
         verses = cursor.fetchall()
         conn.close()
@@ -328,10 +403,15 @@ class BibleService:
             ]
         }
     
-    def get_specific_verse(self, book_name: str, chapter: int, verse: int, language: str = 'en') -> Dict:
+    def get_specific_verse(self, book_name: str, chapter: int, verse: int, language_code: str = 'en') -> Dict:
         """Get a specific verse"""
         conn = self.get_db()
         cursor = conn.cursor()
+        
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        language_id = lang_row['id'] if lang_row else 1
         
         # Get book info
         cursor.execute("SELECT id, name FROM books WHERE name = ? OR name LIKE ?", 
@@ -349,8 +429,8 @@ class BibleService:
             JOIN verses v ON v.chapter_id = c.id
             JOIN verse_texts vt ON vt.verse_id = v.id
             WHERE c.book_id = ? AND c.chapter_number = ? 
-              AND v.verse_number = ? AND vt.language = ?
-        """, (book['id'], chapter, verse, language))
+              AND v.verse_number = ? AND vt.language_id = ?
+        """, (book['id'], chapter, verse, language_id))
         
         verse_data = cursor.fetchone()
         conn.close()
@@ -384,10 +464,11 @@ class BibleService:
         
         # Get verse in all languages
         cursor.execute("""
-            SELECT vt.language, vt.text
-            FROM chapters c
-            JOIN verses v ON v.chapter_id = c.id
-            JOIN verse_texts vt ON vt.verse_id = v.id
+            SELECT l.code, l.name, vt.text
+            FROM verse_texts vt
+            JOIN languages l ON vt.language_id = l.id
+            JOIN verses v ON vt.verse_id = v.id
+            JOIN chapters c ON v.chapter_id = c.id
             WHERE c.book_id = ? AND c.chapter_number = ? AND v.verse_number = ?
         """, (book['id'], chapter, verse))
         
@@ -397,27 +478,25 @@ class BibleService:
         if not texts:
             return {'error': f'Verse {book_name} {chapter}:{verse} not found'}
         
-        languages_map = {
-            'en': 'English',
-            'am': 'Amharic',
-            'or': 'Oromo'
-        }
-        
         result = {
             'reference': f'{book["name"]} {chapter}:{verse}',
             'verses': {}
         }
         
         for t in texts:
-            lang_name = languages_map.get(t['language'], t['language'])
-            result['verses'][lang_name] = t['text']
+            result['verses'][t['name']] = t['text']
         
         return result
     
-    def search_verses(self, query: str, language: str = 'en', limit: int = 50) -> List[Dict]:
+    def search_verses(self, query: str, language_code: str = 'en', limit: int = 50) -> List[Dict]:
         """Search for verses containing specific text"""
         conn = self.get_db()
         cursor = conn.cursor()
+        
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        language_id = lang_row['id'] if lang_row else 1
         
         cursor.execute("""
             SELECT b.name as book, c.chapter_number, v.verse_number, vt.text
@@ -425,9 +504,9 @@ class BibleService:
             JOIN verses v ON vt.verse_id = v.id
             JOIN chapters c ON v.chapter_id = c.id
             JOIN books b ON c.book_id = b.id
-            WHERE vt.language = ? AND vt.text LIKE ?
+            WHERE vt.language_id = ? AND vt.text LIKE ?
             LIMIT ?
-        """, (language, f'%{query}%', limit))
+        """, (language_id, f'%{query}%', limit))
         
         results = cursor.fetchall()
         conn.close()
@@ -443,10 +522,15 @@ class BibleService:
             for r in results
         ]
     
-    def get_random_verse(self, language: str = 'en', testament: Optional[str] = None) -> Dict:
+    def get_random_verse(self, language_code: str = 'en', testament: Optional[str] = None) -> Dict:
         """Get a random Bible verse"""
         conn = self.get_db()
         cursor = conn.cursor()
+        
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        language_id = lang_row['id'] if lang_row else 1
         
         if testament:
             cursor.execute("""
@@ -456,10 +540,10 @@ class BibleService:
                 JOIN chapters c ON v.chapter_id = c.id
                 JOIN books b ON c.book_id = b.id
                 JOIN testaments t ON b.testament_id = t.id
-                WHERE vt.language = ? AND t.name = ?
+                WHERE vt.language_id = ? AND t.name = ?
                 ORDER BY RANDOM()
                 LIMIT 1
-            """, (language, testament))
+            """, (language_id, testament))
         else:
             cursor.execute("""
                 SELECT b.name as book, c.chapter_number, v.verse_number, vt.text
@@ -467,10 +551,10 @@ class BibleService:
                 JOIN verses v ON vt.verse_id = v.id
                 JOIN chapters c ON v.chapter_id = c.id
                 JOIN books b ON c.book_id = b.id
-                WHERE vt.language = ?
+                WHERE vt.language_id = ?
                 ORDER BY RANDOM()
                 LIMIT 1
-            """, (language,))
+            """, (language_id,))
         
         verse = cursor.fetchone()
         conn.close()
@@ -486,7 +570,7 @@ class BibleService:
             'text': verse['text']
         }
     
-    def get_verse_of_the_day(self, language: str = 'en') -> Dict:
+    def get_verse_of_the_day(self, language_code: str = 'en') -> Dict:
         """Get verse of the day (based on current date)"""
         # Use day of year to get a consistent verse
         day_of_year = datetime.now().timetuple().tm_yday
@@ -494,21 +578,26 @@ class BibleService:
         conn = self.get_db()
         cursor = conn.cursor()
         
+        # Get language ID
+        cursor.execute("SELECT id FROM languages WHERE code = ?", (language_code,))
+        lang_row = cursor.fetchone()
+        language_id = lang_row['id'] if lang_row else 1
+        
         cursor.execute("""
             SELECT b.name as book, c.chapter_number, v.verse_number, vt.text
             FROM verse_texts vt
             JOIN verses v ON vt.verse_id = v.id
             JOIN chapters c ON v.chapter_id = c.id
             JOIN books b ON c.book_id = b.id
-            WHERE vt.language = ?
+            WHERE vt.language_id = ?
             LIMIT 1 OFFSET ?
-        """, (language, day_of_year % 100))
+        """, (language_id, day_of_year % 100))
         
         verse = cursor.fetchone()
         conn.close()
         
         if not verse:
-            return self.get_random_verse(language)
+            return self.get_random_verse(language_code)
         
         return {
             'reference': f"{verse['book']} {verse['chapter_number']}:{verse['verse_number']}",

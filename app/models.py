@@ -237,6 +237,7 @@ class User(Base):
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
     last_login = Column(DateTime, nullable=True)
     is_active = Column(Boolean, default=True)
+    is_admin = Column(Boolean, default=False)
     reset_token = Column(String(255), nullable=True)
     reset_token_expires = Column(DateTime, nullable=True)
     preferred_language_id = Column(Integer, ForeignKey("languages.id"), nullable=True)

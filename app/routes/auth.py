@@ -1,13 +1,33 @@
 # app/routes/auth.py
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, jsonify, redirect, url_for
 from flask_jwt_extended import create_access_token, jwt_required, get_jwt_identity, get_jwt
 from datetime import datetime, timedelta
+import os
+from dotenv import load_dotenv
+import secrets
 import sys
 from pathlib import Path
 from flasgger import Swagger
 from flasgger.utils import swag_from
+from authlib.integrations.flask_client import OAuth
+from app.utils.email_service import send_email
+
+load_dotenv()
+
 # Create blueprint
 auth_bp = Blueprint('auth', __name__)
+
+oauth = OAuth()
+
+oauth.register(
+    name='google',
+    client_id=os.environ.get('GOOGLE_CLIENT_ID'),
+    client_secret=os.environ.get('GOOGLE_CLIENT_SECRET'),
+    server_metadata_url='https://accounts.google.com/.well-known/openid-configuration',
+    client_kwargs={
+        'scope': 'openid email profile'
+    }
+)
 
 # Import simple auth service
 try:
@@ -36,6 +56,39 @@ def error_response(message, status_code=400):
         'message': message,
         'data': {}
     }, status_code
+
+
+def generate_temp_password(length=12):
+    return secrets.token_urlsafe(length)
+
+
+def _send_registration_email(username, email, password=None, google_signup=False):
+    if not email:
+        return False, 'No email provided'
+
+    if google_signup:
+        subject = 'Your Bible Quiz account is ready'
+        body = (
+            f'Hello {username},\n\n'
+            'Your account has been created using Google sign-in.\n\n'
+            f'Username: {username}\n'
+            f'Temporary password: {password}\n\n'
+            'You can use Google authentication to sign in, or log in with this temporary password and change it later.\n\n'
+            'If you did not request this, please contact support.\n\n'
+            'Bible Quiz Team'
+        )
+    else:
+        subject = 'Welcome to Bible Quiz'
+        body = (
+            f'Hello {username},\n\n'
+            'Thank you for registering with Bible Quiz. Your account is ready.\n\n'
+            f'Username: {username}\n'
+            'Use the password you provided during registration to log in.\n\n'
+            'If you did not create this account, please contact support.\n\n'
+            'Bible Quiz Team'
+        )
+
+    return send_email(subject, body, email)
 
 # ==================== Auth Endpoints ====================
 
@@ -161,6 +214,11 @@ def register():
             if error:
                 return jsonify(error_response(error, 400))
             
+            if user.email:
+                sent, email_error = _send_registration_email(user.username, user.email)
+                if not sent:
+                    print(f"Email warning: {email_error}")
+            
             return jsonify(success_response(
                 data={
                     'user': {
@@ -203,6 +261,11 @@ def register():
             conn.commit()
             conn.close()
             
+            if data.get('email'):
+                sent, email_error = _send_registration_email(data['username'], data['email'])
+                if not sent:
+                    print(f"Email warning: {email_error}")
+
             return jsonify(success_response(
                 data={
                     'user': {
@@ -313,7 +376,10 @@ def login():
             access_token = create_access_token(
                 identity=str(token_response.user_id),  # Convert to string
                 expires_delta=timedelta(days=30),
-                additional_claims={'username': token_response.username}
+                additional_claims={
+                    'username': token_response.username,
+                    'is_admin': getattr(token_response, 'is_admin', False)
+                }
             )
             
             return jsonify(success_response(
@@ -324,6 +390,8 @@ def login():
                     'user': {
                         'id': token_response.user_id,
                         'username': token_response.username
+                        ,
+                        'is_admin': getattr(token_response, 'is_admin', False)
                     }
                 },
                 message='Login successful'
@@ -347,7 +415,7 @@ def login():
                     return False
             
             cursor.execute("""
-                SELECT id, username, password_hash, is_active 
+              SELECT id, username, password_hash, is_active, is_admin 
                 FROM users 
                 WHERE username = ? OR email = ?
             """, (data['username'], data['username']))
@@ -362,7 +430,10 @@ def login():
             access_token = create_access_token(
                 identity=str(user['id']),  # Convert to string
                 expires_delta=timedelta(days=30),
-                additional_claims={'username': user['username']}
+                additional_claims={
+                    'username': user['username'],
+                    'is_admin': bool(user.get('is_admin', False))
+                }
             )
             
             conn.close()
@@ -375,6 +446,8 @@ def login():
                     'user': {
                         'id': user['id'],
                         'username': user['username']
+                        ,
+                        'is_admin': bool(user.get('is_admin', False))
                     }
                 },
                 message='Login successful'
@@ -382,6 +455,312 @@ def login():
         
     except Exception as e:
         return jsonify(error_response(f'Login failed: {str(e)}', 500))
+
+
+@auth_bp.route('/google/login', methods=['GET'])
+def google_login():
+    """Redirect to Google for authentication
+    ---
+    tags:
+      - Authentication
+    summary: Start Google OAuth login
+    description: Redirect the user to Google's OAuth consent screen for authentication
+    parameters:
+      - name: redirect_uri
+        in: query
+        type: string
+        required: false
+        description: The backend URL to redirect to after Google authentication. If not provided, uses the configured Google callback URL.
+        example: http://localhost:8000/auth/google/callback
+    responses:
+      302:
+        description: Redirect to Google OAuth consent screen
+      400:
+        description: Invalid request
+    """
+    redirect_uri = (
+        request.args.get('redirect_uri')
+        or os.environ.get('GOOGLE_REDIRECT_URI')
+        or os.environ.get('GOOGLE_REDIRECT_URI_LOCAL')
+        or os.environ.get('GOOGLE_REDIRECT_URI_PROD')
+        or url_for('auth.google_callback', _external=True)
+    )
+    return oauth.google.authorize_redirect(redirect_uri)
+
+
+@auth_bp.route('/google/callback', methods=['GET'])
+def google_callback():
+    """Handle callback from Google OAuth
+    ---
+    tags:
+      - Authentication
+    summary: Google OAuth callback handler
+    description: Process the callback from Google after user authentication. Automatically creates or links the user account and returns a JWT token.
+    responses:
+      200:
+        description: Authentication successful
+        schema:
+          type: object
+          properties:
+            status:
+              type: string
+              example: success
+            data:
+              type: object
+              properties:
+                access_token:
+                  type: string
+                  description: JWT access token
+                  example: eyJhbGciOiJIUzI1NiIs...
+                token_type:
+                  type: string
+                  example: bearer
+                expires_at:
+                  type: string
+                  format: date-time
+                user:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                    username:
+                      type: string
+                    email:
+                      type: string
+                    is_admin:
+                      type: boolean
+      400:
+        description: Google authentication failed
+        schema:
+          type: object
+          properties:
+            status:
+              type: string
+              example: error
+            message:
+              type: string
+      500:
+        description: Server error during authentication
+    """
+    try:
+        token = oauth.google.authorize_access_token()
+        user_info_response = oauth.google.get('userinfo')
+        user_info = user_info_response.json()
+
+        google_id = user_info.get('sub')
+        email = user_info.get('email')
+        username = user_info.get('name') or email.split('@')[0]
+
+        if not google_id or not email:
+            return jsonify(error_response('Google authentication failed: missing profile information', 400))
+
+        auth_service = AuthService()
+        user = auth_service.get_user_by_google_id(google_id)
+        temp_password = None
+
+        if not user:
+            existing_user = auth_service.get_user_by_email(email)
+            if existing_user:
+                linked, error = auth_service.link_google_account(existing_user['id'], google_id)
+                if not linked:
+                    return jsonify(error_response(error, 400))
+                user = existing_user
+            else:
+                new_user, temp_password, error = auth_service.create_google_user(username, email, google_id)
+                if error:
+                    return jsonify(error_response(error, 400))
+                user = {
+                    'id': new_user.id,
+                    'username': new_user.username,
+                    'email': new_user.email,
+                    'is_admin': getattr(new_user, 'is_admin', False)
+                }
+                sent, email_error = _send_registration_email(username, email, password=temp_password, google_signup=True)
+                if not sent:
+                    print(f"Email warning: {email_error}")
+
+        # Issue JWT for the authenticated user
+        access_token = create_access_token(
+            identity=str(user['id']),
+            expires_delta=timedelta(days=30),
+            additional_claims={
+                'username': user['username'],
+                'is_admin': bool(user.get('is_admin', False))
+            }
+        )
+
+        response_data = {
+            'access_token': access_token,
+            'token_type': 'bearer',
+            'expires_at': (datetime.utcnow() + timedelta(days=30)).isoformat(),
+            'user': {
+                'id': user['id'],
+                'username': user['username'],
+                'email': user.get('email'),
+                'is_admin': bool(user.get('is_admin', False))
+            }
+        }
+
+        redirect_uri = request.args.get('redirect_uri')
+        if redirect_uri:
+            return redirect(f"{redirect_uri}?access_token={access_token}&token_type=bearer")
+
+        return jsonify(success_response(data=response_data, message='Google login successful'))
+    except Exception as e:
+        return jsonify(error_response(f'Google login failed: {str(e)}', 500))
+
+
+@auth_bp.route('/password-reset/request', methods=['POST'])
+def request_password_reset():
+    """Request a password reset email
+    ---
+    tags:
+      - Authentication
+    summary: Request password reset
+    description: Send a password reset link to the user's registered email address
+    parameters:
+      - name: body
+        in: body
+        required: true
+        schema:
+          type: object
+          required:
+            - email
+          properties:
+            email:
+              type: string
+              format: email
+              example: user@example.com
+              description: User's registered email address
+    responses:
+      200:
+        description: Password reset email sent successfully
+        schema:
+          type: object
+          properties:
+            status:
+              type: string
+              example: success
+            message:
+              type: string
+              example: Password reset email sent
+      400:
+        description: Email not registered or missing
+        schema:
+          type: object
+          properties:
+            status:
+              type: string
+              example: error
+            message:
+              type: string
+      500:
+        description: Failed to send email
+    """
+    try:
+        data = request.get_json()
+        email = data.get('email') if data else None
+        if not email:
+            return jsonify(error_response('Email is required', 400))
+
+        auth_service = AuthService()
+        reset_token, error = auth_service.set_password_reset_token(email)
+        if error:
+            return jsonify(error_response(error, 400))
+
+        reset_url = os.environ.get('PASSWORD_RESET_URL') or ''
+        if reset_url:
+            reset_url = f"{reset_url}?reset_token={reset_token}"
+
+        subject = 'Bible Quiz Password Reset'
+        body = (
+            f'Hello,\n\n'
+            'We received a request to reset your password.\n\n'
+            f'Reset token: {reset_token}\n'
+            f'Alternatively, visit: {reset_url}\n\n'
+            'This token expires in one hour.\n\n'
+            'If you did not request a password reset, please ignore this email.\n\n'
+            'Bible Quiz Team'
+        )
+
+        sent, email_error = send_email(subject, body, email)
+        if not sent:
+            return jsonify(error_response(f'Failed to send reset email: {email_error}', 500))
+
+        return jsonify(success_response(message='Password reset email sent'))
+    except Exception as e:
+        return jsonify(error_response(f'Password reset request failed: {str(e)}', 500))
+
+
+@auth_bp.route('/password-reset/confirm', methods=['POST'])
+def confirm_password_reset():
+    """Confirm password reset and set new password
+    ---
+    tags:
+      - Authentication
+    summary: Reset password
+    description: Reset the user's password using a valid reset token
+    parameters:
+      - name: body
+        in: body
+        required: true
+        schema:
+          type: object
+          required:
+            - reset_token
+            - new_password
+          properties:
+            reset_token:
+              type: string
+              example: abcdef123456789...
+              description: Reset token received in password reset email
+            new_password:
+              type: string
+              minLength: 6
+              example: NewPassword123!
+              description: New password (minimum 6 characters)
+    responses:
+      200:
+        description: Password reset successful
+        schema:
+          type: object
+          properties:
+            status:
+              type: string
+              example: success
+            message:
+              type: string
+              example: Password has been reset successfully
+      400:
+        description: Invalid token, expired token, or weak password
+        schema:
+          type: object
+          properties:
+            status:
+              type: string
+              example: error
+            message:
+              type: string
+      500:
+        description: Server error during password reset
+    """
+    try:
+        data = request.get_json()
+        reset_token = data.get('reset_token') if data else None
+        new_password = data.get('new_password') if data else None
+        if not reset_token or not new_password:
+            return jsonify(error_response('Reset token and new password are required', 400))
+        if len(new_password) < 6:
+            return jsonify(error_response('New password must be at least 6 characters', 400))
+
+        auth_service = AuthService()
+        success, error = auth_service.reset_password(reset_token, new_password)
+        if not success:
+            return jsonify(error_response(error, 400))
+
+        return jsonify(success_response(message='Password has been reset successfully'))
+    except Exception as e:
+        return jsonify(error_response(f'Password reset failed: {str(e)}', 500))
 
 
 @auth_bp.route('/validate', methods=['GET'])
@@ -518,17 +897,21 @@ def refresh_token():
         DB_PATH = Path(__file__).parent.parent / 'bible_quiz.db'
         conn = sqlite3.connect(DB_PATH)
         cursor = conn.cursor()
-        cursor.execute("SELECT username FROM users WHERE id = ?", (user_id,))
+        cursor.execute("SELECT username, is_admin FROM users WHERE id = ?", (user_id,))
         user = cursor.fetchone()
         conn.close()
         
         username = user[0] if user else 'user'
+        is_admin = bool(user[1]) if user else False
         
         # Create new token with string identity
         access_token = create_access_token(
             identity=str(user_id),  # Convert to string
             expires_delta=timedelta(days=30),
-            additional_claims={'username': username}
+          additional_claims={
+            'username': username,
+            'is_admin': is_admin
+          }
         )
         
         return jsonify({

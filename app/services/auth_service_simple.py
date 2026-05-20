@@ -105,7 +105,7 @@ class AuthService:
         try:
             # Find user by username or email
             cursor.execute("""
-                SELECT id, username, email, password_hash, is_active 
+                SELECT id, username, email, password_hash, is_active, is_admin 
                 FROM users 
                 WHERE username = ? OR email = ?
             """, (login_data.username_or_email, login_data.username_or_email))
@@ -147,17 +147,150 @@ class AuthService:
             
             # Create token response object
             class TokenResponse:
-                def __init__(self, user_id, username, expires_at):
+                def __init__(self, user_id, username, expires_at, is_admin):
                     self.user_id = user_id
                     self.username = username
                     self.expires_at = expires_at
+                    self.is_admin = bool(is_admin)
             
-            token_response = TokenResponse(user['id'], user['username'], expires_at)
+            token_response = TokenResponse(user['id'], user['username'], expires_at, user['is_admin'])
             return token_response, None
             
         except Exception as e:
             conn.close()
             return None, f"Login failed: {str(e)}"
+    
+    def get_user_by_google_id(self, google_id: str) -> Optional[sqlite3.Row]:
+        """Find a user by their Google account ID."""
+        conn = self.get_db()
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM users WHERE google_id = ?", (google_id,))
+        user = cursor.fetchone()
+        conn.close()
+        return user
+    
+    def get_user_by_email(self, email: str) -> Optional[sqlite3.Row]:
+        """Find a user by email address."""
+        conn = self.get_db()
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM users WHERE email = ?", (email,))
+        user = cursor.fetchone()
+        conn.close()
+        return user
+    
+    def link_google_account(self, user_id: int, google_id: str, provider: str = 'google') -> Tuple[bool, Optional[str]]:
+        """Link an existing user account to a Google account."""
+        conn = self.get_db()
+        cursor = conn.cursor()
+        try:
+            cursor.execute(
+                "UPDATE users SET google_id = ?, auth_provider = ?, updated_at = ? WHERE id = ?",
+                (google_id, provider, datetime.utcnow(), user_id)
+            )
+            conn.commit()
+            conn.close()
+            return True, None
+        except Exception as e:
+            conn.close()
+            return False, f"Linking Google account failed: {str(e)}"
+    
+    def create_google_user(self, username: str, email: str, google_id: str, provider: str = 'google') -> Tuple[Optional[Any], Optional[str], Optional[str]]:
+        """Create a new user account for a Google-authenticated user."""
+        conn = self.get_db()
+        cursor = conn.cursor()
+        try:
+            if email:
+                cursor.execute("SELECT id FROM users WHERE email = ?", (email,))
+                if cursor.fetchone():
+                    conn.close()
+                    return None, None, "Email already registered"
+
+            temp_password = secrets.token_urlsafe(12)
+            password_hash = self.hash_password(temp_password)
+            cursor.execute("""
+                INSERT INTO users (username, email, password_hash, google_id, auth_provider, created_at, updated_at)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+            """, (
+                username,
+                email,
+                password_hash,
+                google_id,
+                provider,
+                datetime.utcnow(),
+                datetime.utcnow()
+            ))
+            user_id = cursor.lastrowid
+            conn.commit()
+            class User:
+                def __init__(self, id, username, email, created_at, is_admin=False):
+                    self.id = id
+                    self.username = username
+                    self.email = email
+                    self.created_at = created_at
+                    self.is_admin = bool(is_admin)
+            user = User(user_id, username, email, datetime.utcnow())
+            conn.close()
+            return user, temp_password, None
+        except Exception as e:
+            conn.close()
+            return None, None, f"Google user creation failed: {str(e)}"
+    
+    def set_password_reset_token(self, email: str) -> Tuple[Optional[str], Optional[str]]:
+        """Generate and store a password reset token for a user."""
+        conn = self.get_db()
+        cursor = conn.cursor()
+        reset_token = secrets.token_urlsafe(24)
+        expires_at = datetime.utcnow() + timedelta(hours=1)
+        try:
+            cursor.execute("SELECT id FROM users WHERE email = ?", (email,))
+            user = cursor.fetchone()
+            if not user:
+                conn.close()
+                return None, "User with that email does not exist"
+            cursor.execute(
+                "UPDATE users SET reset_token = ?, reset_token_expires = ?, updated_at = ? WHERE email = ?",
+                (reset_token, expires_at, datetime.utcnow(), email)
+            )
+            conn.commit()
+            conn.close()
+            return reset_token, None
+        except Exception as e:
+            conn.close()
+            return None, f"Password reset token generation failed: {str(e)}"
+    
+    def reset_password(self, reset_token: str, new_password: str) -> Tuple[bool, Optional[str]]:
+        """Reset a user's password using a valid reset token."""
+        conn = self.get_db()
+        cursor = conn.cursor()
+        try:
+            cursor.execute("SELECT id, reset_token_expires FROM users WHERE reset_token = ?", (reset_token,))
+            user = cursor.fetchone()
+            if not user:
+                conn.close()
+                return False, "Invalid or expired reset token"
+            expires_at = user['reset_token_expires']
+            if isinstance(expires_at, str):
+                try:
+                    expires_at = datetime.fromisoformat(expires_at)
+                except ValueError:
+                    try:
+                        expires_at = datetime.strptime(expires_at, "%Y-%m-%d %H:%M:%S")
+                    except Exception:
+                        expires_at = None
+            if not expires_at or expires_at < datetime.utcnow():
+                conn.close()
+                return False, "Reset token has expired"
+            password_hash = self.hash_password(new_password)
+            cursor.execute(
+                "UPDATE users SET password_hash = ?, reset_token = NULL, reset_token_expires = NULL, updated_at = ? WHERE id = ?",
+                (password_hash, datetime.utcnow(), user['id'])
+            )
+            conn.commit()
+            conn.close()
+            return True, None
+        except Exception as e:
+            conn.close()
+            return False, f"Password reset failed: {str(e)}"
     
     def logout_user(self, token: str) -> Tuple[bool, Optional[str]]:
         """Logout user by deactivating session"""
