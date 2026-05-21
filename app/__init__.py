@@ -96,13 +96,34 @@ def create_app():
     
     app.config['SWAGGER'] = swagger_config
     
-    # CORS Configuration
+    # ============ COMPLETE CORS FIX FOR LOVABLE ============
+    
+    # Method 1: Basic CORS configuration
     CORS(app, 
-         origins=[frontend_url, "http://localhost:3000", "http://localhost:5000", "https://*.lovable.app"],
+         resources={r"/*": {"origins": "*"}},
          supports_credentials=True,
-         allow_headers=["Content-Type", "Authorization", "Accept", "X-Requested-With", "Origin"],
-         methods=["GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH"],
-         expose_headers=["Content-Type", "Authorization"])
+         allow_headers=["*"],
+         methods=["GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH"])
+    
+    # Method 2: Force CORS headers on every response
+    @app.after_request
+    def add_cors_headers(response):
+        response.headers['Access-Control-Allow-Origin'] = '*'
+        response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization, Accept, X-Requested-With, Origin'
+        response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS, PATCH'
+        response.headers['Access-Control-Allow-Credentials'] = 'true'
+        return response
+    
+    # Method 3: Handle preflight OPTIONS requests
+    @app.before_request
+    def handle_preflight():
+        if request.method == 'OPTIONS':
+            response = app.make_default_options_response()
+            response.headers['Access-Control-Allow-Origin'] = '*'
+            response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization, Accept'
+            response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
+            response.headers['Access-Control-Allow-Credentials'] = 'true'
+            return response
     
     # Initialize JWT
     JWTManager(app)
