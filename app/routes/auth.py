@@ -284,75 +284,6 @@ def register():
 
 @auth_bp.route('/login', methods=['POST'])
 def login():
-    """Login user and return access token
-    ---
-    tags:
-      - Authentication
-    summary: Login user
-    description: Authenticate user and return JWT access token
-    parameters:
-      - name: body
-        in: body
-        required: true
-        schema:
-          type: object
-          required:
-            - username
-            - password
-          properties:
-            username:
-              type: string
-              example: john_doe
-              description: Username or email address
-            password:
-              type: string
-              example: password123
-              description: User password
-    responses:
-      200:
-        description: Login successful
-        schema:
-          type: object
-          properties:
-            status:
-              type: string
-              example: success
-            access_token:
-              type: string
-              description: JWT access token
-              example: eyJhbGciOiJIUzI1NiIs...
-            token_type:
-              type: string
-              example: bearer
-            expires_at:
-              type: string
-              format: date-time
-              example: 2024-01-31T00:00:00
-            user:
-              type: object
-              properties:
-                id:
-                  type: integer
-                  example: 1
-                username:
-                  type: string
-                  example: john_doe
-      401:
-        description: Invalid credentials
-        schema:
-          type: object
-          properties:
-            status:
-              type: string
-              example: error
-            message:
-              type: string
-              example: Invalid credentials
-      400:
-        description: Missing required fields
-      500:
-        description: Server error
-    """
     try:
         data = request.get_json()
         
@@ -372,9 +303,8 @@ def login():
             if error:
                 return jsonify(error_response(error, 401))
             
-            # IMPORTANT: Convert user_id to string for JWT identity
             access_token = create_access_token(
-                identity=str(token_response.user_id),  # Convert to string
+                identity=str(token_response.user_id),
                 expires_delta=timedelta(days=30),
                 additional_claims={
                     'username': token_response.username,
@@ -389,74 +319,20 @@ def login():
                     'expires_at': token_response.expires_at.isoformat(),
                     'user': {
                         'id': token_response.user_id,
-                        'username': token_response.username
-                        ,
+                        'username': token_response.username,
                         'is_admin': getattr(token_response, 'is_admin', False)
                     }
                 },
                 message='Login successful'
             ))
         else:
-            # Fallback to direct database
-            import sqlite3
-            import hashlib
-            
-            DB_PATH = Path(__file__).parent.parent / 'bible_quiz.db'
-            conn = sqlite3.connect(DB_PATH)
-            conn.row_factory = sqlite3.Row
-            cursor = conn.cursor()
-            
-            def verify_password(pwd, stored_hash):
-                try:
-                    salt, hash_value = stored_hash.split(':')
-                    computed_hash = hashlib.sha256(f"{pwd}{salt}".encode()).hexdigest()
-                    return computed_hash == hash_value
-                except:
-                    return False
-            
-            cursor.execute("""
-              SELECT id, username, password_hash, is_active, is_admin 
-                FROM users 
-                WHERE username = ? OR email = ?
-            """, (data['username'], data['username']))
-            
-            user = cursor.fetchone()
-            
-            if not user or not verify_password(data['password'], user['password_hash']) or not user['is_active']:
-                conn.close()
-                return jsonify(error_response('Invalid credentials', 401))
-            
-            # IMPORTANT: Convert user_id to string for JWT identity
-            access_token = create_access_token(
-                identity=str(user['id']),  # Convert to string
-                expires_delta=timedelta(days=30),
-                additional_claims={
-                    'username': user['username'],
-                    'is_admin': bool(user.get('is_admin', False))
-                }
-            )
-            
-            conn.close()
-            
-            return jsonify(success_response(
-                data={
-                    'access_token': access_token,
-                    'token_type': 'bearer',
-                    'expires_at': (datetime.utcnow() + timedelta(days=30)).isoformat(),
-                    'user': {
-                        'id': user['id'],
-                        'username': user['username']
-                        ,
-                        'is_admin': bool(user.get('is_admin', False))
-                    }
-                },
-                message='Login successful'
-            ))
+            # Remove this fallback or ensure it uses PostgreSQL too
+            return jsonify(error_response('Auth service not available', 500))
         
     except Exception as e:
         return jsonify(error_response(f'Login failed: {str(e)}', 500))
-
-
+    
+    
 @auth_bp.route('/google/login', methods=['GET'])
 def google_login():
     """Redirect to Google for authentication

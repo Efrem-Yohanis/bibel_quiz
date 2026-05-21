@@ -4,11 +4,12 @@ Simple Auth Service using PostgreSQL via SQLAlchemy
 """
 
 from datetime import datetime, timedelta
-from typing import Optional, Tuple, Dict, Any
+from typing import Optional, Tuple, Any
 from werkzeug.security import generate_password_hash, check_password_hash
 import secrets
 from app.database import get_db
 from app.models import User, UserSession
+
 
 class AuthService:
     """Authentication service using PostgreSQL via SQLAlchemy"""
@@ -125,6 +126,11 @@ class AuthService:
         """Find a user by email address."""
         db = self._get_db()
         return db.query(User).filter(User.email == email).first()
+    
+    def get_user_by_id(self, user_id: int):
+        """Find a user by ID."""
+        db = self._get_db()
+        return db.query(User).filter(User.id == user_id).first()
     
     def link_google_account(self, user_id: int, google_id: str, provider: str = 'google') -> Tuple[bool, Optional[str]]:
         """Link an existing user account to a Google account."""
