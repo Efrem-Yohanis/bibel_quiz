@@ -247,12 +247,15 @@ class User(Base):
     total_correct_answers = Column(Integer, default=0)
     total_questions_answered = Column(Integer, default=0)
     
+    # OAuth fields (add these)
+    google_id = Column(String(255), unique=True, nullable=True)
+    auth_provider = Column(String(50), default='local')
+    
     # Relationships
     preferred_language = relationship("Language")
     quiz_attempts = relationship("QuizAttempt", back_populates="user")
     book_progress = relationship("UserBookProgress", back_populates="user")
     sessions = relationship("UserSession", back_populates="user")
-
 # 17. User Session
 class UserSession(Base):
     __tablename__ = "user_sessions"

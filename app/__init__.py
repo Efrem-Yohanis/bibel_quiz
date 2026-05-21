@@ -8,12 +8,95 @@ from datetime import timedelta
 from dotenv import load_dotenv
 import os
 
+# Database imports
+from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
+from sqlalchemy import text
+
+# Initialize database extensions
+db = SQLAlchemy()
+migrate = Migrate()
+
 def create_app():
     """Create and configure the Flask application"""
     app = Flask(__name__)
 
     # Load environment variables from .env for local development
     load_dotenv()
+    
+    # ============ DATABASE CONFIGURATION ============
+    # Check if running on Render
+    IS_RENDER = os.environ.get('RENDER') or os.environ.get('FLASK_ENV') == 'production'
+    
+    if IS_RENDER:
+        print("\n" + "="*50)
+        print("🚀 CONFIGURING FOR RENDER PRODUCTION")
+        print("="*50)
+        
+        # Get DATABASE_URL
+        database_url = os.environ.get('DATABASE_URL')
+        
+        if not database_url:
+            raise ValueError(
+                "❌ DATABASE_URL environment variable is required on Render!\n"
+                "   Please set DATABASE_URL in your Render environment variables."
+            )
+        
+        # Check for SQLite (not allowed)
+        if 'sqlite' in database_url.lower():
+            raise ValueError(
+                "❌ SQLite is not allowed on Render!\n"
+                "   Please use PostgreSQL database."
+            )
+        
+        # Convert postgres:// to postgresql:// for SQLAlchemy
+        if database_url.startswith('postgres://'):
+            database_url = database_url.replace('postgres://', 'postgresql://', 1)
+            os.environ['DATABASE_URL'] = database_url
+        
+        # Configure SQLAlchemy for PostgreSQL
+        app.config['SQLALCHEMY_DATABASE_URI'] = database_url
+        app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+        app.config['SQLALCHEMY_ENGINE_OPTIONS'] = {
+            'pool_pre_ping': True,
+            'pool_recycle': 3600,
+            'pool_size': 10,
+            'max_overflow': 20,
+            'pool_timeout': 30,
+            'connect_args': {
+                'connect_timeout': 10,
+                'keepalives': 1,
+                'keepalives_idle': 30,
+                'keepalives_interval': 10,
+                'keepalives_count': 5
+            }
+        }
+        
+        print(f"✅ PostgreSQL configured")
+        print(f"   Host: {database_url.split('@')[1].split('/')[0] if '@' in database_url else 'Render PostgreSQL'}")
+        
+    else:
+        # Local development - can use SQLite or PostgreSQL
+        database_url = os.environ.get('DATABASE_URL')
+        if database_url:
+            # Use PostgreSQL locally if available
+            if database_url.startswith('postgres://'):
+                database_url = database_url.replace('postgres://', 'postgresql://', 1)
+            app.config['SQLALCHEMY_DATABASE_URI'] = database_url
+            print("✅ Using PostgreSQL for local development")
+        else:
+            # Fallback to SQLite for local development only
+            app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///bible_quiz.db'
+            print("⚠️  Using SQLite for local development (PostgreSQL on Render only)")
+        
+        app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+        app.config['SQLALCHEMY_ENGINE_OPTIONS'] = {}
+    
+    # Initialize database
+    db.init_app(app)
+    migrate.init_app(app, db)
+    
+    # ============ END DATABASE CONFIGURATION ============
     
     # Configuration
     app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'dev-secret-key-change-in-production')
@@ -28,7 +111,7 @@ def create_app():
     app.config['GOOGLE_CLIENT_SECRET'] = os.environ.get('GOOGLE_CLIENT_SECRET')
     
     # Determine redirect URI based on environment
-    is_production = os.environ.get('FLASK_ENV') == 'production' or os.environ.get('RENDER')
+    is_production = IS_RENDER or os.environ.get('FLASK_ENV') == 'production'
     if is_production:
         app.config['GOOGLE_REDIRECT_URI'] = os.environ.get('GOOGLE_REDIRECT_URI_PROD')
     else:
@@ -186,13 +269,50 @@ def create_app():
     print("   - Quiz routes: /api/quiz")
     print("   - Bible routes: /api/bible")
     
+    # Create tables and test database on startup
+    with app.app_context():
+        try:
+            # Create tables if they don't exist
+            db.create_all()
+            print("✅ Database tables verified/created")
+            
+            # Test database connection
+            from sqlalchemy import text
+            result = db.session.execute(text("SELECT 1"))
+            print("✅ Database connection successful")
+            
+            if IS_RENDER:
+                # Get PostgreSQL version
+                result = db.session.execute(text("SELECT version()"))
+                version = result.fetchone()[0]
+                print(f"📦 PostgreSQL version: {version[:50]}...")
+                
+                # Check row counts
+                from app.models import User, Book, Chapter, Verse
+                user_count = User.query.count()
+                book_count = Book.query.count()
+                print(f"📊 Database stats: {user_count} users, {book_count} books")
+                
+        except Exception as e:
+            print(f"⚠️ Database initialization warning: {e}")
+    
     @app.route('/health', methods=['GET'])
     def health_check():
+        # Test database connection
+        try:
+            from sqlalchemy import text
+            db.session.execute(text("SELECT 1"))
+            db_status = "connected"
+        except Exception as e:
+            db_status = f"disconnected: {str(e)}"
+        
         return {
             'status': 'healthy',
             'message': 'Bible Quiz API is running',
             'version': '1.0.0',
-            'environment': os.environ.get('FLASK_ENV', 'production'),
+            'environment': 'production' if IS_RENDER else 'development',
+            'database': db_status,
+            'database_type': 'postgresql' if 'postgresql' in app.config.get('SQLALCHEMY_DATABASE_URI', '') else 'sqlite',
             'google_oauth': bool(app.config['GOOGLE_CLIENT_ID'])
         }, 200
     

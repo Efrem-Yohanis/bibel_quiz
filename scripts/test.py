@@ -1,281 +1,553 @@
-# scripts/create_postgres_tables_only.py
+# scripts/migrate_sqlite_to_postgres_fast.py
 """
-Create PostgreSQL tables only (no data migration)
-Run: python scripts/create_postgres_tables_only.py
+High-speed migration from SQLite to PostgreSQL with batch processing
+Optimized for 500k+ rows - No special permissions required
+Run: python scripts/migrate_sqlite_to_postgres_fast.py
 """
 
+import sqlite3
 import psycopg2
+import psycopg2.extras
+from pathlib import Path
 import os
-from dotenv import load_dotenv
+import sys
+import time
+import json
+from datetime import datetime, timedelta
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-load_dotenv()
+# ============ CONFIGURATION ============
+SQLITE_PATH = Path(__file__).parent.parent / 'app' / 'bible_quiz.db'
+POSTGRES_URL = "postgresql://bibel_quiz_user:IBQceDb477BJ0i7DWL4MSIOy6hnkATEO@dpg-d84b0f58nd3s73ctqle0-a.oregon-postgres.render.com/bibel_quiz?sslmode=require"
 
-# PostgreSQL connection URL
-POSTGRES_URL = "postgresql://bibel_quiz_user:IBQceDb477BJ0i7DWL4MSIOy6hnkATEO@dpg-d84b0f58nd3s73ctqle0-a.oregon-postgres.render.com/bibel_quiz"
+# Performance settings (adjusted for Render PostgreSQL)
+BATCH_SIZE = 5000  # Rows per batch (reduced for stability)
+PARALLEL_WORKERS = 2  # Reduced for Render's free tier
+COMMIT_INTERVAL = 25000  # Commit after every 25k rows
 
-# SQL to create all tables
-CREATE_TABLES_SQL = """
--- Drop all tables if they exist (in correct order)
-DROP TABLE IF EXISTS user_book_progress CASCADE;
-DROP TABLE IF EXISTS quiz_answers CASCADE;
-DROP TABLE IF EXISTS quiz_attempts CASCADE;
-DROP TABLE IF EXISTS user_sessions CASCADE;
-DROP TABLE IF EXISTS explanations CASCADE;
-DROP TABLE IF EXISTS option_texts CASCADE;
-DROP TABLE IF EXISTS options CASCADE;
-DROP TABLE IF EXISTS question_texts CASCADE;
-DROP TABLE IF EXISTS questions CASCADE;
-DROP TABLE IF EXISTS verse_texts CASCADE;
-DROP TABLE IF EXISTS verses CASCADE;
-DROP TABLE IF EXISTS chapters CASCADE;
-DROP TABLE IF EXISTS books CASCADE;
-DROP TABLE IF EXISTS testaments CASCADE;
-DROP TABLE IF EXISTS users CASCADE;
-DROP TABLE IF EXISTS levels CASCADE;
-DROP TABLE IF EXISTS languages CASCADE;
-
--- 1. Languages table
-CREATE TABLE languages (
-    id SERIAL PRIMARY KEY,
-    code VARCHAR(10) UNIQUE NOT NULL,
-    name VARCHAR(50) NOT NULL,
-    native_name VARCHAR(100),
-    is_active BOOLEAN DEFAULT TRUE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- 2. Levels table
-CREATE TABLE levels (
-    id SERIAL PRIMARY KEY,
-    level_number INTEGER UNIQUE NOT NULL,
-    name VARCHAR(50) NOT NULL,
-    description TEXT,
-    icon VARCHAR(50),
-    color VARCHAR(20),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- 3. Testaments table
-CREATE TABLE testaments (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(50) NOT NULL
-);
-
--- 4. Users table
-CREATE TABLE users (
-    id SERIAL PRIMARY KEY,
-    username VARCHAR(50) UNIQUE NOT NULL,
-    email VARCHAR(100) UNIQUE,
-    password_hash VARCHAR(255) NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    last_login TIMESTAMP,
-    is_active BOOLEAN DEFAULT TRUE,
-    total_quizzes_taken INTEGER DEFAULT 0,
-    total_correct_answers INTEGER DEFAULT 0,
-    total_questions_answered INTEGER DEFAULT 0,
-    reset_token VARCHAR(255),
-    reset_token_expires TIMESTAMP,
-    preferred_language_id INTEGER REFERENCES languages(id)
-);
-
--- 5. Books table
-CREATE TABLE books (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    testament_id INTEGER REFERENCES testaments(id)
-);
-
--- 6. Chapters table
-CREATE TABLE chapters (
-    id SERIAL PRIMARY KEY,
-    book_id INTEGER REFERENCES books(id),
-    chapter_number INTEGER NOT NULL
-);
-
--- 7. Verses table
-CREATE TABLE verses (
-    id SERIAL PRIMARY KEY,
-    chapter_id INTEGER REFERENCES chapters(id),
-    verse_number INTEGER NOT NULL
-);
-
--- 8. Verse texts table
-CREATE TABLE verse_texts (
-    id SERIAL PRIMARY KEY,
-    verse_id INTEGER REFERENCES verses(id),
-    language_id INTEGER REFERENCES languages(id),
-    text TEXT NOT NULL
-);
-
--- 9. Questions table
-CREATE TABLE questions (
-    id SERIAL PRIMARY KEY,
-    book_id INTEGER REFERENCES books(id),
-    chapter_id INTEGER REFERENCES chapters(id),
-    level_id INTEGER REFERENCES levels(id),
-    correct_option VARCHAR(1) NOT NULL,
-    verse_reference VARCHAR(100),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- 10. Question texts table
-CREATE TABLE question_texts (
-    id SERIAL PRIMARY KEY,
-    question_id INTEGER REFERENCES questions(id),
-    language_id INTEGER REFERENCES languages(id),
-    text TEXT NOT NULL
-);
-
--- 11. Options table
-CREATE TABLE options (
-    id SERIAL PRIMARY KEY,
-    question_id INTEGER REFERENCES questions(id),
-    label VARCHAR(1) NOT NULL
-);
-
--- 12. Option texts table
-CREATE TABLE option_texts (
-    id SERIAL PRIMARY KEY,
-    option_id INTEGER REFERENCES options(id),
-    language_id INTEGER REFERENCES languages(id),
-    text TEXT NOT NULL
-);
-
--- 13. Explanations table
-CREATE TABLE explanations (
-    id SERIAL PRIMARY KEY,
-    question_id INTEGER REFERENCES questions(id),
-    language_id INTEGER REFERENCES languages(id),
-    text TEXT NOT NULL
-);
-
--- 14. User sessions table
-CREATE TABLE user_sessions (
-    id SERIAL PRIMARY KEY,
-    user_id INTEGER NOT NULL REFERENCES users(id),
-    token VARCHAR(255) UNIQUE NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    expires_at TIMESTAMP NOT NULL,
-    is_active BOOLEAN DEFAULT TRUE,
-    ip_address VARCHAR(45),
-    user_agent TEXT,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- 15. Quiz attempts table
-CREATE TABLE quiz_attempts (
-    id SERIAL PRIMARY KEY,
-    user_id INTEGER REFERENCES users(id),
-    book_id INTEGER REFERENCES books(id),
-    level_id INTEGER REFERENCES levels(id),
-    language_id INTEGER REFERENCES languages(id),
-    total_questions INTEGER DEFAULT 0,
-    answered_questions INTEGER DEFAULT 0,
-    correct_answers INTEGER DEFAULT 0,
-    score_percentage REAL DEFAULT 0,
-    status VARCHAR(20) DEFAULT 'in_progress',
-    started_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    completed_at TIMESTAMP,
-    resume_data TEXT
-);
-
--- 16. Quiz answers table
-CREATE TABLE quiz_answers (
-    id SERIAL PRIMARY KEY,
-    attempt_id INTEGER REFERENCES quiz_attempts(id),
-    question_id INTEGER REFERENCES questions(id),
-    selected_option VARCHAR(1),
-    is_correct BOOLEAN,
-    answered_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    user_info TEXT
-);
-
--- 17. User book progress table
-CREATE TABLE user_book_progress (
-    id SERIAL PRIMARY KEY,
-    user_id INTEGER REFERENCES users(id),
-    book_id INTEGER REFERENCES books(id),
-    current_chapter INTEGER DEFAULT 1,
-    current_verse INTEGER DEFAULT 1,
-    last_activity TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    questions_answered INTEGER DEFAULT 0,
-    correct_answers INTEGER DEFAULT 0,
-    completed BOOLEAN DEFAULT FALSE,
-    UNIQUE(user_id, book_id)
-);
-
--- Insert initial data
-INSERT INTO languages (id, code, name, native_name, is_active) VALUES
-(1, 'en', 'English', 'English', TRUE),
-(2, 'am', 'Amharic', 'አማርኛ', TRUE),
-(3, 'or', 'Oromo', 'Afaan Oromoo', TRUE),
-(4, 'ti', 'Tigrinya', 'ትግርኛ', TRUE)
-ON CONFLICT (id) DO NOTHING;
-
-INSERT INTO levels (id, level_number, name, description, icon, color) VALUES
-(1, 1, 'Easy', 'Basic questions directly from the text', '🌟', '#4CAF50'),
-(2, 2, 'Medium', 'Questions about meaning and context', '⭐', '#FF9800'),
-(3, 3, 'Hard', 'In-depth questions requiring deep understanding', '🏆', '#F44336')
-ON CONFLICT (id) DO NOTHING;
-
-INSERT INTO testaments (id, name) VALUES
-(1, 'Old'),
-(2, 'New')
-ON CONFLICT (id) DO NOTHING;
-
--- Reset sequences
-SELECT setval('languages_id_seq', (SELECT COALESCE(MAX(id), 0) FROM languages));
-SELECT setval('levels_id_seq', (SELECT COALESCE(MAX(id), 0) FROM levels));
-SELECT setval('testaments_id_seq', (SELECT COALESCE(MAX(id), 0) FROM testaments));
-"""
-
-def create_tables():
-    """Create all tables in PostgreSQL"""
-    print("="*60)
-    print("🐘 CREATING POSTGRESQL TABLES")
-    print("="*60)
+class FastDataMigrator:
+    def __init__(self):
+        self.sqlite_conn = None
+        self.pg_conn = None
+        self.pg_cursor = None
+        self.stats = {}
+        
+    def connect(self):
+        """Connect to both databases with optimized settings"""
+        if not SQLITE_PATH.exists():
+            print(f"❌ SQLite database not found at {SQLITE_PATH}")
+            return False
+            
+        # SQLite: Read-only mode for better performance
+        self.sqlite_conn = sqlite3.connect(f'file:{SQLITE_PATH}?mode=ro', uri=True)
+        self.sqlite_conn.row_factory = sqlite3.Row
+        print("✅ Connected to SQLite database (read-only mode)")
+        
+        try:
+            # PostgreSQL: Standard connection without special permissions
+            self.pg_conn = psycopg2.connect(
+                POSTGRES_URL,
+                connect_timeout=30,
+                keepalives=1,
+                keepalives_idle=5,
+                keepalives_interval=2,
+                keepalives_count=3
+            )
+            self.pg_cursor = self.pg_conn.cursor()
+            
+            # Only use allowed settings
+            self.pg_cursor.execute("SET statement_timeout = 0")
+            self.pg_cursor.execute("SET lock_timeout = 0")
+            
+            print("✅ Connected to PostgreSQL database")
+            
+            # Test connection
+            self.pg_cursor.execute("SELECT version()")
+            version = self.pg_cursor.fetchone()[0]
+            print(f"   PostgreSQL version: {version[:50]}...")
+            
+            return True
+        except Exception as e:
+            print(f"❌ PostgreSQL connection failed: {e}")
+            return False
     
-    try:
-        # Connect to PostgreSQL
-        print("\n📡 Connecting to PostgreSQL...")
-        conn = psycopg2.connect(POSTGRES_URL)
-        cursor = conn.cursor()
-        print("✅ Connected successfully!")
-        
-        # Execute table creation
-        print("\n📦 Creating tables...")
-        cursor.execute(CREATE_TABLES_SQL)
-        conn.commit()
-        print("✅ Tables created successfully!")
-        
-        # Verify tables
-        print("\n📊 Verifying tables...")
-        cursor.execute("""
-            SELECT table_name 
-            FROM information_schema.tables 
-            WHERE table_schema = 'public' 
-            ORDER BY table_name
-        """)
-        tables = cursor.fetchall()
-        
-        print(f"\n✅ {len(tables)} tables created:")
-        for table in tables:
-            cursor.execute(f"SELECT COUNT(*) FROM {table[0]}")
-            count = cursor.fetchone()[0]
-            print(f"   📋 {table[0]}: {count} rows")
-        
+    def close(self):
+        if self.sqlite_conn:
+            self.sqlite_conn.close()
+        if self.pg_cursor:
+            self.pg_cursor.close()
+        if self.pg_conn:
+            self.pg_conn.close()
+        print("\n✅ Connections closed")
+    
+    def get_tables(self):
+        cursor = self.sqlite_conn.cursor()
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' ORDER BY name")
+        tables = [row[0] for row in cursor.fetchall()]
         cursor.close()
-        conn.close()
-        
+        return tables
+    
+    def get_table_row_count(self, table_name):
+        """Get row count for a table"""
+        cursor = self.sqlite_conn.cursor()
+        cursor.execute(f"SELECT COUNT(*) FROM {table_name}")
+        count = cursor.fetchone()[0]
+        cursor.close()
+        return count
+    
+    def preview_all_counts(self):
+        """Show row counts for all tables before migration"""
         print("\n" + "="*60)
-        print("✅ POSTGRESQL TABLES CREATION COMPLETE!")
+        print("📊 PRE-MIGRATION ROW COUNTS")
         print("="*60)
         
-    except Exception as e:
-        print(f"\n❌ Error: {e}")
-        import traceback
-        traceback.print_exc()
+        tables = self.get_tables()
+        total_rows = 0
+        table_counts = {}
+        
+        for table in tables:
+            count = self.get_table_row_count(table)
+            table_counts[table] = count
+            total_rows += count
+            
+            # Format with commas
+            count_str = f"{count:,}"
+            print(f"  {table:25} : {count_str:>12}")
+        
+        print("-"*60)
+        print(f"  {'TOTAL':25} : {total_rows:>12,}")
+        print("="*60)
+        
+        return table_counts, total_rows
+    
+    def create_tables_if_not_exist(self):
+        """Create tables only if they don't exist"""
+        print("\n📦 Creating tables if not exist...")
+        
+        # First, get existing tables from PostgreSQL
+        self.pg_cursor.execute("""
+            SELECT table_name 
+            FROM information_schema.tables 
+            WHERE table_schema = 'public'
+        """)
+        existing_tables = [row[0] for row in self.pg_cursor.fetchall()]
+        
+        # Table definitions (simplified for speed)
+        table_definitions = {
+            'languages': """
+                CREATE TABLE IF NOT EXISTS languages (
+                    id INTEGER PRIMARY KEY,
+                    code VARCHAR(10),
+                    name VARCHAR(50),
+                    native_name VARCHAR(100),
+                    is_active BOOLEAN,
+                    created_at TIMESTAMP
+                )
+            """,
+            'levels': """
+                CREATE TABLE IF NOT EXISTS levels (
+                    id INTEGER PRIMARY KEY,
+                    level_number INTEGER,
+                    name VARCHAR(50),
+                    description TEXT,
+                    icon VARCHAR(50),
+                    color VARCHAR(20),
+                    created_at TIMESTAMP
+                )
+            """,
+            'testaments': """
+                CREATE TABLE IF NOT EXISTS testaments (
+                    id INTEGER PRIMARY KEY,
+                    name VARCHAR(50)
+                )
+            """,
+            'users': """
+                CREATE TABLE IF NOT EXISTS users (
+                    id INTEGER PRIMARY KEY,
+                    username VARCHAR(50),
+                    email VARCHAR(100),
+                    password_hash VARCHAR(255),
+                    created_at TIMESTAMP,
+                    updated_at TIMESTAMP,
+                    last_login TIMESTAMP,
+                    is_active BOOLEAN,
+                    total_quizzes_taken INTEGER,
+                    total_correct_answers INTEGER,
+                    total_questions_answered INTEGER,
+                    reset_token VARCHAR(255),
+                    reset_token_expires TIMESTAMP,
+                    preferred_language_id INTEGER,
+                    is_admin BOOLEAN,
+                    google_id VARCHAR(255),
+                    auth_provider VARCHAR(50)
+                )
+            """,
+            'books': """
+                CREATE TABLE IF NOT EXISTS books (
+                    id INTEGER PRIMARY KEY,
+                    name VARCHAR(100),
+                    testament_id INTEGER
+                )
+            """,
+            'chapters': """
+                CREATE TABLE IF NOT EXISTS chapters (
+                    id INTEGER PRIMARY KEY,
+                    book_id INTEGER,
+                    chapter_number INTEGER
+                )
+            """,
+            'verses': """
+                CREATE TABLE IF NOT EXISTS verses (
+                    id INTEGER PRIMARY KEY,
+                    chapter_id INTEGER,
+                    verse_number INTEGER
+                )
+            """,
+            'verse_texts': """
+                CREATE TABLE IF NOT EXISTS verse_texts (
+                    id INTEGER PRIMARY KEY,
+                    verse_id INTEGER,
+                    language_id INTEGER,
+                    text TEXT
+                )
+            """,
+            'questions': """
+                CREATE TABLE IF NOT EXISTS questions (
+                    id INTEGER PRIMARY KEY,
+                    book_id INTEGER,
+                    chapter_id INTEGER,
+                    level_id INTEGER,
+                    correct_option VARCHAR(1),
+                    verse_reference VARCHAR(100),
+                    created_at TIMESTAMP
+                )
+            """,
+            'question_texts': """
+                CREATE TABLE IF NOT EXISTS question_texts (
+                    id INTEGER PRIMARY KEY,
+                    question_id INTEGER,
+                    language_id INTEGER,
+                    text TEXT
+                )
+            """,
+            'options': """
+                CREATE TABLE IF NOT EXISTS options (
+                    id INTEGER PRIMARY KEY,
+                    question_id INTEGER,
+                    label VARCHAR(1)
+                )
+            """,
+            'option_texts': """
+                CREATE TABLE IF NOT EXISTS option_texts (
+                    id INTEGER PRIMARY KEY,
+                    option_id INTEGER,
+                    language_id INTEGER,
+                    text TEXT
+                )
+            """,
+            'explanations': """
+                CREATE TABLE IF NOT EXISTS explanations (
+                    id INTEGER PRIMARY KEY,
+                    question_id INTEGER,
+                    language_id INTEGER,
+                    text TEXT
+                )
+            """,
+            'user_sessions': """
+                CREATE TABLE IF NOT EXISTS user_sessions (
+                    id INTEGER PRIMARY KEY,
+                    user_id INTEGER,
+                    token VARCHAR(255),
+                    created_at TIMESTAMP,
+                    expires_at TIMESTAMP,
+                    is_active BOOLEAN,
+                    ip_address VARCHAR(45),
+                    user_agent TEXT,
+                    updated_at TIMESTAMP
+                )
+            """,
+            'quiz_attempts': """
+                CREATE TABLE IF NOT EXISTS quiz_attempts (
+                    id INTEGER PRIMARY KEY,
+                    user_id INTEGER,
+                    book_id INTEGER,
+                    level_id INTEGER,
+                    language_id INTEGER,
+                    total_questions INTEGER,
+                    answered_questions INTEGER,
+                    correct_answers INTEGER,
+                    score_percentage REAL,
+                    status VARCHAR(20),
+                    started_at TIMESTAMP,
+                    completed_at TIMESTAMP,
+                    resume_data TEXT
+                )
+            """,
+            'quiz_answers': """
+                CREATE TABLE IF NOT EXISTS quiz_answers (
+                    id INTEGER PRIMARY KEY,
+                    attempt_id INTEGER,
+                    question_id INTEGER,
+                    selected_option VARCHAR(1),
+                    is_correct BOOLEAN,
+                    answered_at TIMESTAMP,
+                    user_info TEXT
+                )
+            """,
+            'user_book_progress': """
+                CREATE TABLE IF NOT EXISTS user_book_progress (
+                    id INTEGER PRIMARY KEY,
+                    user_id INTEGER,
+                    book_id INTEGER,
+                    current_chapter INTEGER,
+                    current_verse INTEGER,
+                    last_activity TIMESTAMP,
+                    questions_answered INTEGER,
+                    correct_answers INTEGER,
+                    completed BOOLEAN
+                )
+            """
+        }
+        
+        for table_name, create_sql in table_definitions.items():
+            try:
+                self.pg_cursor.execute(create_sql)
+                if table_name not in existing_tables:
+                    print(f"  ✅ Created table: {table_name}")
+                else:
+                    print(f"  📋 Table already exists: {table_name}")
+            except Exception as e:
+                print(f"  ⚠️ Error creating {table_name}: {e}")
+        
+        self.pg_conn.commit()
+    
+    def migrate_table_batch(self, table_name, batch_size=BATCH_SIZE):
+        """Migrate a single table using batch inserts"""
+        start_time = time.time()
+        
+        # Get total row count
+        total_rows = self.get_table_row_count(table_name)
+        
+        if total_rows == 0:
+            print(f"  ⚠️ {table_name}: 0 rows (skipped)")
+            return {'table': table_name, 'rows': 0, 'time': 0, 'speed': 0}
+        
+        # Get column names from SQLite
+        cursor = self.sqlite_conn.cursor()
+        cursor.execute(f"PRAGMA table_info({table_name})")
+        columns = [col[1] for col in cursor.fetchall()]
+        
+        # Check how many rows already exist in PostgreSQL
+        self.pg_cursor.execute(f'SELECT COUNT(*) FROM "{table_name}"')
+        existing_rows = self.pg_cursor.fetchone()[0]
+        
+        if existing_rows >= total_rows:
+            print(f"  ✅ {table_name}: Already complete ({existing_rows:,}/{total_rows:,} rows)")
+            cursor.close()
+            return {'table': table_name, 'rows': existing_rows, 'time': 0, 'speed': 0}
+        
+        print(f"\n  📊 {table_name}: {total_rows:,} total rows (already have {existing_rows:,})")
+        
+        # Fetch data in batches from SQLite
+        offset = existing_rows
+        rows_migrated = existing_rows
+        
+        while offset < total_rows:
+            # Get batch from SQLite
+            cursor.execute(f"""
+                SELECT * FROM {table_name} 
+                ORDER BY id 
+                LIMIT {batch_size} 
+                OFFSET {offset}
+            """)
+            
+            batch = []
+            for row in cursor:
+                values = []
+                for i, col in enumerate(columns):
+                    val = row[i]
+                    # Convert boolean for PostgreSQL
+                    if col in ['is_active', 'is_admin', 'is_correct', 'completed'] and val is not None:
+                        val = bool(val)
+                    values.append(val)
+                batch.append(tuple(values))
+            
+            if batch:
+                self._insert_batch(table_name, columns, batch)
+                rows_migrated += len(batch)
+                offset += len(batch)
+                
+                # Show progress
+                percentage = (rows_migrated / total_rows) * 100
+                elapsed = time.time() - start_time
+                speed = (rows_migrated - existing_rows) / elapsed if elapsed > 0 else 0
+                
+                print(f"\r    Progress: {percentage:.1f}% ({rows_migrated:,}/{total_rows:,}) | Speed: {speed:.0f} rows/sec", end='')
+                
+                # Commit periodically
+                if rows_migrated % COMMIT_INTERVAL == 0:
+                    self.pg_conn.commit()
+                    print(f"\n    💾 Committed at {rows_migrated:,} rows")
+        
+        self.pg_conn.commit()
+        
+        elapsed = time.time() - start_time
+        speed = (rows_migrated - existing_rows) / elapsed if elapsed > 0 else 0
+        
+        print(f"\n    ✅ Completed: {rows_migrated:,} rows in {elapsed:.1f}s ({speed:.0f} rows/sec)")
+        
+        cursor.close()
+        
+        return {
+            'table': table_name,
+            'rows': rows_migrated,
+            'time': elapsed,
+            'speed': speed
+        }
+    
+    def _insert_batch(self, table_name, columns, batch):
+        """Insert a batch of rows using execute_values for maximum speed"""
+        if not batch:
+            return
+        
+        # Use psycopg2.extras.execute_values for fast bulk insert
+        columns_str = ','.join(f'"{col}"' for col in columns)
+        
+        try:
+            psycopg2.extras.execute_values(
+                self.pg_cursor, 
+                f'INSERT INTO "{table_name}" ({columns_str}) VALUES %s ON CONFLICT (id) DO NOTHING', 
+                batch, 
+                page_size=1000
+            )
+        except Exception as e:
+            print(f"\n    ⚠️ Batch insert failed: {e}")
+            # Fallback to individual inserts
+            for row in batch:
+                try:
+                    placeholders = ','.join(['%s'] * len(columns))
+                    self.pg_cursor.execute(
+                        f'INSERT INTO "{table_name}" ({columns_str}) VALUES ({placeholders}) ON CONFLICT (id) DO NOTHING',
+                        row
+                    )
+                except Exception as insert_error:
+                    print(f"\n    ⚠️ Failed to insert row: {insert_error}")
+    
+    def run(self):
+        print("="*60)
+        print("🚀 FAST MIGRATION - OPTIMIZED FOR 500K+ ROWS")
+        print("="*60)
+        
+        if not self.connect():
+            return
+        
+        overall_start = time.time()
+        
+        try:
+            # First, show preview of all row counts
+            table_counts, total_rows = self.preview_all_counts()
+            
+            if total_rows == 0:
+                print("❌ No data to migrate")
+                return
+            
+            # Ask for confirmation
+            print(f"\n⚠️  This will migrate {total_rows:,} total rows to PostgreSQL")
+            confirm = input("\nContinue? (yes/no): ")
+            if confirm.lower() != 'yes':
+                print("Cancelled.")
+                return
+            
+            # Create tables if they don't exist
+            self.create_tables_if_not_exist()
+            
+            # Get list of tables to migrate (ordered by dependencies)
+            migration_order = ['languages', 'levels', 'testaments', 'users', 'books', 
+                              'chapters', 'verses', 'verse_texts', 'questions', 
+                              'question_texts', 'options', 'option_texts', 'explanations', 
+                              'user_sessions', 'quiz_attempts', 'quiz_answers', 
+                              'user_book_progress']
+            
+            # Filter to only tables that exist in SQLite
+            tables_to_migrate = [t for t in migration_order if t in table_counts]
+            
+            # Migrate sequentially (more stable for Render)
+            print("\n💾 Starting migration...")
+            results = []
+            
+            for table in tables_to_migrate:
+                print(f"\n  📁 {'='*50}")
+                result = self.migrate_table_batch(table)
+                results.append(result)
+            
+            # Summary
+            overall_time = time.time() - overall_start
+            total_migrated = sum(r['rows'] for r in results)
+            total_time_taken = sum(r['time'] for r in results if r['time'] > 0)
+            
+            print("\n" + "="*60)
+            print("📊 MIGRATION SUMMARY")
+            print("="*60)
+            print(f"✅ Total tables: {len(results)}")
+            print(f"✅ Total rows in PostgreSQL: {total_migrated:,}")
+            print(f"✅ Total time: {timedelta(seconds=int(overall_time))}")
+            
+            if total_time_taken > 0:
+                avg_speed = total_migrated / total_time_taken
+                print(f"✅ Average speed: {avg_speed:.0f} rows/sec")
+            
+            print("="*60)
+            
+            # Verify
+            self.verify_migration()
+            
+        except KeyboardInterrupt:
+            print("\n\n⚠️ Migration interrupted by user")
+            print("✅ Data already migrated is saved in PostgreSQL")
+            print("💡 Run the script again to continue where it stopped")
+        except Exception as e:
+            print(f"❌ Migration failed: {e}")
+            import traceback
+            traceback.print_exc()
+        finally:
+            self.close()
+    
+    def verify_migration(self):
+        """Verify that all data was migrated correctly"""
+        print("\n" + "="*60)
+        print("🔍 VERIFYING MIGRATION")
+        print("="*60)
+        
+        tables = self.get_tables()
+        all_match = True
+        
+        for table in tables:
+            sqlite_count = self.get_table_row_count(table)
+            
+            try:
+                self.pg_cursor.execute(f'SELECT COUNT(*) FROM "{table}"')
+                pg_count = self.pg_cursor.fetchone()[0]
+                
+                if sqlite_count == pg_count:
+                    print(f"  ✅ {table}: {pg_count:,} rows")
+                else:
+                    print(f"  ⚠️ {table}: SQLite={sqlite_count:,}, PostgreSQL={pg_count:,}")
+                    all_match = False
+            except Exception as e:
+                print(f"  ❌ {table}: Error - {e}")
+                all_match = False
+        
+        if all_match:
+            print("\n✅ ALL TABLES VERIFIED SUCCESSFULLY!")
+        else:
+            print("\n⚠️ Some tables have mismatched row counts")
+        
+        print("="*60)
 
 if __name__ == "__main__":
-    create_tables()
+    print("\n" + "="*60)
+    print("⚠️  WARNING: This will migrate ALL data to PostgreSQL")
+    print("="*60)
+    
+    migrator = FastDataMigrator()
+    migrator.run()
