@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import os
 from dotenv import load_dotenv
 import secrets
-import sysa
+import sys
 from pathlib import Path
 from flasgger import Swagger
 from flasgger.utils import swag_from
