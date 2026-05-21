@@ -860,58 +860,28 @@ def logout():
 @auth_bp.route('/refresh', methods=['POST'])
 @jwt_required()
 def refresh_token():
-    """Refresh access token
-    ---
-    tags:
-      - Authentication
-    summary: Refresh access token
-    description: Get a new access token using the current valid token
-    security:
-      - BearerAuth: []
-    responses:
-      200:
-        description: Token refreshed successfully
-        schema:
-          type: object
-          properties:
-            status:
-              type: string
-              example: success
-            access_token:
-              type: string
-              example: eyJhbGciOiJIUzI1NiIs...
-            token_type:
-              type: string
-              example: bearer
-            expires_at:
-              type: string
-              format: date-time
-      401:
-        description: Invalid or expired token
-    """
+    """Refresh access token"""
     try:
         user_id = get_jwt_identity()
         
-        # Get user info
-        import sqlite3
-        DB_PATH = Path(__file__).parent.parent / 'bible_quiz.db'
-        conn = sqlite3.connect(DB_PATH)
-        cursor = conn.cursor()
-        cursor.execute("SELECT username, is_admin FROM users WHERE id = ?", (user_id,))
-        user = cursor.fetchone()
-        conn.close()
+        # Use SQLAlchemy instead of SQLite
+        from app.database import get_db
+        from app.models import User
         
-        username = user[0] if user else 'user'
-        is_admin = bool(user[1]) if user else False
+        db = next(get_db())
+        user = db.query(User).filter(User.id == user_id).first()
         
-        # Create new token with string identity
+        username = user.username if user else 'user'
+        is_admin = user.is_admin if user else False
+        
+        # Create new token
         access_token = create_access_token(
-            identity=str(user_id),  # Convert to string
+            identity=str(user_id),
             expires_delta=timedelta(days=30),
-          additional_claims={
-            'username': username,
-            'is_admin': is_admin
-          }
+            additional_claims={
+                'username': username,
+                'is_admin': is_admin
+            }
         )
         
         return jsonify({
@@ -925,7 +895,6 @@ def refresh_token():
             'status': 'error',
             'message': str(e)
         }), 401
-
 
 @auth_bp.route('/change-password', methods=['POST'])
 @jwt_required()
